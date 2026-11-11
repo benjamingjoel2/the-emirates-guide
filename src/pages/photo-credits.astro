@@ -1,0 +1,14 @@
+---
+import Page from '../layouts/Page.astro';
+import { allCredits } from '../lib/photos';
+const credits = allCredits();
+---
+<Page title="Photo credits" path="/photo-credits/" description="Credits and licences for every photograph used on The Emirates Guide.">
+  <p>The photographs on this site come from Wikimedia Commons and are used under the licences shown. Each one is credited where it appears. Photos may be cropped or resized; no other changes are made. Follow the links for the original file and full licence terms.</p>
+  <ol>
+    {credits.map(([key, c]) => (
+      <li id={key}><a href={c.source}>{c.file.replace(/^File:/, '').replace(/\.(jpe?g|png)$/i, '')}</a> by {c.author}. Licence: {c.licenseUrl ? <a href={c.licenseUrl}>{c.license}</a> : c.license}.</li>
+    ))}
+  </ol>
+  <p>If you are the creator of one of these photos and something is wrong with the credit, email us and we will fix it.</p>
+</Page>

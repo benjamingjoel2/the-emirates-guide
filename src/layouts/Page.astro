@@ -1,0 +1,39 @@
+---
+import Base from './Base.astro';
+import Crumbs from '../components/Crumbs.astro';
+import { SITE } from '../data/site';
+import { formatDate } from '../lib/posts';
+
+interface Props { title: string; description: string; path: string; section?: string; sources?: { title: string; url: string }[]; type?: string }
+const { title, description, path, section = 'About this site', sources = [], type = 'WebPage' } = Astro.props;
+const reviewed = new Date(SITE.launched);
+const page = {
+  '@type': type, '@id': `${SITE.url}${path}#page`, name: title, description, url: `${SITE.url}${path}`,
+  isPartOf: { '@id': `${SITE.url}/#website` }, publisher: { '@id': `${SITE.url}/#publisher` },
+  datePublished: SITE.launched, dateModified: SITE.launched, inLanguage: 'en-GB',
+};
+const host = (u: string) => new URL(u).hostname.replace(/^www\./, '');
+---
+<Base title={title} description={description} crumbs={[{ name: title, path }]} schema={[page]}>
+  <div class="wrap page">
+    <Crumbs items={[{ name: title }]} />
+    <div class="prose" style="margin-left:0">
+      <p style="font-size:0.95rem;color:var(--ink-soft);margin:24px 0 0">{section}</p>
+      <h1>{title}</h1>
+      <p class="page-meta">Published {formatDate(reviewed)} · Last reviewed {formatDate(reviewed)} · Edited by The Emirates Guide editors, Tourground</p>
+      <slot />
+      <h2>Contact</h2>
+      <dl class="facts">
+        <dt>Publisher</dt><dd><a href={SITE.publisher.url}>Tourground</a></dd>
+        <dt>Email</dt><dd><a href={`mailto:${SITE.email}`}>{SITE.email}</a></dd>
+        <dt>Postal address</dt><dd>Our postal address is being confirmed. Until it is published here, please write to us by email.</dd>
+      </dl>
+      {sources.length > 0 && (
+        <section class="sources" style="margin-left:0" aria-labelledby="src-h">
+          <h2 id="src-h">Sources</h2>
+          <ol>{sources.map((s) => <li><a href={s.url}>{s.title}</a><span class="host">{host(s.url)}</span></li>)}</ol>
+        </section>
+      )}
+    </div>
+  </div>
+</Base>

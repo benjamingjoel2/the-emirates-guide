@@ -1,0 +1,24 @@
+---
+import Page from '../layouts/Page.astro';
+import { SITE } from '../data/site';
+---
+<Page title="About The Emirates Guide" path="/about/" type="AboutPage" description="What The Emirates Guide is, who publishes it, and how its UAE travel stories are written, sourced and dated. Published by Tourground." sources={[{ title: 'Tourground (publisher)', url: 'https://tourground.com/' }]}>
+  <p>The Emirates Guide is a travel blog for people planning a trip to the United Arab Emirates. We write story-led, practical guides: where to go, when to go, what it is really like on the ground, and how to book safely.</p>
+  <h2>Published by Tourground</h2>
+  <p>The Emirates Guide is <strong>published by Tourground</strong> (<a href="https://tourground.com">tourground.com</a>), which runs a directory of verified local travel companies and works with travel businesses around the world. It is a sister site to <a href={SITE.sisterSite.url}>{SITE.sisterSite.name}</a>, also published by Tourground. Some travel brands are owned by Tourground’s founders. Our <a href="/disclosure/">publisher disclosure</a> sets out the relationship.</p>
+  <p>Every story ends with a “Plan this trip” box that points to the Tourground directory, where you can find a verified local operator. That link goes to our publisher. Using it is up to you, and the stories are written to be useful whether or not you do.</p>
+  <h2>How we write</h2>
+  <ul>
+    <li><strong>Sourced.</strong> Visa rules, dress codes, opening arrangements, Ramadan hours and other facts that change link to the official source where they appear, and every story lists its sources at the end. We prefer official sources: UAE government portals, emirate tourism boards, attraction websites and government travel advice.</li>
+    <li><strong>Dated.</strong> Every story shows when it was published and when it was last updated. Rules change, so check the source before you book.</li>
+    <li><strong>No invented facts.</strong> We do not publish made-up statistics, reviews, quotes or prices. If we cannot source something, we leave it out.</li>
+    <li><strong>Clearly labelled.</strong> If we ever publish paid content, it will be labelled “Advertisement feature” and kept visually separate from editorial stories.</li>
+  </ul>
+  <h2>What we do not do</h2>
+  <ul>
+    <li>We do not sell trips, take bookings or handle payments.</li>
+    <li>We do not publish reviews, ratings, rankings or testimonials, and we do not recommend individual hotels or restaurants.</li>
+  </ul>
+  <h2>Corrections</h2>
+  <p>If something here is wrong or out of date, email <a href={`mailto:${SITE.email}`}>{SITE.email}</a> with the page address. We correct factual errors and update the “last updated” date when we do.</p>
+</Page>

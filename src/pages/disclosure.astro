@@ -1,0 +1,15 @@
+---
+import Page from '../layouts/Page.astro';
+---
+<Page title="Publisher disclosure" path="/disclosure/" description="Who publishes The Emirates Guide, how Tourground makes money, how the 'Plan this trip' links work and how paid content is labelled." sources={[{ title: 'Tourground (publisher)', url: 'https://tourground.com/' }, { title: 'Google Search Central: Qualify your outbound links', url: 'https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links' }]}>
+  <h2>Publisher</h2>
+  <p>The Emirates Guide is published by Tourground. Tourground works with travel companies and earns money from paid plans sold to them. Some travel brands are owned by Tourground’s founders.</p>
+  <h2>The “Plan this trip” box</h2>
+  <p>Every story ends with a “Plan this trip” box linking to the Tourground directory of verified local operators. This is a link to our publisher’s own service. We do not receive a commission on bookings, and no operator pays to be mentioned in a story.</p>
+  <h2>Editorial independence</h2>
+  <p>Stories are written to be useful to travellers. No company pays to be mentioned in a story, and we do not name individual hotels, restaurants or tour companies in editorial content.</p>
+  <h2 id="advertising">Advertising and paid content</h2>
+  <p>If we publish paid content, it is labelled <strong>“Advertisement feature”</strong> on the story, on every card that links to it and in its structured data, and it is shown on a different background colour from editorial stories. Links in paid content are marked <code>rel="sponsored"</code>.</p>
+  <h2>Links to sources</h2>
+  <p>Links to official sources are citations. We link them so you can check the facts yourself.</p>
+</Page>

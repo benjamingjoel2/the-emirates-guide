@@ -1,0 +1,126 @@
+---
+import { Image, getImage } from 'astro:assets';
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import PostTags from '../../components/PostTags.astro';
+import PostCard from '../../components/PostCard.astro';
+import PhotoCredit from '../../components/PhotoCredit.astro';
+import { AUTHORS, SITE, categoryByKey } from '../../data/site';
+import { allPosts, formatDate, isoDate, postUrl, readingMinutes, related, type Post } from '../../lib/posts';
+import { photo } from '../../lib/photos';
+import { ORG_ID, SITE_ID } from '../../lib/schema';
+
+export async function getStaticPaths() {
+  const posts = await allPosts();
+  return posts.map((post) => ({ params: { slug: post.id }, props: { post, posts } }));
+}
+const { post, posts } = Astro.props as { post: Post; posts: Post[] };
+const { Content } = await render(post);
+const d = post.data;
+const cat = categoryByKey(d.category);
+const author = AUTHORS[d.author];
+const hero = photo(d.hero);
+const og = await getImage({ src: hero.src, width: 1200, height: 630, fit: 'cover', format: 'jpg' });
+const url = `${SITE.url}${postUrl(post)}`;
+const mins = readingMinutes(post);
+const rel = related(post, posts);
+const hosts = (u: string) => new URL(u).hostname.replace(/^www\./, '');
+
+const blogPosting = {
+  '@type': 'BlogPosting',
+  '@id': `${url}#article`,
+  headline: d.title,
+  description: d.description,
+  url,
+  mainEntityOfPage: url,
+  image: { '@type': 'ImageObject', url: new URL(og.src, SITE.url).href, width: 1200, height: 630 },
+  datePublished: isoDate(d.published),
+  dateModified: isoDate(d.updated),
+  inLanguage: 'en-GB',
+  articleSection: cat.name,
+  wordCount: (post.body ?? '').split(/\s+/).filter(Boolean).length,
+  author: { '@type': 'Organization', name: author.name, url: `${SITE.url}/authors/#${author.key}` },
+  publisher: { '@id': ORG_ID },
+  isPartOf: { '@id': SITE_ID },
+  ...(d.sources.length ? { citation: d.sources.map((s) => s.url) } : {}),
+  ...(d.advertisement ? { sponsor: { '@type': 'Organization', name: d.advertiser ?? 'Advertiser' } } : {}),
+};
+---
+<Base
+  title={d.title}
+  description={d.description}
+  ogType="article"
+  ogImage={og.src}
+  current={d.category}
+  crumbs={[{ name: cat.name, path: `/${cat.key}/` }, { name: d.title, path: postUrl(post) }]}
+  schema={[blogPosting]}
+>
+  <Fragment slot="head">
+    <meta property="article:published_time" content={isoDate(d.published)} />
+    <meta property="article:modified_time" content={isoDate(d.updated)} />
+    <meta property="article:section" content={cat.name} />
+  </Fragment>
+  <article>
+    <div class="wrap">
+      <Crumbs items={[{ name: cat.name, path: `/${cat.key}/` }, { name: d.title }]} />
+      <header class="post-header">
+        <div class="post-head-inner">
+          {d.advertisement && <p><span class="adlabel">Advertisement feature</span>{d.advertiser && <span> · Paid for by {d.advertiser}</span>}</p>}
+          <PostTags post={post} max={4} />
+          <h1 class="post-title">{d.title}</h1>
+          <p class="post-dek">{d.description}</p>
+          <div class="post-meta">
+            <span>By <a href={`/authors/#${author.key}`}><strong>{author.name}</strong></a></span>
+            <span>Published <time datetime={isoDate(d.published)}>{formatDate(d.published)}</time></span>
+            <span>{mins} min read</span>
+          </div>
+        </div>
+        <figure class="post-figure">
+          <Image src={hero.src} alt={d.heroAlt} widths={[480, 800, 1100, 1600]} sizes="(min-width: 1164px) 1100px, calc(100vw - 32px)" loading="eager" fetchpriority="high" format="webp" />
+          <figcaption class="post-hero-credit"><PhotoCredit credit={hero.credit} /></figcaption>
+        </figure>
+      </header>
+      <p class="factcheck post-head-inner">
+        <strong>Last updated <time datetime={isoDate(d.updated)}>{formatDate(d.updated)}</time>.</strong>
+        Visa rules, opening arrangements and other facts in this story link to their official source. They can change, so check them before you travel.
+      </p>
+      <div class="prose">
+        <Content />
+      </div>
+
+      <aside class="plan" aria-labelledby="plan-title">
+        <h2 id="plan-title">Plan this trip</h2>
+        <p>{d.plan}</p>
+        <a class="btn light" href={SITE.directoryUrl}>Find a verified UAE operator on Tourground</a>
+        <p class="small">Tourground is the publisher of The Emirates Guide. The link goes to its directory of verified local travel companies. See our <a href="/disclosure/">publisher disclosure</a>.</p>
+      </aside>
+
+      {d.sources.length > 0 && (
+        <section class="sources" aria-labelledby="sources-title">
+          <h2 id="sources-title">Sources</h2>
+          <p>Checked on {formatDate(d.updated)}. Rules and arrangements change: check the source before you book.</p>
+          <ol>
+            {d.sources.map((s) => (
+              <li><a href={s.url}>{s.title}</a><span class="host">{hosts(s.url)}</span></li>
+            ))}
+          </ol>
+        </section>
+      )}
+
+      <div class="byline-box">
+        <p><strong>{author.name}</strong>, {author.role}. {author.bio}</p>
+        <p>Spotted something out of date? Email <a href={`mailto:${SITE.email}?subject=${encodeURIComponent('Correction: ' + d.title)}`}>{SITE.email}</a>.</p>
+      </div>
+    </div>
+  </article>
+
+  <section class="section band" aria-labelledby="related-title">
+    <div class="wrap">
+      <div class="section-head"><h2 id="related-title">Related stories</h2><a href={`/${cat.key}/`}>More in {cat.name}</a></div>
+      <ul class="grid three">
+        {rel.map((r) => <li><PostCard post={r} /></li>)}
+      </ul>
+    </div>
+  </section>
+</Base>

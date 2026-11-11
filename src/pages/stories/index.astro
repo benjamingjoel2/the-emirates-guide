@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import PostCard from '../../components/PostCard.astro';
+import { CATEGORIES, SITE } from '../../data/site';
+import { allPosts, postUrl } from '../../lib/posts';
+const posts = await allPosts();
+const page = {
+  '@type': 'CollectionPage', '@id': `${SITE.url}/stories/#page`, name: 'All stories', url: `${SITE.url}/stories/`,
+  isPartOf: { '@id': `${SITE.url}/#website` },
+  mainEntity: { '@type': 'ItemList', itemListElement: posts.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: `${SITE.url}${postUrl(p)}`, name: p.data.title })) },
+};
+---
+<Base title="All stories" description="Every story on The Emirates Guide: destinations, itineraries, desert trips, food and culture, where to stay and travel tips for the UAE." crumbs={[{ name: 'All stories', path: '/stories/' }]} schema={[page]}>
+  <div class="wrap">
+    <Crumbs items={[{ name: 'All stories' }]} />
+    <header class="page-intro">
+      <h1>All stories</h1>
+      <p>Everything we have published, newest first.</p>
+    </header>
+    <ul class="chips-nav" aria-label="Categories" style="margin:12px 0 0">
+      {CATEGORIES.map((c) => <li><a href={`/${c.key}/`}>{c.name}</a></li>)}
+    </ul>
+    <section class="section" aria-label="Stories">
+      <ul class="grid three">{posts.map((p) => <li><PostCard post={p} excerpt headingLevel={2} /></li>)}</ul>
+    </section>
+  </div>
+</Base>

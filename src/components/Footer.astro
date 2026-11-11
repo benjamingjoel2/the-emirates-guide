@@ -1,0 +1,46 @@
+---
+import { CATEGORIES, EMIRATES, SITE } from '../data/site';
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <p class="publisher">The Emirates Guide</p>
+        <p>Story-led, practical travel guides to the United Arab Emirates, written for people planning a trip.</p>
+        <p><strong>Published by <a href={SITE.publisher.url}>Tourground</a>.</strong></p>
+        <p><a href={`mailto:${SITE.email}`}>{SITE.email}</a></p>
+      </div>
+      <nav aria-labelledby="f-stories">
+        <h2 id="f-stories">Stories</h2>
+        <ul>
+          {CATEGORIES.map((c) => <li><a href={`/${c.key}/`}>{c.name}</a></li>)}
+          <li><a href="/stories/">All stories</a></li>
+        </ul>
+      </nav>
+      <nav aria-labelledby="f-emirates">
+        <h2 id="f-emirates">Emirates</h2>
+        <ul>
+          {EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}
+        </ul>
+      </nav>
+      <nav aria-labelledby="f-about">
+        <h2 id="f-about">About</h2>
+        <ul>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/authors/">Authors</a></li>
+          <li><a href="/disclosure/">Publisher disclosure</a></li>
+          <li><a href="/photo-credits/">Photo credits</a></li>
+          <li><a href="/privacy/">Privacy</a></li>
+          <li><a href="/cookies/">Cookies</a></li>
+          <li><a href="/terms/">Terms</a></li>
+          <li><a href="/rss.xml">RSS feed</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="legal">
+      <span>© {year} Tourground. Published by Tourground.</span>
+      <span>theemiratesguide.tourground.com</span>
+    </div>
+  </div>
+</footer>

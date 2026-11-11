@@ -1,0 +1,48 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import PostCard from '../../components/PostCard.astro';
+import Newsletter from '../../components/Newsletter.astro';
+import { CATEGORIES, EMIRATES, SITE } from '../../data/site';
+import { allPosts, postUrl, type Post } from '../../lib/posts';
+
+export async function getStaticPaths() {
+  const posts = await allPosts();
+  return CATEGORIES.map((c) => ({ params: { category: c.key }, props: { cat: c, posts: posts.filter((p) => p.data.category === c.key) } }));
+}
+const { cat, posts } = Astro.props as { cat: (typeof CATEGORIES)[number]; posts: Post[] };
+const itemList = {
+  '@type': 'CollectionPage',
+  '@id': `${SITE.url}/${cat.key}/#page`,
+  name: cat.name,
+  description: cat.blurb,
+  url: `${SITE.url}/${cat.key}/`,
+  isPartOf: { '@id': `${SITE.url}/#website` },
+  mainEntity: { '@type': 'ItemList', itemListElement: posts.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: `${SITE.url}${postUrl(p)}`, name: p.data.title })) },
+};
+---
+<Base title={cat.name} description={`${cat.blurb} From The Emirates Guide, published by Tourground.`} crumbs={[{ name: cat.name, path: `/${cat.key}/` }]} schema={[itemList]} current={cat.key}>
+  <div class="wrap">
+    <Crumbs items={[{ name: cat.name }]} />
+    <header class="page-intro">
+      <h1>{cat.name}</h1>
+      <p>{cat.blurb}</p>
+    </header>
+    {cat.key === 'destinations' && (
+      <section aria-labelledby="by-emirate" style="margin:24px 0 8px">
+        <h2 id="by-emirate" style="font-size:1.35rem;margin-bottom:14px">By emirate</h2>
+        <ul class="chips-nav">
+          {EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}
+        </ul>
+      </section>
+    )}
+    <section class="section" aria-label={`${cat.name} stories`}>
+      {posts.length ? (
+        <ul class="grid three">{posts.map((p) => <li><PostCard post={p} excerpt headingLevel={2} /></li>)}</ul>
+      ) : (
+        <p>New stories in this section are on the way. In the meantime, browse <a href="/stories/">all stories</a>.</p>
+      )}
+    </section>
+  </div>
+  <Newsletter />
+</Base>

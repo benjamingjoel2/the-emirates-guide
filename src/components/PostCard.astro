@@ -1,0 +1,19 @@
+---
+import { Image } from 'astro:assets';
+import PostTags from './PostTags.astro';
+import { photo } from '../lib/photos';
+import { formatDate, isoDate, postUrl, type Post } from '../lib/posts';
+const { post, headingLevel = 3, excerpt = false } = Astro.props as { post: Post; headingLevel?: 2 | 3; excerpt?: boolean };
+const p = photo(post.data.hero);
+const H = `h${headingLevel}` as 'h2' | 'h3';
+---
+<article class:list={['card', { 'ad-card': post.data.advertisement }]}>
+  <div class="thumb">
+    <Image src={p.src} alt="" widths={[400, 640, 900]} sizes="(min-width: 1024px) 400px, (min-width: 640px) 50vw, 100vw" loading="lazy" decoding="async" format="webp" />
+  </div>
+  {post.data.advertisement && <p><span class="adlabel">Advertisement feature</span></p>}
+  <time datetime={isoDate(post.data.published)}>{formatDate(post.data.published)}</time>
+  <H><a href={postUrl(post)}>{post.data.title}</a></H>
+  {excerpt && <p class="excerpt">{post.data.description}</p>}
+  <PostTags post={post} />
+</article>

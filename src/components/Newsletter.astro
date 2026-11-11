@@ -1,0 +1,34 @@
+---
+import { SITE } from '../data/site';
+const id = 'nl-email';
+---
+<section class="band newsletter" aria-labelledby="nl-title">
+  <h2 id="nl-title">The Emirates Guide newsletter</h2>
+  <p>New stories and updates when rules change, sent occasionally. No spam, and you can unsubscribe at any time.</p>
+  <form id="nl-form" action={`mailto:${SITE.email}`} method="post" enctype="text/plain" novalidate>
+    <label for={id}>Email address</label>
+    <input id={id} name="email" type="email" autocomplete="email" required inputmode="email" aria-describedby="nl-status nl-note" />
+    <button class="btn" type="submit">Sign up</button>
+    <p id="nl-status" class="form-status" role="status" aria-live="polite"></p>
+  </form>
+  <p id="nl-note" class="small">Signing up opens an email to {SITE.email} with your address, which you then send. See our <a href="/privacy/">privacy policy</a>.</p>
+</section>
+<script>
+  const form = document.getElementById('nl-form') as HTMLFormElement | null;
+  form?.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const input = form.querySelector('input') as HTMLInputElement;
+    const status = document.getElementById('nl-status')!;
+    if (!input.value || !input.checkValidity()) {
+      status.textContent = 'Please enter a valid email address.';
+      input.setAttribute('aria-invalid', 'true');
+      input.focus();
+      return;
+    }
+    input.removeAttribute('aria-invalid');
+    const to = form.action.replace('mailto:', '');
+    const body = encodeURIComponent(`Please add ${input.value} to The Emirates Guide newsletter.`);
+    window.location.href = `mailto:${to}?subject=${encodeURIComponent('Newsletter sign-up')}&body=${body}`;
+    status.textContent = 'Your email app should open with the sign-up message ready to send.';
+  });
+</script>

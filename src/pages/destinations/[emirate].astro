@@ -1,0 +1,50 @@
+---
+import { Image } from 'astro:assets';
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import PostCard from '../../components/PostCard.astro';
+import PhotoCredit from '../../components/PhotoCredit.astro';
+import { EMIRATES, EMIRATES_SOURCE, SITE } from '../../data/site';
+import { allPosts, postUrl, type Post } from '../../lib/posts';
+import { photo } from '../../lib/photos';
+
+export async function getStaticPaths() {
+  const posts = await allPosts();
+  return EMIRATES.map((e) => ({ params: { emirate: e.key }, props: { em: e, posts: posts.filter((p) => p.data.emirates.includes(e.key)) } }));
+}
+const { em, posts } = Astro.props as { em: (typeof EMIRATES)[number]; posts: Post[] };
+const ph = photo(em.photo);
+const others = EMIRATES.filter((e) => e.key !== em.key);
+const place = {
+  '@type': 'CollectionPage', '@id': `${SITE.url}/destinations/${em.key}/#page`, name: `${em.name} travel guide`, url: `${SITE.url}/destinations/${em.key}/`,
+  isPartOf: { '@id': `${SITE.url}/#website` },
+  about: { '@type': 'AdministrativeArea', name: em.name, containedInPlace: { '@type': 'Country', name: 'United Arab Emirates' } },
+  mainEntity: { '@type': 'ItemList', itemListElement: posts.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: `${SITE.url}${postUrl(p)}`, name: p.data.title })) },
+};
+---
+<Base title={`${em.name} travel guide`} description={`${em.name}: what the emirate is like, who it suits, and our stories on visiting it. ${em.intro.split('. ')[0]}.`} crumbs={[{ name: 'Destinations', path: '/destinations/' }, { name: em.name, path: `/destinations/${em.key}/` }]} schema={[place]} current="destinations">
+  <div class="wrap">
+    <Crumbs items={[{ name: 'Destinations', path: '/destinations/' }, { name: em.name }]} />
+    <header class="page-intro">
+      <h1>{em.name}</h1>
+      <p>{em.intro}</p>
+      <p style="font-size:0.95rem">Source: <a href={EMIRATES_SOURCE.url}>{EMIRATES_SOURCE.title}</a>.{em.official && <> Official tourism site: <a href={em.official.url}>{em.official.name}</a>.</>}</p>
+    </header>
+    <figure class="post-figure" style="margin-left:0;margin-right:0">
+      <Image src={ph.src} alt={em.photoAlt} widths={[480, 800, 1100, 1600]} sizes="(min-width: 1164px) 1100px, calc(100vw - 32px)" loading="eager" format="webp" />
+      <figcaption class="post-hero-credit"><PhotoCredit credit={ph.credit} /></figcaption>
+    </figure>
+    <section class="section" aria-labelledby="em-stories">
+      <div class="section-head"><h2 id="em-stories">Stories about {em.name}</h2></div>
+      {posts.length ? (
+        <ul class="grid three">{posts.map((p) => <li><PostCard post={p} excerpt /></li>)}</ul>
+      ) : (
+        <p>We have no stories focused on {em.name} yet. Start with <a href="/stories/uae-first-timers-guide-seven-emirates/">the first-timer's guide to all seven emirates</a>.</p>
+      )}
+    </section>
+    <section class="section" aria-labelledby="em-others">
+      <h2 id="em-others" style="font-size:1.35rem;margin-bottom:14px">The other emirates</h2>
+      <ul class="chips-nav">{others.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}</ul>
+    </section>
+  </div>
+</Base>

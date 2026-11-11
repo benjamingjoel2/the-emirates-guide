@@ -1,0 +1,14 @@
+---
+import { categoryByKey, emirateByKey } from '../data/site';
+import type { Post } from '../lib/posts';
+const { post, light = false, max = 3 } = Astro.props as { post: Post; light?: boolean; max?: number };
+const c = categoryByKey(post.data.category);
+const tags = [
+  ...(post.data.advertisement ? [{ name: 'Advertisement feature', href: '/disclosure/#advertising', ad: true }] : []),
+  { name: c.name, href: `/${c.key}/`, ad: false },
+  ...post.data.emirates.map((k) => ({ name: emirateByKey(k).name, href: `/destinations/${k}/`, ad: false })),
+].slice(0, max + (post.data.advertisement ? 1 : 0));
+---
+<ul class="pills" aria-label="Topics">
+  {tags.map((t) => <li><a class:list={['pill', { light: light && !t.ad, ad: t.ad }]} href={t.href}>{t.name}</a></li>)}
+</ul>

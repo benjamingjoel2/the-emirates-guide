@@ -1,0 +1,18 @@
+---
+import Page from '../layouts/Page.astro';
+import { AUTHORS } from '../data/site';
+import { allPosts, postUrl } from '../lib/posts';
+const posts = await allPosts();
+---
+<Page title="Authors" path="/authors/" type="ProfilePage" description="Who writes and edits The Emirates Guide, and how stories are checked before they are published.">
+  <p>Stories on The Emirates Guide are written and edited by Tourground’s editorial desk. When individual writers contribute, their name and a short biography will appear here and on their stories.</p>
+  {Object.values(AUTHORS).map((a) => (
+    <section id={a.key}>
+      <h2>{a.name}</h2>
+      <p><em>{a.role}</em></p>
+      <p>{a.bio}</p>
+      <h3>Stories</h3>
+      <ul>{posts.filter((p) => p.data.author === a.key).map((p) => <li><a href={postUrl(p)}>{p.data.title}</a></li>)}</ul>
+    </section>
+  ))}
+</Page>

@@ -17,12 +17,12 @@ sources:
     url: "https://www.ddcr.org/about/"
   - title: "Visit Abu Dhabi: Al Dhafra"
     url: "https://www.visitabudhabi.ae/en/where-to-go/regions/al-dhafra"
+  - title: "UAE Government Portal (u.ae): Nature and ecosystems"
+    url: "https://u.ae/en/information-and-services/environment-and-energy/Nature-and-wildlife/topography-and-ecosystems"
   - title: "Visit Dubai: Nature adventures in Hatta"
     url: "https://www.visitdubai.com/en/beyond-dubai/nature-adventures-in-hatta"
   - title: "UK FCDO: United Arab Emirates travel advice, safety and security"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
-  - title: "UAE Government Portal (u.ae): Nature and ecosystems"
-    url: "https://u.ae/en/information-and-services/environment-and-energy/Nature-and-wildlife/topography-and-ecosystems"
   - title: "National Centre of Meteorology: Home"
     url: "https://www.ncm.gov.ae/"
   - title: "UAE Government Portal (u.ae): Handling emergencies"
@@ -61,7 +61,7 @@ The UAE government describes desert as the dominant landscape, stretching from t
 
 If rock appeals more than sand, Hatta in Dubai's mountains is the alternative. Visit Dubai lists [camping alongside hiking, kayaking and mountain biking](https://www.visitdubai.com/en/beyond-dubai/nature-adventures-in-hatta) there. It is a different kind of night, with cooler air, rocky ridges and a lake nearby. See our [Hatta guide](/stories/hatta-guide/).
 
-## Independent camping: be realistic
+## Desert camping on your own: be realistic
 
 Some residents camp independently in the desert, but it is a different undertaking from joining an organised trip. You need a properly equipped 4x4, experience of driving on sand, recovery gear, and an up-to-date understanding of local rules, which are set at emirate level. Check with the relevant municipality or environment authority before planning a self-drive camp.
 

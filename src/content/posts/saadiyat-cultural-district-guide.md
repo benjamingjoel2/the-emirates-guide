@@ -65,7 +65,7 @@ A community art centre rather than a museum, with exhibitions, talks and worksho
 
 The museums are only half of the island's appeal. Visit Abu Dhabi highlights Saadiyat's [white-sand beaches](https://visitabudhabi.ae/en/where-to-go/islands/saadiyat-island), and notes that the island is one of the few places in the region where hawksbill turtles nest in the wild. If you see fenced or signed areas on the sand, give them space.
 
-For an easy end to a museum day, head to Mamsha Al Saadiyat, a [beachfront promenade lined with places to eat](https://visitabudhabi.ae/en/where-to-go/marinas-waterfronts/mamsha-al-saadiyat), close to Louvre Abu Dhabi. Visit Abu Dhabi says the district's museums are within walking distance of it. Pack swimwear for the beach, then change before you head back into the museums; our guide to [what to wear in the UAE](/stories/what-to-wear-uae-etiquette/) explains where beachwear is and is not appropriate.
+For an easy end to a museum day, head to Mamsha Al Saadiyat, a [beachfront promenade lined with places to eat](https://visitabudhabi.ae/en/where-to-go/marinas-waterfronts/mamsha-al-saadiyat), close to Louvre Abu Dhabi. Pack swimwear for the beach, then change before you head back into the museums; our guide to [what to wear in the UAE](/stories/what-to-wear-uae-etiquette/) explains where beachwear is and is not appropriate.
 
 ## How to spend a day in the Saadiyat Cultural District
 

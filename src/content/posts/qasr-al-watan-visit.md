@@ -45,7 +45,7 @@ This is the space most people come for: a vast domed hall where the scale and th
 
 ### Presidential gifts and the library
 
-The gifts exhibition shows diplomatic presents given to the UAE's leaders, a reminder that this is a place where state business happens. Visit Abu Dhabi points to the [Qasr Al Watan Library and the House of Knowledge](https://visitabudhabi.ae/en/things-to-do/culture/landmarks-and-architecture/qasr-al-watan), where visitors can explore books, manuscripts and other resources about the UAE. Even if you are not a researcher, the library rooms are a calm place to slow down.
+The Presidential Gifts zone is a reminder that this is a working palace where state business happens. Visit Abu Dhabi points to the [Qasr Al Watan Library and the House of Knowledge](https://visitabudhabi.ae/en/things-to-do/culture/landmarks-and-architecture/qasr-al-watan), where visitors can explore books, manuscripts and other resources about the UAE. Even if you are not a researcher, the library rooms are a calm place to slow down.
 
 ## Palace in Motion: the evening light show
 

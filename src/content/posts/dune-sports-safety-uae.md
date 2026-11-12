@@ -1,6 +1,6 @@
 ---
 title: "Sandboarding, quad bikes and dune buggies: staying safe"
-description: "Dune sports safety in the UAE: how sandboarding, quad biking and dune buggy tours work, the gear to insist on, heat and insurance checks, and who should sit out."
+description: "Dune sports safety in the UAE: how sandboarding, quad biking and dune buggy tours work, the gear to insist on, heat and insurance checks, and who sits out."
 category: "desert-adventure"
 emirates: ["dubai"]
 published: 2026-11-12
@@ -17,14 +17,14 @@ sources:
     url: "https://www.ddcr.org/what-to-do/"
   - title: "Dubai Desert Conservation Reserve: About DDCR"
     url: "https://www.ddcr.org/about/"
-  - title: "UK FCDO: United Arab Emirates travel advice, health"
-    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health"
-  - title: "NHS: Heat exhaustion and heatstroke"
-    url: "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/"
-  - title: "UAE Government Portal (u.ae): Handling emergencies"
-    url: "https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/handling-emergencies"
   - title: "Visit Abu Dhabi: Al Dhafra"
     url: "https://www.visitabudhabi.ae/en/where-to-go/regions/al-dhafra"
+  - title: "NHS: Heat exhaustion and heatstroke"
+    url: "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/"
+  - title: "UK FCDO: United Arab Emirates travel advice, health"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health"
+  - title: "UAE Government Portal (u.ae): Handling emergencies"
+    url: "https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/handling-emergencies"
 ---
 
 The quad bike crests the dune and, for half a second, there is nothing in front of you but sky. Then the nose tips down, the sand rushes up, and you discover exactly how steep the other side is. Whether that moment ends in a whoop or a tumble depends almost entirely on decisions made before you set off.
@@ -102,7 +102,7 @@ Operators set their own rules on ages, engine sizes and whether children ride al
 
 ### Insurance
 
-Many travel insurance policies treat quad biking and similar activities as adventure sports with exclusions, extra conditions or a need for a helmet. Read your policy before you ride, not after. Our guide to [travel insurance for the UAE](/stories/uae-travel-insurance-guide/) covers what to check.
+Some travel insurance policies treat quad biking and similar activities as adventure sports, with exclusions or extra conditions. Read your policy before you ride, not after. Our guide to [travel insurance for the UAE](/stories/uae-travel-insurance-guide/) covers what to check.
 
 ## If something goes wrong
 

@@ -17,10 +17,10 @@ sources:
     url: "https://www.ddcr.org/about/"
   - title: "Dubai Desert Conservation Reserve: Things to do"
     url: "https://www.ddcr.org/what-to-do/"
-  - title: "UK FCDO: United Arab Emirates travel advice, safety and security"
-    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "NHS: Heat exhaustion and heatstroke"
     url: "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/"
+  - title: "UK FCDO: United Arab Emirates travel advice, safety and security"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
 ---
 
 The vehicle stops, the guide raises a hand, and everyone falls silent. A short way off, a white shape lifts its head from a shrub: an Arabian oryx, horns like two straight lances, watching you watch it. Then another appears behind it, and another.

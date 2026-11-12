@@ -71,7 +71,7 @@ The sea is at its warmest after the summer, which makes autumn swimming a pleasu
 
 Autumn is when the UAE's calendar starts filling up again. Visit Abu Dhabi says most major concerts in the capital take place [between October and April](https://www.visitabudhabi.ae/en/events), and most major sports events between October and March. Its events listing shows Frieze Abu Dhabi from 19 to 22 November and the Formula 1 Abu Dhabi Grand Prix from 3 to 6 December, both of which bring crowds and higher demand for rooms.
 
-In Dubai, the Visit Dubai events calendar lists the [Dubai Fitness Challenge](https://www.visitdubai.com/en/whats-on/dubai-events-calendar/dubai-fitness-challenge) from 31 October to 29 November 2026, inviting everyone to get active for 30 minutes a day for 30 days. Expect organised runs, rides and outdoor workouts around the city, which can be a fun way to join in with residents.
+In Dubai, the Visit Dubai events calendar lists the [Dubai Fitness Challenge](https://www.visitdubai.com/en/whats-on/dubai-events-calendar/dubai-fitness-challenge) from 31 October to 29 November 2026, inviting everyone to get active for 30 minutes a day for 30 days. Check the programme for your dates if you would like to join residents in an organised activity.
 
 If your trip runs into early December, the UAE government lists [National Day on 2 and 3 December](https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays) as public holidays. Our guide to [December in the UAE](/stories/uae-in-december/) picks up from there.
 

@@ -11,18 +11,18 @@ featured: false
 startHere: false
 plan: "A verified local operator can check which balloon flights launch over protected desert, explain pickup times and weather policies for your dates, and advise whether a flight suits anyone in your group with health or mobility concerns."
 sources:
-  - title: "Dubai Desert Conservation Reserve: Things to do"
-    url: "https://www.ddcr.org/what-to-do/"
   - title: "Dubai Desert Conservation Reserve: Home"
     url: "https://www.ddcr.org/"
+  - title: "Dubai Desert Conservation Reserve: Things to do"
+    url: "https://www.ddcr.org/what-to-do/"
   - title: "Dubai Desert Conservation Reserve: About DDCR"
     url: "https://www.ddcr.org/about/"
-  - title: "UK FCDO: United Arab Emirates travel advice, health"
-    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health"
   - title: "UK FCDO: United Arab Emirates travel advice, safety and security"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "National Centre of Meteorology: Home"
     url: "https://www.ncm.gov.ae/"
+  - title: "UK FCDO: United Arab Emirates travel advice, health"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health"
   - title: "NHS: Heat exhaustion and heatstroke"
     url: "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/"
 ---
@@ -67,7 +67,7 @@ Practical ways to protect your plans:
 - **Ask about the cancellation policy** before you pay: what happens to your booking if the flight does not launch.
 - **Keep the rest of that day light.** You will be tired, and the whole schedule may slide.
 
-## Who a balloon ride suits, and who should check first
+## Who a hot air balloon ride suits, and who should check first
 
 Ballooning is gentle in the air, but it is not effortless. You need to climb in and out of a tall basket, stand for the whole flight and brace for landing.
 

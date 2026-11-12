@@ -23,14 +23,14 @@ sources:
     url: "https://visitabudhabi.ae/en/plan-your-trip/article-hub/best-time-to-travel"
   - title: "Visit Abu Dhabi: Yas Beach"
     url: "https://visitabudhabi.ae/en/where-to-go/beaches/yas-beach"
+  - title: "GOV.UK: United Arab Emirates travel advice, safety and security"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "Visit Abu Dhabi: Yas Links Abu Dhabi"
     url: "https://visitabudhabi.ae/en/things-to-do/sports-and-recreation/golf/yas-links-abu-dhabi"
   - title: "Visit Abu Dhabi: Jubail Island"
     url: "https://visitabudhabi.ae/en/where-to-go/islands/jubail-island"
   - title: "Visit Abu Dhabi: Yas Express"
     url: "https://visitabudhabi.ae/en/plan-your-trip/getting-around-abu-dhabi/yas-express"
-  - title: "GOV.UK: United Arab Emirates travel advice, safety and security"
-    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
 ---
 
 The sun is dropping behind the marina, the masts are turning black against an orange sky, and somewhere across the water a crowd is cheering at a concert. Nobody on the boardwalk is in a queue for a ride. This is Yas Island after the theme parks have had their turn.

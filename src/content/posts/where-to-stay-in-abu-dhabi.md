@@ -41,7 +41,7 @@ sources:
 
 Draw back the curtains in one Abu Dhabi hotel and you see dhows nosing into the harbour beneath glass towers. Do the same a short drive away and you might look out over a white beach with nothing between you and the Gulf, or onto the curve of a racetrack.
 
-That is the thing to understand about choosing where to stay in Abu Dhabi. The capital is not one compact centre but a spread of islands and waterfronts joined by bridges, and each has its own rhythm. Pick the right one and your days flow. Pick the wrong one and you spend them in taxis.
+That is the thing to understand about choosing where to stay in Abu Dhabi. The capital is not one compact centre but a spread of islands and waterfronts joined by bridges, and each has its own rhythm. Pick the right one and your days flow.
 
 The short answer: stay on the **Corniche or in the older central districts** for culture and walkable evenings, on **Saadiyat** for museums and a quiet beach, and on **Yas** for theme parks and family resorts. The **Eastern Mangroves** suit people who want calm and nature close to town. Before you book anything, check the latest [UK government travel advice for the UAE](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/warnings-and-insurance), which currently warns travellers in the region to be prepared for flight cancellations, airspace closures and disruption.
 
@@ -61,11 +61,11 @@ The tourism board's own summary is a good starting point: it describes [Saadiyat
 
 Late afternoon, and the promenade fills with joggers, cyclists and families spreading out on the grass as the heat eases. The downtown island around the Corniche is the city's older heart, and staying here puts you within easy reach of much of what first-timers come to see.
 
-Visit Abu Dhabi notes that the inland side of the Corniche has [a dense concentration of museums, gardens and historic landmarks](https://visitabudhabi.ae/en/where-to-go/marinas-waterfronts/abu-dhabi-corniche), including Qasr Al Hosn, the House of Artisans and the Founder's Memorial. It also calls the Corniche one of the city's most walkable and accessible areas, with broad promenades and dedicated cycling paths. There is a public beach right on the waterfront, so you can swim in the morning and see a museum in the afternoon without leaving the area.
+Visit Abu Dhabi notes that the inland side of the Corniche has [a dense concentration of museums, gardens and historic landmarks](https://visitabudhabi.ae/en/where-to-go/marinas-waterfronts/abu-dhabi-corniche), including Qasr Al Hosn, the House of Artisans and the Founder's Memorial. It also calls the Corniche one of the city's most walkable and accessible areas, with broad promenades and dedicated cycling paths. A public beach sits right on the waterfront.
 
 ### Al Zahiyah: the everyday city
 
-Next door, Al Zahiyah, once known as the Tourist Club Area, is one of the city's oldest neighbourhoods. Visit Abu Dhabi describes it as a place of [long-running restaurants, family-friendly parks and close access to the Corniche](https://visitabudhabi.ae/en/where-to-go/marinas-waterfronts/al-zahiyah), with hotels ranging from international chains to budget stays and serviced apartments. It suggests late afternoon into the evening as the best time to wander, when the parks come to life. This is the area for travellers who want the city as residents live it, with shawarma counters rather than resort buffets.
+Next door, Al Zahiyah, once known as the Tourist Club Area, is one of the city's oldest neighbourhoods. Visit Abu Dhabi describes it as a place of [long-running restaurants, family-friendly parks and close access to the Corniche](https://visitabudhabi.ae/en/where-to-go/marinas-waterfronts/al-zahiyah), with hotels ranging from international chains to budget stays and serviced apartments. It suggests late afternoon into the evening as the best time to wander, when the parks come to life.
 
 ### Al Bateen: the quieter western edge
 
@@ -81,7 +81,7 @@ Here the mornings start with the sound of the sea and very little else. Saadiyat
 
 The big draw is that the museums are on your doorstep. The tourism board describes the cultural district as [compact enough to explore mostly on foot](https://visitabudhabi.ae/en/things-to-do/culture/landmarks-and-architecture/saadiyat-cultural-district), and recommends at least two full days if you want to see it properly. Stay here and you can spend the morning in a gallery and the afternoon on the sand, with no long transfers in between. Our [Saadiyat Cultural District guide](/stories/saadiyat-cultural-district-guide/) covers how to plan those days.
 
-The island leans upmarket, and evenings are quiet. Visit Abu Dhabi does point out that there are public beaches, art spaces and cafes for [every budget](https://visitabudhabi.ae/en/where-to-go/islands/saadiyat-island), so it works for day-trippers too.
+The island leans upmarket and evenings are quiet, though Visit Abu Dhabi notes that there are public beaches, art spaces and cafes for [every budget](https://visitabudhabi.ae/en/where-to-go/islands/saadiyat-island), so it works for day-trippers too.
 
 **Best for:** couples, art lovers, travellers who want a beach holiday with culture built in.
 
@@ -112,7 +112,6 @@ When you do take a cab, the UK government advice notes that [Abu Dhabi's license
 ## Small things to check before you book
 
 - **Travelling with teenagers?** The UK advice says [you cannot stay in a hotel if you are under 18 and not accompanied by an adult](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), which matters if older children want their own room booked separately.
-- **Passports at check-in.** The same advice notes it is [normal practice for hotels to take a photocopy of your passport](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security).
 - **Friday and the mosque.** If the Grand Mosque is a priority, a central or mainland base makes it easier to time your visit. Our [three-day Abu Dhabi itinerary](/stories/three-days-in-abu-dhabi/) shows how.
 - **One city or two?** If you are also seeing Dubai, read [Dubai or Abu Dhabi: which should you base yourself in?](/stories/dubai-or-abu-dhabi-where-to-stay/) before splitting your nights.
 

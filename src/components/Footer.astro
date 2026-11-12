@@ -1,38 +1,59 @@
 ---
-import Lines from './Lines.astro';
 import { CATEGORIES, EMIRATES, SITE } from '../data/site';
 const year = new Date().getFullYear();
 ---
-<footer class="footer">
-  <Lines />
-  <div class="footer__inner">
-    <div>
-      <a class="footer__brand" href="/"><small>Tourground</small><span>The Emirates Guide</span></a>
-      <p class="footer__about">Story-led, practical travel guides to the United Arab Emirates. <strong>Published by <a href={SITE.publisher.url}>Tourground</a>.</strong> <a href={`mailto:${SITE.email}`}>{SITE.email}</a></p>
+<footer class="ft">
+  <div class="ft__in">
+    <div class="ft__cta">
+      <p class="ft__cta-title">Ready to plan? Talk to a verified local operator.</p>
+      <a class="action" href={SITE.directoryUrl}>Find an operator on Tourground <span class="arrow" aria-hidden="true">↗</span></a>
     </div>
-    <nav aria-label="Stories and emirates">
-      <ul class="footer__menu">
-        <li><a href="/">Home</a></li>
-        {CATEGORIES.map((c) => <li><a href={`/${c.key}/`}>{c.name}</a></li>)}
-        <li><a href="/stories/">All stories</a></li>
-      </ul>
-    </nav>
-    <nav aria-label="About and legal">
-      <ul class="footer__menu">
-        <li><a href="/about/">About</a></li>
-        <li><a href="/authors/">Authors</a></li>
-        <li><a href="/disclosure/">Publisher disclosure</a></li>
-        <li><a href="/photo-credits/">Photo credits</a></li>
-        <li><a href="/terms/">Terms</a></li>
-        <li><a href="/privacy/">Privacy</a></li>
-        <li><a href="/cookies/">Cookies</a></li>
-        <li><a href="/rss.xml">RSS feed</a></li>
-      </ul>
-    </nav>
-    <div><a class="footer__extranet" href={SITE.directoryUrl}><span>Find a verified<br />UAE operator</span><span class="round-btn" aria-hidden="true">↗</span></a></div>
+    <div class="ft__cols">
+      <nav aria-labelledby="ft-stories">
+        <h2 class="ft__h" id="ft-stories">Stories</h2>
+        <ul>
+          {CATEGORIES.map((c) => <li><a href={`/${c.key}/`}>{c.name}</a></li>)}
+          <li><a href="/stories/">All stories</a></li>
+        </ul>
+      </nav>
+      <nav aria-labelledby="ft-emirates">
+        <h2 class="ft__h" id="ft-emirates">Emirates</h2>
+        <ul>{EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}</ul>
+      </nav>
+      <nav aria-labelledby="ft-about">
+        <h2 class="ft__h" id="ft-about">About</h2>
+        <ul>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/authors/">Authors</a></li>
+          <li><a href="/disclosure/">Publisher disclosure</a></li>
+          <li><a href="/photo-credits/">Photo credits</a></li>
+          <li><a href="/rss.xml">RSS feed</a></li>
+        </ul>
+      </nav>
+      <form class="ft__news" id="ft-form" action={`mailto:${SITE.email}`} method="post" enctype="text/plain" novalidate aria-labelledby="ft-news-h">
+        <h2 class="ft__h" id="ft-news-h">Newsletter</h2>
+        <label for="ft-email" class="visually-hidden">Email address</label>
+        <input id="ft-email" type="email" name="email" placeholder="Your email address" autocomplete="email" required />
+        <button type="submit">Sign up</button>
+        <p id="ft-status" class="ft__status" role="status" aria-live="polite">Opens an email to {SITE.email} with your address. <a href="/privacy/">Privacy</a>.</p>
+      </form>
+    </div>
   </div>
-  <div class="footer__bottom">
-    <span>Copyright © {year} Tourground. All rights reserved. Published by Tourground.</span>
-    <span>{EMIRATES.length} emirates · theemiratesguide.tourground.com</span>
+  <div class="ft__bar">
+    <p class="ft__brand">The Emirates Guide</p>
+    <p>© {year} Tourground. Published by <a href={SITE.publisher.url}>Tourground</a>. <a href="/privacy/">Privacy</a> · <a href="/cookies/">Cookies</a> · <a href="/terms/">Terms</a></p>
   </div>
 </footer>
+<script>
+  const f = document.getElementById('ft-form') as HTMLFormElement | null;
+  f?.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const input = f.querySelector('input') as HTMLInputElement;
+    const st = document.getElementById('ft-status')!;
+    if (!input.value || !input.checkValidity()) { st.textContent = 'Please enter a valid email address.'; input.setAttribute('aria-invalid', 'true'); input.focus(); return; }
+    input.removeAttribute('aria-invalid');
+    const to = f.action.replace('mailto:', '');
+    window.location.href = `mailto:${to}?subject=${encodeURIComponent('Newsletter sign-up')}&body=${encodeURIComponent(`Please add ${input.value} to The Emirates Guide newsletter.`)}`;
+    st.textContent = 'Your email app should open with the sign-up message ready to send.';
+  });
+</script>

@@ -19,12 +19,12 @@ sources:
     url: "https://abudhabiculture.ae/en/Cultural-Heritage/InTangible/Heritage-Register/Social-Practices/Majlis"
   - title: "UNESCO Intangible Cultural Heritage: Arabic coffee, a symbol of generosity"
     url: "https://ich.unesco.org/en/RL/arabic-coffee-a-symbol-of-generosity-02111"
-  - title: "Abu Dhabi Culture: Celebrating Eid"
-    url: "https://abudhabiculture.ae/en/Cultural-Heritage/InTangible/Heritage-Register/Social-Practices/Celebrating-Eid"
-  - title: "Sheikh Mohammed bin Rashid Al Maktoum Centre for Cultural Understanding: Cultural Meals"
-    url: "https://cultures.ae/program/cultural-meals/"
   - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
+  - title: "Sheikh Mohammed bin Rashid Al Maktoum Centre for Cultural Understanding: Cultural Meals"
+    url: "https://cultures.ae/program/cultural-meals/"
+  - title: "Abu Dhabi Culture: Celebrating Eid"
+    url: "https://abudhabiculture.ae/en/Cultural-Heritage/InTangible/Heritage-Register/Social-Practices/Celebrating-Eid"
 ---
 
 You slip off your shoes at the door. Inside, the room is long and quiet, lined with cushions along the walls, and before you have properly sat down someone is already pouring a thin stream of pale gold coffee into a tiny cup.

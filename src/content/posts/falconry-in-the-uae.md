@@ -11,10 +11,10 @@ featured: false
 startHere: false
 plan: "A verified local operator can suggest falconry displays that suit your trip, from a desert reserve visit to a guided tour of a falcon hospital, and can advise on timings, group sizes and what to expect on the day."
 sources:
-  - title: "UNESCO Intangible Cultural Heritage: Falconry, a living human heritage"
-    url: "https://ich.unesco.org/en/RL/falconry-a-living-human-heritage-01708"
   - title: "Visit Abu Dhabi: Falconry"
     url: "https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/falconry"
+  - title: "UNESCO Intangible Cultural Heritage: Falconry, a living human heritage"
+    url: "https://ich.unesco.org/en/RL/falconry-a-living-human-heritage-01708"
   - title: "Dubai Desert Conservation Reserve: Things to do"
     url: "https://www.ddcr.org/what-to-do/"
   - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"

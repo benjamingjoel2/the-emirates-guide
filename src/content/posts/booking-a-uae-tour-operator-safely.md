@@ -68,7 +68,7 @@ For desert trips specifically, our guides to [whether a desert safari is worth i
 
 Some protected areas run their own approval systems. The Dubai Desert Conservation Reserve, for example, has an [approved tours seal](https://www.ddcr.org/what-to-do/) and says every approved tour follows strict requirements: guides are certified by the reserve, and tours consider environmental impact and waste management. It describes having carefully chosen the guides and operators allowed to work there. A scheme like this does not guarantee a perfect day, but it does mean someone is checking. See our [Dubai Desert Conservation Reserve guide](/stories/dubai-desert-conservation-reserve-guide/) for more.
 
-## Red flags worth walking away from
+## Red flags when booking a UAE tour operator
 
 None of these proves an operator is dishonest, but each is a reason to slow down.
 

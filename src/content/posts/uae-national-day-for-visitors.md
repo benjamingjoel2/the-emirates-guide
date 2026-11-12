@@ -13,20 +13,20 @@ plan: "A verified local operator can advise on how National Day affects tour tim
 sources:
   - title: "UAE Government Portal (u.ae): Public holidays"
     url: "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
-  - title: "Gulf News: UAE National Day holidays 2026"
-    url: "https://gulfnews.com/living-in-uae/ask-us/uae-national-day-2026-how-to-turn-1-2-or-3-leave-days-into-a-longer-break-1.500645564"
   - title: "Gulf News: Why UAE National Day is officially called Eid Al Etihad"
     url: "https://gulfnews.com/living-in-uae/ask-us/why-uae-national-day-is-officially-called-eid-al-etihad-1.500344864"
+  - title: "Gulf News: UAE National Day holidays 2026"
+    url: "https://gulfnews.com/living-in-uae/ask-us/uae-national-day-2026-how-to-turn-1-2-or-3-leave-days-into-a-longer-break-1.500645564"
   - title: "Gulf News: What is UAE Commemoration Day and why it is observed every year"
     url: "https://gulfnews.com/living-in-uae/ask-us/uae-commemoration-day-2025-1.500361508"
   - title: "The National: What is Commemoration Day and why is it celebrated in the UAE?"
     url: "https://www.thenationalnews.com/uae/2021/11/16/when-is-commemoration-day-and-why-is-it-celebrated-in-the-uae"
   - title: "Gulf News: UAE Eid Al Etihad 2025, dates, events and how to celebrate"
     url: "https://gulfnews.com/uae/uae-eid-al-etihad-2025-dates-events-and-how-to-celebrate-across-all-emirates-1.500356339"
-  - title: "Abu Dhabi Police: Car decoration guidelines for National Day"
-    url: "https://adpolice.gov.ae/en/Media-Center/News/2021/06/29/Abu-Dhabi-traffic-police-set-car-decoration-guidelines-for-National-Day-"
   - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
+  - title: "Abu Dhabi Police: Car decoration guidelines for National Day"
+    url: "https://adpolice.gov.ae/en/Media-Center/News/2021/06/29/Abu-Dhabi-traffic-police-set-car-decoration-guidelines-for-National-Day-"
 ---
 
 At the end of November, the country quietly changes colour. Flags appear on balconies and lamp posts, cars sprout stickers in red, green, white and black, and children start turning up to school in miniature national dress.

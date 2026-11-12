@@ -39,7 +39,7 @@ The UAE's seasons are not the ones you may be used to. Visit Abu Dhabi describes
 
 It describes the climate as [sub-tropical and arid](https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear), with sporadic rain falling mainly between November and March. For a fuller picture of each month, see our guide to [the best time to visit the UAE](/stories/best-time-to-visit-uae-month-by-month/).
 
-## The core list for any time of year
+## The core UAE packing list for any time of year
 
 Whatever the month, these earn their place.
 

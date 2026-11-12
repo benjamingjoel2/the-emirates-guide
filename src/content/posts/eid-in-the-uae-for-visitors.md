@@ -1,6 +1,6 @@
 ---
 title: "Visiting the UAE during Eid: what changes"
-description: "Visiting the UAE during Eid: how Eid Al Fitr and Eid Al Adha dates are set, what changes for visitors, busy places, etiquette and greetings, and 2027 projections."
+description: "Visiting the UAE during Eid: how Eid Al Fitr and Eid Al Adha dates are set, what changes for visitors, the busiest places, etiquette and 2027 projections."
 category: "travel-tips"
 emirates: []
 published: 2026-11-12
@@ -11,10 +11,10 @@ featured: false
 startHere: false
 plan: "A verified local operator can help you plan around Eid, from flexible bookings while the dates are confirmed to advice on which attractions get busiest and how holiday traffic affects transfers."
 sources:
-  - title: "UAE Government Portal (u.ae): Public holidays"
-    url: "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
   - title: "Abu Dhabi Culture: Celebrating Eid"
     url: "https://abudhabiculture.ae/en/Cultural-Heritage/InTangible/Heritage-Register/Social-Practices/Celebrating-Eid"
+  - title: "UAE Government Portal (u.ae): Public holidays"
+    url: "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
   - title: "The National: When is Ramadan 2027? Potential dates announced for the UAE"
     url: "https://www.thenationalnews.com/news/uae/2026/10/06/ramadan-2027-uae-dates-eid-al-fitr-holiday/"
   - title: "Khaleej Times: When will UAE celebrate Ramadan, Eid Al Fitr, Eid Al Adha in 2027?"

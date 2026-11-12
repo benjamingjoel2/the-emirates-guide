@@ -17,10 +17,10 @@ sources:
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health"
   - title: "UAE Government Portal (u.ae): Drugs and controlled medicines"
     url: "https://u.ae/en/information-and-services/health-and-fitness/Health-and-wellbeing/drugs-and-controlled-medicines"
-  - title: "UAE Government Portal (u.ae): Customs clearance"
-    url: "https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Tourist-services-and-information/Customs-clearance"
   - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
+  - title: "UAE Government Portal (u.ae): Customs clearance"
+    url: "https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Tourist-services-and-information/Customs-clearance"
   - title: "TravelHealthPro (NaTHNaC): Carrying medication abroad"
     url: "https://travelhealthpro.org.uk/factsheet/43/medicines-abroad"
 ---

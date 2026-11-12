@@ -11,10 +11,10 @@ featured: false
 startHere: false
 plan: "A verified local operator can plan transfers so nobody needs to drive after a drink, flag which parts of your itinerary cross into Sharjah, and suggest evening experiences that suit both drinkers and non-drinkers."
 sources:
-  - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
-    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "Visit Abu Dhabi: Abu Dhabi FAQs"
     url: "https://visitabudhabi.ae/en/faqs"
+  - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "UAE Government Portal (u.ae): Customs clearance"
     url: "https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Tourist-services-and-information/Customs-clearance"
   - title: "Visit Abu Dhabi: All your Ramadan questions, answered"

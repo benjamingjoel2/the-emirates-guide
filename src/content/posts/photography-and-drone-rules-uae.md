@@ -11,10 +11,10 @@ featured: false
 startHere: false
 plan: "A verified local operator can suggest photogenic spots and the best light for your itinerary, tell you where cameras are restricted, and advise whether any aerial or professional filming you have in mind needs a licensed provider."
 sources:
-  - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
-    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "Visit Abu Dhabi: Abu Dhabi FAQs"
     url: "https://visitabudhabi.ae/en/faqs"
+  - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "UAE Government Portal (u.ae): Media regulation"
     url: "https://u.ae/en/media/media-in-the-uae/media-regulation"
   - title: "GCAA: CAR-UAR Unmanned Aircraft (UA) Recreational Flights, Issue 04"

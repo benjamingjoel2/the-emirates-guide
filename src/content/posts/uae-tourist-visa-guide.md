@@ -53,7 +53,7 @@ Visit Abu Dhabi publishes a list of nationalities that can get a [free-of-charge
 
 For British citizens, the UK Foreign Office says the visitor or tourist visa is issued [free of charge when you arrive](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/entry-requirements) and you do not need to apply in advance. Your passport is stamped as you go through immigration. It is valid for up to 90 days over a 180-day period beginning from your first entry, and those days can be used continuously or across several visits.
 
-Other nationalities on the arrival list may get a different length of stay, so check the terms for your own passport on the official channels rather than assuming the British rule applies to you.
+Other nationalities may get different terms, so check your own passport's rules on the official channels.
 
 ## Pre-arranged tourist visas: who applies and how
 
@@ -73,7 +73,7 @@ That last point surprises people. The embassy can help you check eligibility, bu
 
 ### The five-year multiple entry option
 
-Frequent visitors may want to look at the [multiple entry five-year tourist visa](https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/tourist-visa). The government says it is available to all nationalities on self-sponsorship and allows stays of 90 days on each visit, extendable for a further 90 days. Applicants need a bank balance of 4,000 US dollars or the equivalent during the last six months, valid UAE health insurance and an onward or return ticket. Read the full conditions on the official page before you apply.
+Frequent visitors may want to look at the [multiple entry five-year tourist visa](https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/tourist-visa). The government says it is available to all nationalities on self-sponsorship and allows stays of 90 days on each visit, extendable for a further 90 days. Applicants need a bank balance of 4,000 US dollars or the equivalent during the last six months, valid UAE health insurance and an onward or return ticket.
 
 ## Just passing through? Transit visas explained
 
@@ -87,17 +87,15 @@ This is the detail that turns people away at check-in. The government portal say
 
 The UK Foreign Office gives the same rule for British passports and adds two further points. If you are only transiting without passing through immigration, your passport needs an expiry date [at least three months after the date you transit](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/entry-requirements). And you will be denied entry if you try to use a passport that has been reported lost or stolen.
 
-Check the expiry date the day you book, not the week you fly. Renewals take time.
+Check the expiry date the day you book, not the week you fly.
 
 ## Staying longer, and what happens if you overstay
 
-Plans change. A week becomes ten days, a flight is cancelled, a family visit runs on.
+Plans change: a flight is cancelled, a family visit runs on.
 
 The Foreign Office warns that you could face [fines for exceeding your authorised stay](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/entry-requirements), which may build up for each day of overstay. If you want to extend, it points to the General Directorate of Residency and Foreigners Affairs for Dubai and the Federal Authority for Identity and Citizenship for the rest of the UAE.
 
 Dubai's directorate lists services online for [extending a tourist visa](https://gdrfad.gov.ae/en), issuing single-entry and five-year tourist visas, and verifying entry permits. Use those official channels if you need to stay, and do it before your permitted stay runs out.
-
-Two more points from the Foreign Office are worth keeping in mind. Working on a visit visa is not allowed and can lead to a fine, prison or deportation. And you may be prevented from leaving the UAE if you are subject to a travel ban, involved in legal proceedings or have unpaid debt.
 
 ## Avoiding visa scams
 
@@ -112,7 +110,7 @@ The government portal adds similar advice about tour operators: [check the authe
 - If you need a pre-arranged visa, apply through an official authority, your airline, a licensed agent or your hotel.
 - Keep a copy of your approved visa with your travel documents.
 - Make sure your travel insurance is in place. Visit Abu Dhabi notes that, under UAE and Abu Dhabi law, [all visitors must have medical insurance cover](https://visitabudhabi.ae/en/faqs). Our [travel insurance guide](/stories/uae-travel-insurance-guide/) covers what to check.
-- Read up on [what to bring, and what not to, through customs](/stories/bringing-medicines-into-uae/), especially if you take regular medication.
+- If you take regular medication, read our guide to [bringing medicines into the UAE](/stories/bringing-medicines-into-uae/).
 
 New to the country? Start with our [first-timer's guide to the seven emirates](/stories/uae-first-timers-guide-seven-emirates/), and browse more planning advice in [travel tips](/travel-tips/).
 

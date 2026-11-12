@@ -182,5 +182,37 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "source": "https://commons.wikimedia.org/wiki/File:Palm_Jumeirah,Dubai_(15048707596).jpg",
   "description": "The Palm Jumeirah,Dubai as seen from seat 29A of Boeing 777/3, A6-EBA whilst climbing out of DXB, UAE,28/08/14."
+ },
+ "dubai-metro": {
+  "file": "File:5018 Dubai Metro in Dubai UAE.png",
+  "author": "Tim Adams",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:5018_Dubai_Metro_in_Dubai_UAE.png",
+  "description": "Train south of the Burj Khalifa/Dubai Mall Dubai Metro Red Line station looking north in Dubai, United Arab Emirates, with highrise buildings in the background."
+ },
+ "dubai-fountain": {
+  "file": "File:The Dubai Fountain & Burj Khalifa Pixabay.jpg",
+  "author": "Christian Raggini",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Dubai_Fountain_%26_Burj_Khalifa_Pixabay.jpg",
+  "description": "The Dubai Fountain and the Burj Khalifa at sunset"
+ },
+ "qasr-al-watan": {
+  "file": "File:Qasr Al Watan, Abu Dhabi (P1100960).jpg",
+  "author": "Matti Blume",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Qasr_Al_Watan,_Abu_Dhabi_(P1100960).jpg",
+  "description": "View of Downtown Abu Dhabi from the gardens of Qasr Al Watan"
+ },
+ "qasr-al-hosn": {
+  "file": "File:Qasr Al Hosn in Front of skyline.jpg",
+  "author": "Aeroid",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Qasr_Al_Hosn_in_Front_of_skyline.jpg",
+  "description": "Alter Wachturm des Qasr Al Hosn vor Abu Dhabis Stadtkulisse"
  }
 }

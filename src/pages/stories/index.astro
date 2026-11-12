@@ -14,15 +14,16 @@ const page = {
 };
 ---
 <Base title="All stories" description="Every story on The Emirates Guide: destinations, itineraries, desert trips, food and culture, where to stay and travel tips for the UAE." crumbs={[{ name: 'All stories', path: '/stories/' }]} schema={[page]}>
-  <PageHero title="The Emirates Guide stories" eyebrow="Everything we have published" lede="Story-led, practical guides to the seven emirates, newest first. Every fact that can change links to its official source." photoKey="dubai-creek-abras" />
-  <nav class="tabs" aria-label="Topics">
-    <ul>{CATEGORIES.map((c) => <li><a href={`/${c.key}/`}>{c.name}</a></li>)}</ul>
-  </nav>
-  <div class="wrap"><Crumbs items={[{ name: 'All stories' }]} /></div>
-  <section class="section" aria-label="Stories">
-    <div class="wrap">
-      <ul class="grid three">{posts.map((p) => <li><PostCard post={p} headingLevel={2} /></li>)}</ul>
-    </div>
+  <PageHero title="The Emirates Guide blog" eyebrow="Story-led and sourced" lede="Where to go, when to go, what it is really like, and how to book safely. Every fact that can change links to its official source." photoKey="dubai-creek-abras" />
+  <section class="circuits" style="padding:0" aria-label="Topics">
+    <ul class="circuits__tabs" style="margin-top:0;padding-top:16px">
+      {CATEGORIES.map((c) => <li><a class="circuits__tab" href={`/${c.key}/`}>{c.name} <span class="circuits__count">{posts.filter((p) => p.data.category === c.key).length}</span></a></li>)}
+    </ul>
+  </section>
+  <section class="listing" aria-labelledby="list-title">
+    <Crumbs items={[{ name: 'All stories' }]} />
+    <div class="listing__head"><h2 class="listing__title" id="list-title">All stories</h2></div>
+    <ul class="post-grid">{posts.map((p) => <li><PostCard post={p} headingLevel={3} /></li>)}</ul>
   </section>
   <Newsletter />
 </Base>

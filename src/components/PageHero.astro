@@ -1,18 +1,22 @@
 ---
 import { Image } from 'astro:assets';
-import PhotoCredit from './PhotoCredit.astro';
+import Lines from './Lines.astro';
 import { photo } from '../lib/photos';
-interface Props { title: string; eyebrow?: string; lede?: string; photoKey?: string; alt?: string }
-const { title, eyebrow, lede, photoKey, alt = '' } = Astro.props;
+interface Props { title: string; eyebrow?: string; lede?: string; photoKey?: string; alt?: string; place?: string }
+const { title, eyebrow, lede, photoKey, alt = '', place } = Astro.props;
 const ph = photoKey ? photo(photoKey) : null;
 ---
-<section class:list={['hero', { plain: !ph }]}>
-  {ph && <Image src={ph.src} alt={alt} widths={[640, 1024, 1600]} sizes="100vw" loading="eager" fetchpriority="high" format="webp" />}
-  <div class="wrap hero-page">
-    {eyebrow && <p class="kicker">{eyebrow}</p>}
-    <h1 class="hero-title">{title}</h1>
-    {lede && <p>{lede}</p>}
+<header class:list={['header', 'header--medium', { 'header--plain': !ph }]}>
+  {ph && <Image class="header__media" src={ph.src} alt={alt} widths={[640, 1024, 1600, 2000]} sizes="100vw" loading="eager" fetchpriority="high" format="webp" />}
+  <div class="header__shade"></div>
+  <Lines />
+  <div class="header__center">
+    <h1>
+      {eyebrow && <span class="header__suptitle">{eyebrow}</span>}
+      <span class="header__name">{title}</span>
+    </h1>
+    {lede && <p class="header__desc">{lede}</p>}
     <slot />
   </div>
-  {ph && <p class="credit"><PhotoCredit credit={ph.credit} /></p>}
-</section>
+  {ph && <p class="header__label">{place && <>{place}<br /></>}Photo: <a href={ph.credit.source}>{ph.credit.author}</a> · <a href={ph.credit.licenseUrl || ph.credit.source}>{ph.credit.license}</a></p>}
+</header>

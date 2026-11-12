@@ -1,95 +1,190 @@
 ---
 import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
-import PostCard from '../components/PostCard.astro';
+import Lines from '../components/Lines.astro';
 import Newsletter from '../components/Newsletter.astro';
-import PhotoCredit from '../components/PhotoCredit.astro';
-import { CATEGORIES, EMIRATES, SITE, categoryByKey } from '../data/site';
-import { allPosts, postUrl, readingMinutes } from '../lib/posts';
+import { CATEGORIES, EMIRATES, SITE, categoryByKey, emirateByKey } from '../data/site';
+import { allPosts, postUrl } from '../lib/posts';
 import { photo } from '../lib/photos';
 
 const posts = await allPosts();
 const featured = posts.find((p) => p.data.featured) ?? posts[0];
 const startOrder = ['uae-first-timers-guide-seven-emirates', 'best-time-to-visit-uae-month-by-month', 'dubai-or-abu-dhabi-where-to-stay', 'five-day-uae-itinerary'];
 const start = posts.filter((p) => p.data.startHere).sort((a, b) => startOrder.indexOf(a.id) - startOrder.indexOf(b.id));
-const latest = posts.filter((p) => p.id !== featured.id).slice(0, 6);
 const hero = photo(featured.data.hero);
+const intro = photo('musandam-dhow');
 const cta = photo('jebel-jais-sunset');
 const counts = Object.fromEntries(CATEGORIES.map((c) => [c.key, posts.filter((p) => p.data.category === c.key).length]));
+const places = (em: string[]) => em.length === 7 ? 'All seven emirates' : em.length > 3 ? `${em.slice(0, 2).map((k) => emirateByKey(k).name).join(', ')} +${em.length - 2}` : em.map((k) => emirateByKey(k).name).join(', ') || 'United Arab Emirates';
+const storyCount = (k: string) => posts.filter((p) => p.data.emirates.includes(k as any)).length;
 ---
 <Base title={`${SITE.name}: Travel stories and guides to the UAE`} description={SITE.description} current="home">
-  <section class="hero" aria-labelledby="featured-title">
-    <Image src={hero.src} alt={featured.data.heroAlt} widths={[640, 1024, 1600, 2000]} sizes="100vw" loading="eager" fetchpriority="high" format="webp" />
-    <div class="hero-center">
+  <header class="header">
+    <Image class="header__media" src={hero.src} alt={featured.data.heroAlt} widths={[640, 1024, 1600, 2000]} sizes="100vw" loading="eager" fetchpriority="high" format="webp" />
+    <div class="header__shade"></div>
+    <Lines />
+    <div class="header__center">
       <h1 class="visually-hidden">{SITE.name}: travel stories and guides to the United Arab Emirates</h1>
-      <p class="eyebrow">Featured story · {categoryByKey(featured.data.category).name}</p>
-      <h2 id="featured-title" class="hero-title">{featured.data.title}</h2>
-      <p class="dek">{featured.data.description}</p>
-      <a class="btn" href={postUrl(featured)}>Read the story<span class="visually-hidden">: {featured.data.title}</span></a>
-      <p style="margin:14px 0 0;font-size:0.9rem;text-shadow:0 1px 6px rgba(0,0,0,0.5)">{readingMinutes(featured)} min read</p>
+      <p aria-hidden="false">
+        <span class="header__suptitle">Featured story</span>
+        <span class="header__name">{featured.data.title}</span>
+      </p>
+      <a class="action" href={postUrl(featured)}>Read the story <span class="arrow" aria-hidden="true">↗</span><span class="visually-hidden">: {featured.data.title}</span></a>
     </div>
-    <p class="credit"><PhotoCredit credit={hero.credit} /></p>
-  </section>
+    <p class="header__label">Photo: <a href={hero.credit.source}>{hero.credit.author}</a> · <a href={hero.credit.licenseUrl}>{hero.credit.license}</a></p>
+  </header>
 
-  <nav class="tabs" aria-label="Topics">
-    <ul>
-      {CATEGORIES.map((c) => <li><a href={`/${c.key}/`}>{c.name} <span class="count" aria-label={`${counts[c.key]} stories`}>{counts[c.key]}</span></a></li>)}
-    </ul>
-  </nav>
-
-  <section class="section" aria-labelledby="start-title">
-    <div class="wrap start-grid">
-      <div>
-        <h2 id="start-title" class="red-title">Start here: your first trip to the Emirates</h2>
-        <p style="margin-top:16px;color:var(--muted);max-width:40ch">Four stories that cover most of what first-timers ask: the seven emirates, the seasons, where to base yourself and how to spend five days.</p>
-      </div>
-      <ol class="rule-list">
-        {start.map((p) => <li><a href={postUrl(p)}><span>{p.data.title}</span></a></li>)}
+  <section class="introduction" aria-labelledby="journey-title">
+    <div class="introduction__left">
+      <p class="introduction__mark">The Emirates Guide</p>
+      <p class="introduction__text">Seven emirates, two coastlines, mountains, dunes and old trading towns. We write story-led, practical guides to all of it, check every rule against official sources, and point you to verified local operators when you are ready to book.</p>
+    </div>
+    <div class="introduction__right">
+      <Image src={intro.src} alt="" widths={[640, 1000]} sizes="(min-width: 1024px) 50vw, 100vw" loading="lazy" format="webp" />
+      <h2 class="introduction__title" id="journey-title">Start here: your first UAE trip</h2>
+      <ol class="journey">
+        {start.map((p, i) => <li><a href={postUrl(p)}><span class="n">Step {i + 1}</span>{p.data.title}</a></li>)}
+        <li><a href={SITE.directoryUrl}><span class="n">Step {start.length + 1}</span>Book with a verified local operator</a></li>
       </ol>
+      <p class="introduction__credit"><a href={intro.credit.source}>Photo: {intro.credit.author} · {intro.credit.license}</a></p>
     </div>
   </section>
 
-  <section class="section black" aria-labelledby="latest-title">
-    <div class="wrap">
-      <div class="section-head">
-        <div>
-          <h2 id="latest-title" class="section-title">Latest stories</h2>
-          <p class="section-sub">Where to go, when to go and what it is really like</p>
-        </div>
-        <a class="btn" href="/stories/">All stories</a>
-      </div>
-      <ul class="swipe">
-        {latest.map((p) => <li><PostCard post={p} /></li>)}
-      </ul>
-    </div>
-  </section>
-
-  <section class="cta" aria-labelledby="cta-title">
-    <Image src={cta.src} alt="" widths={[640, 1024, 1600]} sizes="100vw" loading="lazy" format="webp" />
-    <div class="inner">
-      <h2 id="cta-title" class="hero-title">Plan a trip with people who know the ground</h2>
-      <p>Every story ends with a pointer to a verified local operator. Tourground, our publisher, lists them by destination, so you can ask the questions that matter before you book.</p>
-      <a class="btn" href={SITE.directoryUrl}>Find a verified UAE operator</a>
-    </div>
-    <p class="credit"><PhotoCredit credit={cta.credit} /></p>
-  </section>
-
-  <section class="section grey" aria-labelledby="em-title">
-    <div class="wrap">
-      <div class="section-head">
-        <div>
-          <h2 id="em-title" class="section-title">Seven emirates</h2>
-          <p class="section-sub">One country, seven very different places</p>
-        </div>
-      </div>
-      <ul class="tiles">
-        {EMIRATES.map((e) => {
-          const ph = photo(e.photo);
-          return <li><a class="tile" href={`/destinations/${e.key}/`}><Image src={ph.src} alt="" widths={[360, 640]} sizes="(min-width: 1024px) 25vw, 50vw" loading="lazy" format="webp" /><span>{e.name}</span></a></li>;
+  <section class="circuits" aria-labelledby="stories-title">
+    <h2 class="circuits__title" id="stories-title">Our stories</h2>
+    <ul class="circuits__tabs" role="tablist" aria-label="Filter stories by topic">
+      <li role="presentation"><a class="circuits__tab" role="tab" aria-selected="true" data-cat="all" href="/stories/">All <span class="circuits__count">{posts.length}</span></a></li>
+      {CATEGORIES.map((c) => <li role="presentation"><a class="circuits__tab" role="tab" aria-selected="false" data-cat={c.key} href={`/${c.key}/`}>{c.name} <span class="circuits__count">{counts[c.key]}</span></a></li>)}
+    </ul>
+    <div class="coverflow" data-coverflow>
+      <ul class="coverflow__track">
+        {posts.map((p) => {
+          const ph = photo(p.data.hero);
+          return (
+            <li class="cf-card" data-cat={p.data.category}>
+              <a class="cf-card__link" href={postUrl(p)}>
+                <span class="cf-card__img">
+                  <Image src={ph.src} alt="" widths={[600, 900, 1500]} sizes="(min-width: 1024px) 750px, 86vw" loading="lazy" format="webp" />
+                  <span class="cf-card__content">
+                    <span class="cf-card__header">
+                      {p.data.startHere && <span class="badge-new">Start here</span>}
+                      <span class:list={['badge-type', { ad: p.data.advertisement }]}>{p.data.advertisement ? 'Advertisement feature' : categoryByKey(p.data.category).name}</span>
+                    </span>
+                    <span class="cf-card__main">
+                      <span class="cf-card__destinations">{places(p.data.emirates)}</span>
+                      <span class="cf-card__name">{p.data.title}</span>
+                    </span>
+                  </span>
+                </span>
+                <span class="cf-card__strip" aria-hidden="true"><i>{places(p.data.emirates)}</i>{p.data.title}</span>
+              </a>
+            </li>
+          );
         })}
       </ul>
+    </div>
+    <div class="coverflow__nav">
+      <button class="round-btn" type="button" data-cf-prev aria-label="Previous story">←</button>
+      <button class="round-btn" type="button" data-cf-next aria-label="Next story">→</button>
+    </div>
+  </section>
+
+  <section class="fullwidth" aria-labelledby="cta-title">
+    <Image src={cta.src} alt="" widths={[640, 1024, 1600, 2000]} sizes="100vw" loading="lazy" format="webp" />
+    <h2 class="fullwidth__title" id="cta-title">Plan with people who know the ground</h2>
+    <p class="fullwidth__description">Every story ends with a pointer to a verified local operator. Tourground, our publisher, lists them by destination, so you can ask the questions that matter before you book.</p>
+    <a class="action" href={SITE.directoryUrl}>Find a verified UAE operator <span class="arrow" aria-hidden="true">↗</span></a>
+    <p class="header__label">Jebel Jais, Ras Al Khaimah<br />Photo: <a href={cta.credit.source}>{cta.credit.author}</a> · <a href={cta.credit.licenseUrl}>{cta.credit.license}</a></p>
+  </section>
+
+  <section class="banner-blog" aria-labelledby="emirates-title">
+    <div class="banner-blog__head">
+      <div>
+        <h2 class="banner-blog__title" id="emirates-title">The seven emirates</h2>
+        <p class="banner-blog__subtitle">One country, seven very different places</p>
+      </div>
+      <a class="action" href="/destinations/">All destinations <span class="arrow" aria-hidden="true">↗</span></a>
+    </div>
+    <ul class="slider" data-slider id="em-slider">
+      {EMIRATES.map((e) => {
+        const ph = photo(e.photo);
+        const n = storyCount(e.key);
+        return (
+          <li>
+            <a class="card-post__link" href={`/destinations/${e.key}/`}>
+              <Image src={ph.src} alt="" widths={[420, 840]} sizes="(min-width: 1024px) 420px, 310px" loading="lazy" format="webp" />
+              <ul class="card-post__pills"><li class="pill">Destination</li></ul>
+              <span>
+                <span class="card-post__countries">United Arab Emirates</span>
+                <span class="card-post__name">{e.name}</span>
+                <span class="card-post__date">{n} {n === 1 ? 'story' : 'stories'}</span>
+              </span>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+    <div class="slider__nav">
+      <button class="round-btn" type="button" data-slide="-1" aria-controls="em-slider" aria-label="Scroll back">←</button>
+      <button class="round-btn" type="button" data-slide="1" aria-controls="em-slider" aria-label="Scroll forward">→</button>
     </div>
   </section>
 
   <Newsletter />
 </Base>
+
+<script>
+  // Coverflow carousel with category tabs (progressive enhancement over a scrollable list).
+  const cf = document.querySelector<HTMLElement>('[data-coverflow]');
+  if (cf) {
+    const cards = [...cf.querySelectorAll<HTMLElement>('.cf-card')];
+    const prev = document.querySelector<HTMLButtonElement>('[data-cf-prev]')!;
+    const next = document.querySelector<HTMLButtonElement>('[data-cf-next]')!;
+    let visible = cards.slice();
+    let active = 0;
+    const layout = () => {
+      const w = cards[0].offsetWidth;
+      const step = Math.min(300, w * 0.4);
+      visible.forEach((c, i) => {
+        const d = i - active, a = Math.abs(d);
+        const s = Math.max(0.6, 1 - 0.1 * a);
+        c.style.transform = `translateX(calc(-50% + ${d * step}px)) translateY(${(1 - s) * w * 0.3}px) scale(${s})`;
+        c.style.zIndex = String(100 - a);
+        c.style.opacity = a > 3 ? '0' : '1';
+        c.classList.toggle('is-active', d === 0);
+        c.classList.toggle('is-right', d > 0);
+        const link = c.querySelector('a')!;
+        if (d === 0) link.removeAttribute('tabindex'); else link.setAttribute('tabindex', '-1');
+        c.setAttribute('aria-hidden', d === 0 ? 'false' : 'true');
+      });
+      prev.disabled = active === 0; next.disabled = active >= visible.length - 1;
+    };
+    cf.classList.add('ready');
+    cards.forEach((c, i) => c.addEventListener('click', (e) => {
+      const idx = visible.indexOf(c);
+      if (idx !== active) { e.preventDefault(); active = idx; layout(); }
+    }));
+    prev.addEventListener('click', () => { active = Math.max(0, active - 1); layout(); });
+    next.addEventListener('click', () => { active = Math.min(visible.length - 1, active + 1); layout(); });
+    let x0: number | null = null;
+    cf.addEventListener('touchstart', (e) => { x0 = e.touches[0].clientX; }, { passive: true });
+    cf.addEventListener('touchend', (e) => { if (x0 === null) return; const dx = e.changedTouches[0].clientX - x0; if (Math.abs(dx) > 40) { active = Math.min(visible.length - 1, Math.max(0, active + (dx < 0 ? 1 : -1))); layout(); } x0 = null; });
+    document.querySelectorAll<HTMLAnchorElement>('.circuits__tab').forEach((tab) => tab.addEventListener('click', (e) => {
+      e.preventDefault();
+      document.querySelectorAll('.circuits__tab').forEach((t) => t.setAttribute('aria-selected', 'false'));
+      tab.setAttribute('aria-selected', 'true');
+      const cat = tab.dataset.cat;
+      cards.forEach((c) => { c.hidden = !(cat === 'all' || c.dataset.cat === cat); });
+      visible = cards.filter((c) => !c.hidden);
+      active = 0; layout();
+    }));
+    window.addEventListener('resize', layout);
+    layout();
+  }
+  // Simple sliders
+  document.querySelectorAll<HTMLButtonElement>('[data-slide]').forEach((b) => b.addEventListener('click', () => {
+    const s = document.getElementById(b.getAttribute('aria-controls')!)!;
+    const card = s.querySelector('li') as HTMLElement;
+    s.scrollBy({ left: Number(b.dataset.slide) * (card.offsetWidth + 20), behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+  }));
+</script>

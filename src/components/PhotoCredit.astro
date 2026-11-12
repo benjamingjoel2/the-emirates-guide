@@ -1,5 +1,0 @@
----
-import type { Credit } from '../lib/photos';
-const { credit, prefix = 'Photo' } = Astro.props as { credit: Credit; prefix?: string };
----
-<span>{prefix}: <a href={credit.source}>{credit.author}</a> · {credit.licenseUrl ? <a href={credit.licenseUrl}>{credit.license}</a> : credit.license}</span>

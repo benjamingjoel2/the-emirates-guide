@@ -24,26 +24,20 @@ const itemList = {
 ---
 <Base title={cat.name} description={`${cat.blurb} From The Emirates Guide, published by Tourground.`} crumbs={[{ name: cat.name, path: `/${cat.key}/` }]} schema={[itemList]} current={cat.key}>
   <PageHero title={cat.name} eyebrow="The Emirates Guide" lede={cat.blurb} photoKey={cat.photo} />
-  <nav class="tabs" aria-label="Topics">
-    <ul>{CATEGORIES.map((c) => <li><a href={`/${c.key}/`} aria-current={c.key === cat.key ? 'page' : undefined}>{c.name}</a></li>)}</ul>
-  </nav>
-  <div class="wrap"><Crumbs items={[{ name: cat.name }]} /></div>
-  {cat.key === 'destinations' && (
-    <section class="section" aria-labelledby="by-emirate" style="padding-bottom:0">
-      <div class="wrap">
-        <h2 id="by-emirate" class="red-title" style="margin-bottom:20px">By emirate</h2>
-        <ul class="chips">{EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}</ul>
-      </div>
-    </section>
-  )}
-  <section class="section" aria-label={`${cat.name} stories`}>
-    <div class="wrap">
-      {posts.length ? (
-        <ul class="grid three">{posts.map((p) => <li><PostCard post={p} headingLevel={2} /></li>)}</ul>
-      ) : (
-        <p>New stories in this section are on the way. In the meantime, browse <a href="/stories/">all stories</a>.</p>
-      )}
-    </div>
+  <section class="circuits" style="padding:0" aria-label="Topics">
+    <ul class="circuits__tabs" style="margin-top:0;padding-top:16px">
+      {CATEGORIES.map((c) => <li><a class="circuits__tab" href={`/${c.key}/`} aria-current={c.key === cat.key ? 'page' : undefined}>{c.name}</a></li>)}
+    </ul>
+  </section>
+  <section class="listing" aria-labelledby="list-title">
+    <Crumbs items={[{ name: cat.name }]} />
+    <div class="listing__head"><h2 class="listing__title" id="list-title">{posts.length} {posts.length === 1 ? 'story' : 'stories'}</h2><a class="action" href="/stories/">All stories <span class="arrow" aria-hidden="true">↗</span></a></div>
+    {cat.key === 'destinations' && <ul class="chips" style="margin-bottom:32px" aria-label="Destinations by emirate">{EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}</ul>}
+    {posts.length ? (
+      <ul class="post-grid">{posts.map((p) => <li><PostCard post={p} headingLevel={3} /></li>)}</ul>
+    ) : (
+      <p>New stories in this section are on the way. In the meantime, browse <a href="/stories/">all stories</a>.</p>
+    )}
   </section>
   <Newsletter />
 </Base>

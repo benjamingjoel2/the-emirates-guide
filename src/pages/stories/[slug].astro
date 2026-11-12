@@ -3,10 +3,9 @@ import { Image, getImage } from 'astro:assets';
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
-import PostTags from '../../components/PostTags.astro';
+import Lines from '../../components/Lines.astro';
+import Newsletter from '../../components/Newsletter.astro';
 import { emirateByKey } from '../../data/site';
-import PostCard from '../../components/PostCard.astro';
-import PhotoCredit from '../../components/PhotoCredit.astro';
 import { AUTHORS, SITE, categoryByKey } from '../../data/site';
 import { allPosts, formatDate, isoDate, postUrl, readingMinutes, related, type Post } from '../../lib/posts';
 import { photo } from '../../lib/photos';
@@ -65,74 +64,81 @@ const blogPosting = {
     <meta property="article:section" content={cat.name} />
   </Fragment>
   <article>
-    <header class="hero">
-      <Image src={hero.src} alt={d.heroAlt} widths={[640, 1024, 1600, 2000]} sizes="100vw" loading="eager" fetchpriority="high" format="webp" />
-      <div class="wrap hero-article">
+    <header class="header header--article">
+      <Image class="header__media" src={hero.src} alt={d.heroAlt} widths={[640, 1024, 1600, 2000]} sizes="100vw" loading="eager" fetchpriority="high" format="webp" />
+      <div class="header__shade"></div>
+      <Lines />
+      <div class="header__content">
         <div>
-          {d.advertisement && <p><span class="adlabel">Advertisement feature</span>{d.advertiser && <span> · Paid for by {d.advertiser}</span>}</p>}
-          <p class="kicker" style="font-size:clamp(1.2rem,1vw + 0.9rem,1.6rem)">{kicker}</p>
-          <h1>{d.title}</h1>
+          <p class="header__countries">
+            {em.length === 0 ? 'United Arab Emirates' : em.length === 7 ? 'All seven emirates' : em.slice(0, 3).map((k, i) => <>{i > 0 && ', '}<a href={`/destinations/${k}/`}>{emirateByKey(k).name}</a></>)}{em.length > 3 && em.length < 7 && <> +{em.length - 3}</>}
+          </p>
+          <h1 class="header__title">{d.title}</h1>
         </div>
-        <div class="meta-panel">
-          <div><time datetime={isoDate(d.published)}>{formatDate(d.published)}</time><span aria-hidden="true">·</span><span>{mins} min read</span></div>
-          <div><PostTags post={post} variant="outline" max={4} /></div>
-          <div><span>Written by <a href={`/authors/#${author.key}`}>{author.name}</a></span></div>
+        <div class="header__facts">
+          <div class="header__fact"><time datetime={isoDate(d.published)}>{formatDate(d.published)}</time><span aria-hidden="true">·</span><span>{mins} min read</span></div>
+          <div class="header__fact">
+            {d.advertisement && <span class="pill-o ad">Advertisement feature</span>}
+            <a class="pill-o" href={`/${cat.key}/`}>{cat.name}</a>
+            {d.startHere && <a class="pill-o" href="/#journey-title">Start here</a>}
+          </div>
+          <div class="header__fact"><span class="header__authors-label">Written by:</span> <a href={`/authors/#${author.key}`}>{author.name}</a></div>
         </div>
       </div>
-      <p class="credit"><PhotoCredit credit={hero.credit} /></p>
+      <p class="header__label">Photo: <a href={hero.credit.source}>{hero.credit.author}</a> · <a href={hero.credit.licenseUrl || hero.credit.source}>{hero.credit.license}</a></p>
     </header>
 
-    <div class="article-bg">
-      <div class="wrap">
-        <Crumbs items={[{ name: cat.name, path: `/${cat.key}/` }, { name: d.title }]} />
-        <p class="intro">{d.description}</p>
-        <p class="factcheck">
-          <strong>Last updated <time datetime={isoDate(d.updated)}>{formatDate(d.updated)}</time>.</strong>
-          Visa rules, opening arrangements and other facts in this story link to their official source. They can change, so check them before you travel.
-        </p>
-        <div class="prose">
-          <Content />
-        </div>
-
-        <aside class="plan" aria-labelledby="plan-title">
-          <h2 id="plan-title">Plan this trip</h2>
-          <p>{d.plan}</p>
-          <a class="btn white" href={SITE.directoryUrl}>Find a verified UAE operator on Tourground</a>
-          <p class="small">Tourground is the publisher of The Emirates Guide. The link goes to its directory of verified local travel companies. See our <a href="/disclosure/">publisher disclosure</a>.</p>
-        </aside>
-
-        {d.sources.length > 0 && (
-          <section class="sources" aria-labelledby="sources-title">
-            <h2 id="sources-title">Sources</h2>
-            <p>Checked on {formatDate(d.updated)}. Rules and arrangements change: check the source before you book.</p>
-            <ol>
-              {d.sources.map((s) => (
-                <li><a href={s.url}>{s.title}</a><span class="host">{hosts(s.url)}</span></li>
-              ))}
-            </ol>
-          </section>
-        )}
-
-        <div class="byline-box">
-          <p><strong>{author.name}</strong>, {author.role}. {author.bio}</p>
-          <p style="margin:0">Spotted something out of date? Email <a href={`mailto:${SITE.email}?subject=${encodeURIComponent('Correction: ' + d.title)}`}>{SITE.email}</a>.</p>
-        </div>
+    <div class="article">
+      <Crumbs items={[{ name: cat.name, path: `/${cat.key}/` }, { name: d.title }]} />
+      {d.advertisement && <p class="article__updated" style="background:var(--ad)">Advertisement feature{d.advertiser && <> · Paid for by {d.advertiser}</>}</p>}
+      <p class="article__intro">{d.description}</p>
+      <p class="article__updated">Last updated <time datetime={isoDate(d.updated)}>{formatDate(d.updated)}</time>. Facts that can change link to their official source: check them before you travel.</p>
+      <div class="prose">
+        <Content />
       </div>
+
+      {d.sources.length > 0 && (
+        <section class="sources" aria-labelledby="sources-title">
+          <h2 id="sources-title">Sources</h2>
+          <p>Checked on {formatDate(d.updated)}. Rules and arrangements change: check the source before you book.</p>
+          <ol>{d.sources.map((s) => <li><a href={s.url}>{s.title}</a><span class="host">{hosts(s.url)}</span></li>)}</ol>
+        </section>
+      )}
+
+      <p class="byline">Written by <a href={`/authors/#${author.key}`}>{author.name}</a>, {author.role}. Spotted something out of date? Email <a href={`mailto:${SITE.email}?subject=${encodeURIComponent('Correction: ' + d.title)}`}>{SITE.email}</a>.</p>
+
+      <aside class="plan-card" aria-labelledby="plan-title">
+        <div class="bn-card bn-card--red">
+          <h2 class="bn-card__title" id="plan-title">Plan this trip</h2>
+          <p class="bn-card__text">{d.plan}</p>
+          <p><a class="action white" href={SITE.directoryUrl}>Find a verified UAE operator on Tourground <span class="arrow" aria-hidden="true">↗</span></a></p>
+          <p class="bn-card__text">Tourground publishes The Emirates Guide. The link goes to its directory of verified local travel companies. See our <a href="/disclosure/">publisher disclosure</a>.</p>
+        </div>
+      </aside>
     </div>
   </article>
 
-  <section class="section black" aria-labelledby="related-title">
-    <div class="wrap">
-      <div class="section-head">
-        <div>
-          <h2 id="related-title" class="section-title">Related stories</h2>
-          <p class="section-sub">Keep planning</p>
-        </div>
-        <a class="btn" href={`/${cat.key}/`}>More in {cat.name}</a>
-      </div>
-      <ul class="swipe">
-        {rel.map((r) => <li><PostCard post={r} /></li>)}
-      </ul>
+  <section class="related" aria-labelledby="related-title">
+    <div>
+      <p class="related__label">More ideas</p>
+      <h2 class="related__title" id="related-title">You might also like these stories</h2>
+      <p class="related__description">More from The Emirates Guide on {cat.name.toLowerCase()} and the same emirates.</p>
     </div>
+    <ul class="related__cards">
+      {rel.map((r) => {
+        const ph = photo(r.data.hero);
+        return (
+          <li>
+            <a class="card-circuit__link" href={postUrl(r)}>
+              <Image src={ph.src} alt="" widths={[300, 600]} sizes="(min-width: 1024px) 261px, 310px" loading="lazy" format="webp" />
+              <h3 class="card-circuit__title"><i>{categoryByKey(r.data.category).name}</i>{r.data.title}</h3>
+              <span class="card-circuit__details"><span>{readingMinutes(r)} min read</span><span>{formatDate(r.data.published)}</span></span>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
   </section>
+
+  <Newsletter />
 </Base>

@@ -22,24 +22,19 @@ const place = {
 };
 ---
 <Base title={`${em.name} travel guide`} description={`${em.name}: what the emirate is like, who it suits, and our stories on visiting it. ${em.intro.split('. ')[0]}.`} crumbs={[{ name: 'Destinations', path: '/destinations/' }, { name: em.name, path: `/destinations/${em.key}/` }]} schema={[place]} current="destinations">
-  <PageHero title={em.name} eyebrow="Destinations · United Arab Emirates" lede={em.intro} photoKey={em.photo} alt={em.photoAlt} />
-  <div class="wrap"><Crumbs items={[{ name: 'Destinations', path: '/destinations/' }, { name: em.name }]} /></div>
-  <section class="section" aria-labelledby="em-stories" style="padding-top:32px">
-    <div class="wrap">
-      <p style="font-size:0.95rem;color:var(--muted);margin-bottom:32px">About this emirate: <a href={EMIRATES_SOURCE.url}>{EMIRATES_SOURCE.title}</a>.{em.official && <> Official tourism site: <a href={em.official.url}>{em.official.name}</a>.</>}</p>
-      <h2 id="em-stories" class="red-title" style="margin-bottom:28px">Stories about {em.name}</h2>
-      {posts.length ? (
-        <ul class="grid three">{posts.map((p) => <li><PostCard post={p} /></li>)}</ul>
-      ) : (
-        <p>We have no stories focused on {em.name} yet. Start with <a href="/stories/uae-first-timers-guide-seven-emirates/">the first-timer's guide to all seven emirates</a>.</p>
-      )}
-    </div>
-  </section>
-  <section class="section grey" aria-labelledby="em-others">
-    <div class="wrap">
-      <h2 id="em-others" class="red-title" style="margin-bottom:20px">The other emirates</h2>
-      <ul class="chips">{others.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}</ul>
-    </div>
+  <PageHero title={em.name} eyebrow="Destinations · United Arab Emirates" photoKey={em.photo} alt={em.photoAlt} />
+  <section class="listing" aria-labelledby="em-stories">
+    <Crumbs items={[{ name: 'Destinations', path: '/destinations/' }, { name: em.name }]} />
+    <p class="em-intro">{em.intro}</p>
+    <p class="em-source">Source: <a href={EMIRATES_SOURCE.url}>{EMIRATES_SOURCE.title}</a>.{em.official && <> Official tourism site: <a href={em.official.url}>{em.official.name}</a>.</>}</p>
+    <div class="listing__head" style="margin-top:64px"><h2 class="listing__title" id="em-stories">Stories about {em.name}</h2></div>
+    {posts.length ? (
+      <ul class="post-grid">{posts.map((p) => <li><PostCard post={p} /></li>)}</ul>
+    ) : (
+      <p>We have no stories focused on {em.name} yet. Start with <a href="/stories/uae-first-timers-guide-seven-emirates/">the first-timer's guide to all seven emirates</a>.</p>
+    )}
+    <h2 class="listing__title" style="margin:64px 0 24px;font-size:28.8px;line-height:30px">The other emirates</h2>
+    <ul class="chips">{others.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}</ul>
   </section>
   <Newsletter />
 </Base>

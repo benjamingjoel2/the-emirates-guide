@@ -17,10 +17,10 @@ const host = (u: string) => new URL(u).hostname.replace(/^www\./, '');
 ---
 <Base title={title} description={description} crumbs={[{ name: title, path }]} schema={[page]} current={path === '/about/' ? 'about' : undefined}>
   <PageHero title={title} eyebrow={section} lede={description} />
-  <div class="wrap">
+  <div class="page">
     <Crumbs items={[{ name: title }]} />
-    <div class="page-body prose">
-      <p class="page-meta">Published {formatDate(reviewed)} · Last reviewed {formatDate(reviewed)} · Edited by The Emirates Guide editors, Tourground</p>
+    <p class="page__meta">Published {formatDate(reviewed)} · Last reviewed {formatDate(reviewed)} · Edited by The Emirates Guide editors, Tourground</p>
+    <div class="prose">
       <slot />
       <h2>Contact</h2>
       <dl class="facts">
@@ -28,12 +28,12 @@ const host = (u: string) => new URL(u).hostname.replace(/^www\./, '');
         <dt>Email</dt><dd><a href={`mailto:${SITE.email}`}>{SITE.email}</a></dd>
         <dt>Postal address</dt><dd>Our postal address is being confirmed. Until it is published here, please write to us by email.</dd>
       </dl>
-      {sources.length > 0 && (
-        <section class="sources" style="padding-bottom:0" aria-labelledby="src-h">
-          <h2 id="src-h">Sources</h2>
-          <ol>{sources.map((s) => <li><a href={s.url}>{s.title}</a><span class="host">{host(s.url)}</span></li>)}</ol>
-        </section>
-      )}
     </div>
+    {sources.length > 0 && (
+      <section class="sources" aria-labelledby="src-h">
+        <h2 id="src-h">Sources</h2>
+        <ol>{sources.map((s) => <li><a href={s.url}>{s.title}</a><span class="host">{host(s.url)}</span></li>)}</ol>
+      </section>
+    )}
   </div>
 </Base>

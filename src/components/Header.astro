@@ -1,49 +1,105 @@
 ---
 import { CATEGORIES, EMIRATES, SITE } from '../data/site';
+import { allPosts, postUrl } from '../lib/posts';
 const { current } = Astro.props as { current?: string };
+const posts = await allPosts();
+const index = posts.map((p) => ({ t: p.data.title, d: p.data.description, u: postUrl(p) }));
+const isCat = (k: string) => (current === k ? 'page' : undefined);
 ---
-<header class="site-header">
-  <div class="wrap bar">
-    <a class="wordmark" href="/" aria-label={`${SITE.name}, home`}><small>Tourground</small>The Emirates Guide</a>
-    <nav class="pillnav" aria-label="Main">
-      <ul>
-        <li><a href="/" aria-current={current === 'home' ? 'page' : undefined}>Home</a></li>
-        {CATEGORIES.map((c) => <li><a href={`/${c.key}/`} aria-current={current === c.key ? 'page' : undefined}>{c.name}</a></li>)}
-        <li><a href="/about/" aria-current={current === 'about' ? 'page' : undefined}>About</a></li>
-      </ul>
-    </nav>
-    <div class="header-right">
-      <a class="header-link" href={SITE.directoryUrl}>Find an operator</a>
-      <details class="menu">
-        <summary>Menu</summary>
-        <div class="menu-panel" role="dialog" aria-modal="true" aria-label="Site menu">
-          <div class="close"><button class="btn white" type="button" data-close>Close</button></div>
-          <nav aria-label="Site menu">
-            <ul class="main">
-              <li><a href="/">Home</a></li>
-              <li><a href="/stories/">All stories</a></li>
-              {CATEGORIES.map((c) => <li><a href={`/${c.key}/`}>{c.name}</a></li>)}
-              <li><a href="/about/">About</a></li>
-            </ul>
-            <ul class="sub" aria-label="Emirates">
-              {EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}
-            </ul>
-            <p style="margin-top:28px"><a class="btn" href={SITE.directoryUrl}>Find a verified operator on Tourground</a></p>
-          </nav>
-        </div>
-      </details>
-    </div>
+<nav class="nav" aria-label="Main">
+  <a class="nav__logo" href="/" aria-label={`${SITE.name}, home`}><small>Tourground</small><span>The Emirates Guide</span></a>
+  <div class="nav-bar">
+    <ul class="nav-bar__list">
+      <li class="nav-bar__item"><a class="nav-bar__link" href="/" aria-current={isCat('home')}>Home</a></li>
+      <li class="nav-bar__item" data-dropdown>
+        <button class="nav-bar__link" type="button" aria-expanded="false" aria-controls="dd-dest">Destinations <span class="chev" aria-hidden="true">▾</span></button>
+        <ul class="nav-bar__dropdown" id="dd-dest">
+          <li><a href="/destinations/">All seven emirates</a></li>
+          {EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}
+        </ul>
+      </li>
+      {CATEGORIES.filter((c) => c.key !== 'destinations').map((c) => <li class="nav-bar__item"><a class="nav-bar__link" href={`/${c.key}/`} aria-current={isCat(c.key)}>{c.name}</a></li>)}
+      <li class="nav-bar__item" data-dropdown>
+        <button class="nav-bar__link" type="button" aria-expanded="false" aria-controls="dd-about">About <span class="chev" aria-hidden="true">▾</span></button>
+        <ul class="nav-bar__dropdown" id="dd-about">
+          <li><a href="/about/">About us</a></li>
+          <li><a href="/authors/">Authors</a></li>
+          <li><a href="/disclosure/">Publisher disclosure</a></li>
+          <li><a href="/stories/">All stories</a></li>
+        </ul>
+      </li>
+      <li class="nav-bar__item nav-bar__item--search"><button class="nav-bar__search" type="button" data-open="search" aria-label="Search stories">⌕</button></li>
+    </ul>
   </div>
-</header>
+  <div class="nav__right">
+    <a class="nav__extranet" href={SITE.directoryUrl}><span>Find a verified operator</span><span class="round-btn" aria-hidden="true">↗</span></a>
+    <button class="nav__burger" type="button" data-open="menu" aria-haspopup="dialog">Menu</button>
+  </div>
+</nav>
+
+<div class="overlay" id="menu" role="dialog" aria-modal="true" aria-label="Menu">
+  <div class="overlay__top"><a class="overlay__brand" href="/">The Emirates Guide</a><button class="overlay__close" type="button" data-close>Close</button></div>
+  <ul class="overlay__menu">
+    <li><a href="/">Home</a></li>
+    {CATEGORIES.map((c) => <li><a href={`/${c.key}/`}>{c.name}</a></li>)}
+    <li><a href="/stories/">All stories</a></li>
+    <li><a href="/about/">About</a></li>
+  </ul>
+  <ul class="overlay__sub" aria-label="Emirates">{EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}</ul>
+  <p style="display:flex;gap:8px;flex-wrap:wrap"><button class="action white" style="border:1px solid #000" type="button" data-open="search">Search stories</button><a class="action" href={SITE.directoryUrl}>Find a verified operator <span class="arrow" aria-hidden="true">↗</span></a></p>
+</div>
+
+<div class="overlay" id="search" role="dialog" aria-modal="true" aria-label="Search">
+  <div class="overlay__top"><a class="overlay__brand" href="/">The Emirates Guide</a><button class="overlay__close" type="button" data-close>Close</button></div>
+  <div class="search-box">
+    <label for="q">Search our stories</label>
+    <input id="q" type="search" autocomplete="off" placeholder="Ramadan, desert, Fujairah…" aria-describedby="q-status" />
+    <p id="q-status" class="visually-hidden" role="status" aria-live="polite"></p>
+    <ul class="search-results" id="q-results"></ul>
+  </div>
+</div>
+
+<script type="application/json" id="search-index" set:html={JSON.stringify(index)} />
 <script>
-  const d = document.querySelector<HTMLDetailsElement>('.menu');
-  if (d) {
-    const close = () => { d.open = false; document.body.style.overflow = ''; d.querySelector('summary')?.focus(); };
-    d.addEventListener('toggle', () => {
-      document.body.style.overflow = d.open ? 'hidden' : '';
-      if (d.open) d.querySelector<HTMLElement>('[data-close]')?.focus();
-    });
-    d.querySelector('[data-close]')?.addEventListener('click', close);
-    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && d.open) close(); });
-  }
+  // Dropdowns
+  document.querySelectorAll<HTMLElement>('[data-dropdown]').forEach((item) => {
+    const btn = item.querySelector('button')!;
+    const set = (open: boolean) => { item.classList.toggle('open', open); btn.setAttribute('aria-expanded', String(open)); };
+    let hoverAt = 0;
+    btn.addEventListener('click', () => { if (Date.now() - hoverAt < 600) return; set(!item.classList.contains('open')); });
+    item.addEventListener('mouseenter', () => { hoverAt = Date.now(); set(true); });
+    item.addEventListener('mouseleave', () => set(false));
+    item.addEventListener('focusout', (e) => { if (!item.contains(e.relatedTarget as Node)) set(false); });
+    item.addEventListener('keydown', (e) => { if (e.key === 'Escape') { set(false); btn.focus(); } });
+  });
+  // Overlays (menu, search)
+  let opener: HTMLElement | null = null;
+  const open = (id: string, from: HTMLElement) => {
+    document.querySelectorAll('.overlay.open').forEach((o) => o.classList.remove('open'));
+    const el = document.getElementById(id)!;
+    opener = from; el.classList.add('open'); document.body.style.overflow = 'hidden';
+    (el.querySelector('input') ?? el.querySelector('[data-close]') as HTMLElement)?.focus();
+  };
+  const close = () => {
+    document.querySelectorAll('.overlay.open').forEach((o) => o.classList.remove('open'));
+    document.body.style.overflow = ''; opener?.focus();
+  };
+  document.querySelectorAll<HTMLElement>('[data-open]').forEach((b) => b.addEventListener('click', () => open(b.dataset.open!, b)));
+  document.querySelectorAll('[data-close]').forEach((b) => b.addEventListener('click', close));
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && document.querySelector('.overlay.open')) close(); });
+  // Search
+  const idx: { t: string; d: string; u: string }[] = JSON.parse(document.getElementById('search-index')!.textContent || '[]');
+  const q = document.getElementById('q') as HTMLInputElement, list = document.getElementById('q-results')!, st = document.getElementById('q-status')!;
+  q?.addEventListener('input', () => {
+    const v = q.value.trim().toLowerCase();
+    list.innerHTML = '';
+    if (!v) { st.textContent = ''; return; }
+    const hits = idx.filter((p) => (p.t + ' ' + p.d).toLowerCase().includes(v));
+    for (const h of hits) {
+      const li = document.createElement('li'), a = document.createElement('a'), s = document.createElement('strong'), sp = document.createElement('span');
+      a.href = h.u; s.textContent = h.t; sp.textContent = h.d; a.append(s, sp); li.append(a); list.append(li);
+    }
+    st.textContent = hits.length ? `${hits.length} stories found` : 'No stories found';
+    if (!hits.length) { const li = document.createElement('li'); li.textContent = 'No stories match. Try another word.'; li.style.padding = '12px 0'; list.append(li); }
+  });
 </script>

@@ -1,52 +1,47 @@
 ---
 import { Image } from 'astro:assets';
-import PhotoCredit from './PhotoCredit.astro';
 import { SITE } from '../data/site';
 import { photo } from '../lib/photos';
 const a = photo('ajman-corniche');
 const b = photo('liwa-dune');
+const credit = (c: typeof a.credit) => `${c.author} · ${c.license}`;
 ---
-<section class="section" aria-label="Newsletter and trip planning">
-  <div class="wrap panels">
-    <div class="panel">
-      <Image src={a.src} alt="" widths={[640, 1000]} sizes="(min-width: 900px) 50vw, 100vw" loading="lazy" format="webp" />
-      <h2 id="nl-title">Sign up to our newsletter</h2>
-      <p>New stories, and updates when rules change. Sent occasionally; unsubscribe at any time.</p>
-      <form id="nl-form" class="nl-form" action={`mailto:${SITE.email}`} method="post" enctype="text/plain" novalidate aria-labelledby="nl-title">
+<section class="banner-newsletter" aria-label="Newsletter and booking">
+  <div class="bn-card">
+    <Image src={a.src} alt="" widths={[640, 1000]} sizes="(min-width: 1024px) 50vw, 100vw" loading="lazy" format="webp" />
+    <h2 class="bn-card__title" id="nl-title">Sign up to our newsletter</h2>
+    <form id="nl-form" action={`mailto:${SITE.email}`} method="post" enctype="text/plain" novalidate aria-labelledby="nl-title">
+      <div class="nl-form__box">
         <label for="nl-email" class="visually-hidden">Email address</label>
-        <input id="nl-email" name="email" type="email" autocomplete="email" required placeholder="Your email address" aria-describedby="nl-note" />
-        <button class="btn" type="submit">Sign up</button>
-      </form>
+        <input id="nl-email" name="email" type="email" autocomplete="email" required placeholder="Enter your email address" />
+        <button class="action" type="submit" id="nl-submit" disabled>Confirm <span class="arrow" aria-hidden="true">↗</span></button>
+      </div>
+      <label class="nl-form__consent"><input type="checkbox" id="nl-consent" /> <span>I agree to my email address being used to send me the newsletter. <a href="/privacy/">Privacy policy</a>.</span></label>
       <p id="nl-status" class="form-status" role="status" aria-live="polite"></p>
-      <p id="nl-note" class="small">Signing up opens an email to {SITE.email} with your address, which you then send. See our <a href="/privacy/">privacy policy</a>.</p>
-      <p class="credit"><PhotoCredit credit={a.credit} /></p>
-    </div>
-    <div class="panel">
-      <Image src={b.src} alt="" widths={[640, 1000]} sizes="(min-width: 900px) 50vw, 100vw" loading="lazy" format="webp" />
-      <h2>Book with a verified local operator</h2>
-      <p>The Emirates Guide is published by Tourground, which runs a directory of verified local travel companies. When you are ready to book, start there.</p>
-      <p><a class="btn" href={SITE.directoryUrl}>Find an operator on Tourground</a></p>
-      <p class="small">See our <a href="/disclosure/">publisher disclosure</a>.</p>
-      <p class="credit"><PhotoCredit credit={b.credit} /></p>
-    </div>
+    </form>
+    <p class="bn-card__credit"><a href={a.credit.source}>Photo: {credit(a.credit)}</a></p>
+  </div>
+  <div class="bn-card">
+    <Image src={b.src} alt="" widths={[640, 1000]} sizes="(min-width: 1024px) 50vw, 100vw" loading="lazy" format="webp" />
+    <h2 class="bn-card__title">Book your UAE trip with a verified local operator</h2>
+    <p class="bn-card__text">The Emirates Guide is published by Tourground,<br />which runs a directory of verified local travel companies.<br />How this works: <a href="/disclosure/">publisher disclosure</a>.</p>
+    <p><a class="action" href={SITE.directoryUrl}>Find a verified operator on Tourground <span class="arrow" aria-hidden="true">↗</span></a></p>
+    <p class="bn-card__credit"><a href={b.credit.source}>Photo: {credit(b.credit)}</a></p>
   </div>
 </section>
 <script>
   const form = document.getElementById('nl-form') as HTMLFormElement | null;
+  const consent = document.getElementById('nl-consent') as HTMLInputElement | null;
+  const submit = document.getElementById('nl-submit') as HTMLButtonElement | null;
+  consent?.addEventListener('change', () => { if (submit) submit.disabled = !consent.checked; });
   form?.addEventListener('submit', (e) => {
     e.preventDefault();
-    const input = form.querySelector('input') as HTMLInputElement;
+    const input = form.querySelector('input[type=email]') as HTMLInputElement;
     const status = document.getElementById('nl-status')!;
-    if (!input.value || !input.checkValidity()) {
-      status.textContent = 'Please enter a valid email address.';
-      input.setAttribute('aria-invalid', 'true');
-      input.focus();
-      return;
-    }
+    if (!input.value || !input.checkValidity()) { status.textContent = 'Please enter a valid email address.'; input.setAttribute('aria-invalid', 'true'); input.focus(); return; }
     input.removeAttribute('aria-invalid');
     const to = form.action.replace('mailto:', '');
-    const body = encodeURIComponent(`Please add ${input.value} to The Emirates Guide newsletter.`);
-    window.location.href = `mailto:${to}?subject=${encodeURIComponent('Newsletter sign-up')}&body=${body}`;
+    window.location.href = `mailto:${to}?subject=${encodeURIComponent('Newsletter sign-up')}&body=${encodeURIComponent(`Please add ${input.value} to The Emirates Guide newsletter.`)}`;
     status.textContent = 'Your email app should open with the sign-up message ready to send.';
   });
 </script>

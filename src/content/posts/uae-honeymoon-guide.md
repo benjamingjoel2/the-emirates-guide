@@ -65,8 +65,6 @@ The Dubai Desert Conservation Reserve lists a [private desert dinner](https://ww
 
 In Ras Al Khaimah, Jais Viewing Deck Park runs along a ridge with [seven viewing decks](https://visitrasalkhaimah.com/discover/attractions/jais-viewing-deck-park/), looking over the mountains on one side and the Arabian Gulf on the other. The tourism board says the sun tends to set between 17.30 and 18.00 through the year, and on Fridays and Saturdays the park stays open until 11:00pm. Up on Jebel Jais, it is usually [10°C cooler than other parts of the emirate](https://visitrasalkhaimah.com/location/place/jebel-jais/), which makes a welcome change from the coast.
 
-If you would rather leave the adrenaline to others, you can watch people launch from Jais Flight, which the tourism board calls the world's longest zipline, from the comfort of a viewing deck.
-
 ### Art, water and light in Abu Dhabi
 
 Louvre Abu Dhabi is one of the most quietly romantic places in the country. Under the dome, sunlight passes through layers of geometric stars and scatters across the floor in what the architect called the ["rain of light"](https://visitabudhabi.ae/en/things-to-do/culture/museums-and-art/louvre-abu-dhabi). Visit Abu Dhabi also notes guided kayaking tours around and beneath the dome, a memorable way to see the building from the water. The museum is closed on Mondays.
@@ -79,7 +77,7 @@ For something quieter, Visit Abu Dhabi suggests [camping or glamping at Jebel Ha
 
 ### Islands and open space in Al Dhafra
 
-If you want real distance from the cities, Abu Dhabi's western Al Dhafra region offers [desert and island spa stays](https://www.visitabudhabi.ae/en/where-to-go/regions/al-dhafra), the Liwa dunes and wildlife encounters on Sir Bani Yas Island. Visit Abu Dhabi says driving there typically takes around two to three hours from the capital, so give it at least two nights.
+If you want real distance from the cities, Abu Dhabi's western Al Dhafra region offers desert and island spa stays, the Liwa dunes and wildlife encounters on Sir Bani Yas Island. Visit Abu Dhabi says driving there typically takes [around two to three hours from the capital](https://www.visitabudhabi.ae/en/where-to-go/regions/al-dhafra), so give it at least two nights.
 
 ### A beach on the other coast
 
@@ -91,7 +89,7 @@ None of this should put you off, but you should know it before you go.
 
 ### Affection in public
 
-The UK government says plainly that [showing affection in public is frowned upon, and you can be arrested for kissing in public](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security). Holding hands is generally fine; save anything more for your room. This applies in malls, on beaches and in the desert camp as much as on the street.
+The UK government says plainly that [showing affection in public is frowned upon, and you can be arrested for kissing in public](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security). Keep affection for your room. This applies in malls, on beaches and in the desert camp as much as on the street.
 
 ### LGBT+ couples
 

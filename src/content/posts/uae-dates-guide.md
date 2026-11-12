@@ -21,19 +21,19 @@ sources:
     url: "https://www.mediaoffice.abudhabi/en/arts-culture/22nd-liwa-dates-festival-attracts-record-breaking-participation-and-visitor-numbers/"
   - title: "The National: Abu Dhabi's date market bustles as traders enjoy Ramadan boost"
     url: "https://www.thenationalnews.com/uae/heritage/abu-dhabi-s-date-market-bustles-as-traders-enjoy-ramadan-boost-1.1203105"
+  - title: "Visit Abu Dhabi: Dates, chocolates and sweets"
+    url: "https://visitabudhabi.ae/en/plan-your-trip/what-to-buy-and-souvenirs/dates-chocolates-and-sweets"
   - title: "Visit Abu Dhabi: What to buy and souvenirs"
     url: "https://visitabudhabi.ae/en/plan-your-trip/what-to-buy-and-souvenirs"
   - title: "Visit Abu Dhabi: Local cuisine"
     url: "https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/local-cuisine"
-  - title: "Visit Abu Dhabi: Dates, chocolates and sweets"
-    url: "https://visitabudhabi.ae/en/plan-your-trip/what-to-buy-and-souvenirs/dates-chocolates-and-sweets"
   - title: "UAE Government Portal (u.ae): Ramadan"
     url: "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/ramadan"
   - title: "Visit Ras Al Khaimah: Emirati flavours, traditional food of the UAE"
     url: "https://visitrasalkhaimah.com/blog/emirati-flavors-traditional-food-uae/"
 ---
 
-Walk into a date shop in the UAE and the first thing you notice is the colour range. Amber, chestnut, near-black, honey-gold; some glossy and wrinkled, some firm and matt, some so soft they slump in the tray. Then the seller offers you one to try, and then another, and you realise you have never really tasted a date before.
+Walk into a date shop in the UAE and the first thing you notice is the colour range. Amber, chestnut, near-black, honey-gold; some glossy and wrinkled, some firm and matt, some so soft they slump in the tray. Then the seller offers you one to try, and then another, and you realise you have never really tasted dates before. In the UAE, they are a whole culture of their own.
 
 Dates in the UAE are not a dried fruit in a plastic box. They are a welcome, a staple, a festival, a harvest and the first thing eaten at sunset in Ramadan. For visitors, they are also one of the easiest ways to taste local culture: no booking, no reservation, just a market stall and a little curiosity.
 

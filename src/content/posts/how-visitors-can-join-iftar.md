@@ -21,12 +21,12 @@ sources:
     url: "https://visitabudhabi.ae/en/plan-your-trip/article-hub/traditional-emirati-experiences"
   - title: "Sheikh Zayed Grand Mosque Center: Ramadan Kareem"
     url: "https://szgmc.gov.ae/en/worshippers/ramadan-kareem"
+  - title: "Visit Ras Al Khaimah: Emirati flavours, traditional food of the UAE"
+    url: "https://visitrasalkhaimah.com/blog/emirati-flavors-traditional-food-uae/"
   - title: "GOV.UK (FCDO): United Arab Emirates travel advice, safety and security"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "Visit Ras Al Khaimah: All social customs and etiquette every female traveler should know"
     url: "https://visitrasalkhaimah.com/blog/all-social-customs-and-etiquette-every-female-traveler-should-know/"
-  - title: "Visit Ras Al Khaimah: Emirati flavours, traditional food of the UAE"
-    url: "https://visitrasalkhaimah.com/blog/emirati-flavors-traditional-food-uae/"
 ---
 
 The room is full, the food is out, and nobody is eating. Glasses of water stand untouched beside small plates of dates. Conversation is quiet. Then, somewhere outside, the call to prayer begins, and the whole table moves at once.

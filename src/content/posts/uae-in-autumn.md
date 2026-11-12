@@ -19,6 +19,8 @@ sources:
     url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/weather-in-abu-dhabi/summer"
   - title: "The National: Midday break for outdoor workers to begin on June 15"
     url: "https://www.thenationalnews.com/news/uae/2026/06/04/midday-break-for-outdoor-workers-to-begin-on-june-15/"
+  - title: "Visit Abu Dhabi: Climate and what to wear"
+    url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear"
   - title: "NHS: Heat exhaustion and heatstroke"
     url: "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/"
   - title: "UK FCDO: United Arab Emirates travel advice, safety and security"
@@ -27,12 +29,10 @@ sources:
     url: "https://www.visitabudhabi.ae/en/events"
   - title: "Visit Dubai: Dubai Fitness Challenge"
     url: "https://www.visitdubai.com/en/whats-on/dubai-events-calendar/dubai-fitness-challenge"
-  - title: "Visit Abu Dhabi: Climate and what to wear"
-    url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear"
-  - title: "National Centre of Meteorology (UAE)"
-    url: "https://www.ncm.gov.ae/?lang=en"
   - title: "UAE Government Portal (u.ae): Public holidays"
     url: "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  - title: "National Centre of Meteorology (UAE)"
+    url: "https://www.ncm.gov.ae/?lang=en"
 ---
 
 There is a particular evening, usually some time in October, when you step outside after sunset and realise the air no longer feels heavy. People linger on the corniche. Café tables move back out onto the pavement. The city exhales.
@@ -54,6 +54,8 @@ Plan September around indoor sights at midday and the beach or waterfront early 
 ### October: the turn
 
 October is the month the year changes direction. The middle of the day is still hot, but Visit Ras Al Khaimah notes that in autumn [early mornings and evenings are very pleasant](https://visitrasalkhaimah.com/blog/ras-al-khaimah-weather/), and suggests it is ideal for sunrises and sunsets, mountain trips and the views from Dhayah Fort. The second half of October is a sweet spot for a beach holiday: warm water, softer light, and fewer people than in midwinter.
+
+It is also a good month to test the outdoors before committing to it. Try a short sunrise walk or an evening on the water early in your trip, see how the heat feels, and then decide whether a longer hike or a full desert afternoon makes sense. Families with young children, in particular, tend to find the cooler edges of the day far easier.
 
 ### November: the outdoor season opens
 

@@ -1,6 +1,6 @@
 ---
 title: "Saffron, loomi and camel milk: flavours to try in the UAE"
-description: "The Emirati flavours to try in the UAE: saffron, cardamom, loomi dried lime, date syrup and camel milk, what they taste like, which dishes use them and where to buy."
+description: "Emirati flavours to try in the UAE: saffron, cardamom, loomi dried lime, date syrup and camel milk, what each tastes like and where to find them."
 category: "food-culture"
 emirates: []
 published: 2026-11-12
@@ -31,7 +31,7 @@ sources:
     url: "https://cultures.ae/program/cultural-meals"
 ---
 
-Pick up a loomi in a souk and it feels like nothing: a dark, hollow, papery ball, lighter than a ping-pong ball. Crack it open and the smell hits you, sharp, sour and faintly smoky, nothing like the fresh lime it once was. Drop it into a pot of rice and meat, and it changes the whole dish.
+Pick up a loomi in a souk and it feels like nothing: a dark, hollow, papery ball, lighter than a ping-pong ball. Crack it open and the smell hits you, sharp, sour and faintly smoky, nothing like the fresh lime it once was. Drop it into a pot of rice and meat, and it changes the whole dish. Of all the Emirati flavours to try, it is the one that surprises people most.
 
 That is the quiet trick of Emirati cooking. It does not rely on chilli heat or long lists of ingredients. It relies on a handful of strong, specific flavours used with confidence: saffron, cardamom, dried lime, date syrup, and in the desert, camel milk.
 
@@ -87,7 +87,7 @@ In the desert and mountains, the UAE portal explains, Emiratis [largely relied o
 
 The friendliest introduction is chocolate. Visit Abu Dhabi describes camel milk chocolate as made by [blending camel milk with vanilla, honey and cocoa beans](https://visitabudhabi.ae/en/plan-your-trip/what-to-buy-and-souvenirs/dates-chocolates-and-sweets), sold in bars, pralines and camel-shaped figurines in souvenir shops and supermarkets. Its souvenir guide adds that it is [slightly saltier than cow's milk chocolate](https://visitabudhabi.ae/en/plan-your-trip/what-to-buy-and-souvenirs), sometimes infused with dates, nuts or local spices.
 
-## Where to taste and buy these flavours
+## Where to taste and buy Emirati flavours
 
 ### In souks and markets
 

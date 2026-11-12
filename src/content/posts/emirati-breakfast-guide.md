@@ -29,11 +29,11 @@ sources:
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
 ---
 
-The plate that arrives looks like a dessert: a tangle of golden vermicelli, glinting with sugar and flecked with saffron. Then your fork reaches the thin layer of egg on top, and the whole thing turns savoury in your mouth.
+The first plate of an Emirati breakfast often looks like a dessert: a tangle of golden vermicelli, glinting with sugar and flecked with saffron. Then your fork reaches the thin layer of egg on top, and the whole thing turns savoury in your mouth.
 
 That is balaleet, and it is the best possible argument for skipping the hotel buffet one morning. An Emirati breakfast is warm bread, sesame, honey, date syrup, cardamom and saffron, served slowly and usually with coffee. Nothing is fiery, nothing is heavy in the way a fry-up is heavy, and almost every dish is something you will not have eaten anywhere else.
 
-If you only have time for one Emirati meal, breakfast is a very good choice. The three dishes to know by name are balaleet, khameer and chebab (also spelt chabab), and below we explain what each is, how to eat it, and where visitors can reliably find them.
+The three dishes to know by name are balaleet, khameer and chebab (also spelt chabab), and below we explain what each is, how to eat it, and where visitors can reliably find them.
 
 ## Why breakfast is the easiest way into Emirati food
 
@@ -61,11 +61,11 @@ Tear it by hand, warm, and use it to carry whatever else is on the table. Khamee
 
 Chebab looks familiar, which is part of its charm. The UAE portal describes chabab as [the Emirati pancake, made with flour, eggs, sugar and spices like cardamom and saffron](https://u.ae/en/about-the-uae/culture/food), served with date syrup. Visit Ras Al Khaimah describes them as [thin pancakes flavoured with saffron and cardamom](https://visitrasalkhaimah.com/blog/emirati-flavors-traditional-food-uae/), typically served with date syrup or cheese.
 
-The spices are the difference. Where a pancake at home might taste of butter and sugar, chebab smells of cardamom and has the faint golden colour that saffron gives. Children usually love them, which makes chebab a useful anchor dish for families.
+The spices are the difference. Where a pancake at home might taste of butter and sugar, chebab smells of cardamom and has the faint golden colour that saffron gives.
 
 ## Date syrup, coffee and the rest of the table
 
-The supporting cast matters as much as the stars. Dibs, or date syrup, is described by the UAE portal as [a dip to relish both savoury and sweet dishes](https://u.ae/en/about-the-uae/culture/food), and you will find it next to most of the dishes above. A small bowl of it, a basket of khameer and a wedge of cheese is a breakfast in itself.
+The supporting cast matters as much as the stars. Dibs, or date syrup, is described by the UAE portal as [a dip to relish both savoury and sweet dishes](https://u.ae/en/about-the-uae/culture/food), and you will find it next to most of the dishes above.
 
 Then there is gahwa, Arabic coffee. Visit Abu Dhabi describes it as [blended with cardamom and saffron and usually served in tiny handleless cups](https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/coffee-and-dates), and notes that dates are traditionally served alongside. It is lighter and more fragrant than the coffee most visitors drink at breakfast, so think of it as part of the meal rather than a caffeine fix. Our guide to [Arabic coffee and dates](/stories/arabic-coffee-etiquette/) explains how to accept and decline a cup politely.
 
@@ -84,10 +84,6 @@ In Abu Dhabi, the tourism board lists experiences where you can be [a guest in a
 ### Restaurants and cafés with Emirati menus
 
 Across the cities, a number of restaurants and cafés serve Emirati recipes, and some of them specialise in breakfast. You do not need a list. Look for a menu that names balaleet, khameer and chebab, ideally with luqaimat for afterwards, and you are in the right place.
-
-### Hotels
-
-Some hotel breakfasts include a small Emirati corner with khameer, chebab or balaleet among the international dishes. It is worth asking at the counter, even if nothing is labelled.
 
 ## How to be a good guest at breakfast
 

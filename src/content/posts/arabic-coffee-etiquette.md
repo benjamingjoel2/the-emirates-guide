@@ -33,7 +33,7 @@ sources:
     url: "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/ramadan"
 ---
 
-You have barely sat down when someone appears with a tall brass pot and a stack of tiny cups. A thin stream of pale gold coffee is poured, just enough to cover the bottom, and the cup is held out to you before anyone has asked what you would like.
+You have barely sat down when someone appears with a tall brass pot and a stack of tiny cups. A thin stream of pale gold Arabic coffee is poured, just enough to cover the bottom, and the cup is held out to you before anyone has asked what you would like.
 
 This is the moment that confuses most visitors. Do you take it? With which hand? Will it keep coming? How do you stop it without seeming rude?
 
@@ -45,7 +45,7 @@ In the UAE, coffee is not a menu item. It is a greeting. Visit Abu Dhabi describ
 
 UNESCO, which lists Arabic coffee as intangible cultural heritage of the UAE and several neighbouring countries, says it [highlights an important aspect of generosity in Arab societies](https://ich.unesco.org/en/RL/arabic-coffee-a-symbol-of-generosity-02111) and is served at weddings and at tribal gatherings, often alongside poetry and conversation. When someone pours for you, they are offering hospitality, not selling a drink.
 
-## What is actually in the cup
+## What is actually in a cup of Arabic coffee
 
 Arabic coffee, or gahwa, will not taste like the coffee you know. Visit Abu Dhabi says it [comes blended with cardamom and saffron](https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/coffee-and-dates) and is usually served in tiny handleless cups. The UAE government portal names those cups [finjans](https://u.ae/en/about-the-uae/culture/food), and gives the Arabic words for the pair: gahwa for coffee and tamr for dates.
 

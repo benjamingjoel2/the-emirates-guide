@@ -35,7 +35,7 @@ sources:
 
 The generator goes quiet, the last 4x4 of the evening pulls away towards the highway, and suddenly the only light comes from a lantern and a sky that seems to have twice as many stars as it did an hour ago. Somewhere behind a dune, a camel shifts in the sand.
 
-Compare that with the city: a lift down from the twentieth floor, a metro ride, breakfast with a view of a marina. Both are the UAE, and both make good bases. The real question is not which is better, but which one your trip needs, and for how long.
+Compare that with the city: a lift down from a high floor, a metro ride, breakfast with a view of a marina. Both are the UAE, and both make good bases. The real question is not which is better, but which one your trip needs, and for how long.
 
 The short answer for most visitors: base yourself in a city hotel and add one desert night if you can. A city stay gives you transport, choice and easy access to museums, souks and beaches. A desert stay gives you silence, stars and sunrise over the dunes, but it takes you away from almost everything else. Here is how to weigh them up.
 

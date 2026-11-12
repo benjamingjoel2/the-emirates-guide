@@ -1,6 +1,6 @@
 ---
 title: "Travel insurance for the UAE: what to check"
-description: "Travel insurance for the UAE: why medical cover matters, what your policy should include, activity and car hire gaps, regional disruption and what to do if you claim."
+description: "Travel insurance for the UAE: why medical cover matters, what your policy should include, activity and car hire gaps, regional disruption and how to claim."
 category: "travel-tips"
 emirates: []
 published: 2026-11-12
@@ -59,7 +59,7 @@ The same guidance advises buying insurance as soon as possible after booking you
 
 ### Declare everything
 
-Pre-existing conditions are where claims most often fail. The UK guidance says you should declare existing conditions or pending treatment or tests so you are covered for related complications, and that [failing to declare something may invalidate your travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance). The same applies to mental health conditions, which it says you must declare or risk invalidating your policy.
+Pre-existing conditions are a common trap. The UK guidance says you should declare existing conditions or pending treatment or tests so you are covered for related complications, and that [failing to declare something may invalidate your travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance). The same applies to mental health conditions, which it says you must declare or risk invalidating your policy.
 
 ## The gaps that catch people out
 

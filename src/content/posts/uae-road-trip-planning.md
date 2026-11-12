@@ -39,7 +39,7 @@ sources:
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/warnings-and-insurance"
 ---
 
-The city thins out faster than you expect. One moment you are in six lanes of traffic between glass towers; twenty minutes later the verges have turned to sand, a line of camels is ambling along a fence, and the road ahead runs straight towards a smudge of mountains on the horizon.
+The city thins out faster than you expect. One moment you are in wide lanes of traffic between glass towers; not long after, the verges have turned to sand, a line of camels is ambling along a fence, and the road ahead runs straight towards a smudge of mountains on the horizon.
 
 That shift is what a UAE road trip gives you. The country is compact, the main highways are fast and well signed, and many of its best places, from the Liwa dunes to the Jebel Jais switchbacks and the fishing towns of the east coast, are far easier to reach with your own wheels than without.
 

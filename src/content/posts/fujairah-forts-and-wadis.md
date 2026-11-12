@@ -108,7 +108,7 @@ Fujairah's tourism authority describes summer, from [May to September](https://f
 
 Many wadis pass through villages and farms. Drive slowly, park considerately, and keep out of private gardens and irrigation channels. The Foreign Office also reminds visitors [not to photograph people without their permission](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security).
 
-## A simple day of forts and wadis
+## A simple day of Fujairah's forts and wadis
 
 Start at Fujairah Fort in the early light, then visit the museum. Drive inland to Al Bithna and walk a short way along Wadi Ham, and finish with a slow drive back towards the coast for a late lunch. On a second day, head north for Al Bidya Mosque and the coast road.
 

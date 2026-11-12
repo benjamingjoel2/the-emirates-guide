@@ -1,11 +1,9 @@
 ---
 import Base from '../layouts/Base.astro';
+import PageHero from '../components/PageHero.astro';
 ---
 <Base title="Page not found" description="This page could not be found on The Emirates Guide.">
-  <div class="wrap page">
-    <h1>Page not found</h1>
-    <p>The page you were looking for has moved or does not exist.</p>
-    <p><a class="btn" href="/">Go to the home page</a></p>
-    <p style="margin-top:20px"><a href="/stories/">Browse all stories</a></p>
-  </div>
+  <PageHero title="Page not found" eyebrow="Error 404" lede="The page you were looking for has moved or does not exist.">
+    <p style="margin-top:24px"><a class="btn" href="/">Go to the home page</a> <a class="btn ghost" href="/stories/" style="margin-left:8px">All stories</a></p>
+  </PageHero>
 </Base>

@@ -4,34 +4,46 @@ const { current } = Astro.props as { current?: string };
 ---
 <header class="site-header">
   <div class="wrap bar">
-    <details class="menu">
-      <summary>Menu</summary>
-      <nav class="menu-panel" aria-label="Site menu">
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/stories/">All stories</a></li>
-          {CATEGORIES.map((c) => <li><a href={`/${c.key}/`}>{c.name}</a></li>)}
-          <li><a href="/about/">About</a></li>
-        </ul>
-        <ul class="sub" aria-label="Emirates">
-          {EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}
-        </ul>
-      </nav>
-    </details>
-    <a class="wordmark" href="/" aria-label={`${SITE.name}, home`}>The Emirates Guide</a>
-    <div class="header-sub"><a href="/about/">About</a></div>
+    <a class="wordmark" href="/" aria-label={`${SITE.name}, home`}><small>Tourground</small>The Emirates Guide</a>
+    <nav class="pillnav" aria-label="Main">
+      <ul>
+        <li><a href="/" aria-current={current === 'home' ? 'page' : undefined}>Home</a></li>
+        {CATEGORIES.map((c) => <li><a href={`/${c.key}/`} aria-current={current === c.key ? 'page' : undefined}>{c.name}</a></li>)}
+        <li><a href="/about/" aria-current={current === 'about' ? 'page' : undefined}>About</a></li>
+      </ul>
+    </nav>
+    <div class="header-right">
+      <a class="header-link" href={SITE.directoryUrl}>Find an operator</a>
+      <details class="menu">
+        <summary>Menu</summary>
+        <div class="menu-panel" role="dialog" aria-modal="true" aria-label="Site menu">
+          <div class="close"><button class="btn white" type="button" data-close>Close</button></div>
+          <nav aria-label="Site menu">
+            <ul class="main">
+              <li><a href="/">Home</a></li>
+              <li><a href="/stories/">All stories</a></li>
+              {CATEGORIES.map((c) => <li><a href={`/${c.key}/`}>{c.name}</a></li>)}
+              <li><a href="/about/">About</a></li>
+            </ul>
+            <ul class="sub" aria-label="Emirates">
+              {EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}
+            </ul>
+            <p style="margin-top:28px"><a class="btn" href={SITE.directoryUrl}>Find a verified operator on Tourground</a></p>
+          </nav>
+        </div>
+      </details>
+    </div>
   </div>
-  <nav class="catnav" aria-label="Categories">
-    <ul class="wrap">
-      {CATEGORIES.map((c) => <li><a href={`/${c.key}/`} aria-current={current === c.key ? 'page' : undefined}>{c.name}</a></li>)}
-    </ul>
-  </nav>
 </header>
 <script>
-  // Close the menu with Escape or when clicking outside it.
   const d = document.querySelector<HTMLDetailsElement>('.menu');
   if (d) {
-    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && d.open) { d.open = false; d.querySelector('summary')?.focus(); } });
-    document.addEventListener('click', (e) => { if (d.open && !d.contains(e.target as Node)) d.open = false; });
+    const close = () => { d.open = false; document.body.style.overflow = ''; d.querySelector('summary')?.focus(); };
+    d.addEventListener('toggle', () => {
+      document.body.style.overflow = d.open ? 'hidden' : '';
+      if (d.open) d.querySelector<HTMLElement>('[data-close]')?.focus();
+    });
+    d.querySelector('[data-close]')?.addEventListener('click', close);
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && d.open) close(); });
   }
 </script>

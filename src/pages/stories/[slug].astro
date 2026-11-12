@@ -4,6 +4,7 @@ import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import PostTags from '../../components/PostTags.astro';
+import { emirateByKey } from '../../data/site';
 import PostCard from '../../components/PostCard.astro';
 import PhotoCredit from '../../components/PhotoCredit.astro';
 import { AUTHORS, SITE, categoryByKey } from '../../data/site';
@@ -25,6 +26,8 @@ const og = await getImage({ src: hero.src, width: 1200, height: 630, fit: 'cover
 const url = `${SITE.url}${postUrl(post)}`;
 const mins = readingMinutes(post);
 const rel = related(post, posts);
+const em = d.emirates;
+const kicker = em.length === 0 ? 'United Arab Emirates' : em.length === 7 ? 'All seven emirates' : em.length > 3 ? `${em.slice(0, 2).map((k) => emirateByKey(k).name).join(', ')} +${em.length - 2}` : em.map((k) => emirateByKey(k).name).join(', ');
 const hosts = (u: string) => new URL(u).hostname.replace(/^www\./, '');
 
 const blogPosting = {
@@ -62,63 +65,72 @@ const blogPosting = {
     <meta property="article:section" content={cat.name} />
   </Fragment>
   <article>
-    <div class="wrap">
-      <Crumbs items={[{ name: cat.name, path: `/${cat.key}/` }, { name: d.title }]} />
-      <header class="post-header">
-        <div class="post-head-inner">
+    <header class="hero">
+      <Image src={hero.src} alt={d.heroAlt} widths={[640, 1024, 1600, 2000]} sizes="100vw" loading="eager" fetchpriority="high" format="webp" />
+      <div class="wrap hero-article">
+        <div>
           {d.advertisement && <p><span class="adlabel">Advertisement feature</span>{d.advertiser && <span> · Paid for by {d.advertiser}</span>}</p>}
-          <PostTags post={post} max={4} />
-          <h1 class="post-title">{d.title}</h1>
-          <p class="post-dek">{d.description}</p>
-          <div class="post-meta">
-            <span>By <a href={`/authors/#${author.key}`}><strong>{author.name}</strong></a></span>
-            <span>Published <time datetime={isoDate(d.published)}>{formatDate(d.published)}</time></span>
-            <span>{mins} min read</span>
-          </div>
+          <p class="kicker" style="font-size:clamp(1.2rem,1vw + 0.9rem,1.6rem)">{kicker}</p>
+          <h1>{d.title}</h1>
         </div>
-        <figure class="post-figure">
-          <Image src={hero.src} alt={d.heroAlt} widths={[480, 800, 1100, 1600]} sizes="(min-width: 1164px) 1100px, calc(100vw - 32px)" loading="eager" fetchpriority="high" format="webp" />
-          <figcaption class="post-hero-credit"><PhotoCredit credit={hero.credit} /></figcaption>
-        </figure>
-      </header>
-      <p class="factcheck post-head-inner">
-        <strong>Last updated <time datetime={isoDate(d.updated)}>{formatDate(d.updated)}</time>.</strong>
-        Visa rules, opening arrangements and other facts in this story link to their official source. They can change, so check them before you travel.
-      </p>
-      <div class="prose">
-        <Content />
+        <div class="meta-panel">
+          <div><time datetime={isoDate(d.published)}>{formatDate(d.published)}</time><span aria-hidden="true">·</span><span>{mins} min read</span></div>
+          <div><PostTags post={post} variant="outline" max={4} /></div>
+          <div><span>Written by <a href={`/authors/#${author.key}`}>{author.name}</a></span></div>
+        </div>
       </div>
+      <p class="credit"><PhotoCredit credit={hero.credit} /></p>
+    </header>
 
-      <aside class="plan" aria-labelledby="plan-title">
-        <h2 id="plan-title">Plan this trip</h2>
-        <p>{d.plan}</p>
-        <a class="btn light" href={SITE.directoryUrl}>Find a verified UAE operator on Tourground</a>
-        <p class="small">Tourground is the publisher of The Emirates Guide. The link goes to its directory of verified local travel companies. See our <a href="/disclosure/">publisher disclosure</a>.</p>
-      </aside>
+    <div class="article-bg">
+      <div class="wrap">
+        <Crumbs items={[{ name: cat.name, path: `/${cat.key}/` }, { name: d.title }]} />
+        <p class="intro">{d.description}</p>
+        <p class="factcheck">
+          <strong>Last updated <time datetime={isoDate(d.updated)}>{formatDate(d.updated)}</time>.</strong>
+          Visa rules, opening arrangements and other facts in this story link to their official source. They can change, so check them before you travel.
+        </p>
+        <div class="prose">
+          <Content />
+        </div>
 
-      {d.sources.length > 0 && (
-        <section class="sources" aria-labelledby="sources-title">
-          <h2 id="sources-title">Sources</h2>
-          <p>Checked on {formatDate(d.updated)}. Rules and arrangements change: check the source before you book.</p>
-          <ol>
-            {d.sources.map((s) => (
-              <li><a href={s.url}>{s.title}</a><span class="host">{hosts(s.url)}</span></li>
-            ))}
-          </ol>
-        </section>
-      )}
+        <aside class="plan" aria-labelledby="plan-title">
+          <h2 id="plan-title">Plan this trip</h2>
+          <p>{d.plan}</p>
+          <a class="btn white" href={SITE.directoryUrl}>Find a verified UAE operator on Tourground</a>
+          <p class="small">Tourground is the publisher of The Emirates Guide. The link goes to its directory of verified local travel companies. See our <a href="/disclosure/">publisher disclosure</a>.</p>
+        </aside>
 
-      <div class="byline-box">
-        <p><strong>{author.name}</strong>, {author.role}. {author.bio}</p>
-        <p>Spotted something out of date? Email <a href={`mailto:${SITE.email}?subject=${encodeURIComponent('Correction: ' + d.title)}`}>{SITE.email}</a>.</p>
+        {d.sources.length > 0 && (
+          <section class="sources" aria-labelledby="sources-title">
+            <h2 id="sources-title">Sources</h2>
+            <p>Checked on {formatDate(d.updated)}. Rules and arrangements change: check the source before you book.</p>
+            <ol>
+              {d.sources.map((s) => (
+                <li><a href={s.url}>{s.title}</a><span class="host">{hosts(s.url)}</span></li>
+              ))}
+            </ol>
+          </section>
+        )}
+
+        <div class="byline-box">
+          <p><strong>{author.name}</strong>, {author.role}. {author.bio}</p>
+          <p style="margin:0">Spotted something out of date? Email <a href={`mailto:${SITE.email}?subject=${encodeURIComponent('Correction: ' + d.title)}`}>{SITE.email}</a>.</p>
+        </div>
       </div>
     </div>
   </article>
 
-  <section class="section band" aria-labelledby="related-title">
+  <section class="section black" aria-labelledby="related-title">
     <div class="wrap">
-      <div class="section-head"><h2 id="related-title">Related stories</h2><a href={`/${cat.key}/`}>More in {cat.name}</a></div>
-      <ul class="grid three">
+      <div class="section-head">
+        <div>
+          <h2 id="related-title" class="section-title">Related stories</h2>
+          <p class="section-sub">Keep planning</p>
+        </div>
+        <a class="btn" href={`/${cat.key}/`}>More in {cat.name}</a>
+      </div>
+      <ul class="swipe">
         {rel.map((r) => <li><PostCard post={r} /></li>)}
       </ul>
     </div>

@@ -24,12 +24,12 @@ export const AUTHORS = {
 export type AuthorKey = keyof typeof AUTHORS;
 
 export const CATEGORIES = [
-  { key: 'destinations', name: 'Destinations', blurb: 'All seven emirates, one by one: what each is like, who it suits and how it fits into a trip.' },
-  { key: 'itineraries', name: 'Itineraries', blurb: 'Day-by-day routes with realistic pacing, built around the heat, the weekend and the distances.' },
-  { key: 'desert-adventure', name: 'Desert & Adventure', blurb: 'Dunes, mountains, wadis and the sea: what outdoor trips involve and how to do them safely.' },
-  { key: 'food-culture', name: 'Food & Culture', blurb: 'Emirati food, customs and etiquette, and how to be a considerate guest.' },
-  { key: 'where-to-stay', name: 'Where to Stay', blurb: 'Choosing a base: which city, which kind of neighbourhood, and why it matters for your days.' },
-  { key: 'travel-tips', name: 'Travel Tips', blurb: 'Seasons, Ramadan, entry rules and the practical things that shape a UAE trip.' },
+  { key: 'destinations', photo: 'dhayah-fort', name: 'Destinations', blurb: 'All seven emirates, one by one: what each is like, who it suits and how it fits into a trip.' },
+  { key: 'itineraries', photo: 'hatta-dam', name: 'Itineraries', blurb: 'Day-by-day routes with realistic pacing, built around the heat, the weekend and the distances.' },
+  { key: 'desert-adventure', photo: 'camels-dunes', name: 'Desert & Adventure', blurb: 'Dunes, mountains, wadis and the sea: what outdoor trips involve and how to do them safely.' },
+  { key: 'food-culture', photo: 'spice-souk', name: 'Food & Culture', blurb: 'Emirati food, customs and etiquette, and how to be a considerate guest.' },
+  { key: 'where-to-stay', photo: 'dubai-burj-ferry', name: 'Where to Stay', blurb: 'Choosing a base: which city, which kind of neighbourhood, and why it matters for your days.' },
+  { key: 'travel-tips', photo: 'al-fahidi', name: 'Travel Tips', blurb: 'Seasons, Ramadan, entry rules and the practical things that shape a UAE trip.' },
 ] as const;
 export type CategoryKey = (typeof CATEGORIES)[number]['key'];
 export const categoryByKey = (k: string) => CATEGORIES.find((c) => c.key === k)!;

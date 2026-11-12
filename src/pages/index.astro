@@ -2,11 +2,10 @@
 import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import PostCard from '../components/PostCard.astro';
-import PostTags from '../components/PostTags.astro';
 import Newsletter from '../components/Newsletter.astro';
 import PhotoCredit from '../components/PhotoCredit.astro';
-import { CATEGORIES, EMIRATES, SITE } from '../data/site';
-import { allPosts, formatDate, isoDate, postUrl, readingMinutes } from '../lib/posts';
+import { CATEGORIES, EMIRATES, SITE, categoryByKey } from '../data/site';
+import { allPosts, postUrl, readingMinutes } from '../lib/posts';
 import { photo } from '../lib/photos';
 
 const posts = await allPosts();
@@ -15,61 +14,79 @@ const startOrder = ['uae-first-timers-guide-seven-emirates', 'best-time-to-visit
 const start = posts.filter((p) => p.data.startHere).sort((a, b) => startOrder.indexOf(a.id) - startOrder.indexOf(b.id));
 const latest = posts.filter((p) => p.id !== featured.id).slice(0, 6);
 const hero = photo(featured.data.hero);
-const catPhoto: Record<string, string> = {
-  destinations: 'dhayah-fort', itineraries: 'hatta-dam', 'desert-adventure': 'liwa-dune',
-  'food-culture': 'spice-souk', 'where-to-stay': 'dubai-burj-ferry', 'travel-tips': 'al-fahidi',
-};
+const cta = photo('jebel-jais-sunset');
+const counts = Object.fromEntries(CATEGORIES.map((c) => [c.key, posts.filter((p) => p.data.category === c.key).length]));
 ---
-<Base title={`${SITE.name}: Travel stories and guides to the UAE`} description={SITE.description}>
-  <h1 class="visually-hidden">{SITE.name}: travel stories and guides to the United Arab Emirates</h1>
+<Base title={`${SITE.name}: Travel stories and guides to the UAE`} description={SITE.description} current="home">
   <section class="hero" aria-labelledby="featured-title">
-    <Image class="hero-img" src={hero.src} alt={featured.data.heroAlt} widths={[640, 1024, 1600]} sizes="100vw" loading="eager" fetchpriority="high" format="webp" />
-    <div class="wrap hero-inner">
-      <p class="visually-hidden">Featured story</p>
-      <PostTags post={featured} light max={2} />
-      <a class="hero-link" href={postUrl(featured)}><h2 id="featured-title" class="hero-title">{featured.data.title}</h2></a>
+    <Image src={hero.src} alt={featured.data.heroAlt} widths={[640, 1024, 1600, 2000]} sizes="100vw" loading="eager" fetchpriority="high" format="webp" />
+    <div class="hero-center">
+      <h1 class="visually-hidden">{SITE.name}: travel stories and guides to the United Arab Emirates</h1>
+      <p class="eyebrow">Featured story · {categoryByKey(featured.data.category).name}</p>
+      <h2 id="featured-title" class="hero-title">{featured.data.title}</h2>
       <p class="dek">{featured.data.description}</p>
-      <p class="meta"><time datetime={isoDate(featured.data.published)}>{formatDate(featured.data.published)}</time> · {readingMinutes(featured)} min read</p>
+      <a class="btn" href={postUrl(featured)}>Read the story<span class="visually-hidden">: {featured.data.title}</span></a>
+      <p style="margin:14px 0 0;font-size:0.9rem;text-shadow:0 1px 6px rgba(0,0,0,0.5)">{readingMinutes(featured)} min read</p>
     </div>
     <p class="credit"><PhotoCredit credit={hero.credit} /></p>
   </section>
 
-  <section class="band mission" aria-label="About The Emirates Guide">
-    <p>Story-led, practical guides to the seven emirates: where to go, when to go, what it is really like, and how to book safely.</p>
-    <a class="btn" href="/about/">How we work</a>
-  </section>
+  <nav class="tabs" aria-label="Topics">
+    <ul>
+      {CATEGORIES.map((c) => <li><a href={`/${c.key}/`}>{c.name} <span class="count" aria-label={`${counts[c.key]} stories`}>{counts[c.key]}</span></a></li>)}
+    </ul>
+  </nav>
 
   <section class="section" aria-labelledby="start-title">
-    <div class="wrap">
-      <div class="section-head"><h2 id="start-title">Start here</h2></div>
-      <p class="lede" style="margin:-12px 0 22px">First time in the UAE? Read these four in order.</p>
-      <ol class="start">
+    <div class="wrap start-grid">
+      <div>
+        <h2 id="start-title" class="red-title">Start here: your first trip to the Emirates</h2>
+        <p style="margin-top:16px;color:var(--muted);max-width:40ch">Four stories that cover most of what first-timers ask: the seven emirates, the seasons, where to base yourself and how to spend five days.</p>
+      </div>
+      <ol class="rule-list">
         {start.map((p) => <li><a href={postUrl(p)}><span>{p.data.title}</span></a></li>)}
       </ol>
     </div>
   </section>
 
-  <section class="section" aria-labelledby="latest-title">
+  <section class="section black" aria-labelledby="latest-title">
     <div class="wrap">
-      <div class="section-head"><h2 id="latest-title">Latest stories</h2><a href="/stories/">View all</a></div>
-      <ul class="grid three">
+      <div class="section-head">
+        <div>
+          <h2 id="latest-title" class="section-title">Latest stories</h2>
+          <p class="section-sub">Where to go, when to go and what it is really like</p>
+        </div>
+        <a class="btn" href="/stories/">All stories</a>
+      </div>
+      <ul class="swipe">
         {latest.map((p) => <li><PostCard post={p} /></li>)}
       </ul>
     </div>
   </section>
 
-  <section class="section" aria-labelledby="cats-title">
+  <section class="cta" aria-labelledby="cta-title">
+    <Image src={cta.src} alt="" widths={[640, 1024, 1600]} sizes="100vw" loading="lazy" format="webp" />
+    <div class="inner">
+      <h2 id="cta-title" class="hero-title">Plan a trip with people who know the ground</h2>
+      <p>Every story ends with a pointer to a verified local operator. Tourground, our publisher, lists them by destination, so you can ask the questions that matter before you book.</p>
+      <a class="btn" href={SITE.directoryUrl}>Find a verified UAE operator</a>
+    </div>
+    <p class="credit"><PhotoCredit credit={cta.credit} /></p>
+  </section>
+
+  <section class="section grey" aria-labelledby="em-title">
     <div class="wrap">
-      <div class="section-head"><h2 id="cats-title">Explore by topic</h2></div>
+      <div class="section-head">
+        <div>
+          <h2 id="em-title" class="section-title">Seven emirates</h2>
+          <p class="section-sub">One country, seven very different places</p>
+        </div>
+      </div>
       <ul class="tiles">
-        {CATEGORIES.map((c) => {
-          const ph = photo(catPhoto[c.key]);
-          return <li class="tile"><a href={`/${c.key}/`}><Image src={ph.src} alt="" widths={[360, 640]} sizes="(min-width: 900px) 33vw, 50vw" loading="lazy" format="webp" /><span>{c.name}</span></a></li>;
+        {EMIRATES.map((e) => {
+          const ph = photo(e.photo);
+          return <li><a class="tile" href={`/destinations/${e.key}/`}><Image src={ph.src} alt="" widths={[360, 640]} sizes="(min-width: 1024px) 25vw, 50vw" loading="lazy" format="webp" /><span>{e.name}</span></a></li>;
         })}
-      </ul>
-      <h3 class="visually-hidden">Emirates</h3>
-      <ul class="chips-nav" style="margin-top:24px" aria-label="Destinations by emirate">
-        {EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}
       </ul>
     </div>
   </section>

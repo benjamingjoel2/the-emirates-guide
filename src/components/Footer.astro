@@ -6,7 +6,7 @@ const year = new Date().getFullYear();
   <div class="wrap">
     <div class="cols">
       <div>
-        <p class="publisher">The Emirates Guide</p>
+        <p class="brand"><small>Tourground</small>The Emirates Guide</p>
         <p>Story-led, practical travel guides to the United Arab Emirates, written for people planning a trip.</p>
         <p><strong>Published by <a href={SITE.publisher.url}>Tourground</a>.</strong></p>
         <p><a href={`mailto:${SITE.email}`}>{SITE.email}</a></p>
@@ -20,9 +20,7 @@ const year = new Date().getFullYear();
       </nav>
       <nav aria-labelledby="f-emirates">
         <h2 id="f-emirates">Emirates</h2>
-        <ul>
-          {EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}
-        </ul>
+        <ul>{EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}</ul>
       </nav>
       <nav aria-labelledby="f-about">
         <h2 id="f-about">About</h2>

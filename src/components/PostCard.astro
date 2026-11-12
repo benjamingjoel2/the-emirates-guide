@@ -2,18 +2,20 @@
 import { Image } from 'astro:assets';
 import PostTags from './PostTags.astro';
 import { photo } from '../lib/photos';
+import { emirateByKey } from '../data/site';
 import { formatDate, isoDate, postUrl, type Post } from '../lib/posts';
-const { post, headingLevel = 3, excerpt = false } = Astro.props as { post: Post; headingLevel?: 2 | 3; excerpt?: boolean };
+const { post, headingLevel = 3 } = Astro.props as { post: Post; headingLevel?: 2 | 3 };
 const p = photo(post.data.hero);
 const H = `h${headingLevel}` as 'h2' | 'h3';
+const em = post.data.emirates;
+const kicker = em.length === 0 ? 'United Arab Emirates' : em.length === 7 ? 'All seven emirates' : em.length > 3 ? `${em.slice(0, 2).map((k) => emirateByKey(k).name).join(', ')} +${em.length - 2}` : em.map((k) => emirateByKey(k).name).join(', ');
 ---
-<article class:list={['card', { 'ad-card': post.data.advertisement }]}>
-  <div class="thumb">
-    <Image src={p.src} alt="" widths={[400, 640, 900]} sizes="(min-width: 1024px) 400px, (min-width: 640px) 50vw, 100vw" loading="lazy" decoding="async" format="webp" />
+<article class:list={['mag', { 'ad-card': post.data.advertisement }]}>
+  <Image src={p.src} alt="" widths={[400, 640, 900]} sizes="(min-width: 1024px) 400px, (min-width: 768px) 33vw, 82vw" loading="lazy" decoding="async" format="webp" />
+  <PostTags post={post} max={1} />
+  <div class="body">
+    <p class="kicker">{kicker}</p>
+    <H><a href={postUrl(post)}>{post.data.title}</a></H>
+    <time datetime={isoDate(post.data.published)}>{formatDate(post.data.published)}</time>
   </div>
-  {post.data.advertisement && <p><span class="adlabel">Advertisement feature</span></p>}
-  <time datetime={isoDate(post.data.published)}>{formatDate(post.data.published)}</time>
-  <H><a href={postUrl(post)}>{post.data.title}</a></H>
-  {excerpt && <p class="excerpt">{post.data.description}</p>}
-  <PostTags post={post} />
 </article>

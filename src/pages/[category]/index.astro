@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
+import PageHero from '../../components/PageHero.astro';
 import PostCard from '../../components/PostCard.astro';
 import Newsletter from '../../components/Newsletter.astro';
 import { CATEGORIES, EMIRATES, SITE } from '../../data/site';
@@ -22,27 +23,27 @@ const itemList = {
 };
 ---
 <Base title={cat.name} description={`${cat.blurb} From The Emirates Guide, published by Tourground.`} crumbs={[{ name: cat.name, path: `/${cat.key}/` }]} schema={[itemList]} current={cat.key}>
-  <div class="wrap">
-    <Crumbs items={[{ name: cat.name }]} />
-    <header class="page-intro">
-      <h1>{cat.name}</h1>
-      <p>{cat.blurb}</p>
-    </header>
-    {cat.key === 'destinations' && (
-      <section aria-labelledby="by-emirate" style="margin:24px 0 8px">
-        <h2 id="by-emirate" style="font-size:1.35rem;margin-bottom:14px">By emirate</h2>
-        <ul class="chips-nav">
-          {EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}
-        </ul>
-      </section>
-    )}
-    <section class="section" aria-label={`${cat.name} stories`}>
+  <PageHero title={cat.name} eyebrow="The Emirates Guide" lede={cat.blurb} photoKey={cat.photo} />
+  <nav class="tabs" aria-label="Topics">
+    <ul>{CATEGORIES.map((c) => <li><a href={`/${c.key}/`} aria-current={c.key === cat.key ? 'page' : undefined}>{c.name}</a></li>)}</ul>
+  </nav>
+  <div class="wrap"><Crumbs items={[{ name: cat.name }]} /></div>
+  {cat.key === 'destinations' && (
+    <section class="section" aria-labelledby="by-emirate" style="padding-bottom:0">
+      <div class="wrap">
+        <h2 id="by-emirate" class="red-title" style="margin-bottom:20px">By emirate</h2>
+        <ul class="chips">{EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}</ul>
+      </div>
+    </section>
+  )}
+  <section class="section" aria-label={`${cat.name} stories`}>
+    <div class="wrap">
       {posts.length ? (
-        <ul class="grid three">{posts.map((p) => <li><PostCard post={p} excerpt headingLevel={2} /></li>)}</ul>
+        <ul class="grid three">{posts.map((p) => <li><PostCard post={p} headingLevel={2} /></li>)}</ul>
       ) : (
         <p>New stories in this section are on the way. In the meantime, browse <a href="/stories/">all stories</a>.</p>
       )}
-    </section>
-  </div>
+    </div>
+  </section>
   <Newsletter />
 </Base>

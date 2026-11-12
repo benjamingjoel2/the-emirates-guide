@@ -1,0 +1,18 @@
+---
+import { Image } from 'astro:assets';
+import PhotoCredit from './PhotoCredit.astro';
+import { photo } from '../lib/photos';
+interface Props { title: string; eyebrow?: string; lede?: string; photoKey?: string; alt?: string }
+const { title, eyebrow, lede, photoKey, alt = '' } = Astro.props;
+const ph = photoKey ? photo(photoKey) : null;
+---
+<section class:list={['hero', { plain: !ph }]}>
+  {ph && <Image src={ph.src} alt={alt} widths={[640, 1024, 1600]} sizes="100vw" loading="eager" fetchpriority="high" format="webp" />}
+  <div class="wrap hero-page">
+    {eyebrow && <p class="kicker">{eyebrow}</p>}
+    <h1 class="hero-title">{title}</h1>
+    {lede && <p>{lede}</p>}
+    <slot />
+  </div>
+  {ph && <p class="credit"><PhotoCredit credit={ph.credit} /></p>}
+</section>

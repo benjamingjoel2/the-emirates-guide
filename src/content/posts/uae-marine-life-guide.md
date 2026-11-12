@@ -43,7 +43,7 @@ Your mask fogs for a moment, you clear it, and there it is: a turtle hanging in 
 
 Most visitors come to the UAE for deserts and skylines and never look under the surface. That is a mistake. Marine life in UAE waters includes sea turtles, one of the world's largest dugong populations, several kinds of dolphin, sharks and reefs full of fish. The simplest way to see it is to snorkel or dive on the east coast at Khorfakkan or Fujairah, or to join a kayak, snorkel or eco-boat trip in one of Abu Dhabi's marine reserves. Dugongs are rarely seen by casual visitors; turtles and reef fish are far more likely.
 
-## Two seas, two kinds of water
+## Marine life in UAE waters: two seas, two worlds
 
 The UAE faces two bodies of water. The Arabian Gulf, along the west coast from Abu Dhabi to Ras Al Khaimah, is shallow and warm, with wide seagrass beds and mangroves. The Gulf of Oman, on the east coast around Fujairah and Khorfakkan, is deeper, backed by mountains, with rockier reefs.
 

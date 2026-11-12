@@ -43,7 +43,7 @@ The first thing you notice in the hide is the noise of the city fading. Then, th
 
 Birdwatching in the UAE is easier than most visitors expect. The country sits on a major migration route, and its wetlands and mangroves pull in huge numbers of birds in the cooler months, often within sight of tower blocks. The Environment Agency Abu Dhabi says the UAE welcomes [nearly two million migratory birds every year](https://www.ead.gov.ae/en/Discover-Our-Biodiversity/Birds), from flamingos and eagles to tiny shorebirds such as the little stint. The short answer to where to go: Ras Al Khor in Dubai, Wasit in Sharjah, the Abu Dhabi mangroves, and Kalba on the east coast, ideally between autumn and spring and early in the day.
 
-## Why the UAE works for birds
+## Why birdwatching in the UAE is so rewarding
 
 Three habitats do most of the work. Coastal wetlands and lagoons feed waders and flamingos. Mangroves give herons, kingfishers and crabs shelter. And the Hajar Mountains in the east hold a smaller set of hardy resident species that you will never see on the coast.
 

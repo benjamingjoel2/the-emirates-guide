@@ -59,7 +59,7 @@ Drive east out of Dubai and the city stops abruptly. One minute there are interc
 
 Protected areas in the UAE cover deserts, mountains, mangroves, wetlands and coral reefs, and they are some of the best places in the country to see wildlife. But they do not all work the same way. Some you can walk into, some need a booking or an approved guide, some are open only to guests of a resort inside them, and many are closed to everyone except researchers. This guide explains how to tell which is which, and where to start.
 
-## What "protected" means here
+## What protected areas in the UAE actually protect
 
 Each emirate manages its own reserves, under federal and local laws. Dubai Municipality lists federal laws including a [ban on wildlife hunting, gathering and destruction](https://www.dm.gov.ae/dubai-protected-areas/about-dubai-protected-areas/), and says Dubai's local rules prohibit disturbing wildlife, removing shells, coral, rocks or soil, damaging plants, introducing non-native species and polluting the land, water or air in a protected area.
 

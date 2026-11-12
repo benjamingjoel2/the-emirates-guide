@@ -13,14 +13,14 @@ plan: "A verified local operator can point you to the public beach that suits yo
 sources:
   - title: "Dubai Media Office: Mohammed bin Rashid approves Dubai Master Plan for Public Beaches"
     url: "https://mediaoffice.ae/en/news/2023/may/25-05/mohammed-bin-rashid-approves-master-plan-for-dubai-public-beaches"
-  - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
-    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "Dubai Municipality: Three new beaches for night swimming"
     url: "https://www.dm.gov.ae/dubai-expands-its-beach-tourism-offering-with-the-opening-of-three-new-beaches-for-night-swimming/"
   - title: "Dubai Municipality: Discover Dubai, beaches"
     url: "https://www.dm.gov.ae/discover-dubai-beaches/"
   - title: "Visit Dubai: Kite Beach"
     url: "https://www.visitdubai.com/en/places-to-visit/kite-beach"
+  - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "Dubai Media Office: Law No. (2) of 2026 on public safety in Dubai"
     url: "https://www.mediaoffice.ae/en/news/2026/march/06-03/mohammed-bin-rashid-issues-law-on-public-safety"
   - title: "Dubai Media Office: Four beaches designated for families during Eid Al-Adha"
@@ -29,11 +29,11 @@ sources:
 
 The lifeguard's flag snaps in the breeze, the sand is still cool underfoot, and the water is so clear you can see your feet. Behind you the city hums along the coast road. In front of you there is nothing but the Gulf.
 
-Dubai's public beaches are one of the best free pleasures in the city, and most visitors do not use them nearly enough. The short answer to where to swim: stick to the official public beaches managed by Dubai Municipality, swim only where lifeguards are on duty and flags show it is safe, and if you want a night swim, use one of the designated night-swimming beaches. This guide covers where to go, how the rules work and what to pack.
+Dubai's public beaches are one of the simplest pleasures in the city, and most visitors do not use them nearly enough. The short answer to where to swim: stick to the official public beaches managed by Dubai Municipality, swim only where lifeguards are on duty and flags show it is safe, and if you want a night swim, use one of the designated night-swimming beaches. This guide covers where to go, how the rules work and what to pack.
 
 ## Dubai's public beaches at a glance
 
-Dubai's coastline mixes private hotel frontage with long stretches of public sand. The public beaches are managed by Dubai Municipality and are free to walk onto.
+Dubai's coastline mixes private hotel frontage with long stretches of public sand. The public beaches are managed by Dubai Municipality and open to everyone.
 
 They are also improving fast. Under a master plan approved in 2023, the length of Dubai's public beaches is set to grow [from 21 km to 105 km by 2040](https://mediaoffice.ae/en/news/2023/may/25-05/mohammed-bin-rashid-approves-master-plan-for-dubai-public-beaches). The same announcement says all of the emirate's public beaches have received Blue Flag certification, and that public beaches will have facilities that meet the needs of People of Determination.
 
@@ -121,7 +121,7 @@ Our [month-by-month guide](/stories/best-time-to-visit-uae-month-by-month/) expl
 
 ## Quick answers
 
-**Are Dubai's public beaches free?** The public beaches managed by Dubai Municipality are free to walk onto. Some beach parks, such as Al Mamzar, have set opening hours.
+**Are Dubai's public beaches open to tourists?** Yes. Dubai Municipality's public beaches are open to everyone, though beach parks such as Al Mamzar have set opening hours, from 8:00 to 22:00 every day.
 
 **Can you swim at night in Dubai?** Yes, but only at designated night-swimming beaches in Jumeirah 2, Jumeirah 3 and Umm Suqeim 1, where swimming runs from sunset to sunrise with lifeguards on duty.
 

@@ -15,10 +15,10 @@ sources:
     url: "https://www.emaar.com/en/at-the-top-burj-khalifa"
   - title: "Visit Dubai: Burj Khalifa"
     url: "https://www.visitdubai.com/en/places-to-visit/burj-khalifa"
-  - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
-    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "Roads and Transport Authority: About Dubai Metro"
     url: "https://www.rta.ae/wps/portal/rta/ae/public-transport/metro"
+  - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
 ---
 
 The lift doors slide shut, your ears pop, and moments later they open onto a wall of glass with the whole city laid out below like a model. Cars on Sheikh Zayed Road look like beads on a string. Beyond them, the desert on one side and the Gulf on the other.

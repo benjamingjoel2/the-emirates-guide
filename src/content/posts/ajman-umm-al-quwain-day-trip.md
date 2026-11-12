@@ -52,9 +52,9 @@ The government's emirate guide puts Umm Al Quwain [about 20 minutes' drive north
 A few things make the day smoother:
 
 - **Go in the cooler months.** Paddling and walking are far more pleasant then. Our [month-by-month guide](/stories/best-time-to-visit-uae-month-by-month/) helps you pick dates.
-- **Avoid Friday mornings for museums.** Many attractions open later on Fridays, so check before you go.
+- **Check museum hours.** Look at opening times before you go, especially on a Friday.
 - **Pack for water and town.** Swimwear and a hat for the lagoon, plus a modest layer for the old towns.
-- **Decide how you will travel.** A hire car gives freedom, but a driver means nobody has to navigate. Our guide to [driving in the UAE as a visitor](/stories/driving-in-the-uae-as-a-visitor/) covers the rules.
+- **Decide how you will travel.** A hire car gives freedom, but a driver means nobody has to navigate.
 
 ## Morning: kayaking the Umm Al Quwain lagoon
 

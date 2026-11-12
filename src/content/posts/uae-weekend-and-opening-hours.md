@@ -43,7 +43,7 @@ Friday is a working day on paper, yet it has a rhythm of its own. It is the day 
 
 ### What that means for sightseeing
 
-Some mosques that welcome sightseeing visitors adjust their visiting arrangements on Fridays. If a mosque visit is high on your list, check its official website for Friday arrangements before you build your day around it. Our [Sheikh Zayed Grand Mosque visitor guide](/stories/sheikh-zayed-grand-mosque-visitor-guide/) covers the most visited one.
+Some mosques that welcome sightseeing visitors adjust their visiting arrangements on Fridays. If a mosque visit is high on your list, check its official website for Friday arrangements before you build your day around it. Our [Sheikh Zayed Grand Mosque visitor guide](/stories/sheikh-zayed-grand-mosque-visitor-guide/) covers the most visited one, and our [travel tips](/travel-tips/) section has more practical planning help.
 
 Around the middle of the day, you may also notice small shops in older neighbourhoods closing for a while, especially in traditional souks. Malls, large attractions and hotels generally carry on as normal.
 
@@ -55,7 +55,7 @@ Because many people finish early on Friday, roads out of the cities can be busy 
 
 Sharjah is the exception worth knowing. The [fact sheet](https://u.ae/en/about-the-uae/fact-sheet) notes that Sharjah government entities work from Monday to Thursday, which gives the emirate's public sector a three-day weekend from Friday to Sunday.
 
-For visitors, this mostly matters if you have business with a Sharjah government office. Museums and heritage sites in Sharjah set their own hours, so check each venue's official page rather than assuming it follows the government week. Our [Sharjah day trip guide](/stories/sharjah-day-trip-from-dubai/) suggests how to fit the emirate around Dubai.
+For visitors, this mostly matters if you have business with a Sharjah government office. Museums and heritage sites in Sharjah set their own hours, so check each venue's official page rather than assuming it follows the government week. Our [Sharjah destination page](/destinations/sharjah/) has ideas for a visit.
 
 ## Embassies, consulates and other official business
 
@@ -76,11 +76,11 @@ Official attraction websites are the only reliable place for current hours, last
 
 ### Shops and souks
 
-Malls in the big cities keep long hours and are busiest in the evenings and at weekends. Traditional souks often feel liveliest in the late afternoon and evening, when the heat eases. If you want unhurried browsing, a weekday morning is often your best chance; our [gold and spice souks guide](/stories/dubai-gold-and-spice-souks/) explains how to browse politely.
+Malls in the big cities keep long hours and are busiest in the evenings and at weekends. Traditional souks often feel liveliest in the late afternoon and evening, when the heat eases. If you want unhurried browsing, a weekday morning is often your best chance.
 
 ### Government offices and dress
 
-If you do visit a government office, dress more conservatively than you might for the beach or a mall. Visit Abu Dhabi advises that it is best to [cover your shoulders and legs](https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear) when visiting government offices. Our guide to [what to wear in the UAE](/stories/what-to-wear-uae-etiquette/) covers the rest.
+If you do visit a government office, dress more conservatively than you might for the beach or a mall. Visit Abu Dhabi advises that it is best to [cover your shoulders and legs](https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear) when visiting government offices. 
 
 ## How Ramadan changes the working day
 

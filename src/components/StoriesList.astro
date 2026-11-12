@@ -1,0 +1,44 @@
+---
+import Base from '../layouts/Base.astro';
+import Crumbs from './Crumbs.astro';
+import PageHero from './PageHero.astro';
+import Newsletter from './Newsletter.astro';
+import PostCard from './PostCard.astro';
+import { CATEGORIES, SITE } from '../data/site';
+import { allPosts, postUrl } from '../lib/posts';
+
+export const PER_PAGE = 24;
+const { pageNo = 1 } = Astro.props as { pageNo?: number };
+const all = await allPosts();
+const pages = Math.max(1, Math.ceil(all.length / PER_PAGE));
+const posts = all.slice((pageNo - 1) * PER_PAGE, pageNo * PER_PAGE);
+const href = (n: number) => (n === 1 ? '/stories/' : `/stories/page/${n}/`);
+const path = href(pageNo);
+const label = pageNo === 1 ? 'All stories' : `All stories, page ${pageNo}`;
+const schema = {
+  '@type': 'CollectionPage', '@id': `${SITE.url}${path}#page`, name: label, url: `${SITE.url}${path}`,
+  isPartOf: { '@id': `${SITE.url}/#website` },
+  mainEntity: { '@type': 'ItemList', itemListElement: posts.map((p, i) => ({ '@type': 'ListItem', position: (pageNo - 1) * PER_PAGE + i + 1, url: `${SITE.url}${postUrl(p)}`, name: p.data.title })) },
+};
+---
+<Base title={label} description={`Every story on The Emirates Guide${pageNo > 1 ? ` (page ${pageNo} of ${pages})` : ''}: destinations, itineraries, desert trips, food and culture, where to stay and travel tips for the UAE.`} crumbs={[{ name: 'All stories', path: '/stories/' }, ...(pageNo > 1 ? [{ name: `Page ${pageNo}`, path }] : [])]} schema={[schema]}>
+  <Fragment slot="head">
+    {pageNo > 1 && <link rel="prev" href={href(pageNo - 1)} />}
+    {pageNo < pages && <link rel="next" href={href(pageNo + 1)} />}
+  </Fragment>
+  <PageHero title="The Emirates Guide blog" eyebrow={pageNo === 1 ? 'Story-led and sourced' : `Page ${pageNo} of ${pages}`} lede="Where to go, when to go, what it is really like, and how to book safely. Every fact that can change links to its official source." photoKey="dubai-creek-abras" />
+  <section class="listing listing--black" aria-labelledby="list-title">
+    <Crumbs items={pageNo === 1 ? [{ name: 'All stories' }] : [{ name: 'All stories', path: '/stories/' }, { name: `Page ${pageNo}` }]} />
+    <div class="listing__head"><h2 class="listing__title" id="list-title">{all.length} stories</h2></div>
+    <ul class="chips" style="max-width:1152px;margin:0 auto 32px" aria-label="Topics">{CATEGORIES.map((c) => <li><a href={`/${c.key}/`}>{c.name} ({all.filter((p) => p.data.category === c.key).length})</a></li>)}</ul>
+    <ul class="post-grid">{posts.map((p) => <li><PostCard post={p} headingLevel={3} /></li>)}</ul>
+    {pages > 1 && (
+      <nav class="pager" aria-label="Pages">
+        {pageNo > 1 && <a class="action white" href={href(pageNo - 1)} rel="prev">Newer stories</a>}
+        <ol>{Array.from({ length: pages }, (_, i) => i + 1).map((n) => <li><a href={href(n)} aria-current={n === pageNo ? 'page' : undefined}>{n}</a></li>)}</ol>
+        {pageNo < pages && <a class="action white" href={href(pageNo + 1)} rel="next">Older stories</a>}
+      </nav>
+    )}
+  </section>
+  <Newsletter />
+</Base>

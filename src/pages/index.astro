@@ -19,6 +19,7 @@ const MONTHS = ['January','February','March','April','May','June','July','August
   const s = i >= 5 && i <= 8 ? 'hot' : i === 4 || i === 9 ? 'mid' : 'cool';
   return { n, s, label: s === 'hot' ? 'Hot and humid' : s === 'mid' ? 'In between' : 'Most pleasant' };
 });
+const carousel = [...start, ...CATEGORIES.flatMap((c) => posts.filter((p) => p.data.category === c.key && !p.data.startHere).slice(0, 4))];
 const counts = Object.fromEntries(CATEGORIES.map((c) => [c.key, posts.filter((p) => p.data.category === c.key).length]));
 const places = (em: string[]) => em.length === 7 ? 'All seven emirates' : em.length > 3 ? `${em.slice(0, 2).map((k) => emirateByKey(k).name).join(', ')} +${em.length - 2}` : em.map((k) => emirateByKey(k).name).join(', ') || 'United Arab Emirates';
 ---
@@ -62,7 +63,7 @@ const places = (em: string[]) => em.length === 7 ? 'All seven emirates' : em.len
     </ul>
     <div class="coverflow" data-coverflow>
       <ul class="coverflow__track">
-        {posts.map((p) => {
+        {carousel.map((p) => {
           const ph = photo(p.data.hero);
           return (
             <li class="cf-card" data-cat={p.data.category}>

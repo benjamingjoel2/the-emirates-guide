@@ -1,0 +1,10 @@
+---
+import StoriesList from '../../../components/StoriesList.astro';
+import { allPosts } from '../../../lib/posts';
+export async function getStaticPaths() {
+  const n = Math.ceil((await allPosts()).length / 24);
+  return Array.from({ length: Math.max(0, n - 1) }, (_, i) => ({ params: { page: String(i + 2) } }));
+}
+const pageNo = Number(Astro.params.page);
+---
+<StoriesList pageNo={pageNo} />

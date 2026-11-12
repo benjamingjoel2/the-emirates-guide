@@ -19,12 +19,12 @@ sources:
     url: "https://travelhealthpro.org.uk/factsheets/extreme-heat"
   - title: "NHS: Heat exhaustion and heatstroke"
     url: "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/"
+  - title: "Visit Abu Dhabi: Climate and what to wear"
+    url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear"
   - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Health"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health"
   - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
-  - title: "Visit Abu Dhabi: Climate and what to wear"
-    url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear"
 ---
 
 You step out of an air-conditioned taxi and the heat lands on you like a weight. Your sunglasses fog over, the pavement glows white, and within a few minutes the walk that looked short on the map feels like a bad idea.

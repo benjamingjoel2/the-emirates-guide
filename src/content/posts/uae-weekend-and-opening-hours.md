@@ -13,14 +13,14 @@ plan: "A verified local operator can advise on how the weekend, Friday prayers, 
 sources:
   - title: "UAE Government Portal (u.ae): Fact sheet"
     url: "https://u.ae/en/about-the-uae/fact-sheet"
-  - title: "UAE Government Portal (u.ae): Public holidays"
-    url: "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  - title: "Visit Abu Dhabi: Climate and what to wear"
+    url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear"
   - title: "UAE Government Portal (u.ae): Ramadan"
     url: "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/ramadan"
   - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
-  - title: "Visit Abu Dhabi: Climate and what to wear"
-    url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear"
+  - title: "UAE Government Portal (u.ae): Public holidays"
+    url: "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
 ---
 
 On a Friday afternoon in Dubai, the office towers along the main highway are already emptying. By Saturday morning the beaches, parks and malls are full of families, and the roads into the mountains are busy with people heading out for the day.
@@ -43,7 +43,7 @@ Friday is a working day on paper, yet it has a rhythm of its own. It is the day 
 
 ### What that means for sightseeing
 
-Some mosques that welcome sightseeing visitors adjust their visiting arrangements on Fridays. If a mosque visit is high on your list, check its official website for Friday arrangements before you build your day around it. Our [Sheikh Zayed Grand Mosque visitor guide](/stories/sheikh-zayed-grand-mosque-visitor-guide/) covers the most visited one, and our [travel tips](/travel-tips/) section has more practical planning help.
+Some mosques that welcome sightseeing visitors adjust their visiting arrangements on Fridays. If a mosque visit is high on your list, check its official website for Friday arrangements before you build your day around it. Our [Sheikh Zayed Grand Mosque visitor guide](/stories/sheikh-zayed-grand-mosque-visitor-guide/) covers the most visited one.
 
 Around the middle of the day, you may also notice small shops in older neighbourhoods closing for a while, especially in traditional souks. Malls, large attractions and hotels generally carry on as normal.
 

@@ -19,14 +19,14 @@ sources:
     url: "https://visitrasalkhaimah.com/discover/attractions/al-jazeera-al-hamra/"
   - title: "Visit Ras Al Khaimah: National Museum of Ras Al Khaimah"
     url: "https://visitrasalkhaimah.com/discover/attractions/national-museum-of-ras-al-khaimah/"
-  - title: "Visit Ras Al Khaimah: History and culture"
-    url: "https://visitrasalkhaimah.com/about-ras-al-khaimah/history-culture/"
   - title: "Visit Ras Al Khaimah: FAQs"
     url: "https://visitrasalkhaimah.com/faqs/"
   - title: "Visit Ras Al Khaimah: Cultural awareness"
     url: "https://visitrasalkhaimah.com/plan-your-trip/cultural-awareness/"
   - title: "Visit Ras Al Khaimah: Wadi Shawka"
     url: "https://visitrasalkhaimah.com/location/place/wadi-shawka/"
+  - title: "Visit Ras Al Khaimah: History and culture"
+    url: "https://visitrasalkhaimah.com/about-ras-al-khaimah/history-culture/"
 ---
 
 The first steps are easy, wide and shallow, and you take them quickly. By the middle of the climb you are slowing down, counting, and the palm gardens below have started to spread out like a green carpet. Then the path turns one last time and the fort's mud-brick walls are right in front of you, glowing the colour of honey.

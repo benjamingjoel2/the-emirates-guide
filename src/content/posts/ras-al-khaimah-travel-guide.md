@@ -55,7 +55,7 @@ That mix is the point. You can spend a morning on a mountain trail, an afternoon
 
 According to [Visit Ras Al Khaimah](https://visitrasalkhaimah.com/faqs/), the emirate is about 45 minutes by car from Dubai International Airport, and Ras Al Khaimah International Airport has some regional and seasonal flights. The tourism board says getting around is easiest by car, that taxis are metered and that the public bus network run by the RAK Transport Authority is more limited than in the bigger cities. For the mountains and desert, it recommends a four-wheel-drive vehicle.
 
-In practice, most first-timers either hire a car or book a driver for the day. If you are new to driving in the region, our guide to [planning a UAE road trip](/stories/uae-road-trip-planning/) covers the basics.
+In practice, most first-timers either hire a car or book a driver for the day. If you are new to driving in the region, read up on local road rules before you collect the keys.
 
 ## The old capital of the sea traders
 
@@ -95,7 +95,7 @@ Swim only where it is safe. The UK Foreign Office advises checking for warning s
 
 Visit Ras Al Khaimah says the best time to visit is [from October to April](https://visitrasalkhaimah.com/faqs/), and that summer, which it puts at June to September, can be extremely hot, especially inland. It adds that occasional winter showers can fall, particularly in the mountains.
 
-Rain matters here more than you might expect, because the mountains channel it into wadis. The Foreign Office warns that [heavy rain in the UAE can cause flooding](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security) and advises checking forecasts from the National Centre of Meteorology. Our [month-by-month guide](/stories/best-time-to-visit-uae-month-by-month/) helps you weigh the seasons.
+Rain matters here more than you might expect, because the mountains channel it into wadis. The Foreign Office warns that [heavy rain in the UAE can cause flooding](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security) and advises checking forecasts from the National Centre of Meteorology.
 
 ## Dress, manners and entry
 

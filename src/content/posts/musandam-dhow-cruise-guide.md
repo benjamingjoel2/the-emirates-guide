@@ -23,19 +23,15 @@ sources:
     url: "https://www.gov.uk/foreign-travel-advice/oman/warnings-and-insurance"
   - title: "Experience Oman: Khasab Fort"
     url: "https://experienceoman.om/destinations/musandam/khasab-fort"
-  - title: "Experience Oman: Madha Museum"
-    url: "https://experienceoman.om/destinations/musandam/madha-museum"
 ---
 
 The engine drops to a low thud and the dhow turns into an inlet so narrow that the cliffs on either side seem to lean in. The water is glassy and green. Somebody on the cushions at the stern stops talking mid-sentence, because a fin has just broken the surface off the bow.
 
-That quiet, slightly disbelieving moment is what most people remember about a Musandam dhow cruise. It is the classic way into Oman's northern peninsula from the UAE: a wooden boat, a day on the water, swimming stops and mountains that fall straight into the sea. It is gentle rather than thrilling, and it suits almost everyone.
+That quiet, slightly disbelieving moment is what most people remember about a Musandam dhow cruise: a wooden boat, a day on the water, swimming stops and mountains that fall straight into the sea. It is gentle rather than thrilling, and it suits almost everyone.
 
 The short answer to "is it worth it?" is yes, if you want a slow, scenic day and you have checked the entry rules for your passport before you set off. You are crossing an international border, so this is not quite as simple as a trip to another emirate. Here is how the day works and what to sort out first.
 
 ## Where Musandam is, and why it feels so different
-
-Leave Ras Al Khaimah heading north and the coastal plain narrows until the mountains crowd the road. Beyond the border, the landscape changes character completely.
 
 Musandam is a governorate of Oman, separated from the rest of the country by UAE territory. Oman's official tourism site describes it as a place where [steep mountains meet calm seas](https://experienceoman.om/destinations/musandam), looking out across the Sea of Oman, the Arabian Gulf and the Strait of Hormuz. It names four wilayats (districts): Khasab, Bukha, Dibba and Madha. It lists boat tours, mountain treks and diving as the main activities, and notes that Musandam can be reached by land, sea and air.
 
@@ -47,9 +43,7 @@ Most trips follow a similar rhythm, though routes and timings vary by operator, 
 
 ### Boarding and the first hour
 
-Dhows are broad, wooden and slow, with a shaded deck covered in carpets and cushions where you sit or lie back. Shoes usually come off. The first stretch tends to hug the coast, with bare limestone cliffs, small fishing villages tucked into coves and the occasional settlement reachable only by boat.
-
-Find your spot early. If you burn easily, choose the middle of the shaded area rather than the edge.
+Dhows are broad, wooden and slow, with a shaded deck of carpets and cushions. Shoes usually come off. The first stretch tends to hug the coast, past bare cliffs and small fishing villages tucked into coves. If you burn easily, claim a spot in the middle of the shade.
 
 ### Into the khors
 
@@ -57,19 +51,13 @@ The heart of the day is the slow run into the inlets. The water calms, the walls
 
 ### Swimming and snorkelling stops
 
-Most cruises anchor once or twice in a sheltered bay so you can swim or snorkel off the side. Some boats carry basic snorkelling gear and a few have kayaks. Ask in advance if this matters to you, and check whether a crew member watches the water while people are swimming.
+Most cruises anchor in a sheltered bay so you can swim or snorkel off the side. Ask in advance whether gear is provided and whether a crew member watches the water while people swim.
 
-### Lunch on deck
+### Lunch and the run home
 
-Lunch is usually served on board, typically rice, grilled dishes, salads and fruit, eaten cross-legged on the carpets. If you have allergies or dietary needs, tell the operator when you book, not on the boat.
-
-### The run home
-
-The return leg is often the sleepiest part of the day. Expect the light to soften on the cliffs and half the deck to doze off.
+Lunch is usually served on board and eaten cross-legged on the carpets; flag allergies when you book, not on the boat. The return leg is the sleepiest part of the day, with the light softening on the cliffs.
 
 ## Crossing the border: the checks that matter
-
-The scenery is the easy part. The paperwork is where a Musandam day goes wrong.
 
 ### Entry rules for Oman
 
@@ -79,11 +67,7 @@ Rules depend on your nationality, so check them for your own passport. For Briti
 - proof of accommodation
 - proof of your travel health insurance
 
-Carry your passport itself, not a copy, and keep your insurance documents to hand. If you are travelling on a different passport, ask your operator which rules apply to you and confirm them with official sources before you book.
-
-### Coming back into the UAE
-
-You will pass through UAE immigration again on the way back. Make sure your UAE visa status allows you to leave and re-enter, and ask your operator to confirm this for your nationality.
+Carry your passport itself, not a copy. On other passports, ask your operator which rules apply and confirm them with official sources. You will also pass through UAE immigration again on the way back, so check that your UAE status allows you to leave and re-enter.
 
 ### Medicines and other customs rules
 
@@ -103,25 +87,22 @@ Musandam faces the Strait of Hormuz, and that matters at the moment. The Foreign
 
 ### Heat and sun
 
-Even on a breezy deck, the sun is strong and reflects off the water. Keep drinking, reapply sun cream after every swim and use the shade. See our [guide to the best time to visit](/stories/best-time-to-visit-uae-month-by-month/) for the more comfortable months on the water.
+Even on a breezy deck, the sun is strong. Keep drinking and reapply sun cream after every swim. See our [guide to the best time to visit](/stories/best-time-to-visit-uae-month-by-month/) for the more comfortable months on the water.
 
 ## Respecting the rules on board and ashore
 
-Oman's laws and customs are more conservative than many visitors expect, and a few apply directly to a boat day.
+A few of Oman's rules apply directly to a boat day.
 
 - **Dress.** The Foreign Office says swimwear should not be worn in public areas [except on tourist beaches or at swimming pools](https://www.gov.uk/foreign-travel-advice/oman/safety-and-security). Swim from the boat, then put a layer on before any stop ashore or in a village.
 - **Photos.** It advises not to photograph people without their permission, and that photographing some government and military sites is illegal.
 - **Drones.** Flying a drone without a valid licence is illegal, according to the same page. Leave it at home.
 - **Alcohol.** The Foreign Office says it is illegal to drink alcohol in public or be drunk in public, and that border police may arrest people passing through seaports under the influence.
-- **Ramadan.** During Ramadan, it advises against eating, drinking or smoking in public in the daytime. Ask your operator how the day runs if you travel then.
 
 For what to wear across the wider region, see our guide to [what to wear and UAE etiquette](/stories/what-to-wear-uae-etiquette/).
 
 ## Adding Khasab on land
 
 If you have time before or after the boat, Khasab itself is worth an hour. Oman's tourism site describes [Khasab Fort](https://experienceoman.om/destinations/musandam/khasab-fort) as built at the beginning of the 17th century, square with four corner towers, overlooking the Strait of Hormuz. It gives opening hours of 8am to 6pm daily, with tickets at the reception desk. Hours can change, so check before you go.
-
-Further along the peninsula, the [Madha Museum](https://experienceoman.om/destinations/musandam/madha-museum) holds rock inscriptions, fossils, coins, manuscripts and jewellery. Madha is a small Omani area surrounded by UAE territory, so ask an operator about access before you plan around it.
 
 Thinking of adding more of Oman? Our guide to [combining the UAE and Oman in one trip](/stories/uae-and-oman-one-trip/) covers Al Ain, Buraimi and Muscat.
 
@@ -132,7 +113,7 @@ Thinking of adding more of Oman? Our guide to [combining the UAE and Oman in one
 - Sun cream, sunglasses and a hat
 - A light layer for the breeze on the way home
 - Motion sickness tablets if you need them, cleared for entry to Oman
-- Cash or a card for anything not included, and a dry bag for your phone
+- A dry bag for your phone
 
 ## Quick answers
 
@@ -140,7 +121,7 @@ Thinking of adding more of Oman? Our guide to [combining the UAE and Oman in one
 It depends on your passport. The UK Foreign Office says British citizens can visit Oman for up to 14 days without a visa, but must show return travel, accommodation and travel health insurance at the border.
 
 **Are life jackets provided on dhows?**
-Not always to UK standards. The Foreign Office advises making sure life jackets are available for every passenger, so ask before you book and check when you board.
+Do not assume so. The Foreign Office says tourist boat safety may not be up to UK standards and advises making sure life jackets are available for every passenger, so ask before you book and check when you board.
 
 **Can I fly my drone in Musandam?**
 No, not without a valid licence. The Foreign Office says flying drones without one, or in restricted airspace, is illegal in Oman.

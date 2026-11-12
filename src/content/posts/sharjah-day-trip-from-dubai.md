@@ -51,7 +51,7 @@ The Foreign Office also advises against [photographing people without their perm
 
 ## Getting there and getting around
 
-Most visitors come by taxi or with a driver, which is the simplest way to make the most of one day. Intercity buses also link the two cities. Whichever you choose, try to travel outside the morning and evening rush hours, when the roads between Dubai and Sharjah are at their slowest. Our guide to [getting around Dubai](/stories/getting-around-dubai/) covers your options on the Dubai side.
+Most visitors come by taxi or with a driver, which is the simplest way to make the most of one day. Intercity buses also link the two cities. Whichever you choose, try to travel outside the morning and evening rush hours, when the roads between Dubai and Sharjah are at their slowest.
 
 Once you arrive, the heritage district is compact enough to walk. Hop in a taxi for the longer hops, such as out to Al Noor Mosque or the aquarium.
 
@@ -97,7 +97,7 @@ Stay on after the tour. The mosque is lit up after sunset, and the walk along th
 
 If you are travelling with children, the [Sharjah Aquarium](https://www.visitsharjah.com/en/activities/nature-and-wildlife/sharjah-aquarium/) in the Al Khan area is an easy swap for one of the museums. Its tanks recreate local habitats from coral reefs to mangroves, and Visit Sharjah says the ticket includes entry to the Sharjah Maritime Museum next door. The page suggests catching sunset at Al Khan beach first.
 
-## A sample timing for the day
+## A sample timing for your Sharjah day trip
 
 - **Early morning:** leave Dubai before the rush hour peak.
 - **Morning:** Souq Al Arsah, the Heritage Museum and Bait Al Naboodah.

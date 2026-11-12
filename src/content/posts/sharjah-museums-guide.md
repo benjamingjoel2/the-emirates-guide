@@ -1,12 +1,12 @@
 ---
 title: "Sharjah's museums: where to start"
-description: "A guide to Sharjah's museums for first-time visitors: which to choose for Islamic art, archaeology, heritage houses, calligraphy or the sea, and how to plan a day."
+description: "A guide to Sharjah's museums for first-timers: which to pick for Islamic art, archaeology, heritage houses, calligraphy or the sea, and how to plan a day."
 category: "food-culture"
 emirates: ["sharjah"]
 published: 2026-11-12
 updated: 2026-11-12
 hero: "sharjah-islamic-museum"
-heroAlt: "The Sharjah Museum of Islamic Civilization, a pale stone building with a golden dome on the Sharjah waterfront"
+heroAlt: "The Sharjah Museum of Islamic Civilization building on the Sharjah waterfront"
 featured: false
 startHere: false
 plan: "A verified local operator can build a museum day around your interests, arrange a guide who can explain the collections, and plan the order so you are indoors during the hottest hours."
@@ -19,22 +19,22 @@ sources:
     url: "https://www.visitsharjah.com/en/activities/culture/sharjah-museum-of-islamic-civilization/"
   - title: "Visit Sharjah: Sharjah Archaeology Museum"
     url: "https://www.visitsharjah.com/en/activities/heritage/sharjah-archaeology-museum/"
+  - title: "Visit Sharjah: Mleiha National Park"
+    url: "https://www.visitsharjah.com/en/activities/adventure/mleiha-national-park/"
   - title: "Visit Sharjah: Sharjah Heritage Museum"
     url: "https://www.visitsharjah.com/en/activities/heritage/sharjah-heritage-museum/"
   - title: "Visit Sharjah: Bait Al Naboodah Museum"
     url: "https://www.visitsharjah.com/en/activities/heritage/bait-al-naboodah-museum/"
-  - title: "Visit Sharjah: Sharjah Calligraphy Museum"
-    url: "https://www.visitsharjah.com/en/activities/culture/sharjah-calligraphy-museum/"
   - title: "Visit Sharjah: Majlis Al Midfa"
     url: "https://www.visitsharjah.com/en/activities/heritage/majlis-al-midfa/"
+  - title: "Visit Sharjah: Sharjah Calligraphy Museum"
+    url: "https://www.visitsharjah.com/en/activities/culture/sharjah-calligraphy-museum/"
+  - title: "Visit Sharjah: Bait Al Serkal and Bait Obaid Al Shamsi"
+    url: "https://www.visitsharjah.com/en/activities/arts/bait-al-serkal-and-bait-obaid-al-shamsi/"
   - title: "Visit Sharjah: Sharjah Maritime Museum"
     url: "https://www.visitsharjah.com/en/activities/family/sharjah-maritime-museum/"
   - title: "Visit Sharjah: Sharjah Aquarium"
     url: "https://www.visitsharjah.com/en/activities/nature-and-wildlife/sharjah-aquarium/"
-  - title: "Visit Sharjah: Bait Al Serkal and Bait Obaid Al Shamsi"
-    url: "https://www.visitsharjah.com/en/activities/arts/bait-al-serkal-and-bait-obaid-al-shamsi/"
-  - title: "Visit Sharjah: Mleiha National Park"
-    url: "https://www.visitsharjah.com/en/activities/adventure/mleiha-national-park/"
   - title: "Visit Sharjah: Hisn Khorfakkan"
     url: "https://www.visitsharjah.com/en/activities/heritage/hisn-khorfakkan/"
   - title: "UK FCDO: United Arab Emirates travel advice, safety and security"

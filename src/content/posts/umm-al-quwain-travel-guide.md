@@ -64,7 +64,7 @@ Walk the waterfront afterwards. Fishing boats, nets and the smell of the sea kee
 
 ## Deep history: Ed Dur and Tell Abraq
 
-Umm Al Quwain has some of the most important archaeology in the country. The government's emirate guide describes it as [the most ancient emirate in the country](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Discover-the-UAE/explore-the-uae-by-emirate-), with archaeological traces showing links to Mesopotamia in the 3rd millennium BC. It lists Tell Abraq, dating from the Bronze Age, Al Akab island, and Ed Dur, a site with significance in the first century AD.
+Umm Al Quwain has some of the most important archaeology in the country. The government's emirate guide describes it as [the most ancient emirate in the country](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Discover-the-UAE/explore-the-uae-by-emirate-), with archaeological traces showing links to Mesopotamia in the 3rd millennium BC. It lists Tell Abraq, dating from the Bronze Age, Alokaaab Island, and Ed Dur, a site with significance in the first century AD.
 
 These are archaeological sites rather than visitor attractions with paths and signs. The fort museum is the place to see what has been found; if you want to visit a site itself, go with a guide who knows what access is allowed.
 
@@ -72,7 +72,7 @@ These are archaeological sites rather than visitor attractions with paths and si
 
 Umm Al Quwain also reaches into the desert. The emirate guide describes Falaj Al Mualla as an [attractive natural oasis about 50 km south-east of the town](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Discover-the-UAE/explore-the-uae-by-emirate-) on the road to Al Dhaid, with a camel racetrack. The government portal notes that the first poultry farm in the UAE was established there.
 
-It is a quiet drive through farmland and dunes. Pair it with an interest in camel racing, our guide to [watching camel racing in the UAE](/stories/camel-racing-uae-guide/) explains how race days work, or treat it as a detour on the way to the east coast.
+It is a quiet drive through farmland and dunes. If camel racing interests you, our guide to [watching camel racing in the UAE](/stories/camel-racing-uae-guide/) explains how race days work. Otherwise, treat it as a detour on the way to the east coast.
 
 ## Beaches and staying safe on the water
 

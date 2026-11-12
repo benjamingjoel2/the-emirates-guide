@@ -55,7 +55,7 @@ That is the point of stretching a UAE trip to a week. Five days covers the two b
 
 This seven-day UAE itinerary spends three nights in Dubai, two in Ras Al Khaimah and two in Abu Dhabi. It keeps the middle of every day slow and flags where a Friday or a Monday changes the plan. If you would rather move hotels less often, our [five-day itinerary](/stories/five-day-uae-itinerary/) is the shorter version of the same idea.
 
-## Before you go: the checks for a week in the UAE
+## Before you go: checks for a seven-day UAE itinerary
 
 - **Read the current travel advice.** The UK government warns that the regional situation remains unpredictable and that travellers should be [prepared for possible flight cancellations, airspace closures and travel disruptions](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/warnings-and-insurance). Check it before you book and again before you fly.
 - **Check your entry rules.** For British citizens, the UK government says a visitor visa is [issued free of charge on arrival, and your passport must be valid for at least 6 months after the date you arrive](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/entry-requirements). Other passports have other rules.

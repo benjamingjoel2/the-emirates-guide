@@ -11,14 +11,14 @@ featured: false
 startHere: false
 plan: "A verified local operator can advise on which area and type of hotel suits your itinerary, explain what a quoted rate includes, and help you plan transfers and tours around where you stay."
 sources:
+  - title: "Visit Abu Dhabi: Al Dhafra"
+    url: "https://www.visitabudhabi.ae/en/where-to-go/regions/al-dhafra"
   - title: "UAE Government Portal (u.ae): Where to stay in the UAE?"
     url: "https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Arrival-and-accommodation/where-to-stay-in-the-uae"
   - title: "Visit Abu Dhabi: Taxes, service charges and tipping"
     url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/taxes-service-charges-and-tipping"
   - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
-  - title: "Visit Abu Dhabi: Al Dhafra"
-    url: "https://www.visitabudhabi.ae/en/where-to-go/regions/al-dhafra"
 ---
 
 The price on the booking page looked perfect. Then, at checkout, a short list of extra lines appears: a service charge, a municipality fee, a tourism fee. Nothing is wrong. It is simply how hotel pricing works in much of the UAE, and it catches out a lot of first-time visitors.

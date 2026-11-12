@@ -1,6 +1,6 @@
 ---
 title: "A 48-hour UAE stopover: Dubai or Abu Dhabi in two days"
-description: "How to plan a 48-hour UAE stopover in Dubai or Abu Dhabi: transit visa and passport checks, luggage and medicine rules, and a realistic two-day plan for each city."
+description: "How to plan a 48-hour UAE stopover in Dubai or Abu Dhabi: transit visa, passport and medicine checks, plus a realistic two-day plan for each city."
 category: "itineraries"
 emirates: ["dubai", "abu-dhabi"]
 published: 2026-11-12

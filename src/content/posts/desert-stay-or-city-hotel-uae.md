@@ -45,11 +45,11 @@ The UAE government's own visitor guide sums up the range neatly: you can [stay b
 
 ### Your days from a city hotel
 
-From a city base, the day is flexible. You can visit a museum in the morning, retreat to the pool when the heat builds, and head out again for dinner or an evening souk. Taxis, ride-hailing and public transport are on hand, and if a plan falls through, there is always another one nearby. Families and first-time visitors usually find this easiest.
+From a city base, the day is flexible: a museum in the morning, the pool when the heat builds, an evening souk after dinner. Taxis and public transport are on hand, and if a plan falls through, there is always another nearby.
 
 ### Your days from the desert
 
-In the desert, the landscape is the plan. Mornings are for walking the dunes before the sun climbs, afternoons for resting in the shade, and evenings for watching the light go and the stars come out. You will usually be some way from shops, restaurants and other sights, and you may depend on your camp or resort for meals and transfers. That is the point, but it also means one or two nights is plenty for most people.
+In the desert, the landscape is the plan: dune walks before the sun climbs, shade in the afternoon, stars after dark. You will usually be far from shops and other sights, and may depend on your camp for meals and transfers. That is the point, but one or two nights is plenty for most people.
 
 ## Where you can actually sleep in the desert
 
@@ -63,7 +63,7 @@ The Dubai Desert Conservation Reserve describes itself as [the UAE's first natio
 
 At the foot of Al Ain's mountain, Jebel Hafit Desert Park offers [three camping experiences](https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/natural-wonders/jebel-hafit): basic camping with your own equipment, a serviced camp with Bedouin-style tents and breakfast, and furnished glamping tents with air-conditioning. Visit Abu Dhabi confirms that [overnight camping at designated campsites in Al Ain is allowed](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/camping-guide-to-alain), and recommends planning for the cooler months, from around October to April.
 
-This is a good choice if you want a desert night with heritage on the doorstep. The same guide points to the ancient beehive-shaped tombs nearby, part of Al Ain's UNESCO-listed sites.
+The same guide points to ancient beehive-shaped tombs nearby, part of Al Ain's UNESCO-listed sites.
 
 ### Mleiha, in the heart of Sharjah
 
@@ -83,7 +83,7 @@ A city hotel is the better main base if:
 
 - **This is your first visit.** You will want to see the big landmarks, and almost all of them are in or near Dubai and Abu Dhabi city.
 - **You are relying on public transport.** Desert camps generally need a transfer or a hire car.
-- **You are travelling with very young children or anyone with limited mobility.** Sand, uneven ground and basic toilets can be hard work.
+- **You are travelling with toddlers or anyone with limited mobility.** Sand and basic toilets can be hard work.
 - **You are visiting in the hotter months.** Outdoor desert life is at its best in the cooler season, which is exactly why the official guides above steer campers towards it.
 - **You want variety in the evenings.** Restaurants, souks and waterfronts are where city nights come alive.
 
@@ -114,8 +114,6 @@ For a full look at what a night in a camp involves, see our guide to [overnight 
 ## Staying safe on a desert night
 
 If you are driving yourself, take the official advice seriously. The UK Foreign Office says desert excursions [can be dangerous unless you are in a properly equipped 4-wheel-drive vehicle](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), and advises travelling with other cars, taking water and a mobile phone, and leaving a copy of your travel plans with friends or where you are staying. If you book a tour, it recommends a reputable company with proper health and safety procedures, and checking that the activity is covered by your insurance.
-
-Whoever you go with, tell your city hotel when you will be away and when you expect to return.
 
 ## Quick answers
 

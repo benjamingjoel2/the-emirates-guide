@@ -1,6 +1,6 @@
 ---
 title: "Ten days in the UAE: an itinerary for all seven emirates"
-description: "A ten-day UAE itinerary covering all seven emirates, from Abu Dhabi and Dubai to Sharjah, Ras Al Khaimah and the Fujairah coast, with the rules and checks for each."
+description: "A ten-day UAE itinerary covering all seven emirates, from Abu Dhabi and Dubai to Sharjah, Ras Al Khaimah and the Fujairah coast, with the key rules for each."
 category: "itineraries"
 emirates: []
 published: 2026-11-12
@@ -35,10 +35,10 @@ sources:
     url: "https://u.ae/en/information-and-services/jobs/Sector-of-employment/working-in-uae-government-sector/working-hours-in-the-public-sector"
   - title: "Visit Ras Al Khaimah: Al Jazeera Al Hamra"
     url: "https://visitrasalkhaimah.com/discover/attractions/al-jazeera-al-hamra/"
-  - title: "Visit Ras Al Khaimah: Jebel Jais"
-    url: "https://visitrasalkhaimah.com/location/place/jebel-jais/"
   - title: "Visit Ras Al Khaimah: Dhayah Fort"
     url: "https://visitrasalkhaimah.com/discover/attractions/dhayah-fort/"
+  - title: "Visit Ras Al Khaimah: Jebel Jais"
+    url: "https://visitrasalkhaimah.com/location/place/jebel-jais/"
   - title: "Fujairah Tourism and Antiquities Authority: Places of worship"
     url: "https://fujairahtourism.ae/index_action-PlacesOfWorship.html"
   - title: "Visit Sharjah: Khorfakkan Beach"
@@ -59,7 +59,7 @@ Most visitors never see that side of the country. They fly into Dubai, perhaps a
 
 The shape is simple: start with the capital, move to Dubai and use it to reach Sharjah, then head north through Ajman and Umm Al Quwain to Ras Al Khaimah, and finish on the Fujairah coast. It works best in the cooler months and with a hire car or driver from Day 6 onwards. New to the country? Our [first-timer's guide to the seven emirates](/stories/uae-first-timers-guide-seven-emirates/) explains how they differ.
 
-## Before you plan ten days across the emirates
+## Before you plan ten days in the UAE
 
 - **Check the travel advice.** The UK government says travellers in the region should be [prepared for possible flight cancellations, airspace closures and travel disruptions](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/warnings-and-insurance). Read it before you book and again before you fly.
 - **Check your entry rules.** For British citizens, the UK government says a visitor visa is [issued free on arrival, and your passport must be valid for at least 6 months after the date you arrive](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/entry-requirements). Check the rules for your own passport.
@@ -87,7 +87,7 @@ Transfer to Dubai in the morning. In the late afternoon, cross the creek by abra
 
 ### Day 5: The desert
 
-Rest in the morning, then head out for sunset on the dunes. The Dubai Desert Conservation Reserve lists [wildlife drives, nature walks and dune dinners](https://www.ddcr.org/what-to-do/) among its activities, a calmer option than the busiest camps. Our guide to [whether a desert safari is worth it](/stories/is-a-desert-safari-worth-it/) can help you choose.
+Rest in the morning, then head out for sunset on the dunes. The Dubai Desert Conservation Reserve lists [wildlife drives, nature walks and dune dinners](https://www.ddcr.org/what-to-do/) among its activities, a calmer option than the busiest camps.
 
 ### Day 6: Sharjah, the cultural neighbour
 

@@ -70,7 +70,7 @@ The rules differ by emirate, which is worth knowing on a cross-country trip. The
 
 The UAE government adds that [minor accidents can be reported online](https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/road-safety) through apps including the MoI UAE, Abu Dhabi Police and Dubai Police apps, and the Rafid app in Sharjah. Ask your hire company which they expect you to use.
 
-## Three routes worth the drive
+## Three routes for a UAE road trip
 
 ### West to Liwa and the Empty Quarter
 

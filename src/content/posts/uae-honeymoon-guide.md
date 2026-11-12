@@ -1,6 +1,6 @@
 ---
 title: "Planning a honeymoon in the UAE: places, timing and rules"
-description: "Planning a honeymoon in the UAE: where to go for desert, mountains, islands and culture, when to travel, and the laws on affection, dress and alcohol couples should know."
+description: "Planning a honeymoon in the UAE: where to go for desert, mountains, islands and culture, when to travel, and the laws on affection, dress and alcohol."
 category: "itineraries"
 emirates: []
 published: 2026-11-12
@@ -11,8 +11,6 @@ featured: false
 startHere: false
 plan: "A verified local operator can shape a honeymoon route around the pace you want, arrange private desert dinners, mountain days or island stays, and talk you through local customs before you arrive."
 sources:
-  - title: "UK FCDO: United Arab Emirates travel advice, safety and security"
-    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "Dubai Desert Conservation Reserve: Things to do"
     url: "https://www.ddcr.org/what-to-do/"
   - title: "Visit Ras Al Khaimah: Jais Viewing Deck Park"
@@ -29,6 +27,8 @@ sources:
     url: "https://www.visitabudhabi.ae/en/where-to-go/regions/al-dhafra"
   - title: "Visit Sharjah: Khorfakkan Beach"
     url: "https://www.visitsharjah.com/activities/beaches/khorfakkan-beach/"
+  - title: "UK FCDO: United Arab Emirates travel advice, safety and security"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "Visit Abu Dhabi: Climate and what to wear"
     url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear"
   - title: "Visit Ras Al Khaimah: Frequently asked questions"

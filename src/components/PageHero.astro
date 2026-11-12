@@ -2,11 +2,11 @@
 import { Image } from 'astro:assets';
 import Lines from './Lines.astro';
 import { photo } from '../lib/photos';
-interface Props { title: string; eyebrow?: string; lede?: string; photoKey?: string; alt?: string; place?: string }
-const { title, eyebrow, lede, photoKey, alt = '', place } = Astro.props;
+interface Props { title: string; eyebrow?: string; lede?: string; photoKey?: string; alt?: string; place?: string; size?: '630' | '720' | '900' }
+const { title, eyebrow, lede, photoKey, alt = '', place, size = '900' } = Astro.props;
 const ph = photoKey ? photo(photoKey) : null;
 ---
-<header class:list={['header', 'header--medium', { 'header--plain': !ph }]}>
+<header class:list={['header', size === '900' ? 'header--medium' : `header--${size}`, { 'header--plain': !ph }]}>
   {ph && <Image class="header__media" src={ph.src} alt={alt} widths={[640, 1024, 1600, 2000]} sizes="100vw" loading="eager" fetchpriority="high" format="webp" />}
   <div class="header__shade"></div>
   <Lines />

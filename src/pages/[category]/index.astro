@@ -24,15 +24,11 @@ const itemList = {
 ---
 <Base title={cat.name} description={`${cat.blurb} From The Emirates Guide, published by Tourground.`} crumbs={[{ name: cat.name, path: `/${cat.key}/` }]} schema={[itemList]} current={cat.key}>
   <PageHero title={cat.name} eyebrow="The Emirates Guide" lede={cat.blurb} photoKey={cat.photo} />
-  <section class="circuits" style="padding:0" aria-label="Topics">
-    <ul class="circuits__tabs" style="margin-top:0;padding-top:16px">
-      {CATEGORIES.map((c) => <li><a class="circuits__tab" href={`/${c.key}/`} aria-current={c.key === cat.key ? 'page' : undefined}>{c.name}</a></li>)}
-    </ul>
-  </section>
-  <section class="listing" aria-labelledby="list-title">
+  <section class="listing listing--black" aria-labelledby="list-title">
     <Crumbs items={[{ name: cat.name }]} />
     <div class="listing__head"><h2 class="listing__title" id="list-title">{posts.length} {posts.length === 1 ? 'story' : 'stories'}</h2><a class="action" href="/stories/">All stories <span class="arrow" aria-hidden="true">↗</span></a></div>
-    {cat.key === 'destinations' && <ul class="chips" style="margin-bottom:32px" aria-label="Destinations by emirate">{EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}</ul>}
+    <ul class="chips" style="max-width:1152px;margin:0 auto 24px" aria-label="Topics">{CATEGORIES.map((c) => <li><a href={`/${c.key}/`} aria-current={c.key === cat.key ? 'page' : undefined}>{c.name}</a></li>)}</ul>
+    {cat.key === 'destinations' && <ul class="chips" style="max-width:1152px;margin:0 auto 32px" aria-label="Destinations by emirate">{EMIRATES.map((e) => <li><a href={`/destinations/${e.key}/`}>{e.name}</a></li>)}</ul>}
     {posts.length ? (
       <ul class="post-grid">{posts.map((p) => <li><PostCard post={p} headingLevel={3} /></li>)}</ul>
     ) : (

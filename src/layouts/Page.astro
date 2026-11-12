@@ -2,6 +2,7 @@
 import Base from './Base.astro';
 import Crumbs from '../components/Crumbs.astro';
 import PageHero from '../components/PageHero.astro';
+import Newsletter from '../components/Newsletter.astro';
 import { SITE } from '../data/site';
 import { formatDate } from '../lib/posts';
 
@@ -16,8 +17,9 @@ const page = {
 const host = (u: string) => new URL(u).hostname.replace(/^www\./, '');
 ---
 <Base title={title} description={description} crumbs={[{ name: title, path }]} schema={[page]} current={path === '/about/' ? 'about' : undefined}>
-  <PageHero title={title} eyebrow={section} lede={description} />
-  <div class="page">
+  <PageHero title={title} eyebrow={section} size="720" />
+  <section class="text-introduction" aria-label="Introduction"><p>{description}</p></section>
+  <section class="legal-text" aria-label={title}>
     <Crumbs items={[{ name: title }]} />
     <p class="page__meta">Published {formatDate(reviewed)} · Last reviewed {formatDate(reviewed)} · Edited by The Emirates Guide editors, Tourground</p>
     <div class="prose">
@@ -35,5 +37,6 @@ const host = (u: string) => new URL(u).hostname.replace(/^www\./, '');
         <ol>{sources.map((s) => <li><a href={s.url}>{s.title}</a><span class="host">{host(s.url)}</span></li>)}</ol>
       </section>
     )}
-  </div>
+  </section>
+  <Newsletter />
 </Base>

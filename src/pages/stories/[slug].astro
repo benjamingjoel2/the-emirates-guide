@@ -5,6 +5,7 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import Lines from '../../components/Lines.astro';
 import Newsletter from '../../components/Newsletter.astro';
+import Magazine from '../../components/Magazine.astro';
 import { emirateByKey } from '../../data/site';
 import { AUTHORS, SITE, categoryByKey } from '../../data/site';
 import { allPosts, formatDate, isoDate, postUrl, readingMinutes, related, type Post } from '../../lib/posts';
@@ -16,7 +17,8 @@ export async function getStaticPaths() {
   return posts.map((post) => ({ params: { slug: post.id }, props: { post, posts } }));
 }
 const { post, posts } = Astro.props as { post: Post; posts: Post[] };
-const { Content } = await render(post);
+const { Content, headings } = await render(post);
+const toc = headings.filter((h) => h.depth === 2);
 const d = post.data;
 const cat = categoryByKey(d.category);
 const author = AUTHORS[d.author];
@@ -93,6 +95,12 @@ const blogPosting = {
       {d.advertisement && <p class="article__updated" style="background:var(--ad)">Advertisement feature{d.advertiser && <> · Paid for by {d.advertiser}</>}</p>}
       <p class="article__intro">{d.description}</p>
       <p class="article__updated">Last updated <time datetime={isoDate(d.updated)}>{formatDate(d.updated)}</time>. Facts that can change link to their official source: check them before you travel.</p>
+      {toc.length > 2 && (
+        <nav class="toc" aria-labelledby="toc-label">
+          <p class="toc__label" id="toc-label">In this story</p>
+          <ol>{toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
+        </nav>
+      )}
       <div class="prose">
         <Content />
       </div>
@@ -140,5 +148,6 @@ const blogPosting = {
     </ul>
   </section>
 
+  <Magazine exclude={post.id} />
   <Newsletter />
 </Base>

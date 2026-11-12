@@ -3,6 +3,7 @@ import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import Lines from '../components/Lines.astro';
 import Newsletter from '../components/Newsletter.astro';
+import Magazine from '../components/Magazine.astro';
 import { CATEGORIES, EMIRATES, SITE, categoryByKey, emirateByKey } from '../data/site';
 import { allPosts, postUrl } from '../lib/posts';
 import { photo } from '../lib/photos';
@@ -14,9 +15,12 @@ const start = posts.filter((p) => p.data.startHere).sort((a, b) => startOrder.in
 const hero = photo(featured.data.hero);
 const intro = photo('musandam-dhow');
 const cta = photo('jebel-jais-sunset');
+const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'].map((n, i) => {
+  const s = i >= 5 && i <= 8 ? 'hot' : i === 4 || i === 9 ? 'mid' : 'cool';
+  return { n, s, label: s === 'hot' ? 'Hot and humid' : s === 'mid' ? 'In between' : 'Most pleasant' };
+});
 const counts = Object.fromEntries(CATEGORIES.map((c) => [c.key, posts.filter((p) => p.data.category === c.key).length]));
 const places = (em: string[]) => em.length === 7 ? 'All seven emirates' : em.length > 3 ? `${em.slice(0, 2).map((k) => emirateByKey(k).name).join(', ')} +${em.length - 2}` : em.map((k) => emirateByKey(k).name).join(', ') || 'United Arab Emirates';
-const storyCount = (k: string) => posts.filter((p) => p.data.emirates.includes(k as any)).length;
 ---
 <Base title={`${SITE.name}: Travel stories and guides to the UAE`} description={SITE.description} current="home">
   <header class="header">
@@ -42,9 +46,9 @@ const storyCount = (k: string) => posts.filter((p) => p.data.emirates.includes(k
     <div class="introduction__right">
       <Image src={intro.src} alt="" widths={[640, 1000]} sizes="(min-width: 1024px) 50vw, 100vw" loading="lazy" format="webp" />
       <h2 class="introduction__title" id="journey-title">Start here: your first UAE trip</h2>
-      <ol class="journey">
-        {start.map((p, i) => <li><a href={postUrl(p)}><span class="n">Step {i + 1}</span>{p.data.title}</a></li>)}
-        <li><a href={SITE.directoryUrl}><span class="n">Step {start.length + 1}</span>Book with a verified local operator</a></li>
+      <ol class="steps">
+        {start.map((p, i) => <li><a href={postUrl(p)}><span class="steps__n">0{i + 1}</span><span class="steps__t"><span class="steps__cat">{categoryByKey(p.data.category).name}</span>{p.data.title}</span></a></li>)}
+        <li><a href={SITE.directoryUrl}><span class="steps__n">0{start.length + 1}</span><span class="steps__t"><span class="steps__cat">Booking</span>Book with a verified local operator</span></a></li>
       </ol>
       <p class="introduction__credit"><a href={intro.credit.source}>Photo: {intro.credit.author} · {intro.credit.license}</a></p>
     </div>
@@ -89,6 +93,29 @@ const storyCount = (k: string) => posts.filter((p) => p.data.emirates.includes(k
     </div>
   </section>
 
+  <section class="em-index" aria-labelledby="em-index-title">
+    <div class="em-index__aside">
+      <p class="em-index__label">Destinations</p>
+      <h2 class="em-index__title" id="em-index-title">Seven emirates, one by one</h2>
+      <p class="em-index__desc">From the capital's island city to the mountains above the Gulf of Oman. Pick an emirate for what it is like and our stories about it.</p>
+      <a class="action" href="/destinations/">All destinations <span class="arrow" aria-hidden="true">↗</span></a>
+    </div>
+    <ol class="em-index__list">
+      {EMIRATES.map((e, i) => {
+        const ph = photo(e.photo);
+        return (
+          <li>
+            <a class="em-row" href={`/destinations/${e.key}/`}>
+              <span class="em-row__n">{String(i + 1).padStart(2, '0')}</span>
+              <span class="em-row__body"><span class="em-row__name">{e.name}</span><span class="em-row__intro">{e.intro.split('. ')[0]}.</span></span>
+              <Image class="em-row__img" src={ph.src} alt="" widths={[200, 400]} sizes="160px" loading="lazy" format="webp" />
+            </a>
+          </li>
+        );
+      })}
+    </ol>
+  </section>
+
   <section class="fullwidth" aria-labelledby="cta-title">
     <Image src={cta.src} alt="" widths={[640, 1024, 1600, 2000]} sizes="100vw" loading="lazy" format="webp" />
     <h2 class="fullwidth__title" id="cta-title">Plan with people who know the ground</h2>
@@ -97,37 +124,32 @@ const storyCount = (k: string) => posts.filter((p) => p.data.emirates.includes(k
     <p class="header__label">Jebel Jais, Ras Al Khaimah<br />Photo: <a href={cta.credit.source}>{cta.credit.author}</a> · <a href={cta.credit.licenseUrl}>{cta.credit.license}</a></p>
   </section>
 
-  <section class="banner-blog" aria-labelledby="emirates-title">
-    <div class="banner-blog__head">
-      <div>
-        <h2 class="banner-blog__title" id="emirates-title">The seven emirates</h2>
-        <p class="banner-blog__subtitle">One country, seven very different places</p>
-      </div>
-      <a class="action" href="/destinations/">All destinations <span class="arrow" aria-hidden="true">↗</span></a>
+  <section class="seasons" aria-labelledby="seasons-title">
+    <div class="seasons__head">
+      <h2 class="seasons__title" id="seasons-title">The year at a glance</h2>
+      <p class="seasons__sub">When the UAE is at its most comfortable, according to the official Abu Dhabi tourism board</p>
     </div>
-    <ul class="slider" data-slider id="em-slider">
-      {EMIRATES.map((e) => {
-        const ph = photo(e.photo);
-        const n = storyCount(e.key);
-        return (
-          <li>
-            <a class="card-post__link" href={`/destinations/${e.key}/`}>
-              <Image src={ph.src} alt="" widths={[420, 840]} sizes="(min-width: 1024px) 420px, 310px" loading="lazy" format="webp" />
-              <ul class="card-post__pills"><li class="pill">Destination</li></ul>
-              <span>
-                <span class="card-post__countries">United Arab Emirates</span>
-                <span class="card-post__name">{e.name}</span>
-                <span class="card-post__date">{n} {n === 1 ? 'story' : 'stories'}</span>
-              </span>
-            </a>
-          </li>
-        );
-      })}
-    </ul>
-    <div class="slider__nav">
-      <button class="round-btn" type="button" data-slide="-1" aria-controls="em-slider" aria-label="Scroll back">←</button>
-      <button class="round-btn" type="button" data-slide="1" aria-controls="em-slider" aria-label="Scroll forward">→</button>
+    <ol class="seasons__months">
+      {MONTHS.map((m) => <li class:list={['seasons__m', `is-${m.s}`]}><span class="seasons__name">{m.n}</span><span class="seasons__state">{m.label}</span></li>)}
+    </ol>
+    <div class="seasons__legend">
+      <p><span class="dot is-cool"></span>November to April: the most pleasant months (<a href="https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear">Visit Abu Dhabi</a>)</p>
+      <p><span class="dot is-hot"></span>June to September: intense heat and high humidity (<a href="https://visitabudhabi.ae/en/plan-your-trip/essential-info/weather-in-abu-dhabi/summer">Visit Abu Dhabi</a>)</p>
+      <p><span class="dot is-mid"></span>May and October: between the two</p>
     </div>
+    <p style="margin-top:28px"><a class="action" href="/stories/best-time-to-visit-uae-month-by-month/">Month by month guide <span class="arrow" aria-hidden="true">↗</span></a></p>
+  </section>
+
+  <Magazine exclude={featured.id} />
+  <section class="principles" aria-labelledby="principles-title">
+    <p class="em-index__label">How we work</p>
+    <h2 class="principles__title" id="principles-title">Written to be trusted</h2>
+    <ol class="principles__list">
+      <li><span class="principles__n">01</span><h3>Sourced</h3><p>Visa rules, dress codes, opening arrangements and Ramadan hours link to the official source where they appear, and every story lists its sources.</p></li>
+      <li><span class="principles__n">02</span><h3>Dated</h3><p>Every story shows when it was published and when its facts were last checked. Rules change, so we tell you to check before you go.</p></li>
+      <li><span class="principles__n">03</span><h3>Nothing invented</h3><p>No made-up reviews, quotes, prices or statistics. If we cannot source it, we leave it out. Paid content is always labelled "Advertisement feature".</p></li>
+    </ol>
+    <a class="principles__link" href="/about/">Read more about us and our publisher, Tourground</a>
   </section>
 
   <Newsletter />
@@ -181,10 +203,4 @@ const storyCount = (k: string) => posts.filter((p) => p.data.emirates.includes(k
     window.addEventListener('resize', layout);
     layout();
   }
-  // Simple sliders
-  document.querySelectorAll<HTMLButtonElement>('[data-slide]').forEach((b) => b.addEventListener('click', () => {
-    const s = document.getElementById(b.getAttribute('aria-controls')!)!;
-    const card = s.querySelector('li') as HTMLElement;
-    s.scrollBy({ left: Number(b.dataset.slide) * (card.offsetWidth + 20), behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
-  }));
 </script>

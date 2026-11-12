@@ -22,7 +22,7 @@ const place = {
 };
 ---
 <Base title={`${em.name} travel guide`} description={`${em.name}: what the emirate is like, who it suits, and our stories on visiting it. ${em.intro.split('. ')[0]}.`} crumbs={[{ name: 'Destinations', path: '/destinations/' }, { name: em.name, path: `/destinations/${em.key}/` }]} schema={[place]} current="destinations">
-  <PageHero title={em.name} eyebrow="Destinations · United Arab Emirates" photoKey={em.photo} alt={em.photoAlt} />
+  <PageHero title={em.name} eyebrow="Destinations · United Arab Emirates" photoKey={em.photo} alt={em.photoAlt} size="630" />
   <section class="listing" aria-labelledby="em-stories">
     <Crumbs items={[{ name: 'Destinations', path: '/destinations/' }, { name: em.name }]} />
     <p class="em-intro">{em.intro}</p>

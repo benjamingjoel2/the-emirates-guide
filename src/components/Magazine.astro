@@ -1,0 +1,33 @@
+---
+import PostCard from './PostCard.astro';
+import { allPosts } from '../lib/posts';
+const { exclude, title = 'Our travel magazine', sub = 'Story-led, sourced guides to the seven emirates' } = Astro.props as { exclude?: string; title?: string; sub?: string };
+const posts = (await allPosts()).filter((p) => p.id !== exclude).slice(0, 8);
+const id = `mag-${Math.random().toString(36).slice(2, 7)}`;
+---
+<section class="banner-blog" aria-labelledby={`${id}-t`}>
+  <div class="banner-blog__head">
+    <div>
+      <h2 class="banner-blog__title" id={`${id}-t`}>{title}</h2>
+      <p class="banner-blog__subtitle">{sub}</p>
+    </div>
+    <a class="action" href="/stories/">View all stories <span class="arrow" aria-hidden="true">↗</span></a>
+  </div>
+  <ul class="slider" id={id}>
+    {posts.map((p) => <li><PostCard post={p} /></li>)}
+  </ul>
+  <div class="slider__nav">
+    <button class="round-btn" type="button" data-slide="-1" aria-controls={id} aria-label="Scroll back">←</button>
+    <button class="round-btn" type="button" data-slide="1" aria-controls={id} aria-label="Scroll forward">→</button>
+  </div>
+</section>
+<script>
+  document.querySelectorAll<HTMLButtonElement>('[data-slide]').forEach((b) => {
+    if (b.dataset.bound) return; b.dataset.bound = '1';
+    b.addEventListener('click', () => {
+      const s = document.getElementById(b.getAttribute('aria-controls')!)!;
+      const card = s.querySelector('li') as HTMLElement;
+      s.scrollBy({ left: Number(b.dataset.slide) * (card.offsetWidth + 20), behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+    });
+  });
+</script>

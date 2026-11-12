@@ -11,16 +11,16 @@ featured: false
 startHere: false
 plan: "A verified local operator can book a guided mangrove kayaking trip timed to the tide, match the route to your group's experience, and advise on sunrise, sunset or night paddles."
 sources:
-  - title: "Visit Abu Dhabi: Mangrove National Park"
-    url: "https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/wildlife/mangrove-national-park"
   - title: "Environment Agency Abu Dhabi: Mangrove National Park"
     url: "https://www.ead.gov.ae/en/experience-green-abu-dhabi/places-to-go/mangrove-national-park"
-  - title: "Visit Abu Dhabi: Kayaking in Abu Dhabi"
-    url: "https://www.visitabudhabi.ae/en/things-to-do/water-activities/kayaking"
+  - title: "Visit Abu Dhabi: Mangrove National Park"
+    url: "https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/wildlife/mangrove-national-park"
   - title: "Visit Abu Dhabi: Jubail Mangrove Park"
     url: "https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/parks/jubail-mangrove-park"
   - title: "Jubail Island: Jubail Mangrove Park"
     url: "https://jubailisland.ae/jubail-mangrove-park/"
+  - title: "Visit Abu Dhabi: Kayaking in Abu Dhabi"
+    url: "https://www.visitabudhabi.ae/en/things-to-do/water-activities/kayaking"
   - title: "UK FCDO: United Arab Emirates travel advice, safety and security"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "NHS: Heat exhaustion and heatstroke"
@@ -29,9 +29,9 @@ sources:
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health"
 ---
 
-The paddle dips, the kayak slides forward, and within a few strokes the city simply switches off. Towers that were looming over the launch point disappear behind a wall of glossy green leaves, and the only sounds left are water dripping from the blade and the soft click of crabs in the roots.
+The paddle dips, the kayak slides forward, and within a few strokes of mangrove kayaking in Abu Dhabi the city simply switches off. Towers that were looming over the launch point disappear behind a wall of glossy green leaves, and the only sounds left are water dripping from the blade and the soft click of crabs in the roots.
 
-Then a heron lifts off from a branch a few metres ahead, unhurried, and lands again further along the channel. This is mangrove kayaking in Abu Dhabi: flat water, slow pace and a surprising amount of life, all within easy reach of the capital.
+Then a heron lifts off from a branch a few metres ahead, unhurried, and lands again further along the channel. This is the mangroves at their best: flat water, slow pace and a surprising amount of life, all within easy reach of the capital.
 
 It is one of the gentlest outdoor trips in the UAE, and one of the best for beginners. You do not need experience, only a guide or a calm day, the right tide and a plan for the sun. Here is where to go and how to make it go smoothly.
 

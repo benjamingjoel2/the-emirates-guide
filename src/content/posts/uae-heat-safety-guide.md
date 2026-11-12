@@ -40,7 +40,7 @@ The UAE government describes the country's climate as a desert climate, [hot and
 - Cover up with light, loose clothing, a wide-brimmed hat, sunglasses and sunscreen.
 - Know the signs of heat exhaustion and heatstroke, and call **998** for an ambulance in an emergency.
 
-The rest of this guide explains each one.
+The rest of this guide explains each one, and our [travel tips](/travel-tips/) section covers other practical planning.
 
 ## Why the middle of the day is different
 
@@ -58,7 +58,7 @@ Heritage districts, waterfront walks and outdoor markets are at their best in th
 
 ### Middays indoors
 
-Use the middle of the day for museums, galleries, long lunches and a rest at your hotel. Our [Louvre Abu Dhabi guide](/stories/louvre-abu-dhabi-guide/) and [Museum of the Future guide](/stories/museum-of-the-future-guide/) are good starting points for indoor days.
+Use the middle of the day for museums, galleries, long lunches and a rest at your hotel. Our [Louvre Abu Dhabi guide](/stories/louvre-abu-dhabi-guide/) is a good starting point for an indoor day.
 
 ### Evenings outside again
 
@@ -91,7 +91,7 @@ If that applies to anyone in your group, TravelHealthPro advises getting advice 
 
 ### Children and cars
 
-TravelHealthPro is blunt about parked cars: [never leave anyone](https://travelhealthpro.org.uk/factsheets/extreme-heat), including babies, young children or animals, in a closed car, as they can overheat very quickly. Even a short stop counts. Families will find more ideas in our guide to [Dubai with children](/stories/dubai-with-kids/).
+TravelHealthPro is blunt about parked cars: [never leave anyone](https://travelhealthpro.org.uk/factsheets/extreme-heat), including babies, young children or animals, in a closed car, as they can overheat very quickly. Even a short stop counts.
 
 ## Warning signs: heat exhaustion and heatstroke
 

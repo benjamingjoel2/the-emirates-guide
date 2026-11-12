@@ -19,6 +19,8 @@ sources:
     url: "https://visit-ajman.ae/en/destinations/ajman-city/corniche/"
   - title: "Visit Ajman: Al Murabbaa Watchtower"
     url: "https://visit-ajman.ae/en/destinations/ajman-city/al-murabbaa-watchtower/"
+  - title: "UK FCDO: United Arab Emirates travel advice, safety and security"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "Visit Ajman: Dhow Yard"
     url: "https://visit-ajman.ae/en/destinations/ajman-city/dhow-yard/"
   - title: "Visit Ajman: Fish Market"
@@ -35,15 +37,13 @@ sources:
     url: "https://visit-ajman.ae/en/destinations/masfout/masfout-hiking-routes-safety/"
   - title: "Visit Ajman: Culture FAQ"
     url: "https://visit-ajman.ae/en/facts/culture-faq/"
-  - title: "UK FCDO: United Arab Emirates travel advice, safety and security"
-    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
 ---
 
 On Ajman Creek, a half-built wooden hull sits in a cradle of timber props, its ribs open to the sky. A craftsman runs a hand along a plank, checks the curve, and reaches for a tool. Across the water, the evening fish auction is about to begin.
 
 That is the Ajman most visitors drive straight past on the way north. This Ajman travel guide is for people who want to stop. The emirate is small enough to see the highlights in a day, and it has a museum in an old fort, a long beach promenade, a working dhow yard and, surprisingly, mangroves and mountain enclaves. It moves more slowly than Dubai, and that is the point.
 
-## Ajman at a glance
+## Ajman travel guide basics: the emirate at a glance
 
 The [UAE government portal](https://u.ae/en/about-the-uae/the-seven-emirates/ajman) calls Ajman the smallest of the seven emirates, covering about 260 sq km, or roughly 0.3% of the country's area excluding islands. It lies on the Arabian Gulf between Sharjah and Umm Al Quwain, with a coastline the portal puts at 16 km.
 

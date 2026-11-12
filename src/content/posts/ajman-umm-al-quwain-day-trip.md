@@ -47,7 +47,7 @@ They are close, they are quiet, and they complement each other. Ajman brings mus
 
 The government's emirate guide puts Umm Al Quwain [about 20 minutes' drive north of Ajman](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Discover-the-UAE/explore-the-uae-by-emirate-), so you spend your day exploring rather than driving between them. Start early from Dubai and you can be on the water before the heat builds.
 
-## Before you set off
+## Before your Ajman and Umm Al Quwain day trip
 
 A few things make the day smoother:
 

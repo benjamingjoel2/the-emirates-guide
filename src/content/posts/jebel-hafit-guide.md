@@ -13,10 +13,10 @@ plan: "A verified local operator can arrange a driver for the Jebel Hafit mounta
 sources:
   - title: "Visit Abu Dhabi: Jebel Hafit"
     url: "https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/natural-wonders/jebel-hafit"
-  - title: "Visit Abu Dhabi: The ancient world of Al Ain, Abu Dhabi's UNESCO heritage city"
-    url: "https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage"
   - title: "Environment Agency Abu Dhabi: Jabal Hafit National Park"
     url: "https://www.ead.gov.ae/en/experience-green-abu-dhabi/places-to-go/jabal-hafit-national--park"
+  - title: "Visit Abu Dhabi: The ancient world of Al Ain, Abu Dhabi's UNESCO heritage city"
+    url: "https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage"
   - title: "Abu Dhabi Culture: Jebel Hafit Desert Park"
     url: "https://abudhabiculture.ae/en/cultural-sites/pre-history-and-paleontology/jebel-hafit-desert-park"
   - title: "Visit Abu Dhabi: The ultimate Al Ain camping guide"
@@ -29,7 +29,7 @@ sources:
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health"
 ---
 
-The road leaves the last palms of Al Ain behind and starts to climb almost at once. Bend follows bend, the rock walls close in, and every time the car swings round a hairpin the city drops a little further below, green against the sand.
+The road up Jebel Hafit leaves the last palms of Al Ain behind and starts to climb almost at once. Bend follows bend, the rock walls close in, and every time the car swings round a hairpin the city drops a little further below, green against the sand.
 
 Near the top, cars pull in at the viewpoints and people step out into a breeze that the plains below never seem to get. That is Jebel Hafit at its simplest: a mountain you can drive up in an afternoon for a view that stretches far across the desert. There is more to it than the road, though. At its foot is a desert park with ancient tombs, trails, campsites and some of the UAE's rarest wildlife.
 

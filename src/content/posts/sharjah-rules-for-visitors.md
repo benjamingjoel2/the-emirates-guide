@@ -46,7 +46,7 @@ Our wider guide to [alcohol rules in the UAE](/stories/alcohol-rules-in-the-uae/
 
 ## Why Sharjah feels different
 
-Walk into the Heart of Sharjah in the late afternoon and the mood is part of the answer. Families stroll between restored coral-stone houses, the call to prayer carries over the rooftops, and the souks hum quietly rather than loudly.
+Walk into the Heart of Sharjah in the late afternoon and the mood is part of the answer. Families stroll between restored coral-stone houses and the call to prayer carries over the rooftops.
 
 Sharjah has built its identity around culture and tradition. The [UAE government portal](https://u.ae/en/about-the-uae/the-seven-emirates/sharjah) notes that UNESCO named it the Cultural Capital of the Arab World in 1998, that it was named Capital of Islamic Culture in 2014, and that it is home to nearly a quarter of all the UAE's museums. The same page lists the Heart of Sharjah as one of its historical areas alongside modern waterfronts such as Al Qasba and Al Majaz.
 
@@ -91,9 +91,9 @@ Ramadan changes the rhythm of Sharjah more than almost anywhere else in the coun
 
 The [UAE government portal](https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/ramadan) confirms that non-Muslims are not required to fast, and says that malls offer dining areas away from those who are fasting. The Foreign Office adds that it may cause offence to [eat, drink, smoke or chew gum in public in the daytime](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), including in your car, or to play loud music, and that dress codes matter even more during the month. Read our full guide to [visiting the UAE during Ramadan](/stories/visiting-uae-during-ramadan/) before you travel then.
 
-## Simple habits that keep a Sharjah day easy
+## Visiting Sharjah: simple habits that keep the day easy
 
-None of this needs to make a visit tense. Most of it comes down to a handful of habits:
+Most of it comes down to a handful of habits:
 
 1. **Leave the alcohol behind.** Nothing in your bag, nothing in your hotel room, nothing in the car.
 2. **Dress one notch more modestly than you would in Dubai.** Sleeves and longer hems, a scarf in your bag.

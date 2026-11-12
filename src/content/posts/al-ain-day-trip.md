@@ -19,19 +19,19 @@ sources:
     url: "https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/natural-wonders/al-ain-oasis"
   - title: "Visit Abu Dhabi: Al Jahili Fort"
     url: "https://www.visitabudhabi.ae/en/things-to-do/culture/heritage/al-jahili-fort"
+  - title: "NHS: Heat exhaustion and heatstroke"
+    url: "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/"
   - title: "Abu Dhabi Culture: Al Ain Museum"
     url: "https://abudhabiculture.ae/en/cultural-sites/museums/al-ain-museum"
   - title: "Visit Abu Dhabi: Qasr Al Muwaiji"
     url: "https://www.visitabudhabi.ae/en/things-to-do/culture/heritage/qasr-al-muwaiji"
   - title: "Visit Abu Dhabi: Jebel Hafit"
     url: "https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/natural-wonders/jebel-hafit"
-  - title: "NHS: Heat exhaustion and heatstroke"
-    url: "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/"
   - title: "UK FCDO: United Arab Emirates travel advice, health"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health"
 ---
 
-Before the city is properly awake, the camel market on the edge of Al Ain is already loud. Animals shift and groan in their pens, buyers walk slowly along the rails, and the bargaining is done in Arabic, in low voices, with a great deal of patience.
+Before the city is properly awake, the camel market on the edge of Al Ain is already loud, and a good Al Ain day trip starts right here. Animals shift and groan in their pens, buyers walk slowly along the rails, and the bargaining is done in Arabic, in low voices, with a great deal of patience.
 
 By mid-morning that scene has gone, and you are walking under a roof of date palms while water runs past your feet in a channel older than most cathedrals. That is the rhythm of an Al Ain day trip: an early start, a quiet middle, and a mountain at the end of the day. It is the easiest way to see a completely different side of the UAE without packing a bag.
 

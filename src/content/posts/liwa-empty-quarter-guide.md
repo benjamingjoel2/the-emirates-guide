@@ -29,7 +29,7 @@ sources:
     url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear"
 ---
 
-The road south runs straight for a long time. Then the dunes start: low at first, then taller, then so tall that the tarmac looks like a thin grey thread laid between walls of orange sand.
+The road south from Abu Dhabi to Liwa runs straight for a long time. Then the dunes start: low at first, then taller, then so tall that the tarmac looks like a thin grey thread laid between walls of orange sand.
 
 By the time you reach Liwa, the city feels very far away. There are palm groves in the hollows, a few towns strung along the edge of the sand, and beyond them the Empty Quarter, one of the largest sand seas on Earth. For a first-timer, Liwa is the place in the UAE where the desert stops being a backdrop to an evening out and becomes the whole point.
 

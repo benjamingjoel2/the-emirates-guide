@@ -104,7 +104,6 @@ ul, ol { margin: 0; padding: 0; }
 .header__shade { position: absolute; inset: 0; z-index: -2; background: linear-gradient(rgba(33, 33, 33, 0.55), rgba(33, 33, 33, 0.35)); }
 .header--plain { background: radial-gradient(ellipse at 50% 120%, #7b2a25 0%, #3b1311 45%, #120505 100%); }
 .header--plain .header__shade { display: none; }
-.lines { position: absolute; inset: 0; width: 100%; height: 100%; z-index: -1; pointer-events: none; opacity: 0.35; }
 .header__center { height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 120px var(--pad) 80px; }
 .header--medium .header__center { min-height: 560px; }
 .header__suptitle { display: block; font-size: 22.4px; line-height: 25.2px; font-weight: 200; padding: 0 0 4px; }

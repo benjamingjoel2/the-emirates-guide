@@ -1,7 +1,6 @@
 ---
 import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
-import Lines from '../components/Lines.astro';
 import Newsletter from '../components/Newsletter.astro';
 import Magazine from '../components/Magazine.astro';
 import { CATEGORIES, EMIRATES, SITE, categoryByKey, emirateByKey } from '../data/site';
@@ -27,7 +26,6 @@ const places = (em: string[]) => em.length === 7 ? 'All seven emirates' : em.len
   <header class="header">
     <Image class="header__media" src={hero.src} alt={featured.data.heroAlt} widths={[640, 1024, 1600, 2000]} sizes="100vw" loading="eager" fetchpriority="high" format="webp" />
     <div class="header__shade"></div>
-    <Lines />
     <div class="header__center">
       <h1 class="visually-hidden">{SITE.name}: travel stories and guides to the United Arab Emirates</h1>
       <p aria-hidden="false">

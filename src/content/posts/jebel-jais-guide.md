@@ -6,7 +6,7 @@ emirates: ["ras-al-khaimah"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "jebel-jais-guide-hero"
-heroAlt: "A mountain road curving along a rocky slope of Jebel Jais, with layered grey ridges of the Hajar mountains behind"
+heroAlt: "The Jebel Jais road curving between banded rock cuttings, with layered Hajar mountain ridges fading into a hazy sky"
 featured: false
 startHere: false
 plan: "A verified local operator can arrange a driver confident on mountain roads, match you with a guided walk suited to the slowest person in your group, and advise on weather and timing for the day you go up."

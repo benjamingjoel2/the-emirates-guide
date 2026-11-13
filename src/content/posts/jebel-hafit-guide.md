@@ -45,7 +45,7 @@ Near the top, cars pull in at the viewpoints and people step out into a breeze t
 
 So is it worth the trip? If you are in Al Ain, yes. Go late in the afternoon for the light, and give the desert park at the bottom a few hours of its own.
 
-PHOTO1
+<photo-set layout="wide" keys="jebel-hafit-guide-1" alts="A1" caption="Jebel Hafit rises straight out of the desert south of Al Ain."></photo-set>
 
 ## Jebel Hafit at a glance
 
@@ -68,7 +68,7 @@ It is a proper mountain road: steep in places, with tight bends and long drops b
 - Take the descent slowly after dark, when headlights from oncoming traffic can dazzle.
 - If anyone in the car gets motion sick, give them the front seat and stop at the lay-bys.
 
-PHOTO2
+<photo-set layout="trio" keys="jebel-hafit-guide-2,jebel-hafit-guide-3,jebel-hafit-guide-4" alts="A2|A3|A4" caption="The mountain road winds up past lay-bys and viewpoints to the summit area."></photo-set>
 
 ### Do you need to walk?
 
@@ -94,7 +94,7 @@ Abu Dhabi Culture explains that the park is part of [the Hafit component of the 
 
 Visit Abu Dhabi says the mountain is home to [more than 500 ancient tombs](https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/natural-wonders/jebel-hafit) and that you can see them on a guided hike through the park. It adds that the 5,000-year-old tombs were excavated in 1959 at the request of Sheikh Zayed.
 
-PHOTO3
+<photo-set layout="inset-left" keys="jebel-hafit-guide-5" alts="A5" caption="Beehive tombs of stone are scattered across the lower slopes."></photo-set>
 
 They are low, rounded stone structures, often called beehive tombs, scattered across the lower slopes. Reaching them takes [a car and a short scramble, nothing technical](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage). From a distance they can look like piles of rubble; up close you start to see the careful coursing of the stones and the small entrances.
 
@@ -127,7 +127,7 @@ In the south of the park, Abu Dhabi Culture describes Mezyad Fort as the largest
 
 Abu Dhabi Culture's page on the building, which it calls Mezyad Castle, gives more detail. It describes a rectangular building of [approximately 2,600 square metres](https://abudhabiculture.ae/en/cultural-sites/historic-buildings-and-cultural-landscapes/mezyad-castle), with tall cylindrical watchtowers on three corners around a courtyard planted with palms, and more than forty rooms. It was built from sarooj, a water-resistant mortar, with stone and wood. The towers and walls make a handsome stop at the end of a morning in the park, and the palm courtyard shows how even a fort here was organised around water.
 
-PHOTO4
+<photo-set layout="pair" keys="jebel-hafit-guide-6,jebel-hafit-guide-7" alts="A6|A7" caption="Mezyad Fort guarded the approaches to Al Ain from the foot of the mountain."></photo-set>
 
 ### Green Mubazzarah
 

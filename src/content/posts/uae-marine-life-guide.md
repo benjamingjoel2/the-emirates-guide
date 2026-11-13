@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "uae-marine-life-guide-hero"
-heroAlt: "A sea turtle swimming over a rocky seabed in clear blue water off Dibba"
+heroAlt: "A sea turtle with a weed-covered shell rising towards the surface to breathe in green-blue water off Dibba"
 featured: false
 startHere: false
 plan: "A verified local operator can match you with a licensed snorkel, dive, kayak or eco-boat trip in the right reserve for your dates, check your certification and insurance, and advise on calm-water days and wildlife etiquette."

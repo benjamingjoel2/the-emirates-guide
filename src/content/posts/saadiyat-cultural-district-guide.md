@@ -41,7 +41,7 @@ It helps to understand the geography first. Saadiyat Island is the wider island,
 
 Beyond the district, the island has a quieter side. Visit Abu Dhabi points to [Hidd Al Saadiyat Marina](https://visitabudhabi.ae/en/where-to-go/islands/saadiyat-island) at the island's eastern edge, with calm water and a view of undeveloped shoreline, and to the beaches where hawksbill turtles nest.
 
-<photo-set layout="full" keys="saadiyat-cultural-district-guide-1" alts="Aerial view of pale sand flats threaded with green mangroves and turquoise channels on the coast of Saadiyat" caption="Away from the museums, much of the Saadiyat coast is shallow channels, mangroves and sand."></photo-set>
+<photo-set layout="full" keys="saadiyat-cultural-district-guide-1" alts="Aerial view of pale sand flats threaded with green mangroves and turquoise channels on the coast of Saadiyat" caption="Away from the museums, parts of the Saadiyat coast are shallow channels, mangroves and sand."></photo-set>
 
 ## Five places to choose from
 

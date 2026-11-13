@@ -6,7 +6,7 @@ emirates: ["sharjah"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "khorfakkan-guide-hero"
-heroAlt: "placeholder"
+heroAlt: "Khorfakkan seen from the mountains on a hazy day, with the container port and its cranes, the curved beach and the town below a brown peak"
 featured: false
 startHere: false
 plan: "A verified local operator can arrange the drive to Khorfakkan, book snorkelling or a boat trip with a certified centre, and advise on trail, wadi and sea conditions on the day you visit."

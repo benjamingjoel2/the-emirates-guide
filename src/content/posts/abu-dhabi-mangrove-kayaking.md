@@ -41,7 +41,7 @@ Then a heron lifts off from a branch a few metres ahead, unhurried, and lands ag
 
 It is one of the gentlest outdoor trips in the UAE, and one of the best for beginners. You do not need experience, only a guide or a calm day, the right tide and a plan for the sun. Here is where to go, how a paddle actually unfolds, and how to make it go smoothly.
 
-PHOTO1
+<photo-set layout="wide" keys="abu-dhabi-mangrove-kayaking-1" alts="A1" caption="Kayaks wait at the water's edge in the Eastern Mangroves."></photo-set>
 
 ## Why paddle the mangroves at all?
 
@@ -65,7 +65,7 @@ On Jubail Island, between Yas Island and Saadiyat Island, Jubail Mangrove Park c
 
 The park's own page lists [a 1.5-hour guided sunrise kayaking tour](https://jubailisland.ae/jubail-mangrove-park/) and a one-hour guided single-kayak tour, both on sit-on-top kayaks, along with a 20-minute electric-car tour for anyone who prefers to stay dry. Visit Abu Dhabi's Jubail Island page says advance booking is [required for kayaking](https://visitabudhabi.ae/en/where-to-go/islands/jubail-island), with sunrise, sunset and night options, and describes the park's paths as stroller-friendly.
 
-PHOTO2
+<photo-set layout="trio" keys="abu-dhabi-mangrove-kayaking-2,abu-dhabi-mangrove-kayaking-3,abu-dhabi-mangrove-kayaking-4" alts="A2|A3|A4" caption="Jubail Mangrove Park pairs boardwalks with paddling routes through the trees."></photo-set>
 
 ### Which one suits you?
 
@@ -115,7 +115,7 @@ Keep your voice low and your paddle quiet, and the mangroves reward you.
 - **Fish** darting in the shallows, and sometimes turtles. Visit Abu Dhabi says the forest is home to [crabs, turtles, herons, flamingos and fish](https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/wildlife/mangrove-national-park), alongside larger creatures such as foxes, dugongs and dolphins, with more than 60 bird species to look out for depending on the season.
 - **Gazelles** on Jubail Island, which Visit Abu Dhabi lists alongside turtles and herons among the park's residents.
 
-PHOTO3
+<photo-set layout="pair" keys="abu-dhabi-mangrove-kayaking-5,abu-dhabi-mangrove-kayaking-6" alts="A5|A6" caption="Herons are among the birds most often seen in the mangroves."></photo-set>
 
 Sightings are never guaranteed. Bring binoculars if you have them, and a waterproof bag for your phone. Our guide to [birdwatching in the UAE](/stories/birdwatching-in-the-uae/) has more on where and when to look.
 
@@ -168,7 +168,7 @@ Calm water and short tours make the mangroves one of the better first paddles fo
 - **Forgetting the hands.** Sunscreen on the backs of hands and tops of feet is easy to miss, and paddling keeps them in the sun throughout.
 - **Paddling too fast.** The wildlife is in the quiet moments. Slow down.
 
-PHOTO4
+<photo-set layout="full" keys="abu-dhabi-mangrove-kayaking-7" alts="A7" caption="Mangrove National Park sits on the edge of the city, close to Reem Island."></photo-set>
 
 A morning paddle pairs neatly with an afternoon at the museums, or with an evening on the Corniche. For everything else in the capital, start at our [Abu Dhabi destination page](/destinations/abu-dhabi/).
 

@@ -43,7 +43,7 @@ By the time you reach Liwa, the city feels very far away. There are palm groves 
 
 Is it worth the drive? If you want scale, silence and the biggest dunes in the country, yes. It suits travellers with a car, a night or two to spare and a healthy respect for the heat. Here is how to plan it.
 
-PHOTO1
+<photo-set layout="trio" keys="liwa-empty-quarter-guide-1,liwa-empty-quarter-guide-2,liwa-empty-quarter-guide-3" alts="A1|A2|A3" caption="Palm farms sit in the hollows between the dunes on the edge of the Empty Quarter."></photo-set>
 
 ## Where Liwa is, and what the Empty Quarter means
 
@@ -97,7 +97,7 @@ Tips if you try:
 - Come down slowly. The descent is quick, and fun, but easy to tumble on.
 - Leave something at the bottom for later: water, a hat, and a bag to keep sand out of your phone.
 
-PHOTO2
+<photo-set layout="pair" keys="liwa-empty-quarter-guide-4,liwa-empty-quarter-guide-5" alts="A4|A5" caption="Tel Moreeb rises more than 300 metres from the sand."></photo-set>
 
 ### Other ways up
 
@@ -117,7 +117,7 @@ Entry details vary by attraction and are confirmed closer to each festival, so c
 
 Liwa is more than one slope of sand. Visit Abu Dhabi points to the historic Liwa Forts, Liwa Oasis and the Empty Quarter, along with sandboarding and guided dune bashing. Drive slowly along the oasis settlements and you will see date farms tucked into the dips between the dunes, which is the oldest reason anyone lived here at all.
 
-PHOTO3
+<photo-set layout="wide" keys="liwa-empty-quarter-guide-6" alts="A6" caption="Liwa's forts guarded water and the people who depended on it."></photo-set>
 
 Abu Dhabi Culture describes the forts and defensive buildings of Al Dhafra, many from the 19th century or earlier, as forming [a coherent defensive belt](https://abudhabiculture.ae/en/cultural-sites/museums/al-dhafra-fort) that protected water access and the tribes. Elsewhere in the region, Al Dhafra Fort, built in 2017 in the style of that historic architecture, has an exhibition on the customs and desert way of life of Al Dhafra. Abu Dhabi Culture lists its hours as daily 9 am to 2:30 pm, and 9 am to 12 pm on Fridays, so plan a morning visit.
 
@@ -139,7 +139,7 @@ This is serious desert, and it deserves serious preparation.
 
 The UK Foreign Office warns that desert excursions [can be dangerous unless you are in a properly equipped 4-wheel-drive vehicle](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security). It advises always travelling with other cars, taking water and a mobile phone, and leaving a copy of your plans with someone. If you join a tour for desert driving or quad biking, go with a reputable company with proper health and safety procedures, and check your insurance covers it.
 
-PHOTO4
+<photo-set layout="inset-left" keys="liwa-empty-quarter-guide-7" alts="A7" caption="Soft sand catches vehicles easily, which is why convoys and recovery gear matter."></photo-set>
 
 If you are in an ordinary hire car, stay on the paved roads. Soft sand catches even confident drivers. Visit Abu Dhabi's off-road guide grades its Liwa Crossing route, [109km long](https://visitabudhabi.ae/en/things-to-do/adventure/desert/off-road-desert-driving), as one for advanced drivers with camping skills, and suggests planning one and a half to two days for it. The same guide advises checking tyres and the engine, carrying a first-aid kit, spare tyre, tool kit, navigation and plenty of water, and keeping Abu Dhabi Police (999) and the ambulance service (998) to hand.
 

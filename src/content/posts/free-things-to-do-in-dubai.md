@@ -6,7 +6,7 @@ emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "free-things-to-do-in-dubai-hero"
-heroAlt: "Jets of the Dubai Fountain lit up during an evening show on the lake in Downtown Dubai"
+heroAlt: "The Dubai Fountain seen from above at night, its lit jets curving across the lake at the foot of the Burj Khalifa"
 featured: false
 startHere: false
 plan: "A verified local operator can help you combine free sights into an efficient day, suggest when to visit each one to avoid heat and crowds, and advise where a paid guide or ticket adds real value."

@@ -21,8 +21,8 @@ sources:
     url: "https://u.ae/en/about-the-uae/history"
   - title: "Dubai Media Office: Etihad Museum's Research Grant Programme"
     url: "https://mediaoffice.ae/en/news/2024/october/26-10/etihad-museum-research-grant-programme"
-  - title: "Dubai Culture press release (via Al Bawaba): Etihad Museum architecture and design"
-    url: "https://www.albawaba.net/business/pr/dubai-culture-sheds-light-iconic-etihad-museum-architecture-and-design-949590"
+  - title: "The National: Etihad Museum, a glimpse into the foundation of a nation"
+    url: "https://www.thenationalnews.com/uae/etihad-museum-a-glimpse-into-the-foundation-of-a-nation-1.70179"
   - title: "Dubai Media Office: Dubai Culture provides guided tours and virtual workshops at Etihad Museum"
     url: "https://mediaoffice.ae/en/news/2020/may/03-05/dubai-culture-provides-guided-tours-and-virtual-workshops-at-etihad-museum-for-school-students"
   - title: "Dubai Media Office: Dubai Culture launches Dubai Art Season 2026"
@@ -59,6 +59,8 @@ The museum's story is a story of negotiation, and it helps to know the outline b
 - **December 1971.** The UAE formally emerged on the international stage on 2 December 1971, and the rulers unanimously elected Sheikh Zayed as its first President.
 - **February 1972.** Ras Al Khaimah acceded to the new federation on 10 February 1972, completing the seven emirates you know today.
 
+The deadline mattered. The same history page explains that in early 1968 the British declared their intention to withdraw from the Gulf by the end of 1971, which set a deadline for the rulers to agree on how they would govern together. Much of what you see in the museum, from meeting records to photographs of rulers deep in conversation, comes from that pressured stretch of time. Keep it in mind and the calm of the galleries feels all the more striking.
+
 Etihad Museum's own focus matches this timeline. The Dubai Media Office says its archive concentrates [mainly on the period from 1968 to 1974](https://mediaoffice.ae/en/news/2024/october/26-10/etihad-museum-research-grant-programme), and that the museum preserves the founding fathers' legacy and their role in forming the Union. For an overview of the seven emirates themselves, see our [first-timer's guide to the UAE](/stories/uae-first-timers-guide-seven-emirates/).
 
 <photo-set layout="pair" keys="etihad-museum-dubai-2,etihad-museum-dubai-3" alts="A display of the first UAE Constitution in a glass case at Etihad Museum|A wall map of the UAE inside Etihad Museum showing the borders and the names of the seven emirates" caption="The constitution and a map of the seven emirates help set out the story of the federation."></photo-set>
@@ -76,6 +78,15 @@ The report also said the museum was a collaboration between the Roads and Transp
 The museum building is worth noticing from the inside too. Dubai Culture has described it as having [a unique architectural aesthetic that distinguishes it from any other touristic or heritage landmark in the UAE](https://mediaoffice.ae/en/news/2020/may/03-05/dubai-culture-provides-guided-tours-and-virtual-workshops-at-etihad-museum-for-school-students). The same release refers to interactive exhibits, films and photographs across its sections, alongside historical collections and buildings.
 
 Expect a museum of photographs, archive material and film rather than grand objects. The pleasure lies in the detail: the faces of the rulers in old photographs, the record of their meetings, and the sense of a few short years in which a great deal was decided. Give yourself time to read and watch, and do not rush the films.
+
+At opening, the permanent exhibitions in the Visitors Pavilion spanned ten halls, with names such as the Founding Fathers, the Interactive Timeline Hall, the Seeds of Unity and the Constitution. The National described rare photographs and films, personal belongings of the founding fathers, military uniforms and medals, and reproductions from historical newspapers, alongside interactive technology throughout. Galleries can be rearranged over time, so treat this as a guide to the kind of material you will see rather than a fixed list.
+
+### What to look out for
+
+- **Personal objects.** Glasses, rings and other belongings of the rulers bring the founding fathers down to human scale. Children often find these the most memorable part.
+- **The timeline.** Use it early in your visit to fix the key dates in your head, then come back to it at the end.
+- **Newspapers and photographs.** Old front pages show how the founding looked to people at the time, before anyone knew how the story would turn out.
+- **Quotations on the walls.** Words of the founders appear throughout the galleries, and they are a good way to understand the values the museum wants to pass on.
 
 <photo-set layout="full" keys="etihad-museum-dubai-4" alts="A wide panoramic view of the meeting room at Etihad Museum where the unification treaty was signed, with a long table and chairs" caption="The meeting room where the Union was agreed is the quiet centre of the visit."></photo-set>
 

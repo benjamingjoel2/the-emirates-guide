@@ -130,7 +130,7 @@ Al Shindagha also hosts cultural events. Dubai Culture held the 2026 edition of 
 
 ### Adding Etihad Museum
 
-If you have a full day, the story of the city leads naturally into the story of the country. Etihad Museum, beside Union House where the UAE was declared in 1971, is a short taxi ride from the Creek. Our guide to [Etihad Museum](/stories/etihad-museum-dubai/) explains how to fit it in.
+If you have a full day, the story of the city leads naturally into the story of the country. Etihad Museum, beside Union House where the UAE was declared in 1971, is a taxi ride away along the coast in Jumeirah. Our guide to [Etihad Museum](/stories/etihad-museum-dubai/) explains how to fit it in.
 
 ## Dress, photos and manners in the old quarter
 

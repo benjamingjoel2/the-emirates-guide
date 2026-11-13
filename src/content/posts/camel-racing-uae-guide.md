@@ -4,17 +4,21 @@ description: "How to watch camel racing in the UAE: what happens at the track, w
 category: "food-culture"
 emirates: []
 published: 2026-11-12
-updated: 2026-11-12
-hero: "camels-dunes"
-heroAlt: "Riders on camels crossing the sand dunes near Dubai in golden evening light"
+updated: 2026-11-13
+hero: "camel-racing-uae-guide-hero"
+heroAlt: "Two racing camels carrying small robot jockeys run along a dirt track lined with railings, lamp posts and flags in Dubai"
 featured: false
 startHere: false
 plan: "A verified local operator can check whether races are running on the day you plan to go, arrange transport to the track, and pair the visit with nearby sights so an early start does not waste the rest of your day."
 sources:
   - title: "UNESCO Intangible Cultural Heritage: Camel racing, a social practice and a festive heritage associated with camels"
     url: "https://ich.unesco.org/en/RL/camel-racing-a-social-practice-and-a-festive-heritage-associated-with-camels-01576"
+  - title: "Al Jazeera: Unicef: UAE ends child jockey use"
+    url: "https://www.aljazeera.com/news/2006/12/18/unicef-uae-ends-child-jockey-use"
   - title: "Visit Abu Dhabi: Camel Racing"
     url: "https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/camel-racing"
+  - title: "Abu Dhabi Media Office: Al Dhafra Festival Razeen Mazayna"
+    url: "https://www.mediaoffice.abudhabi/en/arts-culture/part-of-19th-al-dhafra-festival-razeen-mazayna-to-take-place-in-abu-dhabi/"
   - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
 ---
@@ -24,6 +28,8 @@ The first thing you hear is not the camels. It is the engines: a line of 4x4s ro
 Camel racing is one of the most surprising things you can see in the UAE. It looks nothing like a horse race and nothing like a tourist show. It is a working sport with deep roots in desert life, and visitors are welcome to watch. If you want to see it, the simple answer is to head to a dedicated track early in the morning during the racing season, check that races are on, and give yourself time to take in the paddocks and the people as well as the racing itself.
 
 This guide explains what you will see, where to go, and how to make the most of a morning at the track.
+
+<photo-set layout="pair" keys="camel-racing-uae-guide-1,camel-racing-uae-guide-2" alts="A group of small remote-controlled robot jockeys with white domed heads lined up on a pavement|Racing camels fitted with robot jockeys resting by a red track rail, with the Dubai skyline in haze behind" caption="Robot jockeys ride the camels, and handlers follow the race from the side of the track."></photo-set>
 
 ## Why camel racing in the UAE is more than a sport
 
@@ -49,6 +55,10 @@ According to UNESCO, races take place on specially designed fields under the sup
 
 The camels do not carry human riders. Instead, small robotic jockeys sit on their backs, controlled remotely by owners and trainers who follow in vehicles on a road beside the track. That convoy of cars is the strangest and most memorable part of the scene for many visitors.
 
+### Why the riders are robots
+
+The robots are there for a reason. In the past, camels were ridden by young boys, many brought from abroad, and the practice drew international criticism. Al Jazeera reported in 2006 that UNICEF was [helping the UAE enforce its 1993 ban on child jockeys](https://www.aljazeera.com/news/2006/12/18/unicef-uae-ends-child-jockey-use) and return the boys involved to their families, and that spot checks had found no more child jockeys on the race tracks. The same report notes that inexpensive robot jockeys had made it easier for owners and trainers to comply with the ban. Today the small machines perched on the camels' humps are simply part of the sport, and a reminder of how it has changed.
+
 ### Speed you will not expect
 
 Visit Abu Dhabi puts it well: you will be [pleasantly surprised at the impressive speeds](https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/camel-racing) that these seemingly ungainly creatures can reach. Camels look gangly standing still. Running, they are something else entirely.
@@ -66,7 +76,39 @@ Dubai also has major racing venues on the edge of the desert, and racing takes p
 
 The tourism board's advice is simple: [try to get to the racetracks as early as possible](https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/camel-racing) to soak up the atmosphere in full. Races generally run in the morning, and the racing calendar follows the cooler part of the year. Confirm that racing is scheduled before you set off, since there is little to see on a quiet day.
 
+### What catches people out
+
+- **Arriving at the end.** Turning up mid-morning can mean catching only the last rounds, or none at all.
+- **Assuming every day is a race day.** Training sessions and quiet days happen too, and a track with no racing can feel empty.
+- **Forgetting the drive back.** After an early start, the return trip can feel long, so plan a break or let someone else drive.
+- **Expecting a stadium.** Facilities are practical rather than polished, so bring what you need for a few hours outdoors.
+
+<photo-set layout="trio" keys="camel-racing-uae-guide-3,camel-racing-uae-guide-8,camel-racing-uae-guide-9" alts="A row of racing camels in blue patterned coats and knitted muzzles in different colours, lined up behind a red rail at the Ras Al Khaimah races|The empty camel race track in the Liwa desert, with a finishing gantry, white rails and tall red dunes beyond|A racing camel numbered 39 carrying a robot jockey walks past a railing in Dubai while spectators gather by the grandstand" caption="Camels are dressed, numbered and fitted with robot jockeys before each round."></photo-set>
+
 Our [month-by-month guide to the best time to visit](/stories/best-time-to-visit-uae-month-by-month/) will help you match the season with the rest of your plans.
+
+## How a race morning unfolds
+
+Knowing the rhythm of the morning helps you spot what matters.
+
+Arrive early and the first thing you notice is activity rather than racing: camels being led in strings, trucks and trailers parking up, handlers fitting the robot jockeys and checking harnesses. This is the best time to watch from a respectful distance, because the animals are close and moving slowly.
+
+When a round is about to start, the camels are brought to the start, and the support vehicles line up on the road beside the track. Then the gate opens, the camels surge forward and the convoy accelerates with them. From the stands you will see the pack stretch out along the course, often with a lot of jostling at the start before the stronger runners pull clear. The finish comes quickly, and almost immediately the next group is being readied.
+
+Rounds tend to follow one another through the morning, so you do not need to stay for all of them. Many visitors watch a few, wander along the edge of the paddock area if it is open to the public, and leave before the heat builds.
+
+### Reading the race
+
+- **Watch the vehicles as well as the camels.** The cars move with the race, and their position tells you who is in contention.
+- **Look at the colours.** Camels often wear coloured cloths or numbers that help owners follow them, and spotting one early gives you someone to cheer for.
+- **Notice the age groups.** UNESCO notes that the racing distance depends on the camels' age, so younger and older animals race in different rounds.
+- **Listen.** Radios, horns and shouts from the vehicles are part of the soundtrack, and the noise rises sharply near the finish.
+
+## Beyond the racetrack: camel festivals
+
+Racing is not the only way camels are celebrated. In the Al Dhafra region of Abu Dhabi, the Al Dhafra Festival is organised by the Abu Dhabi Heritage Authority and centres on camel beauty contests, known as mazayna. The Abu Dhabi Media Office describes [four camel beauty competitions](https://www.mediaoffice.abudhabi/en/arts-culture/part-of-19th-al-dhafra-festival-razeen-mazayna-to-take-place-in-abu-dhabi/), held in Suweihan, Razeen and Madinat Zayed and followed by a final, with categories for breeds such as the Majahim and Asayel. For the 2025 edition, the same office reported that the first phase in Suweihan drew more than 24,000 visitors, including camel owners, heritage enthusiasts and tourists.
+
+These festivals are rooted in the same knowledge of breeding and care that UNESCO describes for racing. If your trip coincides with one and you are heading towards the Western Region, it is worth asking a local operator whether the public programme is open and how to reach the venue. Our [Liwa and Empty Quarter guide](/stories/liwa-empty-quarter-guide/) covers the wider area.
 
 ## Getting there and what to bring
 
@@ -93,6 +135,14 @@ The racing community is generally welcoming, but this is their sport and their s
 - **Keep the volume respectful.** Cheering is part of the fun; shouting at animals is not.
 
 If someone offers to explain what is going on, accept. A few minutes with a knowledgeable local can transform the experience.
+
+## Families and accessibility
+
+Children tend to love camel racing, because the action is fast, loud and easy to follow. Keep them close, especially near vehicles and animals, and give them a job such as spotting a particular camel or counting the support cars. A morning visit also leaves the afternoon free for a rest or a pool.
+
+Facilities at the tracks vary. Some areas have seating or shade, others are open ground, and paths may be sandy or uneven. If anyone in your group uses a wheelchair or has limited mobility, ask your operator or the track in advance about where you can park, watch and find shade. Watching from beside your own vehicle can be the most comfortable option.
+
+Bring snacks and plenty of water, since you may not find food on site, and plan a proper meal afterwards. A trip to Al Wathba fits easily with a return to Abu Dhabi for lunch, while a morning at Al Maqam can lead straight into the oasis and museums of Al Ain.
 
 ## Pairing the races with more heritage
 

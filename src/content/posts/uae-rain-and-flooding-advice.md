@@ -1,12 +1,12 @@
 ---
 title: "Rain, storms and flooding in the UAE: advice for visitors"
-description: "UAE rain and flooding advice for visitors: when storms are likely, where to get official warnings, how to stay safe on roads and in wadis, and who to call."
+description: "UAE rain and flooding advice for visitors: when storms are likely, official warnings, staying safe on roads and in wadis, health after floods and who to call."
 category: "travel-tips"
 emirates: []
 published: 2026-11-12
-updated: 2026-11-12
-hero: "jebel-jais-sunset"
-heroAlt: "Late-afternoon light on the ridges of the Jebel Jais mountains in Ras Al Khaimah"
+updated: 2026-11-13
+hero: "uae-rain-and-flooding-advice-hero"
+heroAlt: "Rainwater pooled across low-lying ground at Jebel Ali in Dubai after heavy rain, with cabins and vehicles standing in the water"
 featured: false
 startHere: false
 plan: "A verified local operator can keep an eye on official weather warnings for you, advise whether a mountain, wadi, desert or boat trip should go ahead, and suggest indoor alternatives if a storm is forecast."
@@ -21,6 +21,10 @@ sources:
     url: "https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/handling-emergencies"
   - title: "GOV.UK (FCDO): Extreme weather and natural hazards abroad"
     url: "https://www.gov.uk/guidance/tropical-cyclones"
+  - title: "TravelHealthPro: Flooding"
+    url: "https://travelhealthpro.org.uk/factsheets/flooding"
+  - title: "UAE Government Portal (u.ae): Road safety"
+    url: "https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/road-safety"
 ---
 
 The sky over the mountains turns the colour of slate. A few fat drops hit the windscreen, then the rain arrives all at once, drumming on the car roof, and within minutes the dry channel beside the road is running brown and fast.
@@ -40,6 +44,14 @@ The short version for visitors:
 - Never walk or drive through flood water.
 - Call **999** for police in an emergency anywhere in the UAE.
 
+## Why a little rain can cause a lot of trouble
+
+It helps to understand why storms here behave the way they do. Visit Abu Dhabi says rainfall in most of the emirate averages [12cm per year](https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear), which is very little by the standards of most visitors' home countries. When a large share of that falls in one storm, it has nowhere to go quickly.
+
+Several things combine. Hard, dry ground and rock shed water rather than soaking it up, so rain in the mountains runs straight into wadis and down towards the coast. In the cities, roads, car parks and underpasses can collect water in low spots faster than it drains. And because heavy rain is not an everyday event, many drivers are unused to it, which is why the roads are often the riskiest place to be.
+
+None of this means you should worry about a cloudy day. Most visits pass without a drop of rain. It simply means that when a serious storm is forecast, it pays to take the warning at face value.
+
 ## Where to get official warnings
 
 The National Center of Meteorology is the country's federal weather authority. Its [website](https://www.ncm.gov.ae/) carries current weather conditions, a warnings map, weather and marine bulletins, and awareness pages on rain and floods, sand storms and thick fog. It is the place to check before a day out of the city.
@@ -50,6 +62,10 @@ You may also receive warnings straight to your phone. The UAE government explain
 
 The Foreign Office points visitors to [local radio and online media](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security) for up-to-date information. Your hotel front desk is also a practical source: staff will usually know about road closures, cancelled tours and changes to public transport before you do.
 
+### Before you travel
+
+UK government guidance on extreme weather abroad suggests a few steps that apply to any trip in the rainier months. It recommends that you [find out about local procedures](https://www.gov.uk/guidance/tropical-cyclones), such as early warning systems, make sure you have appropriate travel insurance, and ask your tour operator, airline and travel insurer what their terms and conditions are if a natural hazard affects your trip. If a storm is forecast while you are there, it also suggests keeping in touch with your tour operator and hotel and checking in with family and friends at home.
+
 ## Before the storm: changing your plans
 
 When the forecast looks unsettled, a bit of flexibility goes a long way.
@@ -57,6 +73,8 @@ When the forecast looks unsettled, a bit of flexibility goes a long way.
 ### Mountains and wadis
 
 Wadis are dry valleys that channel water off the mountains, and they can fill quickly when rain falls upstream, even if the sky above you is clear. On a day with heavy rain forecast, skip wadi walks, mountain hikes and the drive up to high viewpoints. Our guides to [hiking in the UAE](/stories/hiking-in-the-uae/) and [Fujairah's forts and wadis](/stories/fujairah-forts-and-wadis/) have more on the terrain.
+
+If you are already in a wadi and the weather turns, do not wait to see what happens. Head for higher ground, away from the channel, and do not try to cross water that is already flowing. Rising water, a sudden change in colour or debris coming down the channel are signs to move straight away.
 
 ### Desert trips
 
@@ -82,6 +100,10 @@ The same guidance says you should not:
 
 If you become trapped, call the emergency services or use your phone to let others know where you are.
 
+### What flood water can hide
+
+TravelHealthPro, the UK's travel health service, explains why the advice is so firm. It says flood water may contain hazards including [electrical power lines which may be live](https://travelhealthpro.org.uk/factsheets/flooding), moving timber and metal, broken glass and animals, and it advises staying out of flood water altogether and not attempting to drive through it. Water that looks still and shallow on a road can also cover an open drain or a damaged surface.
+
 ### On the road
 
 Driving in a storm is where many visitors get into trouble. Roads can flood in low spots and underpasses, visibility drops, and other drivers do not always slow down. Practical habits help:
@@ -91,11 +113,19 @@ Driving in a storm is where many visitors get into trouble. Roads can flood in l
 - If water is across the road, turn around rather than testing the depth.
 - If the rain is extreme and you are not sure, pull over somewhere safe and wait.
 
+The law takes this seriously too. The UAE government's road safety page says the federal traffic law imposes strict penalties for serious violations, including [causing death due to dangerous driving](https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/road-safety), especially in high-risk situations such as flash floods.
+
 The UAE government advises that if you have a minor accident and no one is hurt, you can [move your car to the shoulder lane](https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/handling-emergencies) and wait for the police at a distance from the car. If anyone is injured, leave the vehicles where they are and wait for an ambulance. Our guide to [driving in the UAE as a visitor](/stories/driving-in-the-uae-as-a-visitor/) covers the rules of the road in more detail.
+
+### Thunder and lightning
+
+Storms here can bring lightning as well as rain. The national emergency authority publishes [guidelines on heavy rain, floods and thunderbolts](https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/handling-emergencies), and the common-sense rule is to get indoors or into a closed vehicle, away from open beaches, exposed ridges and the water, until the storm has passed.
 
 ## Sand storms and fog
 
 Rain is not the only weather that disrupts plans. The UAE government notes that the national emergency authority has [guidelines for sand storms and fog](https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/handling-emergencies) as well as heavy rain, floods and lightning, and the National Center of Meteorology publishes [awareness pages](https://www.ncm.gov.ae/) on all three. Both can cut visibility sharply on the roads, so the same rule applies: slow down, keep your distance and wait it out if you need to.
+
+Sand storms also affect comfort. Fine dust gets everywhere, so keep car windows closed, protect cameras and phones, and if you have a breathing condition, stay indoors and keep any medication to hand. Early morning fog is common on some roads in the cooler months and can be thick enough to delay flights and slow traffic to a crawl; leave extra time for airport runs.
 
 ## Emergency numbers to save
 
@@ -107,11 +137,31 @@ The UAE government lists these numbers, which work [anywhere in the UAE](https:/
 - **996** for the coastguard
 - **995** for search and rescue
 
-Save them in your phone before you set out, along with your hotel's number and your travel insurer's emergency line.
+The same page lists **991** for electricity failures, which can be useful if a storm knocks out power. Save these numbers in your phone before you set out, along with your hotel's number and your travel insurer's emergency line.
 
 ## After the storm
 
 Once the rain passes, roads can stay flooded or closed for a while, and some attractions, tours and public transport may take time to return to normal. Check with your hotel or operator before heading out, and carry on avoiding wadis and low roads until the water has gone down. If your flight or tour is affected, contact your travel provider and insurer.
+
+### Health after heavy rain
+
+Standing water brings its own risks. TravelHealthPro notes that leptospirosis can be a risk in areas affected by flooding, as the bacteria live in contaminated fresh water and wet soil, and advises that you [do not wade or swim in flood water](https://travelhealthpro.org.uk/factsheets/flooding). It also warns against using portable generators or camp stoves indoors because of the risk of carbon monoxide poisoning, and recommends extra care with hand hygiene and food after a flood.
+
+Puddles that linger can also attract mosquitoes. The UAE government's emergencies page links to official health guides on [staying safe after rainfall and on mosquito bites](https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/handling-emergencies), so pack insect repellent if you are travelling in the rainier months and use it in the evenings.
+
+### Changes, refunds and insurance
+
+If a storm disrupts your plans, start with the company you booked with. The Foreign Office says that for refunds or changes, you should [contact your travel provider](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security) first, and that insurers usually require you to do this before making a claim. Keep receipts for any extra costs, such as a night's hotel or a replacement transfer, and note any official weather warnings that applied.
+
+<photo-set layout="pair" keys="uae-rain-and-flooding-advice-6,uae-rain-and-flooding-advice-7" alts="Flood water covering a residential road in Dubai under grey skies after heavy thunderstorms, with a roundabout sign standing in the water|A satellite image of the UAE coast and inland desert after a major storm in April 2024, with standing water showing as pale blue patches" caption="Flooded roads can take time to clear after a heavy storm, and from space the standing water shows up along the coast and far inland."></photo-set>
+
+## What catches visitors out
+
+- **Clear skies overhead.** Rain upstream in the mountains can fill a wadi under blue sky.
+- **Shallow-looking water.** It may hide a drain, a damaged road or a strong current. Turn around.
+- **Assuming tours will run.** Operators may cancel at short notice when warnings are issued, so keep a plan B.
+- **Leaving it too late for the airport.** Storms and fog slow traffic, so leave earlier than usual.
+- **Ignoring a phone alert.** Text warnings are sent for a reason. Read them and follow them.
 
 Planning when to visit? Our [month-by-month guide](/stories/best-time-to-visit-uae-month-by-month/) explains how the seasons compare, and our [travel tips](/travel-tips/) section has more practical advice.
 

@@ -4,9 +4,9 @@ description: "Travel insurance for the UAE: why medical cover matters, what your
 category: "travel-tips"
 emirates: []
 published: 2026-11-12
-updated: 2026-11-12
-hero: "abu-dhabi-mosque"
-heroAlt: "The palm-lined approach to the Sheikh Zayed Grand Mosque in Abu Dhabi, with its white minarets at the far end"
+updated: 2026-11-13
+hero: "uae-travel-insurance-guide-hero"
+heroAlt: "A line of cream and red Dubai taxis waiting at the kerb outside an airport terminal"
 featured: false
 startHere: false
 plan: "A verified local operator can tell you exactly which activities, vehicles and boats your trip involves, so you can check them against your policy before you travel, and can advise on what to do if someone falls ill during a tour."
@@ -19,15 +19,23 @@ sources:
     url: "https://www.gov.uk/guidance/foreign-travel-insurance"
   - title: "UK FCDO: United Arab Emirates travel advice, safety and security"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
+  - title: "UK FCDO: United Arab Emirates travel advice, entry requirements"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/entry-requirements"
   - title: "UK FCDO: Oman travel advice, entry requirements"
     url: "https://www.gov.uk/foreign-travel-advice/oman/entry-requirements"
+  - title: "UK FCDO: Oman travel advice, health"
+    url: "https://www.gov.uk/foreign-travel-advice/oman/health"
+  - title: "UK FCDO: United Arab Emirates travel advice, getting help"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/getting-help"
 ---
 
 It starts with something small. A twisted ankle on a heritage walk, a child with a fever that will not break, a stomach bug that turns into a night of dehydration. Suddenly you are sitting in a clinic waiting room, and the receptionist is asking a question you had not thought about: how will you be paying?
 
 That is the moment travel insurance stops being paperwork. The UAE has good hospitals, but they are not free for visitors, and the consequences of being unable to pay can be more serious than you might expect.
 
-So what should travel insurance for the UAE cover? At a minimum: medical treatment and emergency evacuation, every activity you plan to do, any pre-existing conditions, and the full length of your trip, including any side trip to Oman. Then check the gaps that catch people out: quad bikes, hire cars, alcohol and regional disruption. Here is what to look for and why.
+So what should travel insurance for the UAE cover? At a minimum: medical treatment and emergency evacuation, every activity you plan to do, any pre-existing conditions, and the full length of your trip, including any side trip to Oman. Then check the gaps that catch people out: quad bikes, hire cars, alcohol and regional disruption. Here is what to look for, how to choose the right type of policy, and what to do if you need to claim.
+
+<photo-set layout="pair" keys="uae-travel-insurance-guide-1,uae-travel-insurance-guide-2" alts="Cars and lorries on the Ghweifat International Highway in Abu Dhabi under a clear blue sky|A white ambulance marked with a red crescent, parked on a paved forecourt in Abu Dhabi" caption="Emergency medical care and driving are two of the areas where the right cover matters most."></photo-set>
 
 ## Why travel insurance for the UAE starts with medical cover
 
@@ -56,6 +64,28 @@ The Foreign Office sums it up simply: insurance should [cover your itinerary, pl
 - a 24-hour assistance helpline
 
 The same guidance advises buying insurance as soon as possible after booking your trip, and reading the small print for exclusions.
+
+## Choosing the right type of policy
+
+Not every policy is built for the same trip. Before you compare prices, decide which shape of cover fits.
+
+### Single trip or annual
+
+A single-trip policy covers one journey. An annual policy covers several trips over a year, which suits frequent travellers and people who stop in the UAE on the way to somewhere else. Read the limits carefully: the UK guidance notes that many policies have [a maximum trip length and/or an annual limit](https://www.gov.uk/guidance/foreign-travel-insurance) on how much time in total you can spend outside the UK. It also flags age restrictions, particularly on annual policies, so older travellers should check the terms before assuming they are covered.
+
+### Specialist cover for serious conditions
+
+If you have a serious medical condition, the UK guidance says you may need a [specialist insurance provider or policy](https://www.gov.uk/guidance/foreign-travel-insurance), and points to the Travel Medical Directory kept by the British Insurance Brokers' Association. It is worth the extra effort: a mainstream policy that excludes your condition may leave you uncovered for the very thing most likely to go wrong.
+
+### Long stays, residents and cruises
+
+The same guidance says long-stay travel insurance can cover extended periods of continuous travel, but that travel insurance is [not intended for permanent residence abroad](https://www.gov.uk/guidance/foreign-travel-insurance). If you are moving to the UAE to live or work, you need a different arrangement, and the guidance notes that local law may require medical insurance, including as part of a visa application.
+
+Cruises are their own case. Abu Dhabi and Dubai are common cruise stops, and the UK guidance says cruises generally require an additional level of cover because it is more difficult to get to hospital for treatment. Check the cruise line's booking conditions before you buy.
+
+### A GHIC or EHIC is not enough
+
+UK travellers sometimes assume their health card will help. The UK guidance explains that a GHIC or EHIC gives access to state healthcare in the EU, Switzerland and some other countries, and is clear that the cards are [not alternatives to travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance), because they do not cover private healthcare, repatriation or other extra costs.
 
 ### Declare everything
 
@@ -94,9 +124,28 @@ What this means for your policy:
 - **Buy early.** Cover bought after an event is known may exclude it.
 - **Know your supplier failure cover.** The UK guidance notes that cover if an airline or travel agent goes out of business is typically not included, and suggests an ATOL-protected holiday or a policy with supplier failure cover.
 
+## Travelling with family
+
+Insurance questions multiply when you travel as a group. A few points worth checking:
+
+- **Everyone is named.** Make sure each traveller, including babies, is covered on the policy.
+- **Every condition is declared.** That includes conditions of children and older relatives, and any recent tests or pending treatment.
+- **Someone can come out to you.** The UK guidance suggests checking for reasonable costs for a family member or friend to stay with you or travel out to accompany you home.
+- **The activities match.** If teenagers will try quad biking or water sports, check that their cover includes it.
+
+Our guide to [Dubai with kids](/stories/dubai-with-kids/) covers the practical side of a family trip.
+
+## Medicines and your policy
+
+Insurance does not replace the paperwork for medicines. The Foreign Office says you must get [approval in advance from the UAE Ministry of Health](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/entry-requirements) to bring medication, and that if you arrive without evidence of approval, the medication will not be allowed in and you may be prosecuted. Sort the approval out first, then make sure the condition the medicine treats is declared on your policy. Our guide to [bringing medicines into the UAE](/stories/bringing-medicines-into-uae/) walks through the process.
+
+<photo-set layout="mosaic" keys="uae-travel-insurance-guide-4,uae-travel-insurance-guide-5,uae-travel-insurance-guide-6" alts="Visitors on the terrace of Mutrah Fort in Muscat at dusk, looking over the harbour, a large ship and mountains beyond|A deep blue inlet in Musandam seen from a mountain road, with bare rocky slopes on both sides|A road sign in Musandam pointing to A Saye, Wadi Al Beih and Diba, with hazy mountains behind" caption="Side trips into Oman, from Muscat to the Musandam peninsula, need to be covered by your policy too."></photo-set>
+
 ## Adding Oman? Check your policy covers it
 
 Many UAE trips include a day in Musandam or a few nights in Muscat. Make sure your policy covers Oman as well as the UAE. You will need proof of it anyway: the Foreign Office says that at Omani border control you must be able to show [proof of your travel health insurance](https://www.gov.uk/foreign-travel-advice/oman/entry-requirements). See our guide to [combining the UAE and Oman in one trip](/stories/uae-and-oman-one-trip/).
+
+The Foreign Office's advice for Oman makes the same point about money as it does for the UAE. It says British nationals must use the private healthcare system in Oman, and that visitors who do not have travel insurance or the means to settle any charges [may be stopped from leaving the country](https://www.gov.uk/foreign-travel-advice/oman/health) until the debt is paid.
 
 ## Before you fly: a short checklist
 
@@ -107,7 +156,31 @@ Many UAE trips include a day in Musandam or a few nights in Muscat. Make sure yo
 
 ## If you need to use it
 
-In a medical emergency in the UAE, the Foreign Office says to [dial 998 and ask for an ambulance](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health), then contact your insurer quickly. Keep every receipt, report and medical note, and ask the clinic for itemised bills. More planning advice is on our [travel tips page](/travel-tips/).
+In a medical emergency in the UAE, the Foreign Office says to [dial 998 and ask for an ambulance](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health), then contact your insurer quickly. Keep every receipt, report and medical note, and ask the clinic for itemised bills.
+
+### How a claim usually unfolds
+
+1. **Get help first.** Treatment comes before paperwork.
+2. **Call the assistance line early.** Your insurer may need to approve treatment, recommend a facility or arrange payment directly with the hospital.
+3. **Keep a record.** Note names, times and what you were told, and photograph documents before you hand them over.
+4. **Pay if you must, and keep proof.** If a clinic asks for payment upfront, keep the itemised bill and card receipt for your claim.
+5. **Report crimes to the police.** For theft, most insurers expect a police report; the emergency number for police in the UAE is [999](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/getting-help).
+
+### Disruption and cancellations
+
+For refunds or changes when travel is disrupted, the Foreign Office says to [contact your travel provider first](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/getting-help), and notes that insurers usually require you to talk to your travel provider before you claim. It also explains how to access previous versions of travel advice to support a claim, which can matter if advice changed between booking and travelling.
+
+## What catches people out
+
+- **Buying late.** Cover bought after an event is in the news may exclude it.
+- **Undeclared conditions.** One missed detail can invalidate the whole policy.
+- **Activities left off.** Dune drives, quad bikes and water sports are the usual gaps.
+- **The wrong countries.** A side trip to Oman, or a stopover elsewhere, needs to be on the policy.
+- **No access to money.** Even with good insurance, you may need a card with enough available funds while the insurer arranges payment.
+
+<photo-set layout="full" keys="uae-travel-insurance-guide-7" alts="The wing of an aircraft over the low-rise suburbs and highways of Dubai shortly after take-off" caption="If flights are disrupted, contact your travel provider first, as insurers usually expect you to."></photo-set>
+
+More planning advice is on our [travel tips page](/travel-tips/).
 
 ## Quick answers
 

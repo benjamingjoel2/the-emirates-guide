@@ -1,10 +1,10 @@
 ---
 title: "Dubai's gold and spice souks: how to browse and bargain politely"
-description: "How to visit Dubai's Gold Souk and Spice Souk in Deira: what you will find, how to bargain politely, buying gold with confidence and simple souk etiquette."
+description: "How to visit Dubai's Gold Souk and Spice Souk in Deira: the heritage trails, what you will find, bargaining politely, buying gold with confidence and souk etiquette."
 category: "food-culture"
 emirates: ["dubai"]
 published: 2026-11-12
-updated: 2026-11-12
+updated: 2026-11-13
 hero: "spice-souk"
 heroAlt: "Open sacks and baskets of colourful spices and dried goods for sale in Dubai's Spice Souk"
 featured: false
@@ -15,6 +15,10 @@ sources:
     url: "https://www.visitdubai.com/en/-/media/Files/guides/dubai-mini-guide-04-shopping-lover.pdf"
   - title: "UAE Government Portal (u.ae): Dubai"
     url: "https://u.ae/en/about-the-uae/the-seven-emirates/dubai"
+  - title: "Dubai Media Office: RTA opens Deira Old Souq Marine Transport Station"
+    url: "https://www.mediaoffice.ae/en/news/2024/february/20-02/rta-opens-deira-old-souq-marine-transport-station"
+  - title: "Dubai Media Office: Dubai Municipality completes three heritage tourist trails in Deira's markets"
+    url: "https://mediaoffice.ae/en/news/2025/august/24-08/dubai-municipality-completes-landmark-project"
   - title: "Visit Dubai: City Guide, Hungry Foodie (PDF)"
     url: "https://www.visitdubai.com/en/-/media/Files/guides/dubai-mini-guide-04-hungry-foodie.pdf"
   - title: "UAE Government Portal (u.ae): Food"
@@ -29,17 +33,29 @@ sources:
     url: "https://www.visitdubai.com/en/-/media/Files/guides/dubai-mini-guide-04-cultural-explorer.pdf"
   - title: "RTA: Old Dubai abra routes"
     url: "https://www.rta.ae/wps/portal/rta/ae/home/promotion/new-marine-routes-abra"
+  - title: "Dubai Media Office: Dubai Municipality completes development of Dubai Creek's Deira wharf"
+    url: "https://www.mediaoffice.ae/en/news/2025/may/18-05/dubai-municipality-completes-development-of-dubai-creek"
 ---
 
 A stallholder holds out a palmful of something dark and wrinkled before you have even slowed down. It is a dried lime, sharp and smoky, and it is your first lesson in how the souks of Deira work. They are conversations as much as shops. You are invited in, offered a taste or a sniff, and asked what you are looking for.
 
-The Gold Souk and Spice Souk sit a short walk apart on the Deira side of Dubai Creek, and for many visitors they are the liveliest part of a trip to the old city. The good news for first-timers: browsing is free, nobody minds if you look without buying, and bargaining is part of the culture. Visit Dubai's own shopping guide says that in the souks you should [haggle to get the best price, because it is expected and welcomed](https://www.visitdubai.com/en/-/media/Files/guides/dubai-mini-guide-04-shopping-lover.pdf). The trick is to do it with good humour. Here is how.
+The Gold Souk and Spice Souk sit a short walk apart on the Deira side of Dubai Creek, and for many visitors they are the liveliest part of a trip to the old city. The good news for first-timers: browsing is free, nobody minds if you look without buying, and bargaining is part of the culture. Visit Dubai's own shopping guide says that in the souks you should [haggle to get the best price, because it is expected and welcomed](https://www.visitdubai.com/en/-/media/Files/guides/dubai-mini-guide-04-shopping-lover.pdf). The trick is to do it with good humour. Here is how, along with what has changed in the old market district and what tends to catch visitors out.
 
 ## Where the Dubai gold and spice souks are
 
 Both souks are in old Deira, close to the Creek. The UAE government explains that the creek was a natural harbour that made Dubai [a centre for fishing, pearling and sea trade](https://u.ae/en/about-the-uae/the-seven-emirates/dubai), and that it divides the city into Deira in the north and Bur Dubai in the south. Trade is the reason these markets exist, and walking through them you can still feel it: goods arriving, being weighed, sold and sent on.
 
-Most visitors arrive one of two ways: by taxi or metro to Deira, or on foot from Bur Dubai with a crossing of the Creek by abra. The second is far more fun. Our [beginner's guide to the abra](/stories/dubai-creek-abra-guide/) explains how.
+Most visitors arrive one of two ways: by taxi or metro to Deira, or on foot from Bur Dubai with a crossing of the Creek by abra. The second is far more fun. The RTA says its rebuilt [Deira Old Souq station serves the Old Baladiya Road area and the Gold Souq](https://www.mediaoffice.ae/en/news/2024/february/20-02/rta-opens-deira-old-souq-marine-transport-station), so you step off the boat almost into the market. Our [beginner's guide to the abra](/stories/dubai-creek-abra-guide/) explains how.
+
+## The heritage trails through Deira's markets
+
+The old market district has been given a careful refresh. In 2025 Dubai Municipality announced it had completed [three heritage tourist trails in Deira's markets](https://mediaoffice.ae/en/news/2025/august/24-08/dubai-municipality-completes-landmark-project), supporting more than 500 shops within Deira's Grand Souq. The trails are the Gold Souq Trail, the Al Ahmadiya School Heritage Axis and the Spice Souq Axis. Together they connect seven traditional markets: the Herbs Market, Spice Souq, Utensils Souq, Perfume Market, Carpets Market, Textiles Souq and Household Market, as well as the Gold Souq and the Al Ahmadiya area.
+
+For visitors, the practical changes are signboards, floor markings and fabric shading over parts of the route, plus three public squares with new seating. The municipality says it used authentic materials such as sarooj, a lime-based plaster, to restore market buildings and façades, and restored wooden shading. Use the markings to find your way, and the squares as places to rest between stalls.
+
+### Beyond spices and gold
+
+The trails are a reminder that Deira's souks are more than two famous lanes. Wander into the perfume market for oud and attars, the textile lanes for bolts of fabric, or the utensils and household markets for brass coffee pots, cooking pans and everyday goods. These are often the most authentic corners, because they serve residents as much as visitors.
 
 ## Inside the Spice Souk
 
@@ -61,6 +77,8 @@ Our guide to [saffron, loomi and camel milk](/stories/emirati-flavours-to-try/) 
 ### Buying spices sensibly
 
 Ask to smell before you buy, and ask how it is used if you are unsure. Buy smaller quantities of anything you have not cooked with before. Ask for spices to be sealed well for travel, and check your own country's rules on bringing food products home before you fill your case.
+
+Saffron deserves extra care, because quality varies widely. Look at the threads rather than the packaging, ask where it comes from, and buy a small amount from a stall that is happy to explain the difference between grades. Frankincense and other resins are light and easy to pack, which makes them a popular souvenir.
 
 ## Inside the Gold Souk
 
@@ -93,6 +111,20 @@ Bargaining in the souks is a social exchange, not a fight. A few habits make it 
 
 Keep your tone light. The UK Foreign Office warns that it is [illegal to swear and make rude gestures](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security) in the UAE, so however a negotiation goes, stay courteous.
 
+### Handling persistent sellers
+
+On the busiest lanes you may be approached by people offering copies of branded goods or inviting you to a back room. A polite "no, thank you" and a steady walk is enough. You do not need to explain yourself, and it is better not to follow anyone away from the main lanes. If a shop interests you, go in on your own terms.
+
+## Getting your purchases home
+
+Think about the journey before you buy. Spices travel best when they are sealed in airtight bags, then packed inside a second bag so the smell does not fill your suitcase. Keep resins and dried flowers away from clothes. For gold, keep the detailed receipt with the piece, and pack valuable jewellery in your hand luggage rather than a checked bag. If you are buying for someone else, ask the shop for a box or pouch. Finally, check your home country's customs rules on food, plant products and precious metals before you fly, because they vary.
+
+## How a souk visit unfolds
+
+A first visit usually follows a pattern. You arrive, often by abra, and the first ten minutes are a sensory rush of smells, colours and voices. Then you settle. You start to notice which stalls specialise in what, where the shaded lanes are, and how the Spice Souk gives way to other markets before the bright windows of the Gold Souk appear.
+
+Allow an hour or two for a relaxed browse of both souks, longer if you plan to buy gold or explore the perfume and textile lanes. Build in a break. A cold drink in one of the new squares, or a short walk to the Creek for some air, makes the second half of the visit far more enjoyable.
+
 ## Souk etiquette and comfort
 
 The souks are working markets, and a little awareness goes a long way.
@@ -102,10 +134,21 @@ The souks are working markets, and a little awareness goes a long way.
 - **Mind your belongings.** The Foreign Office advises [taking sensible precautions to protect yourself and your belongings](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), which applies in any crowded market.
 - **Carry some cash.** It makes small purchases easier, and you will need it for the abra crossing, which the RTA lists as [cash only](https://www.rta.ae/wps/portal/rta/ae/home/promotion/new-marine-routes-abra).
 - **Go in the cooler hours.** Mornings and evenings are more comfortable for walking between the souks.
+- **Respect Ramadan.** During the holy month the Foreign Office notes that eating, drinking, smoking or chewing gum in public in the daytime may cause offence, and suggests checking opening hours. Expect the souks to come alive after sunset.
+
+<photo-set layout="wide" keys="dubai-gold-and-spice-souks-3" alts="The carved wooden entrance gate of the Gold Souk on Old Baladiya Road in Deira, with signs reading Dubai City of Gold" caption="The Gold Souk's covered lanes are a short walk from the Deira Old Souq abra station."></photo-set>
+
+## Families and accessibility
+
+Children often love the Spice Souk for its smells and colours. Let them smell a few spices and guess what they are, then move on before the crowds tire them. Keep small hands away from open sacks unless a stallholder invites them in, and agree a meeting point in case you are separated in the busier lanes.
+
+The lanes are mostly flat, and the municipality's improvements include upgraded paving along the heritage trails, but expect crowds, kerbs and goods stacked along shopfronts. Pushchairs are manageable outside the busiest hours. Anyone using a wheelchair will find the wider lanes and squares easier than the narrowest alleys, and early morning is the calmest time.
 
 ## Pairing the souks with Old Dubai
 
-The souks are one half of a classic walk. Start in [Al Fahidi Historical Neighbourhood](/stories/al-fahidi-historical-neighbourhood/), cross the Creek by abra, then browse spices and gold before crossing back. Our [Old Dubai walking guide](/stories/old-dubai-walking-guide/) sets out the route, and our [food and culture stories](/food-culture/) have more on Emirati traditions.
+The souks are one half of a classic walk. Start in [Al Fahidi Historical Neighbourhood](/stories/al-fahidi-historical-neighbourhood/), cross the Creek by abra, then browse spices and gold before crossing back. On the Deira side, Dubai Municipality has also finished redeveloping the [two-kilometre Deira wharf](https://www.mediaoffice.ae/en/news/2025/may/18-05/dubai-municipality-completes-development-of-dubai-creek), adding a public promenade beside the berths where cargo dhows tie up, which makes a good place to stretch your legs after the lanes.
+
+Our [Old Dubai walking guide](/stories/old-dubai-walking-guide/) sets out the route, and our [food and culture stories](/food-culture/) have more on Emirati traditions.
 
 ## Quick answers
 
@@ -130,4 +173,5 @@ Visit Dubai advises dressing conservatively in historical areas. Covering should
 - Can you recommend gold shops with clear receipts and stamped pieces, and do you receive any commission from them?
 - How do you combine the souks with an abra crossing and Al Fahidi, and what time of day do you start?
 - Can the tour be adapted for children or for anyone who finds crowded lanes difficult?
+- Will the route include the perfume, textile or household markets as well as gold and spices?
 - Is there time on the route for a coffee stop or a taste of Emirati sweets?

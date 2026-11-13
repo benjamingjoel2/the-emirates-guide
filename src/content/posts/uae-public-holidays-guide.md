@@ -1,10 +1,10 @@
 ---
 title: "UAE public holidays: how to plan your trip around them"
-description: "UAE public holidays explained for visitors: the official list, why Eid dates move, what changes around National Day, and how to plan bookings and crowds."
+description: "UAE public holidays for visitors: the official list, why Eid dates move, Ramadan and National Day, what closes, etiquette and how to plan bookings and crowds."
 category: "travel-tips"
 emirates: []
 published: 2026-11-12
-updated: 2026-11-12
+updated: 2026-11-13
 hero: "abu-dhabi-mosque"
 heroAlt: "The palm-lined approach to the Sheikh Zayed Grand Mosque in Abu Dhabi, with its white minarets at the far end"
 featured: false
@@ -32,7 +32,7 @@ The UAE government publishes a single [list of public holidays](https://u.ae/en/
 - **Gregorian New Year:** 1 January
 - **Eid Al Fitr:** from 1 to 3 Shawwal
 - **Arafah Day:** 9 Dhu Al Hijjah
-- **Eid Al Adha:** from 10 to 12 Dhu Al Hijjah
+- **Eid Al Adha:** from 10 to 12 Dhu Al Hijjah, three days
 - **Hijri New Year:** 1 Muharram
 - **The Prophet Mohammed's birthday:** 12 Rabi Al Awwal
 - **National Day:** 2 and 3 December
@@ -53,6 +53,10 @@ Each month begins with the sighting of the new crescent moon, and the UAE follow
 
 If your trip is close to an expected Islamic holiday, build in a day of flexibility, especially for anything you need an office or embassy for.
 
+### How the announcement works in practice
+
+The government's Ramadan page says each month lasts [29 or 30 days](https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/ramadan) depending on the sighting of the next crescent, and that the moon-sighting committee sits under the UAE Council for Fatwa, working with national institutions and monitoring centres. For visitors, that usually means the confirmed start of an Eid is announced on the evening before. Hotels, tour operators and airlines are used to this, but it pays to keep the day either side of an expected holiday loose, and to check the news or ask your hotel that evening.
+
 ## Holidays and the weekend
 
 The UAE weekend for most people falls on Saturday and Sunday. One rule matters here. According to the government's holidays page, a public holiday [cannot be transferred to another day](https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays) if it coincides with another public holiday or falls on the weekend.
@@ -64,6 +68,12 @@ For travellers, the practical point is that when a holiday sits next to a weeken
 Ramadan itself is not a public holiday, but it shapes the weeks around Eid Al Fitr. The UAE government says that during Ramadan, working hours are [reduced by two hours per day](https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/ramadan), and that amusement parks, restaurants, cultural and tourist sites remain open throughout the day.
 
 The UK Foreign Office reminds visitors that during Ramadan it may cause offence to [eat, drink, smoke or chew gum in public](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security) in the daytime, and advises checking opening hours of shops and restaurants. Our guide to [visiting the UAE during Ramadan](/stories/visiting-uae-during-ramadan/) covers the month in full.
+
+The same Foreign Office page lists a few other things that may cause offence during the month, including playing [loud music or dancing](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security) and swearing in public. It also says that clothing which does not meet local dress codes may cause more offence at this time, and that hotels and restaurants serving food in fasting hours may separate non-fasting guests, for example with screens.
+
+### What Ramadan evenings feel like
+
+For many visitors the evenings are the highlight. The government's Ramadan page describes the iftar cannon, a tradition in many parts of the country that signals the moment the fast can be broken and [can be heard around 8 to 10 km away](https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/ramadan). It also explains that the fast is traditionally broken with dates and laban, that charitable organisations set up tents offering free iftar meals, and that people greet each other with "Ramadan Kareem" or "Ramadan Mubarak". Our guide to [how visitors can join an iftar](/stories/how-visitors-can-join-iftar/) explains how to take part respectfully.
 
 ### Eid Al Fitr
 
@@ -77,7 +87,15 @@ Arafah Day and Eid Al Adha come together in the month of Dhu Al Hijjah, at the t
 
 National Day is the one holiday most visitors will notice, because it is so visible. The UAE government says National Day falls on [2 December](https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays) and marks the start of the federal unification of the emirates in 1971, with 2 and 3 December observed as public holidays. The official theme of the celebrations is "Spirit of the Union".
 
-Expect flags on buildings and cars, decorated streets, and celebrations and events across the country. It also lands in the cooler months, which are already a popular time to visit, so book hotels and popular experiences early if your dates include it. Our guide to [National Day for visitors](/stories/uae-national-day-for-visitors/) looks at the celebrations in more detail.
+Expect flags on buildings and cars, decorated streets, and celebrations and events across the country. It also lands in the cooler months, which are already a popular time to visit, so book hotels and popular experiences early if your dates include it. The UAE fact sheet adds that the country's founding father, the late Sheikh Zayed bin Sultan Al Nahyan, led the nation from its [establishment on 2 December 1971](https://u.ae/en/about-the-uae/fact-sheet) until 2004, which is why the date carries so much meaning. The government's holidays page says the official theme draws on his vision and leadership, and that its logo shows the silhouette of the first gathering of the Founding Fathers on that day.
+
+Our guide to [National Day for visitors](/stories/uae-national-day-for-visitors/) looks at the celebrations in more detail.
+
+### New Year and the quieter holidays
+
+Gregorian New Year on 1 January is a public holiday too, and New Year's Eve is one of the busiest nights of the year in the big cities, with fireworks displays and packed waterfronts. If you want a good view, plan your transport and spot well ahead, and expect roads around the main displays to be closed or congested.
+
+Hijri New Year and the Prophet Mohammed's birthday are quieter for visitors. Government offices close, but there are rarely large public events aimed at tourists, so for most travellers these days feel like a normal weekend.
 
 ## What closes and what stays open
 
@@ -88,6 +106,14 @@ Public holidays rarely mean a quiet, shuttered country for visitors. Hotels, mal
 - **Some attractions** adjust their hours for holidays. Always check the official website of each venue for the specific days you plan to visit.
 
 If you might need consular help, a document or anything else official, do not leave it until a holiday.
+
+### Etiquette on holiday days
+
+Holidays are family occasions for many residents, and a little awareness goes a long way. Dress modestly in malls, souks and public spaces, and be patient with crowds and queues. The Foreign Office reminds visitors not to [photograph people without their permission](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), which matters at busy celebrations where families gather. If someone wishes you a happy Eid, returning the greeting is always welcome.
+
+### Families and school holidays
+
+School holidays are separate from public holidays and follow their own calendars, but they often overlap with the Eid breaks and the winter period around National Day and New Year. When they do, family attractions, water parks and beach resorts get busier still. If you are travelling with children and prefer quieter days, look at the school calendar as well as the public holiday list before you choose your dates. Our guide to the [UAE weekend and working hours](/stories/uae-weekend-and-opening-hours/) has tips on using weekday mornings well.
 
 ## How to plan around UAE public holidays
 
@@ -108,6 +134,24 @@ The days just before and after a holiday break can be calmer. Weekday mornings r
 ### Leave room in your itinerary
 
 For long breaks such as Eid Al Adha, avoid tight connections and plan buffer time for traffic, especially on routes out of the cities.
+
+### Expect the getaway spots to be busy
+
+<photo-set layout="inset-right" keys="uae-public-holidays-guide-7" alts="The Jebel Hafeet mountain road near Al Ain winding down through bare rock towards the desert plain and the city below" caption="Mountain roads such as the one up Jebel Hafeet are popular drives when residents have a long holiday break."></photo-set>
+
+On a long holiday break, residents head for the mountains, the east coast and the desert. Roads up to viewpoints such as Jebel Hafeet near Al Ain, beach hotels on the east coast and desert camps can all be at their busiest. If you want to visit those places, go early in the day, book overnight stays well ahead, or save them for the days just after the holiday when the crowds have gone home.
+
+### Have a plan for official business
+
+If you need a government service, a visa extension or consular help, aim to sort it out before a holiday starts. Embassies may also close for their own national days, so check both calendars.
+
+### A holiday-by-holiday cheat sheet
+
+- **New Year:** a fixed date, big fireworks on the night before, busy waterfronts and hotels. Book early.
+- **Ramadan and Eid Al Fitr:** a quieter daytime rhythm for a month, lively evenings, then a festive and crowded Eid. Keep the expected Eid dates flexible.
+- **Arafah Day and Eid Al Adha:** one of the longer breaks, with busy airports, hotels and getaway roads. Avoid tight connections.
+- **Hijri New Year and the Prophet's birthday:** offices close, but most visitors notice little change.
+- **National Day:** fixed dates, flags, decorations and events, in the cooler months when many people visit anyway. Book hotels and popular experiences early.
 
 Still choosing when to go? Our [month-by-month guide](/stories/best-time-to-visit-uae-month-by-month/) sets the holidays in the context of the seasons, and our [travel tips](/travel-tips/) section has more planning help.
 

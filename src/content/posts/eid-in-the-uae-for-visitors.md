@@ -4,15 +4,19 @@ description: "Visiting the UAE during Eid: how Eid Al Fitr and Eid Al Adha dates
 category: "travel-tips"
 emirates: []
 published: 2026-11-12
-updated: 2026-11-12
-hero: "arabic-coffee"
-heroAlt: "A brass coffee pot, a small cup of Arabic coffee and dates on a saucer"
+updated: 2026-11-13
+hero: "eid-in-the-uae-for-visitors-hero"
+heroAlt: "Visitors walking down a grassy slope towards a busy park with trees, picnic shelters and parked cars at Green Mubazzarah in Al Ain, with rocky hills behind"
 featured: false
 startHere: false
 plan: "A verified local operator can help you plan around Eid, from flexible bookings while the dates are confirmed to advice on which attractions get busiest and how holiday traffic affects transfers."
 sources:
   - title: "Abu Dhabi Culture: Celebrating Eid"
     url: "https://abudhabiculture.ae/en/Cultural-Heritage/InTangible/Heritage-Register/Social-Practices/Celebrating-Eid"
+  - title: "Visit Abu Dhabi: Henna painting"
+    url: "https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/henna-painting"
+  - title: "Visit Abu Dhabi: Ayyala dancing"
+    url: "https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/ayala-dancing"
   - title: "UAE Government Portal (u.ae): Public holidays"
     url: "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
   - title: "The National: When is Ramadan 2027? Potential dates announced for the UAE"
@@ -42,6 +46,28 @@ Eid Al Fitr celebrates the end of Ramadan, the month of daytime fasting. Abu Dha
 ### Eid Al Adha
 
 Eid Al Adha, which Abu Dhabi Culture translates as the "festival of the slaughter", [comes at the end of the annual Haj pilgrimage to Mecca and celebrates the faith of the prophet Ibrahim](https://abudhabiculture.ae/en/Cultural-Heritage/InTangible/Heritage-Register/Social-Practices/Celebrating-Eid). Traditionally, sheep, goats or cows are slaughtered and the meat shared with family, friends and those in need. The day before, Arafah Day, is also a public holiday in the UAE.
+
+## Eid traditions, old and new
+
+Many of the customs you see today have deep roots, and Abu Dhabi Culture's account of how Eid used to be celebrated adds colour to a modern visit.
+
+### Dressing for Eid
+
+New clothes have always mattered. Abu Dhabi Culture explains that in the past men would [buy a new kandoora or dye an existing one using walnut oil and cardamom](https://abudhabiculture.ae/en/Cultural-Heritage/InTangible/Heritage-Register/Social-Practices/Celebrating-Eid), while women dressed in special Eid clothes and prepared their hair with perfumes and braids. Today you will notice crisp white kandooras, elegant abayas and children in their best outfits, especially on the first morning.
+
+### Breakfast, meat and sharing
+
+The same source notes that among Bedouin and rural communities, Eid was celebrated more modestly, beginning the first day with a small snack of dates and milk before the men and boys went to prayers and returned for a family breakfast. For Eid Al Adha, a group of neighbours or members of an extended family would often buy one animal together and share the meat, distributing it to family, friends and the needy. The emphasis on sharing has not changed, and charity remains central to both festivals.
+
+Both holidays, Abu Dhabi Culture adds, last at least three days. That makes Eid less a single event than a few days of visits, meals and outings.
+
+### Henna and dance
+
+Henna is part of the celebration for many women and girls. Visit Abu Dhabi describes Arabic henna as [large, floral patterns](https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/henna-painting) that are painless and wash off within a week, and says visitors can have henna applied at heritage villages or on desert safaris. A henna design is a lovely, low-key way to share in the festive mood.
+
+You may also see traditional dance at heritage sites and public events. Visit Abu Dhabi describes Al Ayyala as a dance [performed by men and boys at weddings, festivals and national celebrations](https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/ayala-dancing), with two rows of performers holding thin bamboo canes and moving to the beat of drums, and notes that UNESCO recognised it in 2014. Watch respectfully and ask before filming performers up close.
+
+<photo-set layout="full" keys="eid-in-the-uae-for-visitors-3" alts="Men in white kandooras performing Al Ayyala in a circle, raising thin canes while a drummer plays in the centre, seen from below against a blue sky" caption="Al Ayyala performed at Al Jazirat Al Hamra Heritage Village in Ras Al Khaimah."></photo-set>
 
 ## How Eid dates are set
 
@@ -87,13 +113,43 @@ For visitors, the practical effects are predictable:
 
 Book popular attractions, restaurants and desert trips early, and confirm timings directly in the days before Eid.
 
+## How an Eid day unfolds for a visitor
+
+The first morning starts early and quietly. Prayers take place at mosques and open prayer grounds soon after sunrise, and roads can be busy near them for a short while before going calm again. This is a good time for a peaceful walk or a slow hotel breakfast.
+
+By late morning, families are visiting relatives, so residential areas buzz while some tourist spots stay relatively quiet. From the afternoon onwards, the picture flips: malls, parks, beaches and corniches fill up, and the evenings are the busiest of all, often with events or fireworks in the bigger cities.
+
+The following days of the holiday tend to be busy throughout, as families take day trips and short breaks. If you want to see a popular attraction, aim for opening time on the first or second day, and save relaxed activities such as the pool or the beach for the crowded afternoons.
+
+### Eid Al Fitr and Eid Al Adha compared
+
+For a visitor, the two holidays feel similar, but there are differences worth knowing.
+
+- **Eid Al Fitr** follows a month of Ramadan routines, so the change in rhythm is dramatic. Daytime cafés and restaurants return to normal hours, and there is a real sense of release.
+- **Eid Al Adha** comes with Arafah Day just before it, which is also a public holiday. Because it follows the pilgrimage season, many residents travel, and the meat-sharing tradition shapes family meals.
+- **Timing in the year** moves with the lunar calendar, so check how the dates fall during your trip rather than relying on last year's experience.
+
+## What catches visitors out
+
+- **Booking fixed dates too early.** A one-day shift in the moon sighting can move the holiday. Choose flexible tickets for anything that depends on the exact date.
+- **Assuming everything shuts.** Most malls, restaurants and attractions stay open, but government offices close and some services change hours.
+- **Underestimating traffic.** Roads between emirates are busy as families travel, so leave more time for transfers and airport runs.
+- **Leaving desert stays to the last minute.** Camps, mountain retreats and east coast hotels are popular with residents over the holiday.
+- **Forgetting cash for small purchases.** Markets and stalls at holiday events may prefer cash, so carry a little.
+
+## Families and accessibility
+
+Eid is a family festival, so children fit right in. Parks, beaches and malls often run activities, and the evening events are usually aimed at families as much as adults. Pace the days with a quiet morning, an outing in the afternoon and an early night after any fireworks, since late evenings in crowds can tire younger children quickly. Keep a close eye on them in crowds and agree a meeting point in busy places.
+
+If anyone in your group uses a wheelchair or has limited mobility, plan visits for quieter mornings, when lifts, ramps and parking are easier to reach. Book accessible taxis or transfers early, since demand rises over the holiday.
+
 ## Eid etiquette for visitors
 
 Eid is relaxed and welcoming, and nobody expects visitors to know every custom. A few habits help.
 
 ### Greetings
 
-"Eid Mubarak", meaning blessed Eid, is the standard greeting, and visitors are welcome to use it with hotel staff, guides and anyone you meet. It is always appreciated.
+"Eid Mubarak", meaning blessed Eid, is the standard greeting, and visitors are welcome to use it with hotel staff, guides and anyone you meet. It is always appreciated. If someone greets you first, a simple "Eid Mubarak" back, with a smile and a hand on the heart, is a perfect reply. Many hotel and tour staff are far from their own families over the holiday, so a friendly word means more than you might think.
 
 ### Dress
 
@@ -107,7 +163,7 @@ With so many families out, photos need care. The Foreign Office advises [not to 
 
 For most visitors, yes. You get a festive atmosphere, generous hospitality and a glimpse of family life you will not see at other times. The trade-offs are crowds, traffic and the need for flexible plans.
 
-Eid suits travellers who enjoy a lively atmosphere and are happy to book ahead. If you want quiet attractions and empty roads, aim for the weeks either side. Our guide to [UAE public holidays](/stories/uae-public-holidays-guide/) helps you see how Eid fits into the year, and our [travel tips section](/travel-tips/) has more planning advice.
+Eid suits travellers who enjoy a lively atmosphere and are happy to book ahead. If you want quiet attractions and empty roads, aim for the weeks either side. Our guide to [UAE public holidays](/stories/uae-public-holidays-guide/) helps you see how Eid fits into the year, and our [travel tips section](/travel-tips/) has more planning advice. If food is one of the reasons you travel, our guide to [Emirati food and where to eat it](/stories/emirati-food-what-to-eat-where/) helps you find the dishes that families share over the holiday.
 
 ## Quick answers
 

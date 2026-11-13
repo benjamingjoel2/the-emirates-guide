@@ -4,9 +4,9 @@ description: "A visitor's guide to UAE National Day (Eid Al Etihad) and Commemor
 category: "travel-tips"
 emirates: []
 published: 2026-11-12
-updated: 2026-11-12
-hero: "abu-dhabi-mosque"
-heroAlt: "The palm-lined approach to the Sheikh Zayed Grand Mosque in Abu Dhabi, with its white minarets at the far end"
+updated: 2026-11-13
+hero: "uae-national-day-for-visitors-hero"
+heroAlt: "A large number 52 and a flower bed in the colours of the UAE flag laid out on a grassy slope in Khalifa Park, Abu Dhabi, beneath white shade canopies"
 featured: false
 startHere: false
 plan: "A verified local operator can advise on how National Day affects tour timings, traffic and attraction crowds, and can suggest family-friendly places to watch the celebrations during your stay."
@@ -15,6 +15,8 @@ sources:
     url: "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
   - title: "Gulf News: Why UAE National Day is officially called Eid Al Etihad"
     url: "https://gulfnews.com/living-in-uae/ask-us/why-uae-national-day-is-officially-called-eid-al-etihad-1.500344864"
+  - title: "The National: Dubai's Etihad Museum highlights"
+    url: "https://www.thenationalnews.com/arts-culture/2025/08/29/dubai-visit-etihad-museum-highlights"
   - title: "Gulf News: UAE National Day holidays 2026"
     url: "https://gulfnews.com/living-in-uae/ask-us/uae-national-day-2026-how-to-turn-1-2-or-3-leave-days-into-a-longer-break-1.500645564"
   - title: "Gulf News: What is UAE Commemoration Day and why it is observed every year"
@@ -44,6 +46,10 @@ The UAE government portal says National Day [falls on 2 December and marks the f
 ### Why it is called Eid Al Etihad
 
 You will see the name Eid Al Etihad on banners and in the media. Gulf News explains that [in 2024 the National Day celebrations were officially named Eid Al Etihad](https://gulfnews.com/living-in-uae/ask-us/why-uae-national-day-is-officially-called-eid-al-etihad-1.500344864), from the Arabic word for union, which lies at the heart of national identity. In practice, people use both names.
+
+### Where the union was signed
+
+If you want to stand where the story began, head to Dubai. The National describes the Etihad Museum as sitting beside Union House, [where the Constitution was signed in 1971](https://www.thenationalnews.com/arts-culture/2025/08/29/dubai-visit-etihad-museum-highlights), and notes that the museum's entrance has seven pen-like columns symbolising the signing of the agreement by the seven leaders. Most of the galleries sit underground, with curving white ceilings, light wells and sunken courtyards. The same article suggests allowing time to see Union House as well as the museum. A visit in the days before National Day gives the celebrations around you much more meaning; our [Etihad Museum guide](/stories/etihad-museum-dubai/) has the practical details.
 
 ## National Day holiday dates and what they mean for you
 
@@ -88,12 +94,66 @@ Gulf News reports that celebrations take place [across all seven emirates](https
 
 There is an official ceremony each year. For 2025, Gulf News reported that audiences could [watch the official ceremony live through nationwide cinema screenings, local TV channels, the Eid Al Etihad YouTube channel and the official website](https://gulfnews.com/uae/uae-eid-al-etihad-2025-dates-events-and-how-to-celebrate-across-all-emirates-1.500356339), with public screenings in parks and community majlis venues across the emirates. Expect a similar mix in future years.
 
+### Where celebrations took place in 2025
+
+Locations change from year to year, but the 2025 programme gives a useful idea of how widely the celebrations spread. Gulf News listed public screenings and events in [every emirate](https://gulfnews.com/uae/uae-eid-al-etihad-2025-dates-events-and-how-to-celebrate-across-all-emirates-1.500356339), including:
+
+- **Abu Dhabi:** Khalifa City, Al Falah, Al Shamkha and several majlis venues, with broadcasts across Al Dhafra in places such as Madinat Zayed, Liwa and Delma Island.
+- **Al Ain:** viewing near Al Ain International Airport and at majlis locations.
+- **Dubai:** Al Khawaneej, among other venues.
+- **Sharjah:** Al Siyouh Park and Kshisha Park.
+- **Ajman:** Ajman Marina, Al Jurf Family Park and Al Warqa Public Park.
+- **Umm Al Quwain:** the Creek Waterfront.
+- **Ras Al Khaimah:** Al Qawasim Corniche and Flagpole Plaza.
+- **Fujairah:** Umbrella Beach.
+
+The same report describes the 2025 theme as "United", with an online hub offering activity ideas for families and communities. Look for the equivalent programme in the weeks before your trip.
+
 ### Small ways to take part
 
 - Wear something in the flag's colours. It is a friendly gesture that people notice.
 - Visit a heritage site, such as a fort or old district, where there are often cultural performances.
 - Join the crowds at a public fireworks spot, arriving early.
 - Say "Happy National Day" or "Eid Al Etihad Mubarak" to the people you meet.
+
+## How the week usually unfolds
+
+The days around National Day have a recognisable shape, and knowing it helps you plan.
+
+In the second half of November, decorations go up. Flags appear on buildings and lamp posts, shopping centres and offices add displays, and schools hold their own celebrations, so you may see children in national dress on the way to class. Heritage areas and parks often start their programmes early.
+
+Commemoration Day comes next, with a solemn tone. Ceremonies take place at memorials and public buildings, and the country pauses for the minute's silence. Shops and attractions usually stay open, so your plans need not change, but this is a day to be quieter in public.
+
+<photo-set layout="full" keys="uae-national-day-for-visitors-5" alts="The tall grey stone tablets of Wahat Al Karama in Abu Dhabi beside a UAE flag flying against a blue sky, with a few visitors at the foot of the memorial" caption="Wahat Al Karama in Abu Dhabi honours those who died serving the nation."></photo-set>
+
+Then the mood lifts. On National Day itself the official ceremony is broadcast, families head out to parks, beaches and corniches, and fireworks and drone shows fill the evening sky in many places. The holiday days that follow tend to be relaxed, with long family outings and busy restaurants.
+
+## What catches visitors out
+
+- **Crowds at fireworks spots.** Popular viewing points fill up well before the show. Arrive early, agree a meeting point with your group and expect slow exits afterwards.
+- **Traffic after dark.** Roads near celebration sites can be gridlocked in the evening. Public transport or a walkable hotel makes life easier.
+- **Assuming everything is closed.** Most attractions, malls and restaurants stay open over the holiday, often with extra events, but government offices close and some services change.
+- **Last-minute bookings.** Many residents travel within the country for the long weekend, so desert camps, mountain stays and east coast hotels can fill up.
+- **Noise and late nights.** Hotels near celebration zones can be lively in the evenings. If you need quiet, ask before booking.
+
+## Families and accessibility
+
+National Day is a family occasion, and children are welcome almost everywhere. Large crowds can still be overwhelming, so pick daytime events or smaller neighbourhood celebrations if your children are young, and bring ear defenders if they are sensitive to fireworks. Give each child your phone number on a wristband or card in case you are separated.
+
+If anyone in your group uses a wheelchair or has limited mobility, choose venues with paved paths and step-free access, such as corniches and larger parks, and allow extra time for parking or drop-off. Watching the official ceremony on television or at a calmer screening can be a good alternative to the busiest fireworks sites.
+
+## Heritage visits that add context
+
+Celebrations are more meaningful when you know something of the story behind them, and the holiday period is a good time for a heritage visit. Forts, old districts and museums often host performances and family activities over National Day, and even without an event they help explain how a country of seven emirates came together.
+
+In Abu Dhabi, the oldest stone building in the city is a natural starting point; our [Qasr Al Hosn guide](/stories/qasr-al-hosn-abu-dhabi/) explains the fort and its place in the capital's history. In Dubai, pair the Etihad Museum with a walk through the older districts by the creek. Elsewhere, look for the forts and heritage villages in each emirate, many of which decorate for the holiday.
+
+A few tips for heritage visits over the holiday:
+
+- **Go early in the day.** Popular sites become busier in the afternoon and evening, when families arrive for events.
+- **Dress with care.** Heritage sites are family spaces, and modest clothing is expected.
+- **Watch the performances respectfully.** Traditional dances and songs are a source of pride. Applaud, enjoy, and ask before photographing performers up close.
+- **Check opening arrangements.** Holiday hours can differ from the usual schedule, so confirm before you travel.
 
 ## Etiquette and staying safe in the crowds
 

@@ -4,7 +4,7 @@ description: "A month-by-month guide to UAE weather and seasons: when the cool m
 category: "travel-tips"
 emirates: []
 published: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-13
 hero: "jebel-jais-sunset"
 heroAlt: "Late-afternoon light on the ridges of the Jebel Jais mountains in Ras Al Khaimah"
 featured: false
@@ -15,20 +15,22 @@ sources:
     url: "https://u.ae/en/about-the-uae/fact-sheet"
   - title: "Visit Abu Dhabi: Climate and what to wear"
     url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear"
-  - title: "Visit Abu Dhabi: Weather in Abu Dhabi"
-    url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/weather-in-abu-dhabi"
   - title: "Visit Abu Dhabi: A guide to planning your summer in Abu Dhabi"
     url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/weather-in-abu-dhabi/summer"
+  - title: "Visit Abu Dhabi: Weather in Abu Dhabi"
+    url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/weather-in-abu-dhabi"
   - title: "UAE Government Portal (u.ae): Ramadan"
     url: "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/ramadan"
   - title: "The National: When is Ramadan 2027? Potential dates announced for the UAE"
     url: "https://www.thenationalnews.com/news/uae/2026/10/06/ramadan-2027-uae-dates-eid-al-fitr-holiday/"
+  - title: "UAE Government Portal (u.ae): Public holidays"
+    url: "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
   - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
   - title: "National Centre of Meteorology (UAE)"
     url: "https://www.ncm.gov.ae/?lang=en"
-  - title: "UAE Government Portal (u.ae): Public holidays"
-    url: "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Health"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health"
 ---
 
 The one thing people who know the UAE never leave at home is a jumper. In January they pull it on in the desert after sunset; in August they need it for the cinema.
@@ -42,6 +44,8 @@ Temperatures below come from official sources linked inline. Treat them as avera
 ## Coast, desert and mountains: how the climate works
 
 The UAE government describes the country as having [a desert climate](https://u.ae/en/about-the-uae/fact-sheet): warm and sunny in winter, hot and humid in summer, and generally cooler in the eastern mountains. That matters if you are heading for Ras Al Khaimah's peaks or the Hajar range around Fujairah and Hatta, where the air can feel noticeably fresher than on the coast.
+
+<photo-set layout="full" keys="best-time-to-visit-uae-month-by-month-1" alts="A rocky ridge with a single tree on top under a blue sky on Jebel Jais in Ras Al Khaimah" caption="The mountains of Ras Al Khaimah are generally cooler than the coast."></photo-set>
 
 Visit Abu Dhabi, the emirate's official tourism board, says the [cooler months, November to April, are the most pleasant time to visit](https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear), with temperatures around 24°C during the day and 13°C at night. The same page says rainfall is sporadic and falls mainly between November and March, and that rain is more common around the oasis city of Al Ain because it sits close to the Hajar mountains.
 
@@ -128,6 +132,27 @@ Islamic holidays follow the lunar calendar, which is why they travel through the
 
 Travelling during Ramadan is entirely possible, and many visitors find the evenings, with iftar gatherings and late-night streets, a highlight. Daytime life is quieter, though, and there are rules of public conduct to respect. Our [Ramadan guide](/stories/visiting-uae-during-ramadan/) explains what to expect.
 
+## Sea, sun and health through the year
+
+The calendar changes more than the air temperature. It also shapes how you swim, what you carry and how you look after yourself.
+
+**Swimming.** Warm water tempts people in at every time of year, but the sea deserves respect in any month. The UK government notes that rip currents can occur at any beach and can sweep even strong swimmers out to sea, and advises swimming only from approved beaches with lifeguards and flags, treating a red flag as a sign that swimming is dangerous ([FCDO safety and security](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security)). On quieter beaches in the northern emirates and on the east coast, ask locally before you swim.
+
+**Boats.** Boat trips are popular in the cooler months. The same advice says the safety of tourist boats may not be up to UK standards and asks you to make sure life jackets are available for all passengers. It takes ten seconds to check before you leave the jetty.
+
+**Heat and health.** In the warmer months, the most common problems are simple ones: too little water, too much sun and too long outdoors. Plan around them rather than pushing through. If something does go wrong, the UK government gives 998 as the number to call for an ambulance and stresses having travel insurance that covers treatment ([FCDO health](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health)). If you take regular medication, check the rules on bringing it into the country well before you fly, whatever the season.
+
+## What to pack, season by season
+
+- **November to March:** light layers for the day, a warm jacket or jumper for desert and mountain evenings, closed shoes for hiking and a compact umbrella or rain layer for the wetter months.
+- **April, May and October:** breathable clothes, a hat, strong sun protection and a refillable bottle, plus a light layer for air-conditioned rooms.
+- **June to September:** the lightest modest clothing you own, a wide-brimmed hat, sunglasses and a jumper for the cinema, the mall and the hotel lobby.
+- **All year:** something that covers shoulders and knees for mosques, souks and more conservative areas.
+
+## How the season changes a single day
+
+In January a typical sightseeing day can run almost unbroken from breakfast to dinner, with lunch outside and a sunset walk to finish. In late spring the same day develops a gap in the middle, filled by a museum, a gallery or a long shaded meal. By high summer the gap has become the main event, and the outdoor parts move to the edges: an early start, a late evening on the waterfront, perhaps a desert trip that begins as the sun goes down. Knowing that shape before you arrive helps you book the right activities, and stops you feeling that a hot afternoon spent indoors is a wasted one.
+
 ## So which month is yours?
 
 - **Outdoor days, desert and mountains:** November to March, with the coolest weather from December to February.
@@ -137,7 +162,17 @@ Travelling during Ramadan is entirely possible, and many visitors find the eveni
 
 Whatever you choose, pack for the air conditioning as well as the outdoors. Visit Abu Dhabi suggests [taking a jacket or sweater for hotels and cinemas](https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear), because indoor spaces can be cold. That is the jumper from the top of this page, and it earns its place in every month.
 
-For clothing norms more generally, see [what to wear in the UAE](/stories/what-to-wear-uae-etiquette/). To make the most of the cooler months, our [five-day itinerary](/stories/five-day-uae-itinerary/) and guide to [whether a desert safari is worth it](/stories/is-a-desert-safari-worth-it/) are good next reads. If the fresher mountain air appeals, our guide to [the quieter emirates beyond Dubai](/stories/beyond-dubai-quieter-emirates/) is the place to start.
+For clothing norms more generally, see [what to wear in the UAE](/stories/what-to-wear-uae-etiquette/). To make the most of the cooler months, our [five-day itinerary](/stories/five-day-uae-itinerary/) and guide to [whether a desert safari is worth it](/stories/is-a-desert-safari-worth-it/) are good next reads. If the fresher mountain air appeals, our guide to [the quieter emirates beyond Dubai](/stories/beyond-dubai-quieter-emirates/) is the place to start. For more planning advice, browse our [travel tips](/travel-tips/).
+
+## Quick answers
+
+**What is the best month to visit the UAE?** For outdoor days, November to March, with the coolest weather from December to February.
+
+**How hot is summer?** Visit Abu Dhabi gives average daytime highs from 38°C in June to 41°C in August.
+
+**Does it rain?** Rarely, mainly between November and March, but heavy rain can cause flooding.
+
+**When is Ramadan in 2027?** It is projected to begin on 8 February 2027, subject to moon sighting.
 
 ## Questions to ask your operator
 

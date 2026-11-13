@@ -2,6 +2,8 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import fs from 'node:fs';
 import path from 'node:path';
+import rehypeRaw from 'rehype-raw';
+import rehypePhotos from './src/lib/rehype-photos.mjs';
 
 const SITE = 'https://theemiratesguide.tourground.com';
 // Last-modified dates for the sitemap, read from each post's "updated" field.
@@ -29,6 +31,6 @@ export default defineConfig({
       },
     }),
   ],
-  markdown: { smartypants: true },
+  markdown: { smartypants: true, rehypePlugins: [rehypeRaw, rehypePhotos] },
   image: { responsiveStyles: false },
 });

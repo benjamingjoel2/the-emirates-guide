@@ -5,8 +5,8 @@ category: "travel-tips"
 emirates: []
 published: 2026-11-12
 updated: 2026-11-13
-hero: "abu-dhabi-mosque"
-heroAlt: "Two airliners parked at the gates of the curved glass Terminal 3 building at Dubai International Airport on a hazy day"
+hero: "bringing-medicines-into-uae-2"
+heroAlt: "Emirates aircraft at the gate as the sun rises over Dubai International Airport"
 featured: false
 startHere: false
 plan: "A verified local operator can flag long days, desert trips or remote areas where you will be far from a pharmacy, and help you plan medication timings around your itinerary. Approval for controlled medicines must come from the UAE health authorities."

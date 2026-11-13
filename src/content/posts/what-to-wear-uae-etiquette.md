@@ -5,8 +5,8 @@ category: "food-culture"
 emirates: ["abu-dhabi", "dubai", "sharjah", "ras-al-khaimah"]
 published: 2026-11-11
 updated: 2026-11-11
-hero: "abu-dhabi-mosque"
-heroAlt: "The palm-lined approach to the Sheikh Zayed Grand Mosque in Abu Dhabi, with its white minarets at the far end"
+hero: "what-to-wear-uae-etiquette-hero"
+heroAlt: "Textile shops along a covered lane in old Dubai"
 featured: false
 startHere: false
 plan: "A verified local operator can tell you what to pack for each place on your itinerary, brief you on mosque visits before you arrive, and arrange a cultural visit where questions are welcome."

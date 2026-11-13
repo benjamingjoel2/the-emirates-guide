@@ -5,8 +5,8 @@ category: "desert-adventure"
 emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-12
-hero: "liwa-dune"
-heroAlt: "A road running between tall red-gold sand dunes in the Liwa desert"
+hero: "hot-air-balloon-uae-desert-hero"
+heroAlt: "A crew preparing a hot air balloon basket on flat desert ground"
 featured: false
 startHere: false
 plan: "A verified local operator can check which balloon flights launch over protected desert, explain pickup times and weather policies for your dates, and advise whether a flight suits anyone in your group with health or mobility concerns."

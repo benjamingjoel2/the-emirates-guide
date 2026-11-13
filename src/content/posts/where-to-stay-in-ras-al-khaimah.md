@@ -5,8 +5,8 @@ category: "where-to-stay"
 emirates: ["ras-al-khaimah"]
 published: 2026-11-12
 updated: 2026-11-13
-hero: "jebel-jais-sunset"
-heroAlt: "An aerial view of Al Marjan Island in Ras Al Khaimah, its curved man-made islands and beaches surrounded by turquoise sea"
+hero: "where-to-stay-in-ras-al-khaimah-4"
+heroAlt: "A lone ghaf tree on red sand in the Ras Al Khaimah desert"
 featured: false
 startHere: false
 plan: "A verified local operator can help you choose the Ras Al Khaimah base that fits your plans, whether beach, town or mountain, and can arrange airport transfers, a driver for day trips and advice on the best area for the season you travel."

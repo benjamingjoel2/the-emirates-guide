@@ -5,8 +5,8 @@ category: "desert-adventure"
 emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-12
-hero: "liwa-dune"
-heroAlt: "A road running between tall red-gold sand dunes in the Liwa desert"
+hero: "dune-sports-safety-uae-hero"
+heroAlt: "A desert activity camp seen from above, with quad bikes on the dunes beyond"
 featured: false
 startHere: false
 plan: "A verified local operator can recommend dune activities that match your group's experience and age, explain the safety gear and briefing provided, and point you to calmer alternatives for anyone who would rather watch than ride."

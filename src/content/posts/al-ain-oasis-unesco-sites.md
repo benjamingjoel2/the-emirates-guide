@@ -5,8 +5,8 @@ category: "destinations"
 emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
-hero: "dhayah-fort"
-heroAlt: "HEROALT"
+hero: "best-time-to-visit-uae-month-by-month-3"
+heroAlt: "A shaded walkway between date palms in Al Ain Oasis"
 featured: false
 startHere: false
 plan: "A verified local operator can arrange a guide who knows the oases and archaeological sites of Al Ain, help you choose which components to see in the time you have, and advise on cool times of day to walk."

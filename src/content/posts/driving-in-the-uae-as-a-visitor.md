@@ -5,8 +5,8 @@ category: "travel-tips"
 emirates: []
 published: 2026-11-12
 updated: 2026-11-13
-hero: "jebel-jais-sunset"
-heroAlt: "HEROALT"
+hero: "driving-in-the-uae-as-a-visitor-2"
+heroAlt: "A road across Hatta Dam with the Hajar Mountains behind"
 featured: false
 startHere: false
 plan: "A verified local operator can advise whether self-driving or a driver suits your itinerary, arrange a private driver for long or mountain routes, and run desert trips in properly equipped vehicles with experienced guides."

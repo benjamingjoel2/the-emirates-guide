@@ -5,8 +5,8 @@ category: "itineraries"
 emirates: []
 published: 2026-11-12
 updated: 2026-11-12
-hero: "liwa-dune"
-heroAlt: "A road curving between tall orange sand dunes in Liwa under a clear sky"
+hero: "uae-road-trip-planning-hero"
+heroAlt: "A car parked below the limestone cliffs of Jebel Hafeet"
 featured: false
 startHere: false
 plan: "A verified local operator can help you choose a route that suits your time and confidence, arrange a driver for the harder stretches, and advise on licences, insurance and road conditions for your dates."

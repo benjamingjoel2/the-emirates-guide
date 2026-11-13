@@ -5,8 +5,8 @@ category: "desert-adventure"
 emirates: ["dubai", "abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-12
-hero: "camels-dunes"
-heroAlt: "Riders on camels crossing the sand dunes near Dubai in golden evening light"
+hero: "overnight-desert-camping-uae-hero"
+heroAlt: "Rippled dunes and ghaf trees in the UAE desert"
 featured: false
 startHere: false
 plan: "A verified local operator can match you with an overnight camp that fits your comfort level, from a guided night in a conservation reserve to a trip to Liwa, and can advise on bedding, facilities, night temperatures and weather for your dates."

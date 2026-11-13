@@ -95,6 +95,14 @@ If you plan to see more than one museum on the island, Visit Abu Dhabi promotes 
 
 Visit Abu Dhabi describes [step-free access throughout the museum](https://visitabudhabi.ae/en/things-to-do/culture/museums-and-art/louvre-abu-dhabi), accessible facilities and interpretation tools in the galleries, and says wheelchairs are available on complimentary loan. The promenades between buildings are long, so if anyone in your group tires easily, ask for a wheelchair at the start rather than halfway round.
 
+### Food and breaks
+
+You do not need to leave the museum to eat. Visit Abu Dhabi notes that [a French brasserie sits within the museum](https://visitabudhabi.ae/en/things-to-do/culture/museums-and-art/louvre-abu-dhabi), and there are lighter options too. A break halfway through is worth planning rather than leaving to chance: two to three hours of galleries is tiring, and a sit-down under the dome or over lunch makes the second half of the visit far more rewarding.
+
+### Gallery manners
+
+The usual museum courtesies apply. Keep your voice down, keep a little distance from the cases and from other people's view, and check the signs at the entrance for any rules on photography, bags or particular exhibitions, which can differ for temporary shows. Dress is relaxed compared with the capital's religious sites, but modest, comfortable clothing is a sensible choice for any public building in the UAE.
+
 ## Visiting with children
 
 Louvre Abu Dhabi works well for families if you plan around attention spans. Visit Abu Dhabi says the ticket includes the [Children's Museum](https://visitabudhabi.ae/en/things-to-do/culture/museums-and-art/louvre-abu-dhabi), a dedicated space that runs its own exhibitions for young visitors, so it makes sense to start or finish there. In the main galleries, turn the visit into a game: look for animals, find the oldest object in a room, or compare how different cultures show the same subject. The open space and water under the dome give children room to breathe between galleries.

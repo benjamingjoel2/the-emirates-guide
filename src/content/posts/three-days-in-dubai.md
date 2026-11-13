@@ -11,8 +11,32 @@ featured: false
 startHere: false
 plan: "A verified local operator can adapt this itinerary to your dates, arrange guides for Old Dubai or a desert evening, and advise on booking popular sights ahead during busy periods."
 sources:
-  - title: "placeholder"
-    url: "https://example.com"
+  - title: "UAE Government Portal (u.ae): Explore the UAE by emirate"
+    url: "https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Discover-the-UAE/explore-the-uae-by-emirate-"
+  - title: "Sheikh Mohammed bin Rashid Al Maktoum Centre for Cultural Understanding: Home"
+    url: "https://cultures.ae/"
+  - title: "RTA: Marine transport"
+    url: "https://www.rta.ae/wps/portal/rta/ae/public-transport/marine/about-marine"
+  - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
+  - title: "NHS: Heat exhaustion and heatstroke"
+    url: "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/"
+  - title: "Dubai Frame: Plan your visit"
+    url: "https://www.dubaiframe.ae/en/plan-your-visit"
+  - title: "Dubai Frame: Home"
+    url: "https://www.dubaiframe.ae/en"
+  - title: "Museum of the Future: Home"
+    url: "https://museumofthefuture.ae/en"
+  - title: "Sheikh Mohammed bin Rashid Al Maktoum Centre for Cultural Understanding: Jumeirah Mosque visit"
+    url: "https://cultures.ae/program/jumeirah-mosque-visit/"
+  - title: "Dubai Municipality: Three new beaches for night swimming"
+    url: "https://www.dm.gov.ae/dubai-expands-its-beach-tourism-offering-with-the-opening-of-three-new-beaches-for-night-swimming/"
+  - title: "RTA: About Dubai Tram"
+    url: "https://www.rta.ae/wps/portal/rta/ae/public-transport/tram/about-tram"
+  - title: "RTA: About Dubai Metro"
+    url: "https://www.rta.ae/wps/portal/rta/ae/public-transport/metro/about-metro"
+  - title: "Dubai Municipality: Ras Al Khor Wildlife Sanctuary, plan your visit"
+    url: "https://www.dm.gov.ae/ras-al-khor/plan-your-visit/"
 ---
 
 Morning on Dubai Creek: a wooden abra noses away from the bank, the boatman collects coins, and on the far side the spice sellers are already rolling up their shutters. By evening the same city has become a forest of glass towers lit up against the sky. Three days in Dubai is enough to see both.
@@ -32,6 +56,10 @@ The order matters more than it looks. Old Dubai comes first because it is best o
 
 One fixed point to plan around is Friday. The Jumeirah Mosque visit on day three runs every day except Friday, so if your third day falls on a Friday, swap days two and three. If you arrive in the evening before day one, keep that first night simple: a walk near your hotel, an early dinner and a full night's sleep.
 
+### What catches first-timers out
+
+The most common mistake is trying to fit too much into each day. Distances between Old Dubai, Downtown and the Marina are longer than they look on a map, and every journey adds a little waiting, walking and queuing. Two or three main stops a day, with a proper break in between, is a pace most people enjoy. The second mistake is underestimating the sun on the walking parts of the day, even outside high summer. The third is forgetting that some sights have their own rules on dress, bags and food, so read each stop's notes below before you set out, and carry a light layer and a refillable water bottle every day.
+
 <photo-set layout="pair" keys="three-days-in-dubai-1,three-days-in-dubai-2" alts="Sand-coloured houses and a wind tower along a quiet lane in the Al Fahidi Historical Neighbourhood|Open sacks of dried spices and herbs on display at a stall in the Deira spice souk" caption="Day one covers both banks of the Creek: the lanes of Al Fahidi and the spice souk in Deira."></photo-set>
 
 ## Day one: Old Dubai, the Creek and the souks
@@ -46,7 +74,7 @@ After breakfast, wander without a fixed route. The lanes are short and it is har
 
 ### Late morning: across the water
 
-Walk down to the Creek and take an abra. RTA's heritage abras run between [Al Fahidi and Deira Old Souq, Al Fahidi and Al Sabkha, and Al Seef and Baniyas](https://www.rta.ae/wps/portal/rta/ae/public-transport/marine/about-marine), among other routes, and the motorised traditional abra between Bur Dubai and Deira Old Souq accepts cash. Sit low, keep your hands inside the boat and enjoy the view of dhows loading cargo along the bank. Our [beginner's guide to the abra](/stories/dubai-creek-abra-guide/) explains the crossing step by step.
+Walk down to the Creek and take an abra. RTA's heritage abras run between [Al Fahidi and Deira Old Souq, Al Fahidi and Al Sabkha, and Al Seef and Baniyas](https://www.rta.ae/wps/portal/rta/ae/public-transport/marine/about-marine), among other routes, and the motorised traditional abra between Bur Dubai and Deira Old Souq accepts cash. Sit low, keep your hands inside the boat and enjoy the view of dhows loading cargo along the bank.
 
 ### Afternoon: souks, then rest
 
@@ -70,7 +98,7 @@ Inside, the story unfolds in stages. An Old Dubai gallery tells of the city's [t
 
 ### Afternoon: Downtown and the tallest tower
 
-Spend the afternoon in Downtown, around the Burj Khalifa, which the UAE government lists as [the tallest building in the world](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Discover-the-UAE/explore-the-uae-by-emirate-). The same page links to booking a visit to At the Top, the tower's viewing experience. If you want to go up, book ahead and choose a time slot that suits the light you want. Our [Burj Khalifa guide](/stories/burj-khalifa-visit-guide/) compares the viewing decks.
+Spend the afternoon in Downtown, around the Burj Khalifa, which the UAE government lists as [the tallest building in the world](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Discover-the-UAE/explore-the-uae-by-emirate-). The same page links to booking a visit to At the Top, the tower's viewing experience. If you want to go up, book ahead and choose a time slot that suits the light you want.
 
 A note on the Museum of the Future: at the time of writing, its official site says it is [temporarily closed](https://museumofthefuture.ae/en) as it prepares for its next chapter. Check before you plan around it.
 
@@ -94,7 +122,7 @@ Dress modestly: the UK Foreign Office advises that in public areas [women should
 
 Head to the public beaches of Jumeirah or Umm Suqeim. The Foreign Office advises [swimming only from approved beaches with lifeguards and flags](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), and checking for red flags, which mean swimming is dangerous. It also notes that swimwear should only be worn on beaches or at swimming pools, so cover up when you leave the sand.
 
-If you would rather swim after dark, Dubai Municipality has opened [night swimming beaches in Jumeirah 2, Jumeirah 3 and Umm Suqeim 1](https://www.dm.gov.ae/dubai-expands-its-beach-tourism-offering-with-the-opening-of-three-new-beaches-for-night-swimming/), with lighting and lifeguards, and asks swimmers to stay in the designated zones. It says night swimming runs from sunset to sunrise. Our guide to [Dubai's public beaches](/stories/dubai-public-beaches-guide/) has more detail.
+If you would rather swim after dark, Dubai Municipality has opened [night swimming beaches in Jumeirah 2, Jumeirah 3 and Umm Suqeim 1](https://www.dm.gov.ae/dubai-expands-its-beach-tourism-offering-with-the-opening-of-three-new-beaches-for-night-swimming/), with lighting and lifeguards, and asks swimmers to stay in the designated zones. It says night swimming runs from sunset to sunrise.
 
 ### Evening: Dubai Marina and JBR
 
@@ -106,11 +134,11 @@ Finish by the water at Dubai Marina and JBR. The tram [runs along Al Sufouh Road
 
 ### In the heat
 
-From late spring to early autumn, treat each day as two halves with a long break in between. Do the walking parts as early as you can, keep the middle of the day for indoor sights, lunch and rest, and come out again from late afternoon. The NHS also advises [wearing light, loose clothing and drinking more cold drinks](https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/) in hot weather, and lists tiredness, headache, dizziness and being very thirsty among the signs of heat exhaustion. Our [month-by-month guide](/stories/best-time-to-visit-uae-month-by-month/) shows which months are easiest.
+From late spring to early autumn, treat each day as two halves with a long break in between. Do the walking parts as early as you can, keep the middle of the day for indoor sights, lunch and rest, and come out again from late afternoon. The NHS also advises [wearing light, loose clothing and drinking more cold drinks](https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/) in hot weather, and lists tiredness, headache, dizziness and being very thirsty among the signs of heat exhaustion.
 
 ### With children
 
-The plan works for families with small changes. Shorten the souk visit, keep the abra crossing, and give the Frame plenty of time, as children usually enjoy the glass floor views. The Frame says [children under 12 must be accompanied by an adult](https://www.dubaiframe.ae/en/plan-your-visit) at all times. On boats, RTA says children under 12 [must wear a life jacket](https://www.rta.ae/wps/portal/rta/ae/public-transport/marine/about-marine) when travelling with an adult. More ideas are in our guide to [Dubai with children](/stories/dubai-with-kids/).
+The plan works for families with small changes. Shorten the souk visit, keep the abra crossing, and give the Frame plenty of time, as children usually enjoy the views from the top. The Frame says [children under 12 must be accompanied by an adult](https://www.dubaiframe.ae/en/plan-your-visit) at all times. On boats, RTA says children under 12 [must wear a life jacket](https://www.rta.ae/wps/portal/rta/ae/public-transport/marine/about-marine) when travelling with an adult. More ideas are in our guide to [Dubai with children](/stories/dubai-with-kids/).
 
 ### With limited mobility
 
@@ -118,7 +146,7 @@ The metro is the easiest way to link these days if anyone in your group uses a w
 
 ### During Ramadan
 
-If your dates fall during Ramadan, the Foreign Office advises that eating, drinking or smoking in public in the daytime [may cause offence](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), and suggests checking the opening hours of shops and restaurants. The Frame notes that its timings may vary during the holy month. Evenings take on a lively, social feel, and our guide to [visiting the UAE during Ramadan](/stories/visiting-uae-during-ramadan/) explains what changes.
+If your dates fall during Ramadan, the Foreign Office advises that eating, drinking or smoking in public in the daytime [may cause offence](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), and suggests checking the opening hours of shops and restaurants. The Frame notes that its timings may vary during the holy month. Evenings take on a lively, social feel, especially around sunset.
 
 ## Swaps and add-ons
 

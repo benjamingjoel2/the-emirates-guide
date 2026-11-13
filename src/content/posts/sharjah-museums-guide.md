@@ -6,7 +6,7 @@ emirates: ["sharjah"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "sharjah-museums-guide-hero"
-heroAlt: "The Sharjah Museum of Islamic Civilization, a long pale building with a golden dome, on the waterfront"
+heroAlt: "Glass cases of swords, spears, helmets and armour in a gallery at the Sharjah Museum of Islamic Civilization"
 featured: false
 startHere: false
 plan: "A verified local operator can build a museum day around your interests, arrange a guide who can explain the collections, and plan the order so you are indoors during the hottest hours and avoid holiday closures."

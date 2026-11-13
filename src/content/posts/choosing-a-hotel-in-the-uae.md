@@ -1,11 +1,11 @@
 ---
 title: "Choosing a hotel in the UAE: what to check before you book"
-description: "Choosing a hotel in the UAE? What to check before you book: location, extra taxes and fees, alcohol rules by emirate, check-in rules and Ramadan dining."
+description: "Choosing a hotel in the UAE? What to check before you book: location, the type of stay, taxes and fees, alcohol rules by emirate, check-in rules and Ramadan."
 category: "where-to-stay"
 emirates: []
 published: 2026-11-12
-updated: 2026-11-12
-hero: "dubai-marina"
+updated: 2026-11-13
+hero: "choosing-a-hotel-in-the-uae-hero"
 heroAlt: "Hotel and apartment towers lining the water at Dubai Marina"
 featured: false
 startHere: false
@@ -17,8 +17,16 @@ sources:
     url: "https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Arrival-and-accommodation/where-to-stay-in-the-uae"
   - title: "Visit Abu Dhabi: Taxes, service charges and tipping"
     url: "https://visitabudhabi.ae/en/plan-your-trip/essential-info/taxes-service-charges-and-tipping"
+  - title: "UAE Government Portal (u.ae): Foreign currency"
+    url: "https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Before-you-visit/foreign-currency"
   - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Safety and security"
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security"
+  - title: "UAE Government Portal (u.ae): Mobile and internet services"
+    url: "https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Arrival-and-accommodation/mobile-and-internet-services"
+  - title: "GOV.UK (FCDO): United Arab Emirates travel advice, Health"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health"
+  - title: "UAE Government Portal (u.ae): Emergency help for tourists in the UAE"
+    url: "https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Tourist-services-and-information/emergency-help-for-tourists-in-the-uae"
 ---
 
 The price on the booking page looked perfect. Then, at checkout, a short list of extra lines appears: a service charge, a municipality fee, a tourism fee. Nothing is wrong. It is simply how hotel pricing works in much of the UAE, and it catches out a lot of first-time visitors.
@@ -43,6 +51,17 @@ Mark the places you most want to visit on a map, then look for hotels between th
 
 If you are not driving, check how close the hotel is to public transport and how easy it is to get a taxi. If you plan to explore remote areas, a car matters more. Visit Abu Dhabi, for example, says a car is [the most convenient way to explore Al Dhafra](https://www.visitabudhabi.ae/en/where-to-go/regions/al-dhafra), because attractions are spread over a wide area.
 
+## Choose the right kind of stay
+
+The UAE government portal notes that options run [from modest accommodation to opulent hotels](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Arrival-and-accommodation/where-to-stay-in-the-uae), and that you can stay by the sea, in the city or at a resort in the deep desert. It also lists hotel apartments alongside hotels and resorts. Each suits a different kind of trip.
+
+- **City hotels** suit sightseeing trips, short stays and anyone relying on taxis and public transport.
+- **Beach resorts** suit families and longer, slower stays, but can be a drive from the main sights. Ask how long it takes to get into town.
+- **Hotel apartments** suit families and longer stays, with more space and usually a kitchen, though fewer on-site restaurants.
+- **Desert and mountain resorts** suit a night or two of quiet, but rarely work as a base for sightseeing.
+
+Many visitors combine two: a city hotel for the busy part of the trip and a resort for the end, when they want to slow down.
+
 ## Understand what the rate includes
 
 This is where most surprises happen.
@@ -57,7 +76,11 @@ What to do: when you compare hotels, compare the final price including everythin
 
 ### Tipping
 
-Tipping is a common question at check-in and check-out. Visit Abu Dhabi says [tipping is not expected but is commonly practised](https://visitabudhabi.ae/en/plan-your-trip/essential-info/taxes-service-charges-and-tipping), and that gratuities to hotel and restaurant staff are at your discretion. It also notes that service charges are often already included in menu prices, so check the bill before adding more.
+Tipping is a common question at check-in and check-out. Visit Abu Dhabi says [tipping is not expected but is commonly practised](https://visitabudhabi.ae/en/plan-your-trip/essential-info/taxes-service-charges-and-tipping), and that gratuities to hotel and restaurant staff are at your discretion. It also notes that service charges are often already included in menu prices, so check the bill before adding more. The same page says that many fine dining and high-end restaurants may add a service charge and a tourism levy, and that the menu will show when these are included.
+
+### Paying at the end of your stay
+
+Most hotels take a card at check-in to cover extras. The government portal says [credit cards, currency cards and traveller's cheques are accepted in the UAE](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Before-you-visit/foreign-currency), and that you can exchange money at licensed exchange centres at airports, in malls and in commercial areas. Check your bill carefully before you leave, and query anything you do not recognise at the desk rather than later.
 
 ### Book through a channel you trust
 
@@ -80,6 +103,19 @@ A few rules catch people out at the front desk.
 - **Paying the bill.** The Foreign Office warns that [non-payment of bills, including hotel bills](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), can lead to a prison sentence, a fine or both. Make sure you can settle your bill before you leave.
 - **Couples.** A common question from unmarried couples is whether they can share a room. The Foreign Office says consensual sexual relationships between a man and a woman outside marriage are [generally legal if both are aged 18 or over](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security). Read its full advice, as there are exceptions.
 
+## Check the things you will use every day
+
+Some details only matter once you arrive, but they can make or break a stay.
+
+- **Wi-Fi and data.** The government portal says [most hotels offer free Wi-Fi to their guests](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Arrival-and-accommodation/mobile-and-internet-services), and that visitors can buy tourist mobile plans at shops in UAE airports. You need a copy of your passport and UAE visa to get a local SIM.
+- **Shade and heat.** In the warmer months, a pool with shade and a short walk to transport matter more than a long list of facilities.
+- **Rooms for your group.** Families should ask about connecting rooms, cots and extra beds before booking, not at check-in.
+- **Accessibility.** If anyone in your group uses a wheelchair or has limited mobility, ask for specific details: step-free routes, lift access to the pool and beach, and bathroom layout. A photo of the room is often more useful than a general description.
+
+### If you take regular medication
+
+Plan this before you book, not at the hotel. The Foreign Office says some UK prescribed and over-the-counter medicines are controlled in the UAE, and that you must get [approval in advance from the UAE Ministry of Health](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health) to bring them. It also advises having travel insurance that covers local treatment, because you may be stopped from using healthcare facilities without insurance or the means to pay.
+
 ## Time your stay with the calendar
 
 The same hotel can feel different depending on when you visit.
@@ -88,9 +124,21 @@ The same hotel can feel different depending on when you visit.
 
 During the holy month, the Foreign Office notes that hotels and restaurants serving food in fasting hours [may separate you from Muslim guests, for example with screens](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security). Ask your hotel how its restaurants work during the day and at iftar. Our guide to [visiting the UAE during Ramadan](/stories/visiting-uae-during-ramadan/) explains what changes.
 
+### Winter, events and holidays
+
+The cooler months are the busiest time to visit, and big events can fill whole areas. Visit Abu Dhabi notes, for example, that the [Liwa International Festival runs each December](https://www.visitabudhabi.ae/en/where-to-go/regions/al-dhafra), and that the cooler months are ideal for outdoor activities and desert experiences, while warmer months are quieter and better suited to coastal stays and indoor attractions. If your dates are fixed, book early for peak periods and check whether anything major is happening near your hotel.
+
 ### Dress around the hotel
 
 Inside resorts, the atmosphere can feel relaxed, but the Foreign Office reminds visitors that [swimwear should only be worn on beaches or at swimming pools](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), and that some venues have their own dress codes. Pack a cover-up for walking through the lobby.
+
+## Beach hotels: check the sea, not just the sand
+
+If you are booking a beach hotel, ask about swimming conditions as well as sunloungers. The Foreign Office warns that [rip currents can occur at any beach](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), and advises swimming only from approved beaches with lifeguards and flags showing it is safe. Ask the hotel whether its beach has lifeguards, and at what times. For families with young children, a hotel with a shaded, shallow pool may be more relaxing than one with the beach alone.
+
+## What to do if something goes wrong
+
+Most problems are best solved at the front desk, calmly and early. If you need emergency help, the government portal lists [999 for police, 998 for ambulance and 997 for the fire department](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Tourist-services-and-information/emergency-help-for-tourists-in-the-uae), and says Abu Dhabi and Dubai both have tourism police. Keep your booking confirmation, your passport copy and your insurance details somewhere you can reach easily.
 
 ## A short pre-booking checklist
 
@@ -114,6 +162,8 @@ If you are weighing a hotel against a night in the desert, see [desert stay or c
 **Do hotels in Sharjah serve alcohol?** No. The Foreign Office says drinking or possessing alcohol is illegal in the Emirate of Sharjah.
 
 **Should I tip hotel staff in the UAE?** Visit Abu Dhabi says tipping is not expected but is commonly practised, and gratuities are at your discretion.
+
+**Do UAE hotels have free Wi-Fi?** The UAE government portal says most hotels offer free Wi-Fi to their guests.
 
 ## Questions to ask your operator
 

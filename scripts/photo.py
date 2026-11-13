@@ -5,7 +5,7 @@
   python3 scripts/photo.py get "File:Name.jpg" my-key       # download 1280px copy + record credit
   python3 scripts/photo.py remove my-key                     # drop a photo you added that turned out wrong
 
-Refuses files already used on the site, non-free licences (NC/ND) and images under 1000px wide.
+Refuses files already used on the site, non-free licences (NC/ND), originals under 2000px wide and low-detail files.
 """
 import sys, re, json, html, hashlib, urllib.parse, urllib.request, time, os, fcntl
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -53,7 +53,7 @@ def search(q):
     for t in titles:
         if t.replace(' ', '_') in taken: continue
         i = info(t)
-        if not free(i['license']) or i['width'] < 1200: continue
+        if not free(i['license']) or i['width'] < 2000: continue
         orient = 'landscape' if i['width'] > i['height'] * 1.15 else 'portrait' if i['height'] > i['width'] * 1.15 else 'square'
         print(f"{t}\n   {i['width']}x{i['height']} {orient} | {i['license']} | {i['author']}\n   {i['description'][:160]}")
         shown += 1
@@ -70,10 +70,12 @@ def get(title, key):
         if title.replace(' ', '_') in taken: raise SystemExit('This photo is already used on the site. Choose a different photo.')
         i = info(title)
         if not free(i['license']): raise SystemExit(f'Not an open licence: {i["license"]}')
+        if i['width'] < 2000: raise SystemExit(f'Too small ({i["width"]}px wide). Pick a photo at least 2000px wide for quality.')
         name = title[5:].replace(' ', '_'); h = hashlib.md5(name.encode()).hexdigest(); q = urllib.parse.quote(name)
         url = f'https://upload.wikimedia.org/wikipedia/commons/thumb/{h[0]}/{h[:2]}/{q}/1280px-{q}' if i['width'] > 1280 else f'https://upload.wikimedia.org/wikipedia/commons/{h[0]}/{h[:2]}/{q}'
         data = fetch(url, binary=True)
         if len(data) < 20000: raise SystemExit('Download failed')
+        if len(data) < 120000: raise SystemExit('Photo looks low in detail or heavily compressed. Pick another.')
         open(os.path.join(OUT, key + '.jpg'), 'wb').write(data)
         db[key] = {k: i[k] for k in ('file', 'author', 'license', 'licenseUrl', 'source', 'description')}
         json.dump(db, open(DATA, 'w'), indent=1, ensure_ascii=False)

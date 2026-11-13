@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "uae-national-day-for-visitors-hero"
-heroAlt: "The palm-lined approach to the Sheikh Zayed Grand Mosque in Abu Dhabi, with its white minarets at the far end"
+heroAlt: "A large number 52 and a flower bed in the colours of the UAE flag laid out on a grassy slope in Khalifa Park, Abu Dhabi, beneath white shade canopies"
 featured: false
 startHere: false
 plan: "A verified local operator can advise on how National Day affects tour timings, traffic and attraction crowds, and can suggest family-friendly places to watch the celebrations during your stay."

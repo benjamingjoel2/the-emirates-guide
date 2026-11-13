@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "hiking-in-the-uae-hero"
-heroAlt: "Hikers descending a steep layered escarpment on Jebel Jais under low cloud"
+heroAlt: "Three small figures of hikers on a rocky ridge on Jebel Jais above a deep layered valley, with cloud on the peaks"
 featured: false
 startHere: false
 plan: "A verified local operator can match a trail to your group's fitness, arrange a guide and transport to the trailhead, check the forecast and wadi conditions on the day, and handle group notifications where a route requires them."

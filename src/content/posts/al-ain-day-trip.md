@@ -47,7 +47,7 @@ By mid-morning that scene has gone, and you are walking under a roof of date pal
 
 Yes, it works as a day trip. Visit Abu Dhabi puts Al Ain [90 minutes' drive from Abu Dhabi city](https://www.visitabudhabi.ae/en/where-to-go/regions/al-ain), and says the drives from Abu Dhabi or Dubai on the E22 or E66 take [approximately 1.5 to 2 hours](https://www.visitabudhabi.ae/en/where-to-go/regions/al-ain). The trick is to arrive early and give the day a clear order.
 
-<photo-set layout="mosaic" keys="al-ain-day-trip-1,al-ain-day-trip-2,al-ain-day-trip-3" alts="A1|A2|A3" caption="The camel market, the falaj channels of the oasis and Al Jahili Fort give the day its shape."></photo-set>
+<photo-set layout="mosaic" keys="al-ain-day-trip-1,al-ain-day-trip-2,al-ain-day-trip-3" alts="A narrow lined falaj channel running beneath date palm fronds in Al Ain Oasis|Camels feeding from a trough inside a fenced, shaded pen at the Al Ain camel market|A3" caption="The camel market, the falaj channels of the oasis and Al Jahili Fort give the day its shape."></photo-set>
 
 ## Why Al Ain feels like another country
 

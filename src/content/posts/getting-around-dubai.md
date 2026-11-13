@@ -6,7 +6,7 @@ emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "getting-around-dubai-hero"
-heroAlt: "A driverless Dubai Metro train seen from the front as it stands on the elevated track"
+heroAlt: "A blue and silver Dubai Metro train pulling into a glass-walled station with platform screen doors"
 featured: false
 startHere: false
 plan: "A verified local operator can arrange airport and hotel transfers, private drivers for day trips, and advise on the easiest public transport routes between the places on your itinerary."

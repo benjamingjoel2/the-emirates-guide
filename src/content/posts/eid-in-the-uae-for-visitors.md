@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "eid-in-the-uae-for-visitors-hero"
-heroAlt: "A brass coffee pot, a small cup of Arabic coffee and dates on a saucer"
+heroAlt: "Visitors walking down a grassy slope towards a busy park with trees, picnic shelters and parked cars at Green Mubazzarah in Al Ain, with rocky hills behind"
 featured: false
 startHere: false
 plan: "A verified local operator can help you plan around Eid, from flexible bookings while the dates are confirmed to advice on which attractions get busiest and how holiday traffic affects transfers."

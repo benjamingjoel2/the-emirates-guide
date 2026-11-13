@@ -69,7 +69,7 @@ The Mangrove Hide, when it reopens, is the one for variety: the municipality lis
 
 Inside, the rules are strict and worth knowing. The municipality asks for a [quiet zone with no phones, pets, food, drinks or smoking](https://www.dm.gov.ae/dubai-protected-areas/plan-your-visit/), allows only 15 people in a hide at a time, and warns that approaching or harming wildlife can bring heavy fines. Its visitor guidance also asks you not to go beyond No Entry signs or the fenced area, not to sit on the window plank, to avoid rushing or pushing, and to give priority to people of determination. It suggests bringing binoculars, a camera and a bird and nature guide, and checking Dubai's air quality and weather before you set off.
 
-<photo-set layout="wide" keys="birdwatching-in-the-uae-1" alts="Open water and low green vegetation at Ras Al Khor Wildlife Sanctuary with Dubai towers on the horizon" caption="Ras Al Khor sits within sight of Dubai's towers, which is a large part of its appeal for a short visit."></photo-set>
+<photo-set layout="wide" keys="birdwatching-in-the-uae-1" alts="Spoonbills and a few flamingos feeding in shallow water at Ras Al Khor, with scrub and Dubai towers on the horizon" caption="Ras Al Khor sits within sight of Dubai's towers, which is a large part of its appeal for a short visit."></photo-set>
 
 ### A first morning at Ras Al Khor
 
@@ -77,7 +77,7 @@ A visit here is short and simple, which is why it works so well for first timers
 
 Because the sanctuary is in the city, it fits easily before breakfast or on the way to somewhere else. Many visitors go once to see the flamingos, then come back with binoculars and a notebook once they realise how much else is out on the water.
 
-<photo-set layout="pair" keys="birdwatching-in-the-uae-3,birdwatching-in-the-uae-4" alts="A dark grey western reef heron standing in shallow water at Ras Al Khor|Black-winged stilts, pied avocets and other waders feeding together in shallow water at Ras Al Khor" caption="Herons and mixed flocks of waders are among the commonest sights from the UAE's wetland hides."></photo-set>
+<photo-set layout="pair" keys="birdwatching-in-the-uae-3,birdwatching-in-the-uae-4" alts="A white western reef heron standing on rocks beside the water at Ras Al Khor|Black-winged stilts, pied avocets and other waders feeding together in shallow water at Ras Al Khor" caption="Herons and mixed flocks of waders are among the commonest sights from the UAE's wetland hides."></photo-set>
 
 ### Al Marmoom's lakes
 

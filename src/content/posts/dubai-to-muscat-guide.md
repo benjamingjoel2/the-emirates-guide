@@ -6,7 +6,7 @@ emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "dubai-to-muscat-guide-hero"
-heroAlt: "A narrow paved road winding up through bare, rocky mountains in northern Oman under a clear sky"
+heroAlt: "A white four-wheel-drive vehicle on a gravel road below steep rocky slopes in the Hajar Mountains of Oman"
 featured: false
 startHere: false
 plan: "A verified local operator can advise which way to travel from Dubai to Muscat for your passport and dates, arrange border transfers or a guided overland trip, and check whether a hire car can legally cross into Oman."

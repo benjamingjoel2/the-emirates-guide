@@ -148,7 +148,7 @@ A few tips make the switch smoother:
 
 Before you compare prices, check what is included. The UAE government portal notes that hotels, resorts and restaurants may add [taxes and charges such as service charges and municipality fees](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Arrival-and-accommodation/where-to-stay-in-the-uae), so a desert package and a city room are only comparable once you know what each covers: meals, transfers, activities and fees.
 
-<photo-set layout="pair" keys="desert-stay-or-city-hotel-uae-6,desert-stay-or-city-hotel-uae-7" alts="Towers of Dubai Marina reflected in the still water of the marina channel in soft evening light|The sun rising over rippled sand dunes and low shrubs in the desert outside Dubai" caption="A split stay gives you both: city evenings by the water and at least one sunrise on the sand."></photo-set>
+<photo-set layout="pair" keys="desert-stay-or-city-hotel-uae-6,desert-stay-or-city-hotel-uae-7" alts="Towers of Dubai Marina reflected in the still water of the marina channel in soft evening light|Smooth rolling sand dunes marked with tyre tracks under a clear blue sky in the desert outside Dubai" caption="A split stay gives you both: city evenings by the water and at least one night out on the sand."></photo-set>
 
 For a full look at what a night in a camp involves, see our guide to [overnight desert camping in the UAE](/stories/overnight-desert-camping-uae/). Browse more accommodation ideas on our [where to stay](/where-to-stay/) page.
 

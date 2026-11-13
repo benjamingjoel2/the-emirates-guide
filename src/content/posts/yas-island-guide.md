@@ -6,7 +6,7 @@ emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "yas-island-guide-hero"
-heroAlt: "Palm trees and a broad paved promenade beside the water at Yas Bay Waterfront on Yas Island, with modern buildings along the shore"
+heroAlt: "An aerial view over Yas Bay with the roof of the arena in the foreground and the waterfront channels between Yas Island and Al Raha stretching into the distance"
 featured: false
 startHere: false
 plan: "A verified local operator can build a Yas Island day around your interests, from circuit and marina time to a mangrove paddle nearby, and advise on transfers, shuttle stops and timing around race weekends and concerts."

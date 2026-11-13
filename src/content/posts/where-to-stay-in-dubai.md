@@ -51,7 +51,7 @@ Then match your answers to an area. Dubai Metro runs on [two lines, Red and Gree
 
 A useful way to picture the city is as a long strip running roughly along the coast. Old Dubai and the Creek sit at one end, Downtown and the business district sit in the middle, and the Marina and JBR sit much further along towards the other end, with Jumeirah's beaches and the Palm in between. Wherever you stay, the places at the far end of that strip will be your longest journeys, so put the base closest to the things you will do most often.
 
-<photo-set layout="wide" keys="where-to-stay-in-dubai-1" alts="Towers of Downtown Dubai seen in daylight, with the Burj Khalifa standing above the rest" caption="Downtown is built around the Burj Khalifa and sits on the metro's Red Line."></photo-set>
+<photo-set layout="wide" keys="where-to-stay-in-dubai-1" alts="The Downtown Dubai skyline seen from the sea on a hazy day, with the Burj Khalifa standing above the other towers" caption="Downtown is built around the Burj Khalifa and sits on the metro's Red Line."></photo-set>
 
 ## Downtown Dubai: the skyline on your doorstep
 

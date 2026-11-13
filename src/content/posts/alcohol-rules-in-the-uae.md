@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "alcohol-rules-in-the-uae-hero"
-heroAlt: "HEROALT"
+heroAlt: "Dubai Marina at night seen from above, with lit residential towers around the marina basin and boats moored along the waterfront"
 featured: false
 startHere: false
 plan: "A verified local operator can plan transfers so nobody needs to drive after a drink, flag which parts of your itinerary cross into Sharjah, and suggest evening experiences that suit both drinkers and non-drinkers."
@@ -37,7 +37,7 @@ This guide sets out the detail, drawn from UK government travel advice and offic
 - **Not at all:** in the emirate of Sharjah.
 - **Never:** before driving, in any amount.
 
-TRIO
+<photo-set layout="trio" keys="alcohol-rules-in-the-uae-1,alcohol-rules-in-the-uae-2,alcohol-rules-in-the-uae-3" alts="Lit high-rise towers rising above the waterfront at Dubai Marina at night|The Abu Dhabi skyline lit up at night and reflected in the calm water off the Corniche|Silhouetted masts of a sailing ship and moored boats in a marina at Dubai Creek Harbour at sunset, with the Dubai skyline behind" caption="Waterfronts like these are public places, so the drinking happens indoors in licensed venues rather than on the promenade."></photo-set>
 
 ## Where you can drink: licensed venues
 
@@ -86,7 +86,7 @@ Sharjah sits right next to Dubai, and many visitors cross into it without notici
 
 Possession matters as well as drinking. If you have bought alcohol elsewhere and your route passes through Sharjah, or you are staying there, think about that before you pack it. Sharjah is a wonderful place for museums, heritage and the old souks, and it is simply a dry emirate. Our guide to [visiting Sharjah](/stories/sharjah-rules-for-visitors/) explains its decency and alcohol rules in more detail, and our [day trip guide](/stories/sharjah-day-trip-from-dubai/) shows how to spend a day there.
 
-FULL
+<photo-set layout="full" keys="alcohol-rules-in-the-uae-4" alts="Panorama of the Sharjah skyline at night under a full moon, with the lights of its towers reflected across the water" caption="Sharjah sits right next to Dubai, and drinking or possessing alcohol there is illegal."></photo-set>
 
 ### Practical tips for routes through Sharjah
 
@@ -114,7 +114,7 @@ If you are hiring a car, plan evenings around taxis or a designated non-drinking
 
 Taxis make the whole system work. The Foreign Office advises using only [licensed taxis or recognised transport](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), including ride-hailing apps. It says authorised taxis in Dubai are cream with different coloured roofs, with pink-roofed taxis driven by women, and that taxis in Abu Dhabi are silver or grey. There are also special taxis for women and children, which can be hailed or booked. Visit Abu Dhabi notes that taxis in the capital are plentiful and can be flagged down at the roadside or [booked by phone](https://visitabudhabi.ae/en/faqs).
 
-PAIR
+<photo-set layout="pair" keys="alcohol-rules-in-the-uae-5,alcohol-rules-in-the-uae-6" alts="A cream Dubai taxi with a red roof and a yellow taxi sign parked on a paved forecourt|Cream Dubai taxis with red and green roofs waiting at a pedestrian crossing in a busy Bur Dubai street" caption="Licensed taxis, cream with coloured roofs in Dubai, are the simple way home after a drink."></photo-set>
 
 ## Families, groups and mixed tables
 
@@ -140,7 +140,7 @@ Remember that an allowance at the airport does not change the rules on the groun
 
 Alcohol does not disappear during the holy month, but the atmosphere changes. Visit Abu Dhabi says licensed hotels, bars and restaurants [serve alcohol in Abu Dhabi during Ramadan](https://visitabudhabi.ae/en/plan-your-trip/article-hub/abu-dhabi-ramadan-questions-answered), usually in designated indoor areas rather than public-facing spaces, and that service may start later in the evening, after iftar. It suggests checking with your venue, because house rules vary.
 
-INSETRIGHT
+<photo-set layout="inset-right" keys="alcohol-rules-in-the-uae-7" alts="An iftar spread of watermelon, banana, orange and apple slices, grapes and dates arranged around a central dish on a cloth on the floor" caption="Evenings during Ramadan are busier than ever, and an iftar meal can become a highlight of a trip."></photo-set>
 
 The same guide says tourists and non-Muslims are not expected to fast, and that visitors can still eat in restaurants, hotels and designated areas during the day. The courtesy is to avoid eating, drinking or smoking in public outdoor spaces during daylight hours. Evenings are busier than ever, and many visitors find that an iftar meal or a late walk through a lit-up souk becomes a highlight of the trip. Our guide to [joining an iftar](/stories/how-visitors-can-join-iftar/) explains how.
 

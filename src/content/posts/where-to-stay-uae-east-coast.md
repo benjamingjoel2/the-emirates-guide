@@ -55,7 +55,7 @@ Fujairah's tourism authority describes the emirate as sitting [between the Hajar
 
 On the map the two emirates interlock, so you may cross between them several times on one drive along the coast without noticing. Your hotel's emirate decides some of the local rules, which we come to below.
 
-<photo-set layout="mosaic" keys="where-to-stay-uae-east-coast-1,where-to-stay-uae-east-coast-2,where-to-stay-uae-east-coast-3" alts="A small boat flying the UAE flag pulled up on the sand at Khorfakkan beach with mountains behind|Fujairah Fort, a restored mud-brick fort with round towers, in the evening light|The long sandy beach at Al Aqah on the Fujairah coast with the sea on the right" caption="Khorfakkan's town beach, Fujairah Fort and the quieter sands of Al Aqah show the range of bases along the coast."></photo-set>
+<photo-set layout="mosaic" keys="where-to-stay-uae-east-coast-1,where-to-stay-uae-east-coast-2,where-to-stay-uae-east-coast-3" alts="The long sandy beach at Khorfakkan with palm trees and brown mountains behind the bay|Fujairah Fort, with its round towers and square tower, lit up at dusk at the top of a stone slope|Shaded sunloungers on the beach at Al Aqah in Fujairah, with the rocky outline of Snoopy Island offshore" caption="Khorfakkan's town beach, Fujairah Fort and the quieter sands of Al Aqah show the range of bases along the coast."></photo-set>
 
 Distances are manageable but not trivial. Visit Sharjah places Khorfakkan [137 kilometres east of Sharjah](https://www.visitsharjah.com/en/activities/beaches/khorfakkan-beach/), about halfway between Dibba and Fujairah, and Kalba [120 kilometres east of Sharjah city and about 12 kilometres south of Fujairah](https://www.visitsharjah.com/en/activities/beaches/kalba-beach-corniche/). In practice that means the coast works better as a two or three night trip than a rushed day out from Dubai.
 
@@ -73,7 +73,7 @@ Above the town, a marked mountain path leads to Al Rabi Tower, built as part of 
 
 The beach itself is about three kilometres long, according to the tourism board, with swings and football goalposts on the sand and boat and jet ski rentals near the middle of the corniche.
 
-<photo-set layout="pair" keys="where-to-stay-uae-east-coast-4,where-to-stay-uae-east-coast-5" alts="Al Rabi Tower, a round stone watchtower, on a rocky hilltop above Khorfakkan|The palm-lined corniche and beach at Khorfakkan with the bay and mountains beyond" caption="Al Rabi Tower watches over Khorfakkan, whose corniche and beach are the centre of town life."></photo-set>
+<photo-set layout="pair" keys="where-to-stay-uae-east-coast-4,where-to-stay-uae-east-coast-5" alts="The town and curving bay of Khorfakkan seen from a rocky hillside on the walk above the town|Swimmers and walkers on Khorfakkan beach at dusk, with a mosque, town buildings and steep mountains across the bay" caption="The hill paths above Khorfakkan look down over the bay, and the beach below is the centre of town life."></photo-set>
 
 **Best for:** families, walkers, anyone who wants a town with a promenade, cafes and things to do in the evening.
 
@@ -109,7 +109,7 @@ The Khor Kalba Mangrove Centre sits among [the oldest mangrove forest in the UAE
 
 **Best for:** nature lovers, birdwatchers, families who like quieter beaches.
 
-<photo-set layout="inset-left" keys="where-to-stay-uae-east-coast-6" alts="Green mangrove trees growing along a still channel of water at Kalba in Sharjah" caption="Kalba's mangroves are among the oldest in the UAE and a draw for birdwatchers."></photo-set>
+<photo-set layout="inset-left" keys="where-to-stay-uae-east-coast-6" alts="The twisting trunk and branches of a mangrove tree standing in shallow water at Kalba" caption="Kalba's mangroves are among the oldest in the UAE and a draw for birdwatchers."></photo-set>
 
 The corniche runs for more than nine kilometres, and the tourism board says the southern end is the only place in the UAE where the rare Arabian collared kingfisher breeds. At the mangrove centre, it notes trees up to eight metres tall and the chance to see crabs, green turtles and fish as well as birds. Early mornings are best for wildlife, which is a good argument for sleeping nearby rather than driving in. Our [Kalba mangroves guide](/stories/kalba-mangroves-guide/) goes into more detail.
 
@@ -119,7 +119,7 @@ The corniche runs for more than nine kilometres, and the tourism board says the 
 
 Whichever base you choose, the Hajar Mountains are on your doorstep. Fujairah's tourism authority calls them [the highest mountain range in the eastern Arabian Peninsula](https://fujairahtourism.ae/index_action-NaturalSites.html), running through both the UAE and Oman, and says the highest named point in the UAE, Jabal Yibir, rises to 1,527 metres. It describes Wadi Ham as the largest and longest wadi in the country and Wadi Al Wurayah, north of Fujairah city, as a boulder-strewn wadi protected for its unusual plants and animals.
 
-<photo-set layout="full" keys="where-to-stay-uae-east-coast-7" alts="The dam and still reservoir at Wadi Wurayah surrounded by bare rocky mountains in Fujairah" caption="Wadi Wurayah, in the mountains north of Fujairah city, is a protected area set among the Hajar range."></photo-set>
+<photo-set layout="full" keys="where-to-stay-uae-east-coast-7" alts="The stone-faced dam at Wadi Wurayah with a dry, boulder-strewn bed and bare rocky mountains behind" caption="Wadi Wurayah, in the mountains north of Fujairah city, is a protected area set among the Hajar range."></photo-set>
 
 The same authority advises climbers to be well prepared, because routes in the Hajar can be treacherous. For most visitors, that means sticking to marked paths, starting early, carrying plenty of water and turning back if the weather changes. Our guide to [Fujairah's forts and wadis](/stories/fujairah-forts-and-wadis/) suggests where to start.
 

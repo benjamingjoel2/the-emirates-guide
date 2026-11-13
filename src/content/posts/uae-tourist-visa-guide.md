@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "uae-tourist-visa-guide-hero"
-heroAlt: "HEROALT"
+heroAlt: "Terminal 3 at Dubai International Airport seen from the apron, with a long row of wide-body airliners parked at its gates on a hazy morning"
 featured: false
 startHere: false
 plan: "A verified local operator can talk you through the visa route that fits your passport and itinerary, point you to the official application channels, and plan tours around your permitted stay. The visa decision itself always rests with the UAE authorities."
@@ -58,7 +58,7 @@ Families and groups often travel on more than one nationality: a parent with dua
 
 You walk off the plane, follow the signs to immigration and hand over your passport. If your nationality is on the list, that is largely it.
 
-INSETLEFT
+<photo-set layout="inset-left" keys="uae-tourist-visa-guide-1" alts="Overhead bilingual Arabic and English sign in Abu Dhabi International Airport Terminal 3 pointing towards US pre-clearance flights, a lounge and a smoking area" caption="Airport signage is in Arabic and English, so finding passport control after landing is straightforward."></photo-set>
 
 Visit Abu Dhabi publishes a list of nationalities that can get a [free-of-charge entry visa upon arrival](https://visitabudhabi.ae/en/faqs) at Abu Dhabi International Airport. It includes the United Kingdom, the United States, Australia, Canada, New Zealand and many European countries, among others. The same page notes that an eye scan will be required at the airport.
 
@@ -99,7 +99,7 @@ The same page makes a point that applies to every sponsor. Airlines, travel agen
 
 Frequent visitors may want to look at the [multiple entry five-year tourist visa](https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/tourist-visa). The government says it is available to all nationalities on self-sponsorship and allows stays of 90 days on each visit, extendable for a further 90 days. Applicants need a bank balance of 4,000 US dollars or the equivalent during the last six months, a valid health insurance policy that applies in the UAE and is valid for 180 days, and an onward or return ticket. The portal also links to a family or group version of the same long-term visa through the federal authority.
 
-WIDE
+<photo-set layout="wide" keys="uae-tourist-visa-guide-2" alts="The main hall of Terminal A at Zayed International Airport in Abu Dhabi, with white sweeping arches above seating, gardens and travellers" caption="Whichever airport you land at, the visa route is decided by your passport, so check it well before you reach the desk."></photo-set>
 
 ## Living in another Gulf country? The GCC resident eVisa
 
@@ -142,7 +142,7 @@ A tourist visa is for tourism. The Foreign Office warns that if you are [caught 
 
 Former residents need to take more care. The Foreign Office says you risk arrest if you return when your previous visa is not in order, for example if a work visa was never cancelled, or if you have outstanding debts or an unresolved legal issue. It suggests getting advice from a local lawyer before travelling if you have any doubt.
 
-FULL
+<photo-set layout="full" keys="uae-tourist-visa-guide-3" alts="Panoramic view through the curved windows of Dubai International Airport Terminal 3 towards a wide-body airliner parked at a gate and service vehicles on the apron" caption="Passengers who change planes without passing through immigration follow different passport validity rules from those who enter the country."></photo-set>
 
 ## Staying longer, and what happens if you overstay
 
@@ -185,7 +185,7 @@ A few warning signs to look out for:
 
 New to the country? Start with our [first-timer's guide to the seven emirates](/stories/uae-first-timers-guide-seven-emirates/), and browse more planning advice in [travel tips](/travel-tips/).
 
-MOSAIC
+<photo-set layout="mosaic" keys="uae-tourist-visa-guide-4,uae-tourist-visa-guide-5,uae-tourist-visa-guide-6" alts="Tall glass and steel arches above a departure gate seating area inside Dubai International Airport Terminal 3|Platform of the Dubai Metro station at the airport, with glass screen doors along the track and a few passengers waiting|A Boeing 777 airliner parked at a gate at Dubai International Airport at night with service vehicles beside it" caption="From the gate to the Metro platform, a little paperwork before you fly makes the arrival day simple."></photo-set>
 
 ## Quick answers
 

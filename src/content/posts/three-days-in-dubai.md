@@ -6,7 +6,7 @@ emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "three-days-in-dubai-hero"
-heroAlt: "The Dubai Frame seen from high above, with Old Dubai, Dubai Creek and Deira spread out behind it"
+heroAlt: "The Dubai Frame seen from high above, with Bur Dubai, Dubai Creek and Deira spread out behind it"
 featured: false
 startHere: false
 plan: "A verified local operator can adapt this itinerary to your dates, arrange guides for Old Dubai or a desert evening, and advise on booking popular sights ahead during busy periods."

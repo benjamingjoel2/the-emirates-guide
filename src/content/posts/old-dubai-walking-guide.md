@@ -74,7 +74,7 @@ Allow a morning or a late afternoon for the main loop. If you like to linger in 
 
 Early morning is the best time to arrive. The lanes are cool and shaded, the light is soft on the sand-coloured walls, and you may have whole alleys to yourself.
 
-<photo-set layout="inset-left" keys="old-dubai-walking-guide-1" alts="A narrow sand-coloured lane in Al Bastakiya with a wind tower rising above the houses" caption="Al Fahidi's narrow lanes are shaded for much of the morning, which makes them the natural place to start."></photo-set>
+<photo-set layout="inset-left" keys="old-dubai-walking-guide-1" alts="A lane in Al Bastakiya at night, with floodlit wind towers on the right and a white minaret rising behind the houses" caption="The wind towers of Al Fahidi rise above the lanes, and the quarter looks quite different after dark."></photo-set>
 
 Visit Dubai says most of the buildings here [date back to the late 19th century and now house museums, galleries and cafes](https://www.visitdubai.com/en/-/media/Files/guides/dubai-mini-guide-04-cultural-explorer.pdf). Dubai's Media Office describes the neighbourhood as showing [everyday life in Dubai from around the 1800s until the 1970s](https://www.mediaoffice.ae/en/news/2024/july/04-07/trip-adviser). Look up as you walk: the square wind towers that rise above the rooftops were the old way of catching a breeze and sending it down into the rooms below.
 

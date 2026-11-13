@@ -37,7 +37,7 @@ For a traveller, that has three practical effects:
 - **Weekday mornings are usually the calmest time** for museums, heritage sites and popular viewpoints.
 - **Anything official** (an embassy, a government office, a licensing desk) should be planned for Monday to Thursday if you can, with Friday as a backup.
 
-<photo-set layout="pair" keys="uae-weekend-and-opening-hours-1,uae-weekend-and-opening-hours-2" alts="Sunbathers and swimmers on a wide sandy public beach in Jumeirah with the sea beyond|The carved wooden entrance to the covered Gold Souk in Deira at night, with shoppers walking beneath it" caption="Beaches fill up on Saturdays and Sundays, while souks tend to be liveliest in the late afternoon and evening."></photo-set>
+<photo-set layout="pair" keys="uae-weekend-and-opening-hours-1,uae-weekend-and-opening-hours-2" alts="A wide, quiet stretch of sand at Jumeirah Public Beach in Dubai, with palms, shade canopies and the Burj Khalifa on the skyline|The carved wooden entrance to the covered Gold Souk in Deira at night, with shoppers walking beneath it" caption="A beach that is quiet on a weekday morning can be busy by Saturday, and souks are liveliest in the late afternoon and evening."></photo-set>
 
 ## How a normal week feels on the ground
 
@@ -102,7 +102,7 @@ Official attraction websites are the only reliable place for current hours, last
 
 Malls in the big cities keep long hours and are busiest in the evenings and at weekends. Traditional souks often feel liveliest in the late afternoon and evening, when the heat eases. If you want unhurried browsing, a weekday morning is often your best chance.
 
-<photo-set layout="trio" keys="uae-weekend-and-opening-hours-4,uae-weekend-and-opening-hours-5,uae-weekend-and-opening-hours-6" alts="A carved wooden museum door set in a sand-coloured wall in the Heart of Sharjah heritage area|Wind towers rising above the restored lanes of the Al Fahidi historical neighbourhood in Dubai|Shop windows full of gold jewellery along a covered lane in the Deira Gold Souk" caption="Heritage areas and museums set their own hours, while souks keep a rhythm that follows the heat of the day."></photo-set>
+<photo-set layout="trio" keys="uae-weekend-and-opening-hours-4,uae-weekend-and-opening-hours-5,uae-weekend-and-opening-hours-6" alts="A carved wooden museum door set in a sand-coloured wall in the Heart of Sharjah heritage area|Wind towers rising above the restored lanes of the Al Fahidi historical neighbourhood in Dubai|Shoppers walking beneath the timber-roofed walkway of the Deira Gold Souk in the evening" caption="Heritage areas and museums set their own hours, while souks keep a rhythm that follows the heat of the day."></photo-set>
 
 ### Government offices and dress
 

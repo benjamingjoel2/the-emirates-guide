@@ -53,7 +53,7 @@ If you are not driving, check how close the hotel is to public transport and how
 
 In the cities, the Foreign Office advises using [only licensed taxis or other recognised public transport](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), including ride-hailing apps, and notes that Dubai's authorised taxis are cream with coloured roofs while Abu Dhabi's are silver. A hotel with a taxi rank outside, or a short walk to a metro station in Dubai, makes daily life much easier, especially late in the evening.
 
-<photo-set layout="pair" keys="choosing-a-hotel-in-the-uae-1,choosing-a-hotel-in-the-uae-2" alts="A Dubai Metro train standing at the platform of Oud Metha station on the Green Line|A cream Dubai taxi with a coloured roof driving on a city street" caption="Being close to a metro station or a taxi rank can matter more than any hotel facility."></photo-set>
+<photo-set layout="pair" keys="choosing-a-hotel-in-the-uae-1,choosing-a-hotel-in-the-uae-2" alts="A Dubai Metro train behind the glass platform doors at Oud Metha station, with in and out markings on the floor|A Dubai taxi on a street in Bur Dubai" caption="Being close to a metro station or a taxi rank can matter more than any hotel facility."></photo-set>
 
 ## Choose the right kind of stay
 
@@ -66,7 +66,7 @@ The UAE government portal notes that options run [from modest accommodation to o
 
 Many visitors combine two: a city hotel for the busy part of the trip and a resort for the end, when they want to slow down.
 
-<photo-set layout="wide" keys="choosing-a-hotel-in-the-uae-3" alts="The skyline of Downtown Dubai with the Burj Khalifa rising above surrounding towers" caption="City hotels put you close to the sights; resorts and hotel apartments trade that for space and calm."></photo-set>
+<photo-set layout="wide" keys="choosing-a-hotel-in-the-uae-3" alts="The towers of Downtown Dubai and the Burj Khalifa lit up at night and reflected in still water" caption="City hotels put you close to the sights; resorts and hotel apartments trade that for space and calm."></photo-set>
 
 ## Understand what the rate includes
 
@@ -98,7 +98,7 @@ The UAE has seven emirates, and some rules differ between them. The most importa
 
 The UK Foreign Office says [drinking or possessing alcohol is illegal in the Emirate of Sharjah](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), and that elsewhere in the UAE, non-residents can drink in licensed venues such as hotels, restaurants and clubs. It also notes it is illegal to drink, or be under the influence of alcohol, in a public place anywhere in the country.
 
-<photo-set layout="full" keys="choosing-a-hotel-in-the-uae-4" alts="The Abu Dhabi skyline seen across the water from the Corniche" caption="Abu Dhabi, Dubai and Sharjah sit close together, but some rules that affect your hotel stay differ between them."></photo-set>
+<photo-set layout="full" keys="choosing-a-hotel-in-the-uae-4" alts="Lit towers of Abu Dhabi at night above the landscaped gardens and cycle path of the Corniche" caption="Abu Dhabi, Dubai and Sharjah sit close together, but some rules that affect your hotel stay differ between them."></photo-set>
 
 This matters because some areas that feel like one place on the map are split between emirates. Sharjah's east coast towns, for example, follow Sharjah's rules. If a drink with dinner is important to you, check the hotel's emirate first. Our guide to [alcohol rules in the UAE](/stories/alcohol-rules-in-the-uae/) has the full picture.
 
@@ -144,7 +144,7 @@ Inside resorts, the atmosphere can feel relaxed, but the Foreign Office reminds 
 
 If you are booking a beach hotel, ask about swimming conditions as well as sunloungers. The Foreign Office warns that [rip currents can occur at any beach](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), and advises swimming only from approved beaches with lifeguards and flags showing it is safe. Ask the hotel whether its beach has lifeguards, and at what times. For families with young children, a hotel with a shaded, shallow pool may be more relaxing than one with the beach alone.
 
-<photo-set layout="mosaic" keys="choosing-a-hotel-in-the-uae-5,choosing-a-hotel-in-the-uae-6,choosing-a-hotel-in-the-uae-7" alts="The beach in front of the towers of Jumeirah Beach Residence in Dubai|People on Saadiyat public beach in Abu Dhabi in the evening|The sun setting over the sea at Saadiyat Beach in Abu Dhabi" caption="Beach hotels in Dubai and Abu Dhabi put the sand on your doorstep, but it is still worth asking about lifeguards and flags."></photo-set>
+<photo-set layout="mosaic" keys="choosing-a-hotel-in-the-uae-5,choosing-a-hotel-in-the-uae-6,choosing-a-hotel-in-the-uae-7" alts="A busy beach and turquoise sea in front of the towers of Dubai Marina and Jumeirah Beach Residence|Rows of parasols along Saadiyat public beach in Abu Dhabi, seen across grassy dunes in evening light|The sun setting over the sea at Saadiyat Beach in Abu Dhabi" caption="Beach hotels in Dubai and Abu Dhabi put the sand on your doorstep, but it is still worth asking about lifeguards and flags."></photo-set>
 
 ## What to do if something goes wrong
 

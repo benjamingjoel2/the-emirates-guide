@@ -6,7 +6,7 @@ emirates: ["sharjah"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "where-to-stay-in-sharjah-hero"
-heroAlt: "Al Noor Island and the towers of Al Majaz reflected in the water of Khalid Lagoon in Sharjah"
+heroAlt: "Sharjah's towers reflected in the calm water of Khalid Lagoon under a clear blue sky"
 featured: false
 startHere: false
 plan: "A verified local operator can suggest which part of Sharjah suits your plans, arrange transfers to Dubai or the east coast, and set up guided visits to the museums, mosques and desert sites nearby."
@@ -61,7 +61,7 @@ What you gain is a city that rewards slow travel. Mornings can go on museums and
 
 This is the area to choose if museums and old streets are why you came. The Heart of Sharjah heritage district holds the [Sharjah Heritage Museum](https://www.visitsharjah.com/en/activities/heritage/sharjah-heritage-museum/), set in a restored 18th-century pearl merchant's house opposite Souk Al Arsa. The Sharjah Museum of Islamic Civilization sits [on the Corniche, just north of the Heart of Sharjah district](https://www.visitsharjah.com/en/activities/culture/sharjah-museum-of-islamic-civilization/).
 
-<photo-set layout="full" keys="where-to-stay-in-sharjah-2" alts="Low restored heritage buildings with sand-coloured walls and wooden details along a lane in the Heart of Sharjah" caption="The Heart of Sharjah is the city's old merchant quarter, restored as a heritage and arts district."></photo-set>
+<photo-set layout="full" keys="where-to-stay-in-sharjah-2" alts="A restored coral-stone building beside a paved square with palm trees and lamps in the Heart of Sharjah" caption="The Heart of Sharjah is the city's old merchant quarter, restored as a heritage and arts district."></photo-set>
 
 Visit Sharjah describes the district as the city's original merchant centre, [reborn as a heritage and arts district](https://www.visitsharjah.com/en/regions/sharjah-city/heart-of-sharjah/), with coral-walled houses such as Bait Al Naboodah, the Sharjah Calligraphy Museum, and art spaces and museums set in traditional wind tower buildings. It suggests looking out for Al Hisn Fort and the only round wind tower in the UAE, and notes that the area has been listed as a potential UNESCO World Heritage Site. The same page says the district is just off the Corniche and about 20 minutes from Sharjah International Airport, which makes it practical for short stays too.
 
@@ -78,6 +78,8 @@ A little inland from the old quarter, the lagoon is where Sharjah comes out to p
 
 The mosque is open to non-Muslims for guided tours, and Visit Sharjah says traditional Emirati dress is offered to visitors at the entrance and that photography is allowed. Guides cover Islamic culture, Emirati heritage and the building itself, and there is time for questions at the end, so it works well with children.
 
+If you are staying nearby, it is worth knowing what else is close. Visit Sharjah's city guide describes the [Al Noor Island Butterfly House](https://www.visitsharjah.com/en/regions/sharjah-city/) as home to more than 20 butterfly species, and lists the Islamic Botanical Garden, which displays plants mentioned in the Holy Qur'an, among the city's nature stops. The tourism board's mosque page also points to Sharjah Mosque, the largest in the emirate, which it says opened in 2019.
+
 **Best for:** couples, families who like an evening walk, anyone who wants water views without being on the beach.
 **Think about:** check how far your hotel is from the souks and museums if you plan to walk.
 
@@ -87,7 +89,7 @@ If you want a little more going on after dark, look at hotels near Al Qasba or t
 
 Close by, the [Al Majaz Waterfront](https://www.visitsharjah.com/en/regions/sharjah-city/al-majaz-waterfront/) is a lakeside area with the Sharjah Musical Fountain, mini-golf and the Maraya Art Park, which the tourism board suggests for evening strolls and family picnics.
 
-<photo-set layout="mosaic" keys="where-to-stay-in-sharjah-3,where-to-stay-in-sharjah-4,where-to-stay-in-sharjah-5" alts="Al Noor Mosque with its white domes and minarets seen across the water from Al Noor Island|Water spouts rising from the lagoon at the Al Majaz Waterfront with city towers behind|The canal at Al Qasba lined with buildings and walkways in Sharjah" caption="Al Noor Mosque, the Al Majaz Waterfront and the Al Qasba canal sit close together around Khalid Lagoon."></photo-set>
+<photo-set layout="mosaic" keys="where-to-stay-in-sharjah-3,where-to-stay-in-sharjah-4,where-to-stay-in-sharjah-5" alts="The white domes and minarets of Al Noor Mosque among city towers, seen across the water of Khalid Lagoon|Illuminated water jets of a fountain glowing gold at night at the Al Majaz Waterfront|A large Ferris wheel lit up at night at Al Qasba, with light trails from passing traffic" caption="Al Noor Mosque, the Al Majaz Waterfront and the Al Qasba canal sit close together around Khalid Lagoon."></photo-set>
 
 **Best for:** families with children, anyone who likes to eat out and walk in the evenings.
 **Think about:** these areas can be busy on weekends and holidays, so ask for a room away from the main walkways if you sleep lightly.
@@ -113,6 +115,10 @@ Many visitors look at Sharjah because it is next door to Dubai. It can work, esp
 
 A useful rule of thumb: if Sharjah's museums, souks and waterfronts are the main reason for your trip and Dubai is the side visit, stay in Sharjah. If it is the other way round, stay in Dubai and come to Sharjah for a long day, ideally ending with an evening at the lagoon.
 
+## Getting around from your hotel
+
+Sharjah is a city to explore in short hops. Within the heritage area and along the corniche, walking works well in the cooler months and in the evenings. For anything further, such as the beaches, Al Qasba or the airport, taxis are the simplest option, and the Foreign Office advises using only licensed taxis or recognised ride-hailing apps. Visit Sharjah also notes that Al Qasba is easy to reach from the Sharjah bus station. If you plan day trips to the east coast or Mleiha, a hire car or a booked transfer saves a lot of time.
+
 ## How two days from a Sharjah base might look
 
 This is one way to use a central base; adjust it to your interests and the season.
@@ -127,7 +133,7 @@ This is one way to use a central base; adjust it to your interests and the seaso
 
 Sharjah is not only a city. The emirate also has a coastline on the Gulf of Oman, with seaside towns at [Khorfakkan and Kalba](https://www.visitsharjah.com/en/regions/east-coast/), where Visit Sharjah highlights scuba diving, kayaking, snorkelling, boat trips to spot dolphins and the mangroves of Kalba. A night or two here, with mountains behind and the sea in front, is a very different experience from the city. See our guide to the [Khorfakkan](/stories/khorfakkan-guide/) area for more.
 
-<photo-set layout="wide" keys="where-to-stay-in-sharjah-6" alts="Rugged brown mountains rising behind the town and coast of Khorfakkan on Sharjah's east coast" caption="Khorfakkan, on Sharjah's Gulf of Oman coast, pairs mountains with the sea for a change of scene from the city."></photo-set>
+<photo-set layout="wide" keys="where-to-stay-in-sharjah-6" alts="The wide sandy beach at Khorfakkan at dusk, with palm trees and hazy mountains rising behind" caption="Khorfakkan, on Sharjah's Gulf of Oman coast, pairs mountains with the sea for a change of scene from the city."></photo-set>
 
 Inland, Mleiha is home to an archaeological centre and dunes, and Visit Sharjah says visitors love to [spend a night under the stars](https://www.visitsharjah.com/en/activities/adventure/mleiha-national-park/) there, with the centre able to advise on camping and glamping. Our [Mleiha desert guide](/stories/mleiha-sharjah-desert-guide/) has more on the area.
 

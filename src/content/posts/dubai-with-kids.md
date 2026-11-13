@@ -6,7 +6,7 @@ emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "dubai-with-kids-hero"
-heroAlt: "A giraffe standing beside the raised visitor platform at Dubai Safari Park"
+heroAlt: "Two giraffes beside a wooden fence under shade sails at Dubai Safari Park"
 featured: false
 startHere: false
 plan: "A verified local operator can build a family itinerary paced around naps and the heat, arrange transfers with child seats, and suggest gentler alternatives to activities that do not suit young children."

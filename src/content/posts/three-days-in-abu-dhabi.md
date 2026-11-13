@@ -6,7 +6,7 @@ emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "three-days-in-abu-dhabi-hero"
-heroAlt: "The palm-lined approach to the white domes and minarets of the Sheikh Zayed Grand Mosque"
+heroAlt: "The angled stone panels of the Wahat Al Karama memorial framing the white domes of the Sheikh Zayed Grand Mosque in soft evening light"
 featured: false
 startHere: false
 plan: "A verified local operator can adjust this plan to your dates, book the mosque and museum visits around Fridays and Mondays, and arrange drivers or guides so the long distances between sights feel easy."

@@ -41,7 +41,7 @@ The paddle dips, the kayak slides forward, and the noise of the coast road simpl
 
 That is Kalba at its best. This small town on Sharjah's east coast sits beside what Visit Sharjah calls [the oldest mangrove forest in the UAE](https://www.visitsharjah.com/en/activities/nature-and-wildlife/khor-kalba-mangrove-centre/), and the Kalba mangroves are the main reason to make the long drive across the mountains. If you want quiet water, birdlife and a slower slice of the country, it repays the effort. If you want a beach resort buzz, look elsewhere.
 
-<photo-set layout="trio" keys="kalba-mangroves-guide-1,kalba-mangroves-guide-2,kalba-mangroves-guide-3" alts="A wide tidal creek edged by mangrove trees at Khor Kalba|Grey mangrove branches and leaves above the water in the Khor Kalba Conservation Reserve|A small hermit crab sheltering in a mud creeper shell on the mangrove mud at Khor Kalba" caption="Creeks, trees and the small creatures of the mud are what a morning in the Kalba mangroves is all about."></photo-set>
+<photo-set layout="trio" keys="kalba-mangroves-guide-1,kalba-mangroves-guide-2,kalba-mangroves-guide-3" alts="A tidal creek at Khor Kalba with mangrove trees and their upright breathing roots on the mud bank|Grey mangrove branches and leaves above the water in the Khor Kalba Conservation Reserve|A small hermit crab sheltering in a mud creeper shell on the mangrove mud at Khor Kalba" caption="Creeks, trees and the small creatures of the mud are what a morning in the Kalba mangroves is all about."></photo-set>
 
 ## Where Kalba is, and why it feels far away
 

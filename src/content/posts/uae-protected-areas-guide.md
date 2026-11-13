@@ -65,7 +65,7 @@ Each emirate manages its own reserves, under federal and local laws. Dubai Munic
 
 The other thing to grasp is scale versus access. The Environment Agency Abu Dhabi says its Sheikh Zayed Protected Areas Network has [19 protected areas, four of them open to the public](https://www.ead.gov.ae/en/Experience-Green-Abu-Dhabi). The rest are closed because of their fragility and are open only to researchers with permits. Nationally, the UAE government portal says the country has [ten Ramsar sites](https://u.ae/en/information-and-services/environment-and-energy/Nature-and-wildlife/topography-and-ecosystems), wetlands designated as being of international importance.
 
-<photo-set layout="trio" keys="uae-protected-areas-guide-1,uae-protected-areas-guide-2,uae-protected-areas-guide-3" alts="Shallow water and green vegetation at Ras Al Khor Wildlife Sanctuary in Dubai|Layered rock formations on the slopes of Jebel Hafit near Al Ain|Dense green mangroves along a tidal channel at Khor Kalba" caption="Wetlands, mountains and mangroves are all represented in the UAE's protected areas."></photo-set>
+<photo-set layout="trio" keys="uae-protected-areas-guide-1,uae-protected-areas-guide-2,uae-protected-areas-guide-3" alts="A flock of greater flamingos feeding in shallow water in front of mangroves at Ras Al Khor Wildlife Sanctuary|A road winding up the bare rocky slopes of Jebel Hafit near Al Ain|Mangrove trees growing in shallow water in Sharjah" caption="Wetlands, mountains and mangroves are all represented in the UAE's protected areas."></photo-set>
 
 ### Why the rules are stricter than they look
 
@@ -100,7 +100,7 @@ The DDCR divides its land into [four zones](https://www.ddcr.org/about/), from a
 
 In the Hajar Mountains, the municipality describes the Hatta Mountain Reserve as a [Ramsar wetland since 2019](https://www.dm.gov.ae/dubai-protected-areas/wildlife/), with the Arabian tahr as its flagship species and some of the best hiking routes in the UAE. Visit Dubai lists [hiking, kayaking, mountain biking and camping](https://www.visitdubai.com/en/beyond-dubai/nature-adventures-in-hatta) in Hatta.
 
-<photo-set layout="inset-right" keys="uae-protected-areas-guide-4" alts="A blue reservoir in the Hatta Mountain Reserve surrounded by steep brown mountains" caption="Hatta's reservoir sits inside a mountain reserve that is also a Ramsar wetland."></photo-set>
+<photo-set layout="inset-right" keys="uae-protected-areas-guide-4" alts="The green water of the Hatta reservoir below steep dark mountains, with small kayaks near the far shore" caption="Hatta's reservoir sits inside a mountain reserve that is also a Ramsar wetland."></photo-set>
 
 Hatta works well as an introduction to the mountain side of the protected network because it combines managed activities with open landscape. Walk early, carry more water than you think you need, and keep to marked routes, since the slopes are loose and the reserve is home to animals that avoid people. See our [Hatta guide](/stories/hatta-guide/) to plan a day there.
 
@@ -120,7 +120,7 @@ The agency's visitor page gives more reason to linger. It describes Jabal Hafit 
 
 The agency says Al Wathba Wetland Reserve, famous for its flamingos, is [temporarily closed for development until further notice](https://www.ead.gov.ae/en/Experience-Green-Abu-Dhabi/Places-To-Go/Al-Wathba-Wetland-Reserve). Close by, Visit Abu Dhabi says the [Al Wathba Fossil Dunes opened as a free attraction in 2022](https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/natural-wonders/al-wathba-fossil-dunes), with lit walking trails among wind-sculpted dunes. The same page says the protected area holds more than 1,700 fossil dunes over 7 square kilometres, formed by wind and sediment roughly 120,000 to 150,000 years ago, with trails that extend to 3 kilometres. It is one of the few protected sites in the emirate where you can simply turn up and walk, and late afternoon light shows the layered sand at its best.
 
-<photo-set layout="full" keys="uae-protected-areas-guide-5" alts="Rippled and layered fossil dune formations at Al Wathba glowing orange at sunset" caption="The Al Wathba Fossil Dunes are one of the protected sites near Abu Dhabi that visitors can walk freely."></photo-set>
+<photo-set layout="full" keys="uae-protected-areas-guide-5" alts="Wind-carved pale fossil dune formations at Al Wathba silhouetted against the setting sun" caption="The Al Wathba Fossil Dunes are one of the protected sites near Abu Dhabi that visitors can walk freely."></photo-set>
 
 ### Resort-only reserves
 
@@ -140,7 +140,7 @@ Inland, the [Mleiha Archaeological Centre](https://www.visitsharjah.com/en/activ
 
 In Fujairah, the local tourism authority describes Wadi Wurayah as a boulder-strewn wadi [protected because of its unique flora and fauna](https://www.fujairahtourism.ae/index_action-NaturalSites.html). The authority places it 42km north of Fujairah and gives its area as 192 square kilometres.
 
-<photo-set layout="pair" keys="uae-protected-areas-guide-6,uae-protected-areas-guide-7" alts="The pale limestone mass of Fossil Rock rising above orange sand dunes in Sharjah|The reservoir behind the dam in Wadi Wurayah with rocky mountain slopes around it" caption="Fossil Rock near Mleiha and Wadi Wurayah in Fujairah show how varied the protected landscapes are away from the coast."></photo-set> The national Ramsar list also includes Al Zorah in Ajman.
+<photo-set layout="pair" keys="uae-protected-areas-guide-6,uae-protected-areas-guide-7" alts="The rocky mass of Fossil Rock rising above red sand and scrub in Sharjah|The dry stony bed behind the dam in Wadi Wurayah, ringed by bare rocky mountains" caption="Fossil Rock near Mleiha and Wadi Wurayah in Fujairah show how varied the protected landscapes are away from the coast."></photo-set> The national Ramsar list also includes Al Zorah in Ajman.
 
 ## Planning a protected area day
 

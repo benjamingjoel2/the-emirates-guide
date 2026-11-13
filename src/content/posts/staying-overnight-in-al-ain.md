@@ -41,7 +41,7 @@ Its own Al Ain itinerary is clear on the trade-off. A day is possible if you are
 
 There is also a sense of place you only get by staying. Visit Abu Dhabi describes Al Ain as sitting on the Omani border, [cooler than the coast and green enough that locals call it the Garden City](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage), and notes that it is where Sheikh Zayed, the UAE's founding father, was born and raised. Tree-lined streets, palm groves and a slower pace are easier to appreciate on an evening walk than through a car window on the way home.
 
-<photo-set layout="full" keys="staying-overnight-in-al-ain-1" alts="Tall date palms shading a path beside a falaj water channel in Al Ain Oasis" caption="Al Ain Oasis, part of the city's UNESCO World Heritage Site, is at its quietest early in the morning."></photo-set>
+<photo-set layout="full" keys="staying-overnight-in-al-ain-1" alts="Tall date palms and young plants on green ground in Al Ain Oasis, with low irrigation channels behind" caption="Al Ain Oasis, part of the city's UNESCO World Heritage Site, is at its quietest early in the morning."></photo-set>
 
 If you only have one day, our [Al Ain day trip](/stories/al-ain-day-trip/) guide shows how to fit in the essentials.
 
@@ -66,7 +66,7 @@ At the mountain's base, Green Mubazzarah has [natural hot springs, grass and pic
 
 The same itinerary says a paved road winds [about 20 minutes to the summit](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage), and that on a clear winter day you can see deep into Oman. Go up a little before sunset to find a place to stop, and take a layer: it can feel noticeably cooler at the top than in town.
 
-<photo-set layout="pair" keys="staying-overnight-in-al-ain-2,staying-overnight-in-al-ain-3" alts="The city of Al Ain spread across the plain below, seen from high on Jebel Hafit|Weathered layered rock formations on the slopes of Jebel Hafit" caption="From the road up Jebel Hafit you look down over Al Ain, and the rock itself is worth a closer look on the way."></photo-set>
+<photo-set layout="pair" keys="staying-overnight-in-al-ain-2,staying-overnight-in-al-ain-3" alts="The city of Al Ain spread across the plain below, seen from a roadside wall high on Jebel Hafit|Weathered rock pinnacles on the slopes of Jebel Hafit under a blue sky, with Al Ain in the distance" caption="From the road up Jebel Hafit you look down over Al Ain, and the rock itself is worth a closer look on the way."></photo-set>
 
 Our [Jebel Hafit guide](/stories/jebel-hafit-guide/) covers the mountain in more detail.
 
@@ -86,13 +86,13 @@ Next, walk into Al Ain Oasis, part of the city's UNESCO World Heritage Site. Vis
 
 Then move on to Al Ain's mudbrick heritage. Al Jahili Fort was [built in the 1890s](https://www.visitabudhabi.ae/en/things-to-do/culture/heritage/al-jahili-fort) and is one of the largest forts in the UAE. Visit Abu Dhabi highlights its permanent exhibition of photographs by the explorer Wilfred Thesiger, and suggests pairing it with [Qasr Al Muwaiji](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage), a restored mudbrick palace whose exhibition covers the region and royal family life before oil.
 
-<photo-set layout="trio" keys="staying-overnight-in-al-ain-4,staying-overnight-in-al-ain-5,staying-overnight-in-al-ain-6" alts="Camels standing in pens at Al Ain Camel Market|Water running along a narrow falaj channel between date palms in Al Ain Oasis|The mudbrick walls and round tower of Al Jahili Fort in bright sunshine" caption="A morning in Al Ain: the camel market, the falaj in the oasis and Al Jahili Fort."></photo-set>
+<photo-set layout="trio" keys="staying-overnight-in-al-ain-4,staying-overnight-in-al-ain-5,staying-overnight-in-al-ain-6" alts="Rows of fenced pens and low buildings at Al Ain Camel Market, with camels and traders in the distance|A stone-lined falaj channel running between date palm trunks in Al Ain Oasis|The mudbrick walls and towers of Al Jahili Fort lit up at night" caption="A morning in Al Ain: the camel market, the falaj in the oasis and Al Jahili Fort."></photo-set>
 
 ### Hili and the Bronze Age
 
 If you have the afternoon before driving home, add Hili Archaeological Park. Visit Abu Dhabi describes it as [a Bronze Age settlement centred on the Grand Tomb](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage), with carved figures still visible on the stone, and says entry is free and that it is rarely busy. It is part of the Cultural Sites of Al Ain, which UNESCO inscribed in 2011 together with Hafit, Bidaa Bint Saud and the oases.
 
-<photo-set layout="wide" keys="staying-overnight-in-al-ain-7" alts="The restored circular Grand Tomb of stone blocks at Hili Archaeological Park in Al Ain" caption="The Grand Tomb at Hili Archaeological Park dates from the Bronze Age."></photo-set>
+<photo-set layout="wide" keys="staying-overnight-in-al-ain-7" alts="The circular Grand Tomb at Hili Archaeological Park, built of large stone blocks with carved figures around a small entrance" caption="The Grand Tomb at Hili Archaeological Park dates from the Bronze Age."></photo-set>
 
 For the full story of the UNESCO sites, see our guide to [Al Ain Oasis and the UNESCO sites](/stories/al-ain-oasis-unesco-sites/).
 

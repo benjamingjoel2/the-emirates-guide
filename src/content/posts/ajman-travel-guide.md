@@ -6,7 +6,7 @@ emirates: ["ajman"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "ajman-travel-guide-hero"
-heroAlt: "The sand-coloured walls and towers of Ajman Fort, home of Ajman Museum, under a clear sky"
+heroAlt: "The courtyard of Ajman Fort, now Ajman Museum, with its wind tower, round watchtower and crenellated walls"
 featured: false
 startHere: false
 plan: "A verified local operator can build an Ajman day around the museum, dhow yard and corniche, add guided kayaking at Al Zorah, or arrange a driver for the mountain enclaves of Masfout and Manama with sensible timings for the heat."
@@ -69,7 +69,7 @@ The portal also notes that the Al Nuaimi tribe, who migrated to the region aroun
 
 Begin where the emirate began. The fort's thick walls hold the heat out, and inside the courtyard the noise of the city drops away.
 
-<photo-set layout="inset-left" keys="ajman-travel-guide-1" alts="The entrance and a tower of Ajman Museum, housed in the restored Ajman Fort" caption="Ajman Museum occupies the old fort in the centre of the city."></photo-set>
+<photo-set layout="inset-left" keys="ajman-travel-guide-1" alts="A gallery in Ajman Museum with old rifles in a lit display case under a wooden-beamed ceiling" caption="Old weapons are among the displays inside Ajman's fort museum."></photo-set>
 
 According to the [government portal](https://u.ae/en/about-the-uae/the-seven-emirates/ajman), Ajman Fort dates back to the 18th century and has been restored and turned into a museum displaying archaeological finds and evidence of life through different eras. Visit Ajman adds that the fort [served as the ruler's residence until 1970](https://visit-ajman.ae/en/destinations/ajman-city/ajman-museum/) before becoming a museum a decade later.
 

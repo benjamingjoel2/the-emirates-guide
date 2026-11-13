@@ -6,7 +6,7 @@ emirates: ["sharjah"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "mleiha-sharjah-desert-guide-hero"
-heroAlt: "placeholder"
+heroAlt: "Fossil Rock and the ridge beside it rising above red sand dunes near Mleiha in the late evening light"
 featured: false
 startHere: false
 plan: "A verified local operator can arrange transfers to Mleiha, book a guided site tour or evening stargazing session, and advise on which hikes and desert activities suit your group and the season."

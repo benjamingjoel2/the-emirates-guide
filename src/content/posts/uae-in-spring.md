@@ -111,7 +111,7 @@ Visit Abu Dhabi describes spring in the capital as a busy time for [cultural eve
 
 That makes March and April a good time to combine sightseeing with a performance or an exhibition, but large conferences can also fill hotels, so check the calendar before you fix your dates.
 
-<photo-set layout="wide" keys="uae-in-spring-3" alts="ALT3" caption="CAP3"></photo-set>
+<photo-set layout="wide" keys="uae-in-spring-3" alts="Dappled sunlight falling through the latticed dome onto white gallery blocks and shallow water inside Louvre Abu Dhabi" caption="Louvre Abu Dhabi runs temporary exhibitions alongside its collection, and its shaded spaces suit the warmer days of late spring."></photo-set>
 
 ## How a spring day unfolds
 

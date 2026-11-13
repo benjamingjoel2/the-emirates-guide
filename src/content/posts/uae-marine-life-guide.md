@@ -51,7 +51,7 @@ The UAE government portal explains why the habitats matter: [seagrass beds are p
 
 In practice, the two coasts suit different trips. The Gulf side, with its calm, shallow water and long beaches, is good for kayaking, paddleboarding and gentle snorkelling, and it is where the big seagrass meadows and most of the dugongs are. The east coast suits snorkellers and divers who want rock, coral and fish in clearer water, and it is closer to the mountains if you want to combine sea and land in one trip.
 
-<photo-set layout="full" keys="uae-marine-life-guide-1" alts="Aerial view of the long pale beach and shallow turquoise water at Saadiyat Marine National Park" caption="Saadiyat Marine National Park in Abu Dhabi, where hawksbill turtles nest and only non-motorised activities are allowed."></photo-set>
+<photo-set layout="full" keys="uae-marine-life-guide-1" alts="Aerial view of turquoise water and breaking waves along the pale sand beach at Saadiyat Marine National Park, with one person walking on the shore" caption="Saadiyat Marine National Park in Abu Dhabi, where hawksbill turtles nest and only non-motorised activities are allowed."></photo-set>
 
 ## Dugongs: the sea's quietest giants
 
@@ -106,7 +106,7 @@ The same page names sites including Martini Rock, Hole in the Wall, Anemone Gard
 
 The government portal says Fujairah has [around 130 coral species recorded](https://u.ae/en/information-and-services/environment-and-energy/Nature-and-wildlife/topography-and-ecosystems), and marine protected areas along the coast of Dibba. The local tourism authority lists [snorkelling, diving and kayaking](https://www.fujairahtourism.ae/index_action-SportsAndCruises.html) among Fujairah's water sports. For spots and logistics, read our guide to [snorkelling and diving on the east coast](/stories/snorkelling-diving-uae-east-coast/).
 
-<photo-set layout="trio" keys="uae-marine-life-guide-3,uae-marine-life-guide-4,uae-marine-life-guide-5" alts="Rocky islets and reef off the shore at Khorfakkan with clear water around them|The curve of Khorfakkan beach with mountains behind the town|Snoopy Island, a rocky islet off the Fujairah coast at Al Aqah, in blue sea" caption="Khorfakkan and the Fujairah coast are the main bases for snorkelling and diving in the Gulf of Oman."></photo-set>
+<photo-set layout="trio" keys="uae-marine-life-guide-3,uae-marine-life-guide-4,uae-marine-life-guide-5" alts="Rocky islets and reef off the shore at Khorfakkan with clear water around them|The curve of Khorfakkan beach with mountains behind the town|Snoopy Island, a brown rocky islet off Al Aqah in Fujairah, with a small boat moored in calm water in front" caption="Khorfakkan and the Fujairah coast are the main bases for snorkelling and diving in the Gulf of Oman."></photo-set>
 
 ### How a snorkel trip usually unfolds
 
@@ -121,7 +121,7 @@ Not a swimmer? You still have options:
 - **Kayak the mangroves.** At Jubail Mangrove Park, Visit Abu Dhabi says you can glimpse [turtles, herons and gazelles](https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/parks/jubail-mangrove-park) from boardwalks or by kayak. See our guide to [kayaking the Abu Dhabi mangroves](/stories/abu-dhabi-mangrove-kayaking/).
 - **Visit an aquarium.** Visit Sharjah says Sharjah Aquarium has [20 tanks recreating local habitats](https://www.visitsharjah.com/en/activities/nature-and-wildlife/sharjah-aquarium/), from reefs and rock pools to mangroves, which is a good primer before you snorkel. The same page says the aquarium holds more than 150 species of fish, has an indoor walkway for close viewing, runs scheduled feeding times and talks, and that the ticket includes the maritime museum next door.
 
-<photo-set layout="wide" keys="uae-marine-life-guide-6" alts="Mangrove trees standing in calm shallow water at Jubail Mangrove Park in Abu Dhabi" caption="Mangrove channels, such as those at Jubail, shelter young fish, crabs and turtles and can be explored by kayak or boardwalk."></photo-set>
+<photo-set layout="wide" keys="uae-marine-life-guide-6" alts="A clear shallow channel winding between mangrove trees and their pencil-like roots at Jubail Mangrove Park in Abu Dhabi" caption="Mangrove channels, such as those at Jubail, shelter young fish, crabs and turtles and can be explored by kayak or boardwalk."></photo-set>
 
 ## Seasons, visibility and conditions
 

@@ -1,6 +1,6 @@
 ---
 title: "Photography and drones in the UAE: the rules"
-description: "Photography and drone rules in the UAE for visitors: photographing people, restricted sites, media permits, posting online and why recreational drones are limited."
+description: "Photography and drone rules in the UAE: photographing people, restricted sites, media permits, posting online and why recreational drones are limited."
 category: "travel-tips"
 emirates: []
 published: 2026-11-12

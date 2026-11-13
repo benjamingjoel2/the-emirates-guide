@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "ten-day-uae-itinerary-hero"
-heroAlt: "HEROALT"
+heroAlt: "The wide sandy beach at Khorfakkan on the Gulf of Oman under a clear blue sky, with a small rocky islet offshore"
 featured: false
 startHere: false
 plan: "A verified local operator can turn this outline into a route that fits your dates and pace, arrange drivers or a hire car between emirates, and advise on which days to swap around Fridays, Mondays and local rules."

@@ -6,7 +6,7 @@ emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "jebel-hafit-guide-hero"
-heroAlt: "HEROALT"
+heroAlt: "Aerial view of the long rocky ridge of Jebel Hafit rising above the suburbs of Al Ain and the red desert sand"
 featured: false
 startHere: false
 plan: "A verified local operator can arrange a driver for the Jebel Hafit mountain road, a guided walk to the tombs in the desert park, or a night at a designated campsite, and advise on the best time of day for your dates."

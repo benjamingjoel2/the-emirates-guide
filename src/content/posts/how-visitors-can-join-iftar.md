@@ -95,7 +95,7 @@ If you want to contribute, do it through the proper channels. The portal explain
 4. **A pause for prayer.** Many guests step away to pray before the main meal. Wait patiently; this is normal.
 5. **Then the feast.** Dishes vary, but Visit Ras Al Khaimah notes that thareed is [a staple during Ramadan](https://visitrasalkhaimah.com/blog/emirati-flavors-traditional-food-uae/) and that madrooba is frequently served for iftar. The government portal also mentions harees and alqurs, a sweet crumble of bread with dates and cardamom.
 
-<photo-set layout="pair" keys="how-visitors-can-join-iftar-2,how-visitors-can-join-iftar-3" alts="A plate of thareed: pieces of meat and chickpeas in a spiced sauce over thin bread, with a lime half and a green chilli|PAIR2" caption="PAIR"></photo-set>
+<photo-set layout="pair" keys="how-visitors-can-join-iftar-2,how-visitors-can-join-iftar-3" alts="A plate of thareed: pieces of meat and chickpeas in a spiced sauce over thin bread, with a lime half and a green chilli|A bowl of harees, a thick wheat and meat porridge, topped with butter and cinnamon sticks" caption="Thareed and harees, two dishes the UAE government names among common Ramadan dishes."></photo-set>
 
 Our guide to [Emirati food: what to eat and where](/stories/emirati-food-what-to-eat-where/) explains these dishes, and our guide to [dates in the UAE](/stories/uae-dates-guide/) covers the fruit that opens every iftar.
 

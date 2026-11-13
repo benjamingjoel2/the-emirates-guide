@@ -47,7 +47,7 @@ By mid-morning that scene has gone, and you are walking under a roof of date pal
 
 Yes, it works as a day trip. Visit Abu Dhabi puts Al Ain [90 minutes' drive from Abu Dhabi city](https://www.visitabudhabi.ae/en/where-to-go/regions/al-ain), and says the drives from Abu Dhabi or Dubai on the E22 or E66 take [approximately 1.5 to 2 hours](https://www.visitabudhabi.ae/en/where-to-go/regions/al-ain). The trick is to arrive early and give the day a clear order.
 
-<photo-set layout="mosaic" keys="al-ain-day-trip-1,al-ain-day-trip-2,al-ain-day-trip-3" alts="A narrow lined falaj channel running beneath date palm fronds in Al Ain Oasis|Camels feeding from a trough inside a fenced, shaded pen at the Al Ain camel market|A3" caption="The camel market, the falaj channels of the oasis and Al Jahili Fort give the day its shape."></photo-set>
+<photo-set layout="mosaic" keys="al-ain-day-trip-1,al-ain-day-trip-2,al-ain-day-trip-3" alts="A narrow lined falaj channel running beneath date palm fronds in Al Ain Oasis|Camels feeding from a trough inside a fenced, shaded pen at the Al Ain camel market|Round towers and crenellated mudbrick walls of Al Jahili Fort seen over the pointed merlons of its parapet" caption="The camel market, the falaj channels of the oasis and Al Jahili Fort give the day its shape."></photo-set>
 
 ## Why Al Ain feels like another country
 
@@ -96,7 +96,7 @@ You have two good indoor choices, and both are close to the oasis.
 - **Al Ain Museum** sits east of the oasis. Abu Dhabi Culture describes it as the UAE's [first purpose-built museum](https://abudhabiculture.ae/en/cultural-sites/museums/al-ain-museum), founded in 1969, with stories running from the Palaeolithic era to the 20th century and galleries built around archaeological remains left where they were found. At its heart is Sultan Fort, an early 20th-century building. The same page lists gallery hours as [daily 9 AM to 7 PM](https://abudhabiculture.ae/en/cultural-sites/museums/al-ain-museum), with different hours in Ramadan. Tickets are booked through the site, so check before you go.
 - **Qasr Al Muwaiji** is a restored mudbrick fort with a glass exhibition pavilion in its courtyard, telling the story of the ruling family in Al Ain. Visit Abu Dhabi says [entry is free](https://www.visitabudhabi.ae/en/things-to-do/culture/heritage/qasr-al-muwaiji), guided or multimedia tours are available, and most visitors need around an hour. It adds that the fort was the residence of Sheikh Zayed [from 1946](https://www.visitabudhabi.ae/en/things-to-do/culture/heritage/qasr-al-muwaiji), and that his son, the late President Sheikh Khalifa bin Zayed Al Nahyan, was born in its north-west tower in 1948.
 
-<photo-set layout="pair" keys="al-ain-day-trip-4,al-ain-day-trip-5" alts="The arched stone entrance of the 1970s Al Ain Museum building, with its name in English and Arabic|A5" caption="Al Ain Museum and Qasr Al Muwaiji are the two indoor choices for the early afternoon."></photo-set>
+<photo-set layout="pair" keys="al-ain-day-trip-4,al-ain-day-trip-5" alts="The arched stone entrance of the 1970s Al Ain Museum building, with its name in English and Arabic|The long crenellated wall and gate towers of Qasr Al Muwaiji reflected in a shallow pool beside the fort" caption="Al Ain Museum and Qasr Al Muwaiji are the two indoor choices for the early afternoon."></photo-set>
 
 How to choose? The museum gives you the long view, from prehistory onwards, and helps the tombs and oases make sense. Qasr Al Muwaiji is shorter and more personal, a story of one family and one building. If you are planning to see Hili or the Jebel Hafit tombs later, the museum is the better primer.
 
@@ -106,7 +106,7 @@ If you have children with you, Visit Abu Dhabi notes that Hili Archaeological Pa
 
 Save the mountain for last. Jebel Hafit rises from the desert south of the city and is, according to Visit Abu Dhabi, [Abu Dhabi's highest peak](https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/natural-wonders/jebel-hafit), at 1,249 metres. The Jebel Hafit Mountain Road to the top is described as an [11.7km fully paved, well-lit highway](https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/natural-wonders/jebel-hafit), and the Al Ain guide puts the drive to the summit at [around 20 minutes](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage).
 
-<photo-set layout="inset-right" keys="al-ain-day-trip-6" alts="A6" caption="The paved mountain road climbs Jebel Hafit above the city."></photo-set>
+<photo-set layout="inset-right" keys="al-ain-day-trip-6" alts="Bare rocky ridges of Jebel Hafit framing a view down to the spreading suburbs of Al Ain and the desert beyond" caption="From high on Jebel Hafit the view opens over Al Ain and the desert."></photo-set>
 
 Pull in at the viewpoints as the light drops. The city spreads out below, the green of the oases shows clearly against the sand, and the ridges turn rust and then grey. Visit Abu Dhabi's family itinerary notes that the road is drivable, so the whole group can take in the views [without needing to walk any of it](https://visitabudhabi.ae/en/things-to-do/itineraries/family-day-al-ain), and that sunset is generally considered the best time to go.
 

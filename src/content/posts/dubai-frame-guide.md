@@ -29,7 +29,7 @@ Look north from the bridge and you see the low roofs of the old town, the Creek 
 
 That double view is the whole idea of the Dubai Frame, a giant gold rectangle in Zabeel Park that literally frames the city. It is one of the easier Dubai attractions to plan: open every day, in a park with metro access, and short enough to fit into a half day. In brief: book ahead for weekends, go late in the afternoon if you want sunset from the top, and leave large bags behind. This Dubai Frame guide covers what you see, how the visit flows, the practical rules and how to build it into a day.
 
-<photo-set layout="wide" keys="dubai-frame-guide-1" alts="WIDE_ALT" caption="WIDE_CAP"></photo-set>
+<photo-set layout="wide" keys="dubai-frame-guide-1" alts="The Dubai Frame rising from Zabeel Park in a hazy view from above, with a flyover, the park lake and low-rise districts stretching beyond" caption="The Frame stands at the edge of Zabeel Park, between busy highways and the lower-rise older districts."></photo-set>
 
 ## What the Dubai Frame is
 
@@ -39,7 +39,7 @@ According to its official site, the Dubai Frame [measures 150 metres high and 95
 
 The point is symbolic as much as visual. The site describes the Frame as a [metaphorical bridge](https://www.dubaiframe.ae/en/about-us) between the emirate's past and its present, telling the story of Dubai from its early days to its plans for the future. It is run by Dubai Municipality, which gives it a calmer, more civic feel than some of the city's bigger attractions.
 
-<photo-set layout="full" keys="dubai-frame-guide-2" alts="FULL_ALT" caption="FULL_CAP"></photo-set>
+<photo-set layout="full" keys="dubai-frame-guide-2" alts="A lake in Zabeel Park reflecting palm trees and the towers of Sheikh Zayed Road under a golden sunset sky" caption="Zabeel Park sits right beside the towers of Sheikh Zayed Road, which is why the Frame can show old and new Dubai at once."></photo-set>
 
 It also helps to understand where it sits. The Frame rises from the edge of Zabeel Park, a large public park between the older districts to the north and the towers of Sheikh Zayed Road to the south. That position is what makes the view work: you are standing almost exactly on the line where the old city gives way to the new one.
 
@@ -145,7 +145,7 @@ Keep your camera on the view rather than on strangers. The Foreign Office warns 
 
 The Frame stands in [Zabeel Park at Gate 4](https://www.dubaiframe.ae/en/plan-your-visit), bordered by Sheikh Rashid Road, Sheikh Khalifa Bin Zayed Road and Sheikh Zayed Road. The official site says you can reach Zabeel Park through Al Jafiliya Metro Station. If you take a taxi, ask for Gate 4 specifically, since the park has several entrances.
 
-<photo-set layout="pair" keys="dubai-frame-guide-4,dubai-frame-guide-5" alts="PAIR_A|PAIR_B" caption="PAIR_CAP"></photo-set>
+<photo-set layout="pair" keys="dubai-frame-guide-4,dubai-frame-guide-5" alts="Shaded lawns in Zabeel Park with benches under trees with red and white blossom|A paved path lined with date palms in Zabeel Park, with the gold Dubai Frame rising behind the trees" caption="The walk to the Frame runs through Zabeel Park, so allow time for the paths and the shade."></photo-set>
 
 On the metro, the Roads and Transport Authority notes [lift access to all metro station levels](https://www.rta.ae/wps/portal/rta/ae/public-transport/metro) and dedicated spaces for wheelchair users on all trains. Trains also have cabins set aside for women and children and a Gold Class cabin, so read the signs on the platform before you board. Our guide to [getting around Dubai](/stories/getting-around-dubai/) covers the metro and taxis.
 

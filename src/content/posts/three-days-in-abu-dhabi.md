@@ -69,7 +69,7 @@ The pattern for each day is the same: outdoors early, indoors in the middle, out
 
 Start where Abu Dhabi started, by the sea. At Mina Zayed, Visit Abu Dhabi describes [a historic dhow harbour where wooden boats still line the water](https://visitabudhabi.ae/en/where-to-go/marinas-waterfronts/mina-zayed), and markets selling fresh seafood and dates. Come early, before the heat builds. The tourism board says the fish market is still open alongside the fruit and vegetable, plant and meat markets, and that Zayed Port Heritage Village recreates Emirati life in the 1960s.
 
-<photo-set layout="inset-left" keys="three-days-in-abu-dhabi-1" alts="Heavy carved wooden gates on display inside the museum at Qasr Al Hosn" caption="Old gates on display at Qasr Al Hosn, the fort where Abu Dhabi's story begins."></photo-set>
+<photo-set layout="inset-left" keys="three-days-in-abu-dhabi-1" alts="The low white walls and square tower of Qasr Al Hosn surrounded by gardens and the glass towers of central Abu Dhabi" caption="Qasr Al Hosn, the fort where Abu Dhabi's story begins, now ringed by towers."></photo-set>
 
 Then head to Qasr Al Hosn, which calls itself [Abu Dhabi's oldest and most significant building](https://www.qasralhosn.ae/en/plan-your-visit). Its official page lists hours of 9am to 8pm from Saturday to Thursday and 2pm to 8pm on Friday, so on a Friday swap the morning around. Admission to the House of Artisans and the grounds is complimentary, while the fort itself is ticketed. Allow a couple of hours for the fort, its galleries and the craft workshops next door, and note that the site says tickets are non-refundable.
 
@@ -85,7 +85,7 @@ At the western end, on the Corniche Breakwater, Heritage Village [recreates life
 
 ### Morning: Sheikh Zayed Grand Mosque
 
-<photo-set layout="full" keys="three-days-in-abu-dhabi-2" alts="The white domes and minarets of the Sheikh Zayed Grand Mosque in Abu Dhabi under a clear sky" caption="The Grand Mosque deserves an unhurried morning, before the marble courtyard heats up."></photo-set>
+<photo-set layout="full" keys="three-days-in-abu-dhabi-2" alts="The silhouette of the Sheikh Zayed Grand Mosque domes and minarets against an orange sunset sky, seen across water" caption="The Grand Mosque at sunset, worth seeing again from a distance at the end of day two."></photo-set>
 
 The Grand Mosque is the visit most people remember, and it rewards a little preparation. Visit Abu Dhabi says it can [house up to 55,000 worshippers and visitors](https://visitabudhabi.ae/en/where-to-go/regions/abu-dhabi-city) and welcomes people of all beliefs, and its free list notes that entry and the [cultural tours led by Emirati guides are free of charge](https://visitabudhabi.ae/en/plan-your-trip/article-hub/things-to-do-for-free-in-abu-dhabi). The mosque's official page asks visitors to [pre-book the visit and obtain an online access pass](https://www.szgmc.gov.ae/en/worshippers/en-v-visiting-hours). It lists visiting hours of 9am to 8:30pm every day except Friday, when visits run from 9am to 11:30am and again from 2:30pm to 8:30pm. Hours change during Ramadan, so check the same page if your trip falls then.
 

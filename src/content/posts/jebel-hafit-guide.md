@@ -127,7 +127,7 @@ In the south of the park, Abu Dhabi Culture describes Mezyad Fort as the largest
 
 Abu Dhabi Culture's page on the building, which it calls Mezyad Castle, gives more detail. It describes a rectangular building of [approximately 2,600 square metres](https://abudhabiculture.ae/en/cultural-sites/historic-buildings-and-cultural-landscapes/mezyad-castle), with tall cylindrical watchtowers on three corners around a courtyard planted with palms, and more than forty rooms. It was built from sarooj, a water-resistant mortar, with stone and wood. The towers and walls make a handsome stop at the end of a morning in the park, and the palm courtyard shows how even a fort here was organised around water.
 
-<photo-set layout="pair" keys="jebel-hafit-guide-6,jebel-hafit-guide-7" alts="A6|A round mud-plastered watchtower rising above the crenellated walls of Mezyad Fort" caption="Mezyad Fort guarded the approaches to Al Ain from the foot of the mountain."></photo-set>
+<photo-set layout="pair" keys="jebel-hafit-guide-6,jebel-hafit-guide-7" alts="The long walls and corner towers of Mezyad Fort on open sand below the cliffs of Jebel Hafit|A round mud-plastered watchtower rising above the crenellated walls of Mezyad Fort" caption="Mezyad Fort guarded the approaches to Al Ain from the foot of the mountain."></photo-set>
 
 ### Green Mubazzarah
 

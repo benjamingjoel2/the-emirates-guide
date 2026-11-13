@@ -61,7 +61,7 @@ The UAE government portal lists [Dubai Safari Park and Children's City](https://
 
 Its six zones run from African and Asian villages to an Arabian Desert Safari, where you can see native wildlife such as the Arabian oryx and sand gazelle. For smaller children, the Kids Farm is the highlight: the park describes it as a place where children can meet, pet and feed friendly animals. Go at opening time, before the heat builds, and save the drive-through section for when legs get tired.
 
-<photo-set layout="full" keys="dubai-with-kids-1" alts="A primate sitting on the rocks of its enclosure at Dubai Safari Park" caption="Dubai Safari Park in Al Warqa is laid out in six themed zones."></photo-set>
+<photo-set layout="full" keys="dubai-with-kids-1" alts="A gibbon swinging from a rope above the rocks of its enclosure at Dubai Safari Park" caption="Dubai Safari Park in Al Warqa is laid out in six themed zones."></photo-set>
 
 The park is big. Dubai Municipality describes it as spanning [119 hectares and home to approximately 3,000 animals](https://www.dm.gov.ae/discover-dubai/), so do not try to see everything with young children. Pick two or three zones and the farm, and use the shuttle and drive-through journeys to rest little legs.
 
@@ -75,7 +75,7 @@ Dubai Municipality describes Children's City as an educational city [devoted to 
 
 Children usually love a glass lift and a view, and the Dubai Frame delivers both. Its visitor rules are worth knowing before you go: [children under 12 must be accompanied by an adult](https://www.dubaiframe.ae/en/plan-your-visit) at all times, infants under 3 enter free, and large bags and strollers must be left at the Gate 4 counter. Food and drink are not allowed inside, toys are not allowed either, and you should not sit children on the railing. It stands in Zabeel Park, reached through Al Jafiliya Metro Station, so you can follow the visit with a run around on the grass.
 
-<photo-set layout="pair" keys="dubai-with-kids-2,dubai-with-kids-3" alts="Colourful buildings and play areas at Children's City in Dubai|The Dubai Frame standing above the trees and lawns of Zabeel Park" caption="Children's City is an indoor option for hot afternoons, and the Dubai Frame stands in Zabeel Park."></photo-set>
+<photo-set layout="pair" keys="dubai-with-kids-3,dubai-with-kids-5" alts="The Dubai Frame standing above the trees and lawns of Zabeel Park|Lawns, paths and palm trees in Zabeel Park" caption="The Dubai Frame stands in Zabeel Park, so a visit can end with a run around on the grass."></photo-set>
 
 ## Parks, flamingos and open space
 
@@ -89,7 +89,7 @@ For a quieter outing, Ras Al Khor Wildlife Sanctuary is close to the city centre
 
 This suits children who can whisper. Bring binoculars and talk through what to look for before you go in, so the visit feels like a spotting game rather than a test of patience. The municipality's motto for the site is a good one to share with children: take nothing but memories and leave nothing but footprints.
 
-<photo-set layout="mosaic" keys="dubai-with-kids-4,dubai-with-kids-5,dubai-with-kids-6" alts="Flamingos wading in shallow water at Ras Al Khor Wildlife Sanctuary|Lawns, paths and palm trees in Zabeel Park|Shady trees and open grass in Mushrif Park" caption="Flamingos at Ras Al Khor and green space in the city's public parks make easy outings."></photo-set>
+<photo-set layout="mosaic" keys="dubai-with-kids-4,dubai-with-kids-2,dubai-with-kids-6" alts="Flamingos wading in shallow water at Ras Al Khor Wildlife Sanctuary|Lawns and walkways in a Dubai public park beside the Creek|Shady trees and open grass in Mushrif Park" caption="Flamingos at Ras Al Khor and green space in the city public parks make easy outings."></photo-set>
 
 ## Beach days with little ones
 

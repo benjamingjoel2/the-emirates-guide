@@ -102,7 +102,7 @@ Official attraction websites are the only reliable place for current hours, last
 
 Malls in the big cities keep long hours and are busiest in the evenings and at weekends. Traditional souks often feel liveliest in the late afternoon and evening, when the heat eases. If you want unhurried browsing, a weekday morning is often your best chance.
 
-<photo-set layout="trio" keys="uae-weekend-and-opening-hours-4,uae-weekend-and-opening-hours-5,uae-weekend-and-opening-hours-6" alts="The sand-coloured walls and corner tower of Al Fahidi Fort in old Dubai|A traditional wooden abra boat displayed on sand in the walled courtyard of Al Fahidi Fort|Shoppers walking beneath the timber-roofed walkway of the Deira Gold Souk in the evening" caption="Heritage sites and museums set their own hours, while souks keep a rhythm that follows the heat of the day."></photo-set>
+<photo-set layout="trio" keys="uae-weekend-and-opening-hours-4,uae-weekend-and-opening-hours-5,uae-weekend-and-opening-hours-6" alts="The round watchtower and sand-coloured walls of Al Fahidi Fort in old Dubai, with a mosque minaret behind|A traditional wooden abra boat displayed on sand in the walled courtyard of Al Fahidi Fort|Shoppers walking beneath the timber-roofed walkway of the Deira Gold Souk in the evening" caption="Heritage sites and museums set their own hours, while souks keep a rhythm that follows the heat of the day."></photo-set>
 
 ### Government offices and dress
 

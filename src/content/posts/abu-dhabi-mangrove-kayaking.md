@@ -41,7 +41,7 @@ Then a heron lifts off from a branch a few metres ahead, unhurried, and lands ag
 
 It is one of the gentlest outdoor trips in the UAE, and one of the best for beginners. You do not need experience, only a guide or a calm day, the right tide and a plan for the sun. Here is where to go, how a paddle actually unfolds, and how to make it go smoothly.
 
-<photo-set layout="wide" keys="abu-dhabi-mangrove-kayaking-1" alts="A1" caption="Kayaks wait at the water's edge in the Eastern Mangroves."></photo-set>
+<photo-set layout="wide" keys="abu-dhabi-mangrove-kayaking-1" alts="A row of colourful sit-on-top kayaks drawn up on a muddy shore at the Eastern Mangroves, with calm water beyond" caption="Kayaks wait at the water's edge in the Eastern Mangroves."></photo-set>
 
 ## Why paddle the mangroves at all?
 

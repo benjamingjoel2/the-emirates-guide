@@ -81,7 +81,7 @@ Its big advantage is history on the doorstep. The abandoned pearling village of 
 
 **Suits:** travellers who want a resort but also some culture, and anyone driving up from Dubai who wants a shorter journey.
 
-<photo-set layout="mosaic" keys="where-to-stay-in-ras-al-khaimah-2,where-to-stay-in-ras-al-khaimah-3,where-to-stay-in-ras-al-khaimah-4" alts="Small desert shrubs growing on red sand in Ras Al Khaimah|Low red dunes with scattered desert plants inland in Ras Al Khaimah|Rippled sand dunes in the Ras Al Khaimah desert under a clear sky" caption="The red-sand desert inland is the setting for the emirate's desert camps."></photo-set>
+<photo-set layout="mosaic" keys="where-to-stay-in-ras-al-khaimah-2,where-to-stay-in-ras-al-khaimah-3,where-to-stay-in-ras-al-khaimah-4" alts="Small desert shrubs growing on red sand in Ras Al Khaimah|Low red dunes with scattered desert plants inland in Ras Al Khaimah|A lone desert tree on orange sand dunes in Ras Al Khaimah, with hazy mountains on the horizon" caption="The red-sand desert inland is the setting for the emirate's desert camps."></photo-set>
 
 ## Staying in town
 

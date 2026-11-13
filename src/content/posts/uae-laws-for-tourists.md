@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "uae-laws-for-tourists-hero"
-heroAlt: "HEROALT"
+heroAlt: "The arched Tolerance Bridge over the Dubai Water Canal in Business Bay, silhouetted against a pink and purple sunset sky"
 featured: false
 startHere: false
 plan: "A verified local operator can brief your group on local customs before tours, advise on dress and photography at each stop, and help you plan an itinerary that keeps everyone comfortable and on the right side of the rules."
@@ -41,7 +41,7 @@ It helps to understand where the rules come from. The Foreign Office describes t
 
 Most of what follows flows from that idea of respect in shared, public spaces. Behaviour that stays private and considerate is rarely an issue. Behaviour that is public, loud, or aimed at someone else is where problems start.
 
-<photo-set layout="pair" keys="uae-laws-for-tourists-1,uae-laws-for-tourists-2" alts="ALT1|Wooden dhows moored and loading cargo beside the balustraded promenade of the Sharjah Corniche, with city towers behind" caption="Corniches and waterfronts are shared public spaces, where the rules on dress and behaviour matter most."></photo-set>
+<photo-set layout="pair" keys="uae-laws-for-tourists-1,uae-laws-for-tourists-2" alts="High-rise towers along the Abu Dhabi waterfront seen across calm blue water on a clear day|Wooden dhows moored and loading cargo beside the balustraded promenade of the Sharjah Corniche, with city towers behind" caption="Corniches and waterfronts are shared public spaces, where the rules on dress and behaviour matter most."></photo-set>
 
 ## Drugs: the rule with no wiggle room
 

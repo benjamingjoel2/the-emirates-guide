@@ -69,7 +69,7 @@ We do not cover Bidaa Bint Saud, the fourth component, in detail here; this guid
 
 The water that feeds the oasis comes from wells and from the falaj system, which Abu Dhabi Culture describes as [a complex network of underground and surface channels](https://abudhabiculture.ae/en/cultural-sites/historic-buildings-and-cultural-landscapes/al-ain-oases) bringing water from the mountains to the farms. Two main channels serve the oasis, Al Aini and Al Dawoodi, each watering a different part, and both start some distance to the south-east, towards the Hajar Mountains. Visit Abu Dhabi adds that the falaj carries the water [by gravity alone, no pumps](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage), and has run in the same form for thousands of years.
 
-<photo-set layout="inset-left" keys="al-ain-oasis-unesco-sites-1" alts="A1" caption="Palms, fruit trees and water channels share the ground in Al Ain Oasis."></photo-set>
+<photo-set layout="inset-left" keys="al-ain-oasis-unesco-sites-1" alts="A narrow concrete falaj channel running between tall date palms on a grassy plot in Al Ain Oasis" caption="Palms, fruit trees and water channels share the ground in Al Ain Oasis."></photo-set>
 
 As you walk, look for the places where a channel splits, where small sluices send water into one plot and not the next. Farmers still tend more than 147,000 date palms of [more than 100 varieties](https://abudhabiculture.ae/en/cultural-sites/historic-buildings-and-cultural-landscapes/al-ain-oases), along with fruit trees such as citrus, bananas, guava and figs, and historic boundary walls still separate the plots, according to Abu Dhabi Culture.
 
@@ -108,7 +108,7 @@ Qattara Oasis is described as [rich in history](https://abudhabiculture.ae/en/cu
 
 Next to the oasis, Al Qattara Arts Centre occupies a redeveloped mud brick tower house and keeps archaeological finds on permanent display in [the Qattara Archaeological Basement](https://abudhabiculture.ae/en/cultural-sites/culture-centers/al-qattara-arts-centre). It makes a cool indoor stop between walks.
 
-<photo-set layout="trio" keys="al-ain-oasis-unesco-sites-3,al-ain-oasis-unesco-sites-4,al-ain-oasis-unesco-sites-5" alts="A3|A4|A5" caption="The smaller oases add an arts centre, archaeological finds and the fort at Al Muwaiji."></photo-set>
+<photo-set layout="trio" keys="al-ain-oasis-unesco-sites-3,al-ain-oasis-unesco-sites-4,al-ain-oasis-unesco-sites-5" alts="A3|A4|A5" caption="The smaller oases add date gardens, archaeological finds and the fort at Al Muwaiji."></photo-set>
 
 ### Al Muwaiji
 

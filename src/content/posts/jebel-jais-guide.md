@@ -63,7 +63,7 @@ The road up to the viewing deck park is, according to [Visit Ras Al Khaimah](htt
 
 You do need patience. The UK Foreign Office notes that [driving standards are not always as disciplined](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security) as in the UK and that speeding is common. On a mountain road, that means expecting fast cars behind you and cyclists on the climbs. Keep to your lane on the bends, use lower gears on the way down, and let faster traffic pass at the pull-ins. Our guide to [driving in the UAE as a visitor](/stories/driving-in-the-uae-as-a-visitor/) covers the wider rules.
 
-<photo-set layout="pair" keys="jebel-jais-guide-2,jebel-jais-guide-3" alts="The Jebel Jais road curving around a rocky mountainside with a crash barrier on the outer edge|The Jebel Jais road curving past a tall cliff of layered tan rock, with concrete barriers along the roadside" caption="The road is well built, with regular pull-ins where you can stop for the view."></photo-set>
+<photo-set layout="pair" keys="jebel-jais-guide-2,jebel-jais-guide-3" alts="The Jebel Jais road running through a narrow gorge between towering cliffs, lined with concrete barriers|The Jebel Jais road curving past a tall cliff of layered tan rock, with concrete barriers along the roadside" caption="The road is well built, with regular pull-ins where you can stop for the view."></photo-set>
 
 ## The viewing deck park
 

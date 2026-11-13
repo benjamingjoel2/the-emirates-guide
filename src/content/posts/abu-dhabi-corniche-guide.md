@@ -57,7 +57,7 @@ Arrive in the morning and the sand is still cool, lifeguards are taking up their
 
 The same page notes that showers, changing rooms and cabanas are available, sun loungers and umbrellas can be hired, and a lifeguard is on duty until sunset. It also says the beach holds Blue Flag status and faces north-west, which is why the sunsets from the sand are so good. Look out to sea and you can see Lulu Island offshore, and the tourism board notes you can rent a boat or jet ski if you want to get out on the water.
 
-<photo-set layout="wide" keys="abu-dhabi-corniche-guide-2" alts="Pale sand and shallow turquoise water at Corniche Beach in Abu Dhabi with a line of towers behind the shore" caption="Corniche Beach in the morning, when the sand is still cool and the water flat."></photo-set>
+<photo-set layout="wide" keys="abu-dhabi-corniche-guide-2" alts="Wide pale sand at Corniche Beach in Abu Dhabi with a lifeguard tower, a line of swimming buoys and calm water stretching to the Breakwater" caption="Corniche Beach in the morning, when the sand is still cool and the water flat."></photo-set>
 
 Visit Abu Dhabi's Corniche page also confirms that [entry to the public beach is free](https://visitabudhabi.ae/en/where-to-go/marinas-waterfronts/abu-dhabi-corniche), with open-access areas alongside gated family and singles sections that charge a small fee for extras such as sunbeds and lifeguards. If you want a lifeguard watching while children swim, the gated sections are worth it.
 
@@ -141,7 +141,7 @@ The Corniche is a family place, and a little awareness goes a long way.
 
 If you only have a morning or an evening, link the three main heritage stops: Qasr Al Hosn inland, Heritage Village on the Breakwater and the Founder's Memorial. Each tells part of the same story, from the fort that anchored the early town, to the crafts and pearling life of the pre-oil coast, to the man who led the country into its modern age. A taxi between them is short, and you can finish on the promenade at sunset.
 
-<photo-set layout="mosaic" keys="abu-dhabi-corniche-guide-4,abu-dhabi-corniche-guide-5,abu-dhabi-corniche-guide-6" alts="The restored round watchtower of Qasr Al Hosn against a blue sky|Low traditional buildings and a palm-frond shelter at Heritage Village in Abu Dhabi|The Constellation at the Founder's Memorial in Abu Dhabi lit up at night" caption="Qasr Al Hosn, Heritage Village and the Founder's Memorial make a natural half-day loop from the Corniche."></photo-set>
+<photo-set layout="mosaic" keys="abu-dhabi-corniche-guide-4,abu-dhabi-corniche-guide-5,abu-dhabi-corniche-guide-6" alts="The long white walls and round watchtower of Qasr Al Hosn with modern office towers behind|Low traditional buildings and a palm-frond shelter at Heritage Village in Abu Dhabi|The Constellation at the Founder's Memorial in Abu Dhabi lit up at night" caption="Qasr Al Hosn, Heritage Village and the Founder's Memorial make a natural half-day loop from the Corniche."></photo-set>
 
 ## Quick answers
 

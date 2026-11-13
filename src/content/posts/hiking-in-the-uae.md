@@ -51,7 +51,7 @@ Hiking in the UAE surprises almost everyone. Beyond the dunes, the Hajar Mountai
 
 The UAE government portal says most of the UAE's mountains belong to [the Hajar range](https://u.ae/en/information-and-services/environment-and-energy/Nature-and-wildlife/topography-and-ecosystems), spread across Fujairah, Ras Al Khaimah and Sharjah as well as the Hatta area of Dubai. It notes that the valleys are usually dry, but flourish with brooks and pools in the cooler months when it rains.
 
-<photo-set layout="inset-right" keys="hiking-in-the-uae-1" alts="A narrow path running beside a concrete water channel between farm trees in Hatta" caption="In Hatta, some walks follow the water channels that feed the mountain farms."></photo-set>
+<photo-set layout="inset-right" keys="hiking-in-the-uae-1" alts="A shaded path running beside a narrow water channel between banana plants, date palms and mud-plastered walls in Hatta" caption="In Hatta, some walks follow the water channels that feed the mountain farms."></photo-set>
 
 That gives you four main hiking regions, each with its own character: high and airy in Ras Al Khaimah, coastal and historic around Khorfakkan, green and watery in Hatta, and stark and open around Jebel Hafit near Al Ain. Fujairah adds a fifth, wilder option for experienced walkers with a guide.
 
@@ -84,7 +84,7 @@ A few extra details help with planning. Visit Sharjah puts the Al Rabi Tower at 
 
 Visit Sharjah also notes that hiking in the emirate is rarely dangerous, with information boards along most walks and help and phone signal usually close at hand. That makes Sharjah's trails a good first step before anything more remote.
 
-<photo-set layout="trio" keys="hiking-in-the-uae-2,hiking-in-the-uae-3,hiking-in-the-uae-4" alts="View from the Al Rabi trail over the town and bay of Khorfakkan with mountains around it|The round stone Al Rabi Tower on a rocky hilltop above Khorfakkan|A falaj water channel running between palm trees in Wadi Shees" caption="The Al Rabi trail and the Wadi Shees loop are two of Sharjah's best documented short hikes."></photo-set>
+<photo-set layout="trio" keys="hiking-in-the-uae-2,hiking-in-the-uae-3,hiking-in-the-uae-4" alts="The stone Al Rabi Tower on its hilltop above Khorfakkan, with a rope fence and hazy mountains behind|The rocky mass of Fossil Rock rising above the sand near Mleiha|A falaj water channel running between palm trees in Wadi Shees" caption="Al Rabi Tower, Fossil Rock and the Wadi Shees falaj are the goals of three of Sharjah's marked trails."></photo-set>
 
 ### Hatta: Dubai's mountain corner
 
@@ -96,13 +96,13 @@ At the base of Abu Dhabi's highest mountain, Visit Abu Dhabi says Jebel Hafit De
 
 Visit Abu Dhabi says the park stretches along nine kilometres at the base of the mountain, that the area was recognised by UNESCO in 2011 as part of the Al Ain World Heritage Site, and that camping is allowed with your own equipment. The walks here are as much about history as views: the beehive shaped tombs on the lower slopes are around 5,000 years old, and some have been restored to show how they were built.
 
-<photo-set layout="pair" keys="hiking-in-the-uae-5,hiking-in-the-uae-6" alts="A collapsed stone beehive tomb on the rocky lower slopes of Jebel Hafit|A restored round stone beehive tomb at Jebel Hafit with the mountain behind" caption="Ancient beehive tombs line the lower slopes of Jebel Hafit, some unrestored and some rebuilt."></photo-set>
+<photo-set layout="pair" keys="hiking-in-the-uae-5,hiking-in-the-uae-6" alts="The tumbled limestone blocks of an unrestored beehive tomb at Jebel Hafit, with stony desert behind|A restored domed stone beehive tomb with a low doorway at Jebel Hafit, with the mountain slope behind" caption="Ancient beehive tombs line the lower slopes of Jebel Hafit, some unrestored and some rebuilt."></photo-set>
 
 ### Fujairah: wadis and wild climbs
 
 Fujairah's tourism authority describes [Wadi Ham as the largest and longest wadi in the UAE](https://www.fujairahtourism.ae/index_action-NaturalSites.html), dry for most of the year but transformed into a rushing stream after rain. It also warns that [climbs in the Hajar Mountains can be treacherous](https://www.fujairahtourism.ae/index_action-SportsAndCruises.html) and that climbers should be well prepared. Off the marked trails, this is guide territory.
 
-<photo-set layout="wide" keys="hiking-in-the-uae-7" alts="The wide stony bed of Wadi Ham running between rocky Hajar mountain slopes" caption="Wadi Ham is dry for most of the year, but like every wadi it can flood quickly after rain."></photo-set>
+<photo-set layout="wide" keys="hiking-in-the-uae-7" alts="A stony track along the bed of Wadi Shawka in Ras Al Khaimah, between rocky Hajar mountain slopes" caption="Wadi beds like this one in Ras Al Khaimah are dry most of the year, but can carry fast water after rain."></photo-set>
 
 ## How a hiking day usually unfolds
 

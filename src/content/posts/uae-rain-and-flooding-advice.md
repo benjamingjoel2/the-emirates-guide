@@ -159,7 +159,7 @@ Puddles that linger can also attract mosquitoes. The UAE government's emergencie
 
 If a storm disrupts your plans, start with the company you booked with. The Foreign Office says that for refunds or changes, you should [contact your travel provider](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security) first, and that insurers usually require you to do this before making a claim. Keep receipts for any extra costs, such as a night's hotel or a replacement transfer, and note any official weather warnings that applied.
 
-<photo-set layout="pair" keys="uae-rain-and-flooding-advice-6,uae-rain-and-flooding-advice-7" alts="ALT6|ALT7" caption="CAP6"></photo-set>
+<photo-set layout="pair" keys="uae-rain-and-flooding-advice-6,uae-rain-and-flooding-advice-7" alts="Flood water covering a residential road in Dubai under grey skies after heavy thunderstorms, with a roundabout sign standing in the water|A satellite image of the UAE coast and inland desert after a major storm in April 2024, with standing water showing as pale blue patches" caption="Flooded roads can take time to clear after a heavy storm, and from space the standing water shows up along the coast and far inland."></photo-set>
 
 ## What catches visitors out
 

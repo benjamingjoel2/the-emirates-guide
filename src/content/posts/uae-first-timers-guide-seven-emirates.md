@@ -78,7 +78,7 @@ The landmark most people come for is the Sheikh Zayed Grand Mosque, a sweep of w
 
 On Saadiyat Island, the [Saadiyat Cultural District](https://visitabudhabi.ae/en/things-to-do/culture/landmarks-and-architecture/saadiyat-cultural-district) gathers Louvre Abu Dhabi, Zayed National Museum and teamLab Phenomena within walking distance of one another, a good way to spend the hottest hours indoors. Inland, [Al Ain](https://visitabudhabi.ae/en/where-to-go/regions/al-ain) is known as the Garden City, with shaded palm groves still watered by ancient falaj channels and a road that climbs Jebel Hafit for sunset over the desert. Far to the south-west, [Al Dhafra](https://visitabudhabi.ae/en/where-to-go/regions/al-dhafra) runs from the Liwa dunes to the west coast and its islands.
 
-<photo-set layout="pair" keys="uae-first-timers-guide-seven-emirates-1,uae-first-timers-guide-seven-emirates-2" alts="A white marble colonnade with gilded palm-shaped capitals at the Sheikh Zayed Grand Mosque|Date palms in Al Ain Oasis watered by a stone-lined falaj channel" caption="The Grand Mosque and the falaj-fed palm groves of Al Ain show two sides of Abu Dhabi emirate."></photo-set>
+<photo-set layout="pair" keys="uae-first-timers-guide-seven-emirates-1,uae-first-timers-guide-seven-emirates-2" alts="A white marble colonnade with gilded palm-shaped capitals at the Sheikh Zayed Grand Mosque|Dense date palms and trees in the shade of Al Ain Oasis" caption="The Grand Mosque and the falaj-fed palm groves of Al Ain show two sides of Abu Dhabi emirate."></photo-set>
 
 **Who it suits:** families, culture lovers, people who want beaches without a party scene, and anyone who prefers a slower city. Explore more on our [Abu Dhabi page](/destinations/abu-dhabi/).
 
@@ -126,7 +126,7 @@ Drive north and the Hajar Mountains start filling the windscreen. Ras Al Khaimah
 
 The headline is Jebel Jais. [Visit Ras Al Khaimah](https://visitrasalkhaimah.com/location/place/jebel-jais/) describes it as the highest peak in the UAE at 1,934 metres, usually around 10°C cooler than the rest of the emirate, with marked walking trails and a viewing deck. The drive up is all switchbacks and widening views. Pack a layer for the top.
 
-<photo-set layout="full" keys="uae-first-timers-guide-seven-emirates-6" alts="The Jebel Jais mountain road winding through bare rocky slopes in Ras Al Khaimah" caption="The switchback road up Jebel Jais, the highest peak in the UAE."></photo-set>
+<photo-set layout="full" keys="uae-first-timers-guide-seven-emirates-6" alts="A mountain road curving between sheer rock walls on the way up Jebel Jais" caption="The switchback road up Jebel Jais, the highest peak in the UAE."></photo-set>
 
 On the coast are long beaches, resort islands and an old town divided by a creek. Our deeper guide, [Beyond Dubai](/stories/beyond-dubai-quieter-emirates/), covers the forts and the abandoned pearling village in more detail.
 
@@ -136,7 +136,7 @@ On the coast are long beaches, resort islands and an old town divided by a creek
 
 Come down the far side of the Hajar range and the sea ahead is not the Gulf you left behind. The [UAE government portal](https://u.ae/en/about-the-uae/the-seven-emirates/fujairah) calls Fujairah the only emirate located completely on the eastern coast, along the Gulf of Oman, and the UAE's only access to the Indian Ocean. Rugged peaks drop almost to the shore.
 
-<photo-set layout="inset-right" keys="uae-first-timers-guide-seven-emirates-7" alts="The small domed Al Bidya Mosque built of stone and clay in Fujairah" caption="Al Bidya Mosque, described by Fujairah tourism as the oldest mosque in the UAE."></photo-set>
+<photo-set layout="inset-right" keys="uae-first-timers-guide-seven-emirates-7" alts="The small domed Al Bidya Mosque below a rocky hill topped by a watchtower in Fujairah" caption="Al Bidya Mosque, described by Fujairah tourism as the oldest mosque in the UAE."></photo-set>
 
 The east coast is known for snorkelling and diving, wadis that run with water after rain, and quiet fishing villages. The best-known heritage site is the small Al Bidya Mosque, with its clustered domes, which the [Fujairah Tourism and Antiquities Authority](https://fujairahtourism.ae/index_action-PlacesOfWorship.html) describes as the oldest mosque in the UAE, built from local stone and fired clay.
 

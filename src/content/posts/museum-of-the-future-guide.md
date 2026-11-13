@@ -6,7 +6,7 @@ emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "museum-of-the-future-guide-hero"
-heroAlt: "HERO_ALT"
+heroAlt: "The silver, ring-shaped Museum of the Future covered in Arabic calligraphy, rising behind palm trees and a landscaped roundabout with towers along Sheikh Zayed Road to the left"
 featured: false
 startHere: false
 plan: "A verified local operator can keep an eye on reopening and ticket news for the Museum of the Future, suggest the best moment to see and photograph the building while it is closed, and build a Dubai day around other museums and viewpoints."
@@ -31,7 +31,7 @@ Stand at the foot of the green mound on Sheikh Zayed Road and look up. A silver 
 
 That view is still yours to enjoy. What has changed is what happens inside. If you are planning a trip and the Museum of the Future is on your list, the most important thing to know is this: the museum is temporarily closed while it is completely reimagined, and its official help page says it is [set to reopen in the first quarter of 2027](https://museumofthefuture.ae/en/get-help). Here is what that means for your plans, what will be different when the doors open again, and how to make the most of the building in the meantime.
 
-<photo-set layout="wide" keys="museum-of-the-future-guide-1" alts="WIDE_ALT" caption="The exterior is not changing during the renewal, so the building itself can still be part of your day."></photo-set>
+<photo-set layout="wide" keys="museum-of-the-future-guide-1" alts="The calligraphy-covered steel ring of the Museum of the Future framed by date palms and hedges beside a quiet access road, with office towers behind" caption="The exterior is not changing during the renewal, so the building itself can still be part of your day."></photo-set>
 
 ## Is the Museum of the Future open?
 
@@ -82,7 +82,7 @@ The building has three parts, each with a meaning. The museum explains that the 
 
 ### The calligraphy
 
-<photo-set layout="inset-left" keys="museum-of-the-future-guide-2" alts="INSET_ALT" caption="The windows of the facade are shaped as Arabic letters, so the text is part of the structure."></photo-set>
+<photo-set layout="inset-left" keys="museum-of-the-future-guide-4" alts="An illuminated panel inside the museum showing three sayings in gold Arabic calligraphy with English translations, beside a UAE flag" caption="Inside, a panel sets out the sayings on the facade in Arabic with English translations."></photo-set>
 
 The facade is far more than decoration. The museum says the building ["speaks Arabic"](https://museumofthefuture.ae/en/the-building): its surface is a canvas for sayings of the Ruler of Dubai on the future, innovation and legacy, rendered in Arabic calligraphy. The help page gives English translations of the sayings, which deal with imagining and building the future, innovation as the secret of renewal, and leaving a creative legacy that outlasts us. Look closely and the letters seem to shift as the light moves across the steel through the day.
 
@@ -91,8 +91,6 @@ If you do not read Arabic, it is worth looking up the translations on the offici
 ### The numbers behind the shine
 
 The facade is made of stainless steel in [1,024 pieces](https://museumofthefuture.ae/en/the-building), produced with a robot-assisted process and covering a surface area of 17,600 square metres. The building stands 77 metres tall and the museum gives its overall area as 30,548 square metres. The museum also says it receives solar energy from [arrays mounted nearby](https://museumofthefuture.ae/en/get-help).
-
-<photo-set layout="full" keys="museum-of-the-future-guide-3" alts="FULL_ALT" caption="FULL_CAP"></photo-set>
 
 ### Photographing it
 
@@ -121,6 +119,8 @@ If you only have a day or two in Dubai, do not build your plans around the museu
 
 The museum stands beside Sheikh Zayed Road, the main artery through this part of the city, so it is easy to reach by taxi and by metro. If you use the metro, the Roads and Transport Authority notes [lift access to all metro station levels](https://www.rta.ae/wps/portal/rta/ae/public-transport/metro) and dedicated spaces for wheelchair users on all trains. Trains also have cabins reserved for women and children and a Gold Class cabin, so check the signs on the platform before you board. Our guide to [getting around Dubai](/stories/getting-around-dubai/) explains the network, fares and tickets.
 
+<photo-set layout="full" keys="museum-of-the-future-guide-3" alts="The steel museum ring rising beside a road along Sheikh Zayed Road, with the elevated metro line and a row of towers on the other side" caption="The museum sits right beside Sheikh Zayed Road and the elevated metro line."></photo-set>
+
 Expect wide roads and busy junctions around the building. Use marked crossings and bridges rather than trying to cross the traffic, even if the building looks close.
 
 ## How to fit it into a Dubai day
@@ -146,7 +146,7 @@ Children who are disappointed that the inside is closed often still enjoy spotti
 - **Ramadan:** if you visit during the holy month, the Foreign Office notes that eating, drinking, smoking or chewing gum in public in the daytime may cause offence, so keep your water bottle discreet.
 - **Check before you go:** closures, events and reopening plans can change, so look at the official site shortly before your visit.
 
-<photo-set layout="mosaic" keys="museum-of-the-future-guide-4,museum-of-the-future-guide-5,museum-of-the-future-guide-6" alts="MOS_A|MOS_B|MOS_C" caption="MOS_CAP"></photo-set>
+<photo-set layout="mosaic" keys="museum-of-the-future-guide-2,museum-of-the-future-guide-5,museum-of-the-future-guide-6" alts="The Museum of the Future at night, its calligraphy windows glowing white above the curved glass entrance and plaza|Looking up at glass lift shafts lit in purple inside the museum atrium, with Arabic letters cut into the white walls|Angular office towers and other skyscrapers along Sheikh Zayed Road at dusk, seen from above" caption="The lit facade after dark, the atrium of the first edition and the business district towers around the museum."></photo-set>
 
 ## Quick answers
 

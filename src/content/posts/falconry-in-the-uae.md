@@ -81,7 +81,7 @@ Then the hood comes off and the bird flies. Usually it circles, stoops at the lu
 
 Finally there is time for questions and, where offered, photographs with the bird. This last part is often the most relaxed, and it is the right moment to ask about training, diet or how the bird spends the hotter months.
 
-<photo-set layout="pair" keys="falconry-in-the-uae-3,falconry-in-the-uae-4" alts="PAIR1|PAIR2" caption="CAPTION"></photo-set>
+<photo-set layout="pair" keys="falconry-in-the-uae-6,falconry-in-the-uae-8" alts="Close side view of a falcon with chestnut and cream feathers and a hooked grey beak|A pale saker falcon wearing a tan leather hood with a braided top knot, standing among green plants" caption="Up close, the hood keeps a bird calm until it is time to fly."></photo-set>
 
 ## Where you can watch falconry
 
@@ -105,7 +105,7 @@ Seeing the medical side of falconry, and how carefully the birds are looked afte
 
 If your trip takes you deep into the dunes, perhaps on a drive out to Liwa, ask whether your camp or guide can arrange a falconry display. Our [Liwa and Empty Quarter guide](/stories/liwa-empty-quarter-guide/) helps you plan the journey.
 
-<photo-set layout="full" keys="falconry-in-the-uae-5" alts="FULL1" caption="CAPTION"></photo-set>
+<photo-set layout="full" keys="falconry-in-the-uae-14" alts="FULL1" caption="CAPTION"></photo-set>
 
 ## What a falcon hospital tour involves
 
@@ -149,7 +149,7 @@ Falconry sits alongside other living traditions you will meet on a trip: coffee 
 
 If you want to understand the hospitality that often surrounds these traditions, read our guide to [the majlis and Emirati hospitality](/stories/majlis-emirati-hospitality/). For another heritage sport rooted in desert life, see [watching camel racing in the UAE](/stories/camel-racing-uae-guide/). Our [food and culture section](/food-culture/) collects more stories like these.
 
-<photo-set layout="trio" keys="falconry-in-the-uae-6,falconry-in-the-uae-7,falconry-in-the-uae-8" alts="T1|T2|T3" caption="CAPTION"></photo-set>
+<photo-set layout="trio" keys="falconry-in-the-uae-10,falconry-in-the-uae-12,falconry-in-the-uae-13" alts="T1|T2|T3" caption="CAPTION"></photo-set>
 
 ## Quick answers
 

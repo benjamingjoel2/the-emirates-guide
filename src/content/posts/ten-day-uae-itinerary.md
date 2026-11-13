@@ -152,7 +152,7 @@ Drive across to the east coast. The road crosses the Hajar Mountains, which the 
 
 Stop at Al Bidya Mosque, which the Fujairah tourism authority says lies [35 km north of the city of Fujairah on the road to Dibba](https://fujairahtourism.ae/index_action-PlacesOfWorship.html) and describes as the oldest mosque in the UAE, built of local stone and burnt clay. Look up when you are inside: no timber was used for the roof, and a single central column carries its four domes. Dress modestly, remove your shoes and keep your voice down, as it is still a place of worship.
 
-<photo-set layout="pair" keys="ten-day-uae-itinerary-3,ten-day-uae-itinerary-4" alts="ALT3|ALT4" caption="CAP3"></photo-set>
+<photo-set layout="pair" keys="ten-day-uae-itinerary-3,ten-day-uae-itinerary-4" alts="ALT3|A two-lane road running between bare rocky hills in Fujairah under a blue sky with white clouds" caption="CAP3"></photo-set>
 
 Then continue south to Khorfakkan, a part of Sharjah on the east coast. Its beach is [a crescent-shaped stretch](https://www.visitsharjah.com/activities/beaches/khorfakkan-beach/) with options for swimming, kayaking and snorkelling near Shark Island. Visit Sharjah says the beach runs for 3 kilometres and that Khorfakkan lies about halfway between Dibba and Fujairah. In the evening, the amphitheatre and its man-made waterfall, [often illuminated at night](https://www.visitsharjah.com/activities/culture/khorfakkan-amphitheater-and-waterfall/), face the bay. The waterfall is 45 metres high and was carved out of natural rock. Swim only from approved beaches with lifeguards, and watch for red flags, which the UK government says [mean swimming is dangerous](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security).
 

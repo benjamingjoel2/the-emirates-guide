@@ -82,7 +82,7 @@ If you come across a nesting turtle or hatchlings, keep well back, stay dark and
 
 ### Meeting a turtle in the water
 
-<photo-set layout="inset-left" keys="uae-marine-life-guide-2" alts="A sea turtle swimming towards the camera above a rocky seabed off Dibba" caption="Turtles are the marine animal visitors are most likely to meet while snorkelling on the east coast."></photo-set>
+<photo-set layout="inset-left" keys="uae-marine-life-guide-2" alts="A sea turtle seen from above as it swims away over a sandy seabed off Dibba" caption="Turtles are the marine animal visitors are most likely to meet while snorkelling on the east coast."></photo-set>
 
 Turtles are usually calm around snorkellers who behave well. Float on the surface, keep your arms by your sides, and let the turtle choose the distance. Avoid swimming directly above one, because a turtle needs to rise to the surface to breathe, and a snorkeller blocking its path can make it bolt. Never follow a turtle as it swims away. A minute of quiet watching from the side is worth more than a chase that ends with a stressed animal.
 

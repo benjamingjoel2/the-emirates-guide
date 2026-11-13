@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "camel-racing-uae-guide-hero"
-heroAlt: "Riders on camels crossing the sand dunes near Dubai in golden evening light"
+heroAlt: "Two racing camels carrying small robot jockeys run along a dirt track lined with railings, lamp posts and flags in Dubai"
 featured: false
 startHere: false
 plan: "A verified local operator can check whether races are running on the day you plan to go, arrange transport to the track, and pair the visit with nearby sights so an early start does not waste the rest of your day."
@@ -29,7 +29,7 @@ Camel racing is one of the most surprising things you can see in the UAE. It loo
 
 This guide explains what you will see, where to go, and how to make the most of a morning at the track.
 
-<photo-set layout="pair" keys="camel-racing-uae-guide-1,camel-racing-uae-guide-2" alts="P1|P2" caption="CAPTION"></photo-set>
+<photo-set layout="pair" keys="camel-racing-uae-guide-1,camel-racing-uae-guide-2" alts="A group of small remote-controlled robot jockeys with white domed heads lined up on a pavement|Racing camels fitted with robot jockeys resting by a red track rail, with the Dubai skyline in haze behind" caption="Robot jockeys ride the camels, and handlers follow the race from the side of the track."></photo-set>
 
 ## Why camel racing in the UAE is more than a sport
 
@@ -83,7 +83,7 @@ The tourism board's advice is simple: [try to get to the racetracks as early as 
 - **Forgetting the drive back.** After an early start, the return trip can feel long, so plan a break or let someone else drive.
 - **Expecting a stadium.** Facilities are practical rather than polished, so bring what you need for a few hours outdoors.
 
-<photo-set layout="trio" keys="camel-racing-uae-guide-3,camel-racing-uae-guide-4,camel-racing-uae-guide-5" alts="T1|T2|T3" caption="CAPTION"></photo-set>
+<photo-set layout="trio" keys="camel-racing-uae-guide-3,camel-racing-uae-guide-8,camel-racing-uae-guide-9" alts="T1|T2|T3" caption="CAPTION"></photo-set>
 
 Our [month-by-month guide to the best time to visit](/stories/best-time-to-visit-uae-month-by-month/) will help you match the season with the rest of your plans.
 
@@ -144,7 +144,7 @@ Children tend to love camel racing, because the action is fast, loud and easy to
 
 Facilities at the tracks vary. Some areas have seating or shade, others are open ground, and paths may be sandy or uneven. If anyone in your group uses a wheelchair or has limited mobility, ask your operator or the track in advance about where you can park, watch and find shade. Watching from beside your own vehicle can be the most comfortable option.
 
-<photo-set layout="inset-right" keys="camel-racing-uae-guide-7" alts="I1" caption="CAPTION"></photo-set>
+<photo-set layout="inset-right" keys="camel-racing-uae-guide-10" alts="I1" caption="CAPTION"></photo-set>
 
 Bring snacks and plenty of water, since you may not find food on site, and plan a proper meal afterwards. A trip to Al Wathba fits easily with a return to Abu Dhabi for lunch, while a morning at Al Maqam can lead straight into the oasis and museums of Al Ain.
 

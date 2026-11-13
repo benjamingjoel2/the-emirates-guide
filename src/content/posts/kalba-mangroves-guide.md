@@ -63,7 +63,7 @@ Visit Sharjah lists [kayaking among the oldest mangrove forest in Arabia](https:
 
 ### What a paddle feels like
 
-<photo-set layout="inset-right" keys="kalba-mangroves-guide-4" alts="Tall mangrove trees with tangled roots standing in shallow water in a Sharjah mangrove forest" caption="Mangrove roots crowd the edges of the channels, so a guide helps you find the open water."></photo-set>
+<photo-set layout="inset-right" keys="kalba-mangroves-guide-4" alts="Mangrove branches arching over a muddy channel studded with small breathing roots in a Sharjah mangrove forest" caption="Mangrove roots crowd the edges of the channels, so a guide helps you find the open water."></photo-set>
 
 The open lagoon gives way to narrower channels where the mangroves close in on both sides. You will hear the click and pop of crabs in the mud, smell salt and leaf, and notice how the water changes colour with depth and shade. It is calm work rather than an adventure sport, which is why it suits beginners and families with older children.
 
@@ -127,7 +127,7 @@ Families have more to do here than the mangroves alone. Visit Sharjah describes 
 
 Kalba is not a big resort town, but it has a long, quiet shoreline. Visit Sharjah describes the [Kalba Beach Corniche](https://www.visitsharjah.com/en/activities/beaches/kalba-beach-corniche/) as running for 9.4km, with a jogging track and shaded benches facing the sea. If you swim, the Foreign Office warns that rip currents can occur at any beach and advises [swimming only from approved beaches with lifeguards and flags](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security). Red flags mean it is dangerous to swim. Cover up when you leave the sand.
 
-<photo-set layout="wide" keys="kalba-mangroves-guide-7" alts="A wide sandy beach at Kalba with calm water and mountains in the distance" caption="Kalba's long, quiet beach is a natural place to finish a morning in the mangroves."></photo-set>
+<photo-set layout="wide" keys="kalba-mangroves-guide-7" alts="A wide, empty sandy beach at Kalba with turquoise water, a breakwater and a cloudy sky" caption="Kalba's long, quiet beach is a natural place to finish a morning in the mangroves."></photo-set>
 
 Kalba also works well as one stop on a longer coastal route. Visit Sharjah's East Coast guide mentions [guided boat tours to spot dolphins](https://www.visitsharjah.com/en/regions/east-coast/) and water sports further north. Our [Khorfakkan guide](/stories/khorfakkan-guide/) covers the next town up the coast, and our [east coast road trip](/stories/uae-east-coast-road-trip/) links Kalba with Fujairah and Dibba.
 

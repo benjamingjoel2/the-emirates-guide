@@ -141,7 +141,7 @@ Our guide to [Dubai with kids](/stories/dubai-with-kids/) covers the practical s
 
 Insurance does not replace the paperwork for medicines. The Foreign Office says you must get [approval in advance from the UAE Ministry of Health](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/entry-requirements) to bring medication, and that if you arrive without evidence of approval, the medication will not be allowed in and you may be prosecuted. Sort the approval out first, then make sure the condition the medicine treats is declared on your policy. Our guide to [bringing medicines into the UAE](/stories/bringing-medicines-into-uae/) walks through the process.
 
-<photo-set layout="mosaic" keys="uae-travel-insurance-guide-4,uae-travel-insurance-guide-5,uae-travel-insurance-guide-6" alts="PH4|A deep blue inlet in Musandam seen from a mountain road, with bare rocky slopes on both sides|PH6" caption="Side trips into Oman, from Muscat to the Musandam peninsula, need to be covered by your policy too."></photo-set>
+<photo-set layout="mosaic" keys="uae-travel-insurance-guide-4,uae-travel-insurance-guide-5,uae-travel-insurance-guide-6" alts="Visitors on the terrace of Mutrah Fort in Muscat at dusk, looking over the harbour, a large ship and mountains beyond|A deep blue inlet in Musandam seen from a mountain road, with bare rocky slopes on both sides|A road sign in Musandam pointing to A Saye, Wadi Al Beih and Diba, with hazy mountains behind" caption="Side trips into Oman, from Muscat to the Musandam peninsula, need to be covered by your policy too."></photo-set>
 
 ## Adding Oman? Check your policy covers it
 

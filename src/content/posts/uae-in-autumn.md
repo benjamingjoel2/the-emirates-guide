@@ -134,7 +134,7 @@ Allow for the shortening days. In September the evenings are long; by late Novem
 
 Pack summer clothes for September and October, with a light layer for November evenings and for the air conditioning. Visit Abu Dhabi suggests taking a [jacket or sweater for hotels and cinemas](https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear), because the air conditioning can be cold. A hat, sunglasses and a refillable water bottle earn their place in every month, and Visit Ras Al Khaimah calls sun protection essential all year round.
 
-<photo-set layout="inset-left" keys="uae-in-autumn-7" alts="ALT7" caption="CAP7"></photo-set>
+<photo-set layout="inset-left" keys="uae-in-autumn-7" alts="Silhouetted families on Kite Beach in Dubai at sunset, with a lifeguard tower, kites and birds against a cloudy golden sky" caption="Late-afternoon beach time gets easier as autumn goes on, and lifeguarded beaches are the place to swim."></photo-set>
 
 Choose clothes that work for the heat and for local custom at the same time. The Foreign Office advises [dressing modestly in public areas](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security) such as malls, with women covering shoulders and knees, and says swimwear should only be worn on beaches or at pools, so keep the beach kit for the sand and the pool. Loose linen or cotton that covers shoulders and knees does both jobs well.
 

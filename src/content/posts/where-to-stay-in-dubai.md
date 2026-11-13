@@ -76,7 +76,7 @@ Here the morning starts with the putter of an abra engine and the smell of spice
 
 The government portal recommends [a visit to the historic Al Fahidi district, an abra ride across the creek and a bargain in the traditional souqs](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Discover-the-UAE/explore-the-uae-by-emirate-) to complete a Dubai trip. Stay nearby and all three are a stroll away. RTA's heritage abras link [Al Fahidi, Al Seef, Baniyas, Al Sabkha and the old souks in Deira](https://www.rta.ae/wps/portal/rta/ae/public-transport/marine/about-marine), and the motorised traditional abra between Bur Dubai and Deira Old Souq accepts cash.
 
-<photo-set layout="full" keys="where-to-stay-in-dubai-2" alts="A wooden abra carrying passengers across Dubai Creek from Bur Dubai towards Deira, with low buildings on the far bank" caption="Staying by the Creek puts the abra crossings between Bur Dubai and Deira a short walk away."></photo-set>
+<photo-set layout="full" keys="where-to-stay-in-dubai-2" alts="Dubai Creek seen from the water, with abras, moored wooden dhows and a minaret among the low buildings on the bank" caption="Staying by the Creek puts the abra crossings between Bur Dubai and Deira a short walk away."></photo-set>
 
 Al Fahidi is also home to the Sheikh Mohammed bin Rashid Al Maktoum Centre for Cultural Understanding, which runs [cultural meals, heritage tours and mosque visits](https://cultures.ae/) under the motto "Open Doors. Open Minds." If you want to understand Emirati culture, waking up in this part of town is a head start.
 
@@ -124,7 +124,7 @@ It is the most self-contained option. The Palm Monorail connects to the tram, wh
 **Best for:** honeymooners, families who want everything on site, relaxation.
 **Think twice if:** you want to explore every day.
 
-<photo-set layout="trio" keys="where-to-stay-in-dubai-3,where-to-stay-in-dubai-4,where-to-stay-in-dubai-5" alts="Sunbathers on the sand at the JBR beach with Dubai Marina towers behind|A quiet stretch of Jumeirah public beach with calm water and a low skyline|The fronds of Palm Jumeirah seen across the water from Dubai Marina" caption="The coastal bases: JBR beside the Marina, the public beaches of Jumeirah and the Palm offshore."></photo-set>
+<photo-set layout="trio" keys="where-to-stay-in-dubai-3,where-to-stay-in-dubai-4,where-to-stay-in-dubai-5" alts="Sunbathers on the sand at the JBR beach with Dubai Marina towers behind|A quiet stretch of Jumeirah public beach with calm water and a low skyline|Palm Jumeirah and a yacht marina seen from a high tower at dusk" caption="The coastal bases: JBR beside the Marina, the public beaches of Jumeirah and the Palm offshore."></photo-set>
 
 ## Around Zabeel and the city centre
 
@@ -172,7 +172,7 @@ If your dates fall in Ramadan, the Foreign Office suggests you [check opening ho
 
 A cheaper room far from a station can cost you in taxis and time. Look at a map before you book and note the walk to the nearest metro or tram stop. [The best time to visit](/stories/best-time-to-visit-uae-month-by-month/) explains how the season affects demand.
 
-<photo-set layout="pair" keys="where-to-stay-in-dubai-6,where-to-stay-in-dubai-7" alts="The elevated Dubai Metro Red Line track running towards the towers of Downtown|A Dubai Metro train standing at a covered Red Line station platform" caption="A short walk to a metro station makes a car-free stay far easier."></photo-set>
+<photo-set layout="pair" keys="where-to-stay-in-dubai-6,where-to-stay-in-dubai-7" alts="The elevated Red Line track leading to a metro station among the towers along Sheikh Zayed Road|A Dubai Metro train standing at a covered Red Line station platform" caption="A short walk to a metro station makes a car-free stay far easier."></photo-set>
 
 ### Day trips from your base
 

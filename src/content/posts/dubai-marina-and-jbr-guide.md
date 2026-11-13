@@ -6,7 +6,7 @@ emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "dubai-marina-and-jbr-guide-hero"
-heroAlt: "HERO_ALT"
+heroAlt: "Dubai Marina towers lit by low golden evening sun, with yachts moored in the marina water at the bottom right"
 featured: false
 startHere: false
 plan: "A verified local operator can suggest the best base around the Marina for your trip, plan a waterfront evening that links the promenades, water taxi and beach, and advise on boat trips and water sports with sound safety practices."
@@ -33,7 +33,7 @@ Early evening on the Marina, the towers start to throw long shadows across the w
 
 Dubai Marina and JBR (Jumeirah Beach Residence) are where much of new Dubai comes to walk, eat and swim. The Marina is a man-made canal lined with towers and a long promenade; JBR is the strip of beachfront right next to it, with its own walkway and an open public beach. For visitors, the answer to "is it worth going?" is yes, especially for an evening stroll and a swim, and you can easily link the two on foot. This Dubai Marina and JBR guide covers how to explore, how to get around, how a day here unfolds and the rules worth knowing.
 
-<photo-set layout="wide" keys="dubai-marina-and-jbr-guide-1" alts="WIDE_ALT" caption="WIDE_CAP"></photo-set>
+<photo-set layout="wide" keys="dubai-marina-and-jbr-guide-1" alts="The paved Dubai Marina promenade curving beside the canal, with palm trees, benches and residential towers on both banks" caption="The Marina promenade runs right beside the water, with towers rising on both sides of the canal."></photo-set>
 
 ## Dubai Marina and JBR at a glance
 
@@ -154,7 +154,7 @@ If you only have one evening here, this loop works well:
 
 If you have a whole day, start with an early swim at JBR before the sand heats up, retreat indoors for the middle of the day, and come back out for the walk and the sunset in the late afternoon.
 
-<photo-set layout="full" keys="dubai-marina-and-jbr-guide-7" alts="FULL_ALT" caption="FULL_CAP"></photo-set>
+<photo-set layout="full" keys="dubai-marina-and-jbr-guide-7" alts="Dubai Marina towers lit up at night above the many lanes of Sheikh Zayed Road and the elevated metro line" caption="After dark the Marina towers light up above Sheikh Zayed Road and the metro line that brings many visitors here."></photo-set>
 
 ## Quick answers
 

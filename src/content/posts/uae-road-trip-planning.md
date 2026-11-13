@@ -93,7 +93,7 @@ The biggest dunes in the country lie in Abu Dhabi's Al Dhafra region. Visit Abu 
 
 The same page notes that the Liwa International Festival fills the Empty Quarter each December with three weeks of desert motorsports, concerts and fireworks, so roads and rooms are busier then. For Sir Bani Yas Island, it points visitors to separate ferry and access information, so check that before you set out.
 
-<photo-set layout="wide" keys="uae-road-trip-planning-3" alts="ALT3" caption="CAP3"></photo-set>
+<photo-set layout="wide" keys="uae-road-trip-planning-3" alts="A sealed road winding through high orange sand dunes in the Liwa desert, seen from a roadside barrier" caption="The road through the Liwa dunes in Al Dhafra, where a car is the easiest way to get around."></photo-set>
 
 Al Ain makes a good inland add-on. Visit Abu Dhabi puts it [a 90-minute drive from Abu Dhabi city](https://visitabudhabi.ae/en/plan-your-trip/article-hub/essential-things-to-do-in-al-ain), with the oasis, Al Jahili Fort and the road up Jebel Hafit all close together. The same page describes Jebel Hafit as the second-highest peak in the UAE, popular with hikers and cyclists as well as drivers, so take the bends slowly.
 

@@ -48,7 +48,7 @@ Getting around Dubai is easier than its size suggests. The short answer: use the
 - **Abras, ferries and water taxis:** the Creek crossing is a short pleasure; other boats are scenic extras.
 - **Walking:** good within neighbourhoods, less so between them, especially in the heat.
 
-<photo-set layout="wide" keys="getting-around-dubai-1" alts="A Dubai Metro train running along the elevated track beside a wide road" caption="Much of the metro runs on elevated track, so the ride doubles as a view of the city."></photo-set>
+<photo-set layout="wide" keys="getting-around-dubai-1" alts="A blue Dubai Metro train crossing an elevated viaduct among electricity pylons" caption="Much of the metro runs on elevated track, so the ride doubles as a view of the city."></photo-set>
 
 ## The Dubai Metro: your fastest way across the city
 

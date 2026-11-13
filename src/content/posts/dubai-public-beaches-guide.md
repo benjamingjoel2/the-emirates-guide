@@ -6,7 +6,7 @@ emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "dubai-public-beaches-guide-hero"
-heroAlt: "HERO_ALT"
+heroAlt: "Clear, shallow turquoise water over rippled sand at Al Mamzar beach, curving towards palm trees and a rock breakwater"
 featured: false
 startHere: false
 plan: "A verified local operator can point you to the public beach that suits your group, plan beach time around the heat and the tides of the crowd, and advise on water sports with proper safety equipment and supervision."
@@ -39,7 +39,7 @@ Dubai's public beaches are one of the simplest pleasures in the city, and most v
 
 Dubai's coastline mixes private hotel frontage with long stretches of public sand. The public beaches are managed by Dubai Municipality and open to everyone.
 
-<photo-set layout="inset-left" keys="dubai-public-beaches-guide-1" alts="INSET_ALT" caption="INSET_CAP"></photo-set>
+<photo-set layout="inset-left" keys="dubai-public-beaches-guide-1" alts="A kitesurfer and kite silhouetted against the setting sun over choppy sea off Kite Beach, with a line of floats marking the swimming area in front" caption="Lines of floats mark the swimming areas, and the sea can be livelier than it looks from the sand."></photo-set>
 
 They are also improving fast. Under a master plan approved in 2023, the length of Dubai's public beaches is set to grow [from 21 km to 105 km by 2040](https://mediaoffice.ae/en/news/2023/may/25-05/mohammed-bin-rashid-approves-master-plan-for-dubai-public-beaches). The same announcement says all of the emirate's public beaches have received Blue Flag certification, and that public beaches will have facilities that meet the needs of People of Determination. Among its short-term plans, it lists retail kiosks on Jumeirah Beach 2 and Umm Suqeim 1, new water sports facilities and smart safe lockers, so what you find on the sand may be better equipped than older guides suggest.
 
@@ -57,7 +57,7 @@ These are also the beaches where Dubai Municipality has opened [designated night
 
 At the northern end of the city, Al Mamzar is a favourite with families. Dubai Municipality lists the Al Mamzar beach park as open [every day from 8:00 to 22:00](https://www.dm.gov.ae/discover-dubai-beaches/). The master plan also includes the [further development of Al Mamzar](https://mediaoffice.ae/en/news/2023/may/25-05/mohammed-bin-rashid-approves-master-plan-for-dubai-public-beaches), with new public facilities, walking and cycling tracks and mangrove planting along the Corniche section, and a 4,000-metre cycling track among its targets.
 
-<photo-set layout="pair" keys="dubai-public-beaches-guide-2,dubai-public-beaches-guide-3" alts="PAIR_A|PAIR_B" caption="PAIR_CAP"></photo-set>
+<photo-set layout="pair" keys="dubai-public-beaches-guide-2,dubai-public-beaches-guide-3" alts="A quiet curve of pale sand and clear shallow turquoise water inside a rock breakwater at Al Mamzar|Kitesurfers kites filling the sky above the water at Kite Beach, with people on the sand in silhouette" caption="Al Mamzar is the calmer family choice, while Kite Beach is busy with kitesurfers and runners."></photo-set>
 
 ### Kite Beach for an active day
 
@@ -100,7 +100,7 @@ A few habits of our own help too:
 
 This is now a legal matter as well as common sense. Dubai's Law No. (2) of 2026 on public safety, effective from 1 June 2026, requires the public to [observe permitted swimming times at beaches](https://www.mediaoffice.ae/en/news/2026/march/06-03/mohammed-bin-rashid-issues-law-on-public-safety) and to avoid restricted areas reserved for staff or other unauthorised zones. The same announcement says the law covers safety standards for swimming pools and beaches, and that the public must follow safety instructions and cooperate with safety supervisors. In practice that means reading the signs at your beach and swimming only when and where they allow.
 
-<photo-set layout="full" keys="dubai-public-beaches-guide-4" alts="FULL_ALT" caption="FULL_CAP"></photo-set>
+<photo-set layout="full" keys="dubai-public-beaches-guide-4" alts="A wide, almost empty stretch of Jumeirah beach beside the coast road and street lamps, with turquoise sea and a sail-shaped tower in the haze" caption="Long stretches of public sand at Jumeirah run right beside the coast road."></photo-set>
 
 ## Night swimming in Dubai
 

@@ -71,7 +71,7 @@ Even with approval, there are limits. According to the Foreign Office, you can b
 
 For other prescribed medicines, the government portal says you may bring them in [for personal use in normal quantity](https://u.ae/en/information-and-services/health-and-fitness/Health-and-wellbeing/drugs-and-controlled-medicines). Customs rules list medication for personal use, [in compliance with the applicable regulations](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Tourist-services-and-information/Customs-clearance), among items exempt from duty. The same customs page lists medicines, drugs, and medical equipment, devices and tools as restricted goods that fall under the Ministry of Health and Prevention, alongside cosmetics and personal care products and e-cigarettes under other authorities.
 
-<photo-set layout="full" keys="bringing-medicines-into-uae-2" alts="ALT2" caption="Approval for controlled medicines needs to be in hand before you land, because medication arriving without it will not be allowed in."></photo-set>
+<photo-set layout="full" keys="bringing-medicines-into-uae-2" alts="A row of Emirates airliners parked at the gates of Dubai International Airport as the sun rises behind them" caption="Approval for controlled medicines needs to be in hand before you land, because medication arriving without it will not be allowed in."></photo-set>
 
 ## A planning timeline that works
 
@@ -126,7 +126,7 @@ TravelHealthPro's general advice for carrying medicines abroad is a good checkli
 
 It also notes that medicines bought abroad may look similar to those at home but contain different amounts or types of active ingredient, so take care if you need to replace something while away.
 
-<photo-set layout="trio" keys="bringing-medicines-into-uae-3,bringing-medicines-into-uae-4,bringing-medicines-into-uae-5" alts="ALT3|ALT4|ALT5" caption="Keep medicines in their original packaging, carry the paperwork, and split supplies between hand luggage and hold."></photo-set>
+<photo-set layout="trio" keys="bringing-medicines-into-uae-3,bringing-medicines-into-uae-4,bringing-medicines-into-uae-5" alts="A red weekly pill dispenser with tablets and capsules sorted into morning, lunch, evening and night compartments|An old wooden medicine chest opened to show stoppered glass bottles, cotton wool and tweezers|A weekly pill organiser with day-labelled trays and loose capsules scattered beside it" caption="Keep medicines in their original packaging, carry the paperwork, and split supplies between hand luggage and hold."></photo-set>
 
 ### Family and group notes
 

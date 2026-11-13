@@ -41,7 +41,7 @@ That approach changes how you look. In a traditional museum you might walk throu
 
 The building is by the architect Jean Nouvel, whom Visit Abu Dhabi notes is a [winner of the Pritzker Prize](https://visitabudhabi.ae/en/things-to-do/culture/museums-and-art/louvre-abu-dhabi). Its centrepiece is a vast silvery dome which, according to the same page, is 180 metres wide and weighs 7,500 tons, roughly the same as the Eiffel Tower, and is made up of 7,850 stars arranged in eight layers. It was inspired by the interlocking geometry of Arabic cupolas. As sunlight passes through, it casts shifting patterns on the spaces below, an effect Nouvel called the "rain of light".
 
-<photo-set layout="full" keys="louvre-abu-dhabi-guide-1" alts="Spots of sunlight falling through the latticed dome onto white museum buildings and a shallow pool beneath" caption="Light filtering through the dome scatters across the white walls and the water below."></photo-set>
+<photo-set layout="full" keys="louvre-abu-dhabi-guide-1" alts="A tall stone wall carved with ancient script stands beneath the latticed dome, with spots of sunlight on the floor around it" caption="Under the dome, sunlight falls in shifting spots across the walls and walkways."></photo-set>
 
 Abu Dhabi's culture department adds that the museum is [made up of dozens of buildings linked by waterfront promenades](https://abudhabiculture.ae/en/Abu-Dhabi-Museums/Louvre-Abu-Dhabi), with the dome appearing to float above the complex. Walking those promenades between galleries is part of the experience, so build in time for it.
 

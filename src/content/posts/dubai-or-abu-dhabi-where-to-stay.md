@@ -62,7 +62,7 @@ The catch is scale. Dubai stretches a long way along the coast, and crossing it 
 - **The beach and marina side.** The newer coastal districts, with towers above the water and long sandy stretches, suit people who want a swim in the morning and a waterfront stroll at night. They sit further from the old town, so expect longer rides to the souks.
 - **Resort islands.** Self-contained, quiet and good for families who plan to spend serious time at the pool. You trade convenience for calm.
 
-<photo-set layout="pair" keys="dubai-or-abu-dhabi-where-to-stay-1,dubai-or-abu-dhabi-where-to-stay-2" alts="Sacks of spices and dried goods outside shops in the Deira spice souk|The Burj Khalifa rising above the towers of Downtown Dubai" caption="Two very different Dubai bases: the old souks of Deira and the towers of Downtown."></photo-set>
+<photo-set layout="pair" keys="dubai-or-abu-dhabi-where-to-stay-1,dubai-or-abu-dhabi-where-to-stay-2" alts="Open sacks of spices, dried limes and chillies in the Deira spice souk|Downtown Dubai's towers and highways seen from high up on the Burj Khalifa" caption="Two very different Dubai bases: the old souks of Deira and the towers of Downtown."></photo-set>
 
 A small thing that makes a big difference: match your district to your mornings. If you want to be in the souks while the lanes are still cool, sleeping by the creek saves you a long ride just when the day is at its most pleasant.
 
@@ -70,7 +70,7 @@ A small thing that makes a big difference: match your district to your mornings.
 
 Picture late afternoon on the Corniche. The light has turned soft, a breeze comes off the water, and the loudest sound is children on bikes. Abu Dhabi is the capital and carries itself that way: greener, more spacious, with long waterfront parks and less of the after-dark buzz. Days here tend to turn on one or two big cultural visits, followed by a slow evening by the sea.
 
-<photo-set layout="inset-right" keys="dubai-or-abu-dhabi-where-to-stay-3" alts="The pale stone walls and watchtower of Qasr Al Hosn in Abu Dhabi" caption="Qasr Al Hosn, which describes itself as Abu Dhabi's oldest building."></photo-set>
+<photo-set layout="inset-right" keys="dubai-or-abu-dhabi-where-to-stay-3" alts="The floodlit round watchtower and walls of Qasr Al Hosn in Abu Dhabi at night" caption="Qasr Al Hosn, which describes itself as Abu Dhabi's oldest building."></photo-set>
 
 It is also a city of separate islands, each with its own personality, so a taxi will be part of most days. One detail that helps when you are standing on the kerb: the UK government advice notes that [licensed taxis in Abu Dhabi are painted silver/grey, while Dubai's are cream with coloured roofs](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security).
 
@@ -91,7 +91,7 @@ Your base also decides which side trips feel like an outing and which feel like 
 - **Hatta.** Up in the mountains towards the Omani border, Hatta Dam is promoted by Visit Dubai as [a spot for kayaking and picnics](https://www.visitdubai.com/en/places-to-visit/hatta-dam-2). Rock, water and a cooler feel make it a welcome contrast to the city. Go early.
 - **Sharjah and the northern emirates.** Sharjah, which the UK government advice places [30km north of Dubai](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), is close enough for a half day of heritage areas and museums. The same advice says drinking or possessing alcohol is illegal in Sharjah. Further up the coast, Ras Al Khaimah and Fujairah reward a longer day; see [Beyond Dubai: the quieter emirates](/stories/beyond-dubai-quieter-emirates/).
 
-<photo-set layout="wide" keys="dubai-or-abu-dhabi-where-to-stay-4" alts="The still water of Hatta Dam surrounded by rocky Hajar mountains" caption="Hatta Dam in the mountains is an easy day out from a Dubai base."></photo-set>
+<photo-set layout="wide" keys="dubai-or-abu-dhabi-where-to-stay-4" alts="The blue water of Hatta Dam surrounded by jagged rocky mountains" caption="Hatta Dam in the mountains is an easy day out from a Dubai base."></photo-set>
 
 ### Easy from Abu Dhabi
 

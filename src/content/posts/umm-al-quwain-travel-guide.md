@@ -29,7 +29,7 @@ At first light the lagoon is so flat it doubles everything: the mangroves, the l
 
 Umm Al Quwain is the emirate people overlook between Ajman and Ras Al Khaimah, and that is exactly its appeal. This Umm Al Quwain travel guide is for travellers who like water, birds and small old towns. In short: come for the lagoon and its mangroves, ideally by kayak in the early morning, then spend an hour in the old fort museum and a slow afternoon by the sea. It will not fill a week, but it can fill a very good day or a restful overnight.
 
-<photo-set layout="trio" keys="umm-al-quwain-travel-guide-1,umm-al-quwain-travel-guide-2,umm-al-quwain-travel-guide-3" alts="Mangroves lining a shallow channel of the Umm Al Quwain lagoon|Green mangrove trees beside calm water in Umm Al Quwain|Low marshland and shallow water on the edge of the lagoon in Umm Al Quwain" caption="Mangroves, channels and marsh make up much of Umm Al Quwain's shoreline."></photo-set>
+<photo-set layout="trio" keys="umm-al-quwain-travel-guide-1,umm-al-quwain-travel-guide-2,umm-al-quwain-travel-guide-3" alts="Mangroves lining a shallow channel of the Umm Al Quwain lagoon|Green mangrove trees beside calm water in Umm Al Quwain|Lagoon channels dotted with mangroves beyond sandy scrubland on the edge of Umm Al Quwain" caption="Mangroves, channels and marsh make up much of Umm Al Quwain's shoreline."></photo-set>
 
 ## Umm Al Quwain in a nutshell
 
@@ -82,7 +82,7 @@ The government's emirate guide explains that [Umm Al Quwain Fort, once home to t
 
 An hour at the museum is the best way to make sense of the lagoon, the pearling and fishing past, and the archaeology found nearby. Take it slowly: the rooms are small and the details, from doors to wall niches, are part of the story.
 
-<photo-set layout="pair" keys="umm-al-quwain-travel-guide-5,umm-al-quwain-travel-guide-6" alts="A courtyard inside Umm Al Quwain Fort with its tower and plastered walls|Displays inside one of the rooms of Umm Al Quwain Fort museum" caption="Inside the fort, the courtyard and small rooms hold the museum's collection."></photo-set>
+<photo-set layout="pair" keys="umm-al-quwain-travel-guide-5,umm-al-quwain-travel-guide-6" alts="A restored room inside Umm Al Quwain Fort with a canopied bed, a carpet, white wall niches and a framed portrait|Displays inside one of the rooms of Umm Al Quwain Fort museum" caption="Inside the fort, the courtyard and small rooms hold the museum's collection."></photo-set>
 
 Walk the waterfront afterwards. Fishing boats, nets and the smell of the sea keep the old-town feel, especially in the late afternoon. Dress modestly in the old town and ask before photographing anyone, particularly fishermen at work.
 

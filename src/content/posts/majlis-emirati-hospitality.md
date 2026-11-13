@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "majlis-emirati-hospitality-hero"
-heroAlt: "A brass dallah coffee pot beside a small cup of Arabic coffee and a plate of dates"
+heroAlt: "A long majlis room at the Al Ain Palace Museum with blue striped sofas along the walls, patterned carpets, low tables and a coffee pot in the centre"
 featured: false
 startHere: false
 plan: "A verified local operator can suggest respectful ways to experience Emirati hospitality, such as a hosted cultural meal or a heritage visit, and can brief you on greetings, dress and coffee etiquette before you go."
@@ -35,7 +35,7 @@ That is the majlis, and it is the clearest window a visitor can get into Emirati
 
 In short: a majlis is a sitting place where guests are welcomed with coffee and conversation. Greet warmly, follow your host's lead, take your coffee with your right hand, and give a small shake of the cup when you have had enough. The rest of this guide explains why.
 
-<photo-set layout="mosaic" keys="majlis-emirati-hospitality-1,majlis-emirati-hospitality-2,majlis-emirati-hospitality-3" alts="M1|M2|M3" caption="CAPTION"></photo-set>
+<photo-set layout="mosaic" keys="majlis-emirati-hospitality-10,majlis-emirati-hospitality-1,majlis-emirati-hospitality-3" alts="M1|M2|M3" caption="CAPTION"></photo-set>
 
 ## What a majlis actually is
 
@@ -81,7 +81,7 @@ At the other end of the scale, the family majlis is still very much alive. Many 
 
 Even an empty majlis in a museum can tell you a great deal if you know what to look at.
 
-<photo-set layout="wide" keys="majlis-emirati-hospitality-4" alts="W1" caption="CAPTION"></photo-set>
+<photo-set layout="wide" keys="majlis-emirati-hospitality-9" alts="A woven Sadu tent decoration in red, orange, black and white geometric bands with wool tassels along the bottom, displayed in a museum case" caption="Sadu weaving in narrow geometric bands, made to decorate a tent."></photo-set>
 
 Start with the textiles. Many majlis cushions, rugs and wall hangings use or echo Al Sadu, the traditional weaving of Bedouin women. Visit Abu Dhabi explains that [Sadu is woven on a floor loom](https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/al-sadu) using a warp-faced plain weave, in traditional colours of black, white, brown, beige and red, with narrow bands of geometric patterns that reflect social identity and the surrounding environment. The wool came from goats and camels, and the yarn was dyed with local plant extracts such as henna or saffron.
 
@@ -109,7 +109,7 @@ You arrive, greet your hosts and remove your shoes if others have. You are shown
 
 When it is time to go, there is no need for a dramatic exit. Thank your host for the welcome and the coffee, say goodbye to the group, and leave at the pace of the room. If you were invited as part of a hosted experience, your guide will usually signal when the session is ending.
 
-<photo-set layout="pair" keys="majlis-emirati-hospitality-5,majlis-emirati-hospitality-6" alts="P1|P2" caption="CAPTION"></photo-set>
+<photo-set layout="pair" keys="majlis-emirati-hospitality-5,majlis-emirati-hospitality-8" alts="A tented majlis in Al Ain with red and black striped floor cushions, bolsters and a patterned rug|P2" caption="CAPTION"></photo-set>
 
 ### What to talk about
 
@@ -149,7 +149,7 @@ Abu Dhabi Culture notes that during the Eid holidays [most majlises offer sweets
 
 ### Heritage houses and museums
 
-<photo-set layout="full" keys="majlis-emirati-hospitality-7" alts="F1" caption="CAPTION"></photo-set>
+<photo-set layout="full" keys="majlis-emirati-hospitality-7" alts="The reconstructed mud-walled courtyards of Hatta Heritage Village with a well, palm-frond shades and a round watchtower on the rocky hill above" caption="Heritage villages such as Hatta show the setting in which traditional gatherings took place."></photo-set>
 
 Many restored heritage houses and forts across the emirates include a majlis room. Even empty, the layout of cushions, carpets and coffee pots shows you how gatherings worked. Our [food and culture section](/food-culture/) has more ideas for heritage visits.
 

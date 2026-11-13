@@ -74,17 +74,19 @@ Date shops run on hospitality as much as trade, so a few habits help. Take dates
 
 Most visitors only meet dried dates. In summer, there is another stage: rutab, the semi-ripe date, softer and fresher in flavour. The Abu Dhabi Media Office describes the Liwa Dates Festival as being held [annually during the UAE's rutab harvesting season](https://www.mediaoffice.abudhabi/en/arts-culture/22nd-liwa-dates-festival-attracts-record-breaking-participation-and-visitor-numbers/).
 
+<photo-set layout="pair" keys="uae-dates-guide-10,uae-dates-guide-4" alts="Strands of small, hard green young dates hanging among the fronds of a date palm|Heavy bunches of ripening dates in shades of green, yellow and red on display at the Liwa dates festival" caption="Dates change from small green fruit to ripening rutab over the summer harvest season."></photo-set>
+
 If you are in the country during the harvest, look out for rutab in markets and on hospitality trays. The texture is part of the appeal: somewhere between fresh fruit and the soft dried dates most people know. Because rutab is fresh, it is best eaten soon after you buy it, and it is not the date to pack in a suitcase.
 
 ## The Liwa Dates Festival
 
 Out in the Al Dhafra region, at the edge of the Empty Quarter, the date harvest is celebrated every summer. Visit Abu Dhabi says that [each July the Liwa Date Festival in Al Dhafra](https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/coffee-and-dates) celebrates the fruit, with local farmers competing for the best dates, alongside prizes, auctions and family activities.
 
+<photo-set layout="wide" keys="uae-dates-guide-5" alts="WIDE" caption="WIDE"></photo-set>
+
 According to the Abu Dhabi Media Office, the 22nd edition, organised by the Abu Dhabi Heritage Authority, ran [from 14 July to 23 July in Liwa City](https://www.mediaoffice.abudhabi/en/arts-culture/22nd-liwa-dates-festival-attracts-record-breaking-participation-and-visitor-numbers/). Beyond the competitions, it included a Rutab Market selling fresh dates and palm offshoots, a Heritage Souq, a Handicrafts Pavilion with products made from date palm materials, folk performances and a Children's Village.
 
 The scale gives a sense of how seriously the harvest is taken. The Media Office reports that the 22nd edition brought together [more than 465 Emirati farmers across 23 categories](https://www.mediaoffice.abudhabi/en/arts-culture/22nd-liwa-dates-festival-attracts-record-breaking-participation-and-visitor-numbers/) over 10 days, and attracted approximately 80,000 visitors from across the UAE and the Gulf. The Rutab Market had 97 retail outlets and the Heritage Souq 68 stalls, while the Handicrafts Pavilion had 14 sections.
-
-<photo-set layout="pair" keys="uae-dates-guide-4,uae-dates-guide-5" alts="Heavy bunches of fresh dates in shades of green, yellow and red on display at the Liwa dates festival|Date palms growing among the sand dunes of Liwa" caption="The Liwa Dates Festival celebrates the harvest from palms grown across the region."></photo-set>
 
 ### What happens at the festival
 
@@ -105,8 +107,6 @@ In the Mina Zayed area of Abu Dhabi, a cluster of shops forms the city's date ma
 Go in the cooler part of the day, take your time, and taste before you buy. Visit Abu Dhabi also points food lovers to the nearby [Mina Market and Mina Fruit and Vegetable Souk](https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/local-cuisine), so you can make a morning of it.
 
 ### Souks and supermarkets
-
-<photo-set layout="wide" keys="uae-dates-guide-6" alts="A date shop at the Abu Dhabi vegetable market with trays and boxes of different dates stacked on shelves and counters" caption="A date shop in Abu Dhabi's market area, with varieties laid out for tasting."></photo-set>
 
 You do not need a specialist market. Souks across the country sell dates loose and boxed, and Visit Abu Dhabi notes that [supermarkets also offer a range](https://visitabudhabi.ae/en/plan-your-trip/what-to-buy-and-souvenirs). Supermarkets are a good place to compare packaged varieties and check labels.
 

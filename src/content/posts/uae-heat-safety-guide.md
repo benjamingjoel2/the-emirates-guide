@@ -78,7 +78,7 @@ Use the middle of the day for museums, galleries, long lunches and a rest at you
 
 As the sun drops, the cities move outdoors: corniches, parks, souks and beaches fill up. This is the natural time for a waterfront stroll or a market visit.
 
-<photo-set layout="wide" keys="uae-heat-safety-guide-2" alts="ALT2" caption="CAP2"></photo-set>
+<photo-set layout="wide" keys="uae-heat-safety-guide-2" alts="The sun setting over the Abu Dhabi Corniche beach, with rows of furled parasols and sunloungers silhouetted against an orange sky" caption="As the sun drops, waterfronts such as the Abu Dhabi Corniche become the natural place to be outdoors."></photo-set>
 
 ### What a sensible hot day looks like
 
@@ -132,7 +132,7 @@ If that applies to anyone in your group, TravelHealthPro advises getting advice 
 
 TravelHealthPro is blunt about parked cars: [never leave anyone](https://travelhealthpro.org.uk/factsheets/extreme-heat), including babies, young children or animals, in a closed car, as they can overheat very quickly. Even a short stop counts.
 
-<photo-set layout="trio" keys="uae-heat-safety-guide-3,uae-heat-safety-guide-4,uae-heat-safety-guide-5" alts="ALT3|ALT4|ALT5" caption="CAP3"></photo-set>
+<photo-set layout="trio" keys="uae-heat-safety-guide-3,uae-heat-safety-guide-4,uae-heat-safety-guide-5" alts="Date palms shading grass and a stone irrigation channel in the Al Ain Oasis|ALT4|ALT5" caption="CAP3"></photo-set>
 
 ## Warning signs: heat exhaustion and heatstroke
 

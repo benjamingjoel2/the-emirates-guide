@@ -77,13 +77,13 @@ Do not miss what is below you. At the base of the hill stands a slightly larger 
 
 ### What the path is like
 
-<photo-set layout="inset-left" keys="dhayah-fort-guide-2" alts="Dhayah Fort's mud-brick walls and towers seen from below on the rocky hillside" caption="The fort seen from the slope below."></photo-set>
-
 The tourism board puts the climb at 239 zigzagging steps. It describes the way up as uneven and rocky, and says it is not accessible to prams, wheelchairs or other mobility aids. There is no lighting.
 
 Take it steadily. The steps vary in height, some are worn smooth, and there are few places to sit. Children should be kept close, and anyone unsteady on their feet may prefer to enjoy the lower fort and the oasis from the ground. Most reasonably fit visitors will reach the top without trouble, but in warm weather even a short exposed climb is tiring, so pause on the turns and drink as you go.
 
 ### At the top
+
+<photo-set layout="inset-left" keys="dhayah-fort-guide-2" alts="The crenellated mud-brick tower and low wall at the top of Dhayah Fort, with grey rocky mountains close behind" caption="At the top, the fort walls stand right below the mountains."></photo-set>
 
 The reward is the view. The tourism board describes it running from the mountains across palm trees and green land to neighbouring Oman and down to the sea. Walk slowly around the fort walls and you can pick out the patchwork of gardens, the scattered towers and the mountains rising sharply behind.
 

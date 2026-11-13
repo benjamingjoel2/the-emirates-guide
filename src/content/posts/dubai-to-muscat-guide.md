@@ -47,7 +47,7 @@ Getting from Dubai to Muscat is one of the most rewarding moves you can make on 
 
 The short version: flying is the simplest and quickest; driving gives you the mountains and the freedom to stop, but only works if your hire car is allowed into Oman; and a bus or guided overland trip sits in between. Whichever you choose, check Oman's entry rules for your passport first. Here is how each option works, how the day on the road actually unfolds, and what to do once you arrive.
 
-<photo-set layout="trio" keys="dubai-to-muscat-guide-1,dubai-to-muscat-guide-2,dubai-to-muscat-guide-3" alts="A road curving past the green water of Hatta Dam, with layered brown mountains behind|A narrow road climbing through rocky mountains in Oman|Mutrah Corniche in Muscat at night, with lights along the seafront and hills behind" caption="From the Hatta mountains to the Muscat seafront: the overland route crosses some of the region's most varied scenery."></photo-set>
+<photo-set layout="trio" keys="dubai-to-muscat-guide-1,dubai-to-muscat-guide-2,dubai-to-muscat-guide-3" alts="A road curving past the green water of Hatta Dam, with layered brown mountains behind|A winding track below high limestone peaks in the Hajar Mountains of Oman|Mutrah Corniche in Muscat at night, with a domed pavilion on the promenade, the lit entrance to Mutrah Souq and a floodlit fort on the hill" caption="From the Hatta mountains to the Muscat seafront: the overland route crosses some of the region's most varied scenery."></photo-set>
 
 ## Which option suits you?
 
@@ -155,7 +155,7 @@ If you only plan one visit on your first morning, make it the Grand Mosque, and 
 
 That narrow morning window is the reason to arrive the day before rather than on the morning itself. A late arrival after a long drive, followed by an early start, is far easier than trying to fit the mosque around a border crossing.
 
-<photo-set layout="pair" keys="dubai-to-muscat-guide-5,dubai-to-muscat-guide-6" alts="The Sultan Qaboos Grand Mosque in Muscat, with its tall minaret and patterned dome beyond flowerbeds and clipped trees in the gardens|Inside Mutrah Souq in Muscat, a covered lane lined with shops selling white embroidered kuma caps" caption="The Grand Mosque in the morning and Mutrah Souq later in the day make a classic first day in Muscat."></photo-set>
+<photo-set layout="pair" keys="dubai-to-muscat-guide-5,dubai-to-muscat-guide-6" alts="The Sultan Qaboos Grand Mosque in Muscat, with its tall minaret and patterned dome beyond flowerbeds and clipped trees in the gardens|A stall in Mutrah Souq in Muscat stacked with embroidered kuma caps and clay incense burners" caption="The Grand Mosque in the morning and Mutrah Souq later in the day make a classic first day in Muscat."></photo-set>
 
 ### Mutrah Souq and the Corniche
 

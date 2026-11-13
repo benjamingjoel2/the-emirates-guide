@@ -135,7 +135,7 @@ The Foreign Office warns that rip currents [can occur at any beach](https://www.
 - Smart casual outfits that cover shoulders and knees
 - A light layer for cold air conditioning; Visit Abu Dhabi advises women to take [a pashmina or jacket because of cold air](https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear) in the evenings
 
-<photo-set layout="inset-left" keys="uae-packing-list-3" alts="PH3" caption="The textile souk in Bur Dubai is one place to pick up a scarf, though it is easier to pack one."></photo-set>
+<photo-set layout="inset-left" keys="uae-packing-list-3" alts="A covered lane of the textile souk in Bur Dubai, with wooden pillars, hanging lanterns and stalls of clothes and fabrics on both sides" caption="The textile souk in Bur Dubai is one place to pick up a scarf, though it is easier to pack one."></photo-set>
 
 The same page notes that malls, health clubs and resorts are generally more accepting of fashionable clothing, but that it is best to cover your shoulders and legs when visiting government offices. It also says short or tight clothing may be worn but will attract attention, most of it unwelcome. Packing a couple of longer, looser outfits saves you from having to think about it each morning.
 

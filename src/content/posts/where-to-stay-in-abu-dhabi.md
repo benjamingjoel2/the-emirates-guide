@@ -190,7 +190,7 @@ During Ramadan, the UK advice suggests [checking the opening hours of shops and 
 
 On a longer trip, two bases can give you the best of both: a few nights in the centre or Al Maqtaa for the mosque, the old town and the port, then a few on Saadiyat or Yas to slow down. Heritage first, while you still have energy for early starts, and the beach last tends to work well. Check that moving day does not clash with a booked visit.
 
-<photo-set layout="trio" keys="where-to-stay-in-abu-dhabi-4,where-to-stay-in-abu-dhabi-5,where-to-stay-in-abu-dhabi-6" alts="A restored sand-coloured fort building with a crenellated square tower and a flagpole at Al Maqtaa|Jetties with moored boats and colourful kayaks at the Eastern Mangroves promenade, with mangroves and distant towers across the water|A paved path curving past mangrove trees and shallow water at Jubail Mangrove Park" caption="Al Maqtaa's heritage, the Eastern Mangroves and Jubail's boardwalks are all within reach of more than one base."></photo-set>
+<photo-set layout="trio" keys="where-to-stay-in-abu-dhabi-4,where-to-stay-in-abu-dhabi-5,where-to-stay-in-abu-dhabi-6" alts="A restored sand-coloured fort building with a crenellated square tower and a flagpole at Al Maqtaa|Jetties with moored boats and colourful kayaks at the Eastern Mangroves promenade, with mangroves and distant towers across the water|A raised wooden boardwalk deck with a rope net over shallow green water among mangrove trees at Jubail Mangrove Park" caption="Al Maqtaa's heritage, the Eastern Mangroves and Jubail's boardwalks are all within reach of more than one base."></photo-set>
 
 ## Quick answers
 

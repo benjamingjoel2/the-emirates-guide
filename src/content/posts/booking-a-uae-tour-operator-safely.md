@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "booking-a-uae-tour-operator-safely-hero"
-heroAlt: "A four-wheel-drive vehicle climbing a sand dune on a desert drive near Dubai, throwing up a spray of sand"
+heroAlt: "A white four-wheel-drive vehicle crossing sand dunes near Dubai at sunset, with other vehicles following behind"
 featured: false
 startHere: false
 plan: "A verified local operator can explain how they are licensed, what their safety procedures are and exactly what your booking includes, in writing, before you pay anything."
@@ -31,7 +31,7 @@ Stop there. Most tour operators in the UAE are professional and well run, and bo
 
 So how do you book a UAE tour operator safely? Check who you are actually dealing with, ask about safety in plain terms, get everything in writing, pay in a way that leaves a record, and make sure your insurance covers what you are doing. Here is how to do each, what to check on the day itself, and what to watch out for.
 
-<photo-set layout="wide" keys="booking-a-uae-tour-operator-safely-1" alts="A desert safari camp near Dubai with low seating, carpets and lanterns laid out on the sand" caption="Desert camps are among the most booked trips in the UAE, and among the most varied in quality."></photo-set>
+<photo-set layout="wide" keys="booking-a-uae-tour-operator-safely-1" alts="A desert camp near Dubai at dusk, with rows of floor cushions, shisha pipes and hanging lanterns set out on the sand" caption="Desert camps are among the most booked trips in the UAE, and among the most varied in quality."></photo-set>
 
 ## Where to book: direct, platform or hotel
 

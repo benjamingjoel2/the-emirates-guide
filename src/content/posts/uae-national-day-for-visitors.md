@@ -51,6 +51,8 @@ You will see the name Eid Al Etihad on banners and in the media. Gulf News expla
 
 ### Where the union was signed
 
+<photo-set layout="inset-right" keys="uae-national-day-for-visitors-4" alts="I1" caption="CAPTION"></photo-set>
+
 If you want to stand where the story began, head to Dubai. The National describes the Etihad Museum as sitting beside Union House, [where the Constitution was signed in 1971](https://www.thenationalnews.com/arts-culture/2025/08/29/dubai-visit-etihad-museum-highlights), and notes that the museum's entrance has seven pen-like columns symbolising the signing of the agreement by the seven leaders. Most of the galleries sit underground, with curving white ceilings, light wells and sunken courtyards. The same article suggests allowing time to see Union House as well as the museum. A visit in the days before National Day gives the celebrations around you much more meaning; our [Etihad Museum guide](/stories/etihad-museum-dubai/) has the practical details.
 
 ## National Day holiday dates and what they mean for you
@@ -126,7 +128,7 @@ In the second half of November, decorations go up. Flags appear on buildings and
 
 Commemoration Day comes next, with a solemn tone. Ceremonies take place at memorials and public buildings, and the country pauses for the minute's silence. Shops and attractions usually stay open, so your plans need not change, but this is a day to be quieter in public.
 
-<photo-set layout="inset-right" keys="uae-national-day-for-visitors-4" alts="I1" caption="CAPTION"></photo-set>
+<photo-set layout="full" keys="uae-national-day-for-visitors-5" alts="F1" caption="CAPTION"></photo-set>
 
 Then the mood lifts. On National Day itself the official ceremony is broadcast, families head out to parks, beaches and corniches, and fireworks and drone shows fill the evening sky in many places. The holiday days that follow tend to be relaxed, with long family outings and busy restaurants.
 
@@ -167,8 +169,6 @@ The mood is joyful, but local rules still apply.
 - **Take care on the roads.** Police publish rules for decorated cars and celebratory driving. An earlier Abu Dhabi Police notice, for example, prohibited [changing a vehicle's colour, covering number plates, blocking windscreens with posters and carrying more passengers than permitted](https://adpolice.gov.ae/en/Media-Center/News/2021/06/29/Abu-Dhabi-traffic-police-set-car-decoration-guidelines-for-National-Day-). If you are driving a hire car, avoid decorating it and expect slow, crowded roads.
 
 ## Planning a trip around National Day
-
-<photo-set layout="full" keys="uae-national-day-for-visitors-5" alts="F1" caption="CAPTION"></photo-set>
 
 
 Early December is a popular time to visit, with celebrations adding to the appeal. Our guide to [the UAE in December](/stories/uae-in-december/) covers the rest of the month, and the [month-by-month guide](/stories/best-time-to-visit-uae-month-by-month/) helps you compare it with other times. More practical advice is collected in our [travel tips section](/travel-tips/).

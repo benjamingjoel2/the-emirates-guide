@@ -6,7 +6,7 @@ emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "where-to-stay-in-dubai-hero"
-heroAlt: "The Downtown Dubai skyline with the Burj Khalifa rising above the surrounding towers under a clear sky"
+heroAlt: "Dubai at night from high above, with Sheikh Zayed Road lit up and the Burj Khalifa rising on the skyline"
 featured: false
 startHere: false
 plan: "A verified local operator can suggest a neighbourhood that suits your interests, budget and travel style, advise on splitting a stay between two areas, and arrange transfers that match your arrival time."

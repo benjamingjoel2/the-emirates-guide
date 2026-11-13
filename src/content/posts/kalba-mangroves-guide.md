@@ -6,7 +6,7 @@ emirates: ["sharjah"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "kalba-mangroves-guide-hero"
-heroAlt: "Dense green mangroves lining a still tidal channel at Khor Kalba, with mountains on the horizon"
+heroAlt: "A tidal channel curving past a line of mangroves at Khor Kalba, with hazy mountains behind"
 featured: false
 startHere: false
 plan: "A verified local operator can arrange guided kayaking in the Kalba mangroves at the right tide, combine it with the heritage house and Khorfakkan, and handle the long drive from Dubai or Sharjah city so you arrive while the light is still soft."

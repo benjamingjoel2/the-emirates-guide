@@ -727,22 +727,6 @@
   "source": "https://commons.wikimedia.org/wiki/File%3AThe_Dubai_Fountain_%281%29.jpg",
   "description": "English: The Dubai Fountain, UAE"
  },
- "desert-stay-or-city-hotel-uae-7": {
-  "file": "File:December_Desert_Sunrise.jpg",
-  "author": "CSphotos",
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "source": "https://commons.wikimedia.org/wiki/File%3ADecember_Desert_Sunrise.jpg",
-  "description": "Date 18 December 2020 Source Own work Author CSphotos"
- },
- "uae-in-winter-4": {
-  "file": "File:Al_Bastakiya_2.jpg",
-  "author": "EditQ",
-  "license": "CC0",
-  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "source": "https://commons.wikimedia.org/wiki/File%3AAl_Bastakiya_2.jpg",
-  "description": "English: Al Bastakiya"
- },
  "ras-al-khaimah-travel-guide-hero": {
   "file": "File:Jebel_Jais_Mountain_Ranges_as_viewed_from_Ras_Al_Khaimah,_United_Arab_Emirates.jpg",
   "author": "Ginevrajocosa88",
@@ -774,14 +758,6 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "source": "https://commons.wikimedia.org/wiki/File%3AAbu_Dhabi_%28UAE%29%2C_Zayed_International_Airport%2C_Terminal_A_%2802%29.jpg",
   "description": "English: Terminal A of Zayed International Airport in Abu Dhabi, United Arab Emirates."
- },
- "uae-tourist-visa-guide-hero": {
-  "file": "File:1_Dubai_International_Airport_Terminal_3.jpg",
-  "author": "EditQ",
-  "license": "CC0",
-  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "source": "https://commons.wikimedia.org/wiki/File%3A1_Dubai_International_Airport_Terminal_3.jpg",
-  "description": "English: Dubai International Terminal 3"
  },
  "emirati-breakfast-guide-5": {
   "file": "File:Al_Bastakiya_of_Dubai.jpg",
@@ -870,5 +846,349 @@
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "source": "https://commons.wikimedia.org/wiki/File%3ASharjah_Museum_of_Islamic_Civilization_19.jpg",
   "description": "English: Sharjah Museum of Islamic Civilization"
+ },
+ "arabic-coffee-etiquette-hero": {
+  "file": "File:A_dallah_of_Arabic_coffee.jpg",
+  "author": "Abdulla Al Muhairi",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AA_dallah_of_Arabic_coffee.jpg",
+  "description": "English: A dallah of Arabic coffee"
+ },
+ "birdwatching-in-the-uae-hero": {
+  "file": "File:Ras_Al_Khor_Wildlife_Sanctuary_with_Dubai_Skyline.jpg",
+  "author": "Florian Kriechbaumer",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ARas_Al_Khor_Wildlife_Sanctuary_with_Dubai_Skyline.jpg",
+  "description": "English: Ras Al Khor wildlife sanctuary with Dubai skyline"
+ },
+ "uae-honeymoon-guide-hero": {
+  "file": "File:Sunset_captured_on_Dubai_Dunes_(Wide_Angle).jpg",
+  "author": "iMahesh",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ASunset_captured_on_Dubai_Dunes_%28Wide_Angle%29.jpg",
+  "description": "English: Sunset captured on Dubai Dunes"
+ },
+ "al-bidya-mosque-guide-hero": {
+  "file": "File:Al_Bidiyah_Mosque.jpg",
+  "author": "Aman Ullah Khan",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AAl_Bidiyah_Mosque.jpg",
+  "description": "English: Al Badiyah Mosque"
+ },
+ "uae-honeymoon-guide-3": {
+  "file": "File:Khorfakkan_Corniche.jpg",
+  "author": "Iwona Rege",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AKhorfakkan_Corniche.jpg",
+  "description": "English: Khorfakkan Corniche"
+ },
+ "booking-a-uae-tour-operator-safely-hero": {
+  "file": "File:A_car_on_Dubai_Dune_bashing.jpg",
+  "author": "iMahesh",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AA_car_on_Dubai_Dune_bashing.jpg",
+  "description": "English: A car on Dubai Dune bashing"
+ },
+ "sheikh-zayed-grand-mosque-visitor-guide-1": {
+  "file": "File:Abu dhabi, Moschea dello Sceicco Zayed, atrio della sala di preghiera, paresti con incrostazioni floreali di pietre dure a rilievo 01.jpg",
+  "author": "Francesco Bini",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AAbu_dhabi%2C_Moschea_dello_Sceicco_Zayed%2C_atrio_della_sala_di_preghiera%2C_paresti_con_incrostazioni_floreali_di_pietre_dure_a_rilievo_01.jpg",
+  "description": "English: Sheikh Zayed Mosque"
+ },
+ "museum-of-the-future-guide-hero": {
+  "file": "File:Museum_of_the_Future_9.jpg",
+  "author": "EditQ",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File%3AMuseum_of_the_Future_9.jpg",
+  "description": "English: Museum of the Future"
+ },
+ "emirati-breakfast-guide-6": {
+  "file": "File:Bastakiya,_Old_Dubai_(8972028630).jpg",
+  "author": "Fabio Achilli from Milano, Italy",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ABastakiya%2C_Old_Dubai_%288972028630%29.jpg",
+  "description": "A Shop in Bastakiya, this is Old Dubai! Date 17 August 2012, 08:21 Source Bastakiya, Old Dubai Author Fabio Achilli from Milano, Italy"
+ },
+ "uae-dates-guide-hero": {
+  "file": "File:Liwa_Oasis_palm_trees_with_the_desert_view.jpg",
+  "author": "Josephyousry",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ALiwa_Oasis_palm_trees_with_the_desert_view.jpg",
+  "description": "English: Liwa Oasis palm trees with the desert view"
+ },
+ "bringing-medicines-into-uae-hero": {
+  "file": "File:Dubai_International_Airport_interior_of_Terminal_3,_2019,_03.jpg",
+  "author": "Kgbo",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ADubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_03.jpg",
+  "description": "English: Dubai International Airport interior of Terminal 3, 2019"
+ },
+ "uae-dates-guide-4": {
+  "file": "File:Liwa_dates_festival_2017.jpg",
+  "author": "ShiluGeo1PU",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ALiwa_dates_festival_2017.jpg",
+  "description": "English: Pheonix dactylifera"
+ },
+ "sharjah-day-trip-from-dubai-3": {
+  "file": "File:Blue_Souk,_Sharjah,_UAE_(4323843389).jpg",
+  "author": "yeowatzup",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ABlue_Souk%2C_Sharjah%2C_UAE_%284323843389%29.jpg",
+  "description": "Blue Souk, Sharjah, UAE Date 16 January 2010, 10:59 Source Blue Souk, Sharjah, UAE Author yeowatzup"
+ },
+ "snorkelling-diving-uae-east-coast-2": {
+  "file": "File:Morena_leopardo_(Gymnothorax_favagineus),_islas_Ad_Dimaniyat,_Omán,_2024-08-13,_DD_84.jpg",
+  "author": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:bor",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AMorena_leopardo_%28Gymnothorax_favagineus%29%2C_islas_Ad_Dimaniyat%2C_Om%C3%A1n%2C_2024-08-13%2C_DD_84.jpg",
+  "description": "English: Laced moray ( Gymnothorax favagineus ), Ad Dimaniyat Islands, Oman. This moray, also called leopard moray eel, can reach a maximum length of 3 metres (9.8 ft). The laced moray lives on the ou"
+ },
+ "uae-dates-guide-7": {
+  "file": "File:Stuffed_Dates_with_Nuts.jpg",
+  "author": "Mervat Salman",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AStuffed_Dates_with_Nuts.jpg",
+  "description": "English: تمور محشوة باللوز"
+ },
+ "camel-racing-uae-guide-1": {
+  "file": "File:Robot_jockey_army.jpg",
+  "author": "Lars Plougmann from London, United Kingdom",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ARobot_jockey_army.jpg",
+  "description": "Take me to your leader! Date 26 December 2006, 05:53 Source Robot jockey army - P1030118 Author Lars Plougmann from London, United Kingdom"
+ },
+ "uae-protected-areas-guide-hero": {
+  "file": "File:A_view_of_the_Hatta_Mountains_in_Hatta_Dam.jpg",
+  "author": "Chuck202",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AA_view_of_the_Hatta_Mountains_in_Hatta_Dam.jpg",
+  "description": "Date 30 June 2018, 15:14:28 Source Own work Author Chuck202"
+ },
+ "al-ain-day-trip-hero": {
+  "file": "File:Al-Ain_Camel_Market_(10).jpg",
+  "author": "Radosław Botev",
+  "license": "CC BY 3.0 pl",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File%3AAl-Ain_Camel_Market_%2810%29.jpg",
+  "description": "English: Al-Ain Camel Market, UAE"
+ },
+ "uae-weekend-and-opening-hours-2": {
+  "file": "File:Gold_Souk_in_Deira_Dubai.JPG",
+  "author": "HighKing",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "source": "https://commons.wikimedia.org/wiki/File%3AGold_Souk_in_Deira_Dubai.JPG",
+  "description": "English: The entrance to the Gold Souk in Deira, Dubai"
+ },
+ "abu-dhabi-corniche-guide-hero": {
+  "file": "File:Abu_Dhabi_Corniche_Beach_at_Sunset,_Facing_Water.jpg",
+  "author": "Ramsey Mikati",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AAbu_Dhabi_Corniche_Beach_at_Sunset%2C_Facing_Water.jpg",
+  "description": "English: This picture is a view of the corniche beach in Abu Dhabi, at sunset."
+ },
+ "how-visitors-can-join-iftar-hero": {
+  "file": "File:Breaking_the_Fast_(2)_(27351979537).jpg",
+  "author": "Gabby Canonizado from Dubai, United Arab Emirates",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ABreaking_the_Fast_%282%29_%2827351979537%29.jpg",
+  "description": "@ Bur Dubai Grand Mosque, Dubai, UAE. \"Breaking the Fast\" Many mosques will provide iftar (literally: break fast) meals after sundown for the community to come and end their day's fasting as a whole. "
+ },
+ "sharjah-rules-for-visitors-3": {
+  "file": "File:Canal_near_Noor_Mosque.jpg",
+  "author": "Musatalha",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ACanal_near_Noor_Mosque.jpg",
+  "description": "English: The calmness of canal near Noor Mosque, Sharjah"
+ },
+ "where-to-see-arabian-oryx-6": {
+  "file": "File:Wasit_Wetland_center_4.jpg",
+  "author": "Iman Shaggag",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AWasit_Wetland_center_4.jpg",
+  "description": "English: Wasit Wetland center"
+ },
+ "uae-travel-insurance-guide-hero": {
+  "file": "File:Taxis_outside_Dubai_International_Airport_Terminal_2.jpg",
+  "author": "Ravi Dwivedi",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ATaxis_outside_Dubai_International_Airport_Terminal_2.jpg",
+  "description": "English: Taxis outside Dubai International Airport Terminal 2"
+ },
+ "fujairah-travel-guide-2": {
+  "file": "File:Road_between_Fujairah_mountains.jpg",
+  "author": "Aleksandr Serebrennikov",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ARoad_between_Fujairah_mountains.jpg",
+  "description": "English: Road between Fujairah mountains"
+ },
+ "how-visitors-can-join-iftar-2": {
+  "file": "File:Tharid..JPG",
+  "author": "Miansari66",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File%3ATharid..JPG",
+  "description": "English: Sareed"
+ },
+ "where-to-stay-in-dubai-hero": {
+  "file": "File:Downtown,_Dubai_(36714617205).jpg",
+  "author": "https://pixabay.com/users/bulletrain743-3598825/",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File%3ADowntown%2C_Dubai_%2836714617205%29.jpg",
+  "description": "English: Skyline of Dubai"
+ },
+ "booking-a-uae-tour-operator-safely-1": {
+  "file": "File:Desert_Safari_Camp,_Dubai_(16613688372).jpg",
+  "author": "traveljunction",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ADesert_Safari_Camp%2C_Dubai_%2816613688372%29.jpg",
+  "description": "COPYRIGHT AND CC INFORMATION **** If you like and want to use our photos you're welcome to but we require that you give us the required attribution on each image you use. An example of the required at"
+ },
+ "yas-island-guide-1": {
+  "file": "File:Yas_Marina_Circuit_+_Ferrari_World_-Abu_Dhabi.jpg",
+  "author": "Dapaan",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AYas_Marina_Circuit_%2B_Ferrari_World_-Abu_Dhabi.jpg",
+  "description": "Deutsch: Formel 1-Rennstrecke, Dragster-Rennstrecke, Abu Dhabi, Rennstrecke Vereinigte Arabische Emirate, Ferrari World, Bauwerk in Abu Dhabi"
+ },
+ "uae-laws-for-tourists-2": {
+  "file": "File:Sharjah_Corniche_2012_(14).jpg",
+  "author": "Thomas Dahlstrøm Nielsen",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ASharjah_Corniche_2012_%2814%29.jpg",
+  "description": "Dansk: Sharjah Corniche 2012"
+ },
+ "uae-tourist-visa-guide-1": {
+  "file": "File:Abu_Dhabi_International_Airport-_Terminal_3_sign.jpg",
+  "author": "Xavierf69",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AAbu_Dhabi_International_Airport-_Terminal_3_sign.jpg",
+  "description": "English: This is a picture in Abu Dhabi International Airport Terminal 3, it is after check in."
+ },
+ "uae-tourist-visa-guide-5": {
+  "file": "File:Metro_Dubai_(7069089103).jpg",
+  "author": "Cornelius Kibelka from Berlin, Germany",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AMetro_Dubai_%287069089103%29.jpg",
+  "description": "English: Platform at Airport Terminal 3 Red Line Dubai Metro station, Dubai International Airport, Dubai, UAE, for trains to Jebel Ali (since June 2015 UAE Exchange) station, on 4 April 2012."
+ },
+ "alcohol-rules-in-the-uae-hero": {
+  "file": "File:Dubai_Marina_Towers_by_night.jpg",
+  "author": "Gfilip",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ADubai_Marina_Towers_by_night.jpg",
+  "description": "English: This illustation is part of the Images from UAE in Lens Competition"
+ },
+ "uae-laws-for-tourists-6": {
+  "file": "File:Jumeirah_Public_Beach_-_panoramio.jpg",
+  "author": "V0L0DYA",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AJumeirah_Public_Beach_-_panoramio.jpg",
+  "description": "Jumeirah Public Beach Date Taken on 20 May 2013 Source https://www.panoramio.com/photo/91102028 Author V0L0DYA Permission ( Reusing this file )"
+ },
+ "bringing-medicines-into-uae-3": {
+  "file": "File:A_Neatly_Packed_Suitcase_for_a_Holiday.jpg",
+  "author": "Familydestinationsguide.com Images",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AA_Neatly_Packed_Suitcase_for_a_Holiday.jpg",
+  "description": "English: An image of two people neatly packing a suitcase with piles of folded clothes and toys. There are two potted plants in the background. We have chosen to release this image under Creative Comm"
+ },
+ "bringing-medicines-into-uae-7": {
+  "file": "File:Liwa_Desert_in_Abu_Dhabi.jpg",
+  "author": "JSPhotography2016",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ALiwa_Desert_in_Abu_Dhabi.jpg",
+  "description": "English: The Liwa road in Abu Dhabi"
+ },
+ "alcohol-rules-in-the-uae-7": {
+  "file": "File:Food_Items_of_Iftar_for_a_Group_of_Peoples_(1).jpg",
+  "author": ".mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:bor",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AFood_Items_of_Iftar_for_a_Group_of_Peoples_%281%29.jpg",
+  "description": "English: Food Items of Iftar for a Group of People in Dubai, UAE"
+ },
+ "alcohol-rules-in-the-uae-3": {
+  "file": "File:Dubai_Creek_Harbor.jpg",
+  "author": "Yousrafayed",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ADubai_Creek_Harbor.jpg",
+  "description": "English: Sunset view across Dubai Creek at Dubai Creek Harbour, Dubai , UAE . This illustration is part of the Images from UAE in Lens Competition. It depicts a sunset view of boats in Dubai Creek Har"
+ },
+ "photography-and-drone-rules-uae-2": {
+  "file": "File:Dubai_Spice_Souk_2018.jpg",
+  "author": "Frodlekis",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ADubai_Spice_Souk_2018.jpg",
+  "description": "Svenska: Kryddor av olika slag vid Dubais kryddsouk, Förenade Arabemiraten."
+ },
+ "uae-laws-for-tourists-4": {
+  "file": "File:Dubai_in_January_2025_08.jpg",
+  "author": "Renek78",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File%3ADubai_in_January_2025_08.jpg",
+  "description": "English: Taxi in Dubai in January 2025"
+ },
+ "alcohol-rules-in-the-uae-4": {
+  "file": "File:Sharjah_skyline.jpg",
+  "author": "Challiyan",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3ASharjah_skyline.jpg",
+  "description": "skyline view of Sharjah from Mamzar beach Dubai Date 14 December 2016 (according to Exif data) Source Own work Author Challiyan"
+ },
+ "uae-laws-for-tourists-5": {
+  "file": "File:Dubai_Cop_Car.JPG",
+  "author": "Reubentg",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "source": "https://commons.wikimedia.org/wiki/File%3ADubai_Cop_Car.JPG",
+  "description": "English: Dubai Police car."
+ },
+ "photography-and-drone-rules-uae-6": {
+  "file": "File:Jebel_Jais_road_III.jpg",
+  "author": "Montaserarqob",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File%3AJebel_Jais_road_III.jpg",
+  "description": "English: Jebel Jais road"
  }
 }

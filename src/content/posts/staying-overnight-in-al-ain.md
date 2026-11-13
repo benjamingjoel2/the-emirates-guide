@@ -5,8 +5,8 @@ category: "where-to-stay"
 emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
-hero: "jebel-jais-sunset"
-heroAlt: "Late-afternoon light on the ridges of the Jebel Jais mountains in Ras Al Khaimah"
+hero: "staying-overnight-in-al-ain-hero"
+heroAlt: "The long rocky ridge of Jebel Hafit rising behind low sand dunes near Al Ain"
 featured: false
 startHere: false
 plan: "A verified local operator can help you plan a night in Al Ain, from transfers out of Abu Dhabi or Dubai to a guided morning at the heritage sites or a night camping near Jebel Hafit."
@@ -41,6 +41,8 @@ Its own Al Ain itinerary is clear on the trade-off. A day is possible if you are
 
 There is also a sense of place you only get by staying. Visit Abu Dhabi describes Al Ain as sitting on the Omani border, [cooler than the coast and green enough that locals call it the Garden City](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage), and notes that it is where Sheikh Zayed, the UAE's founding father, was born and raised. Tree-lined streets, palm groves and a slower pace are easier to appreciate on an evening walk than through a car window on the way home.
 
+<photo-set layout="full" keys="staying-overnight-in-al-ain-1" alts="Tall date palms shading a path beside a falaj water channel in Al Ain Oasis" caption="Al Ain Oasis, part of the city's UNESCO World Heritage Site, is at its quietest early in the morning."></photo-set>
+
 If you only have one day, our [Al Ain day trip](/stories/al-ain-day-trip/) guide shows how to fit in the essentials.
 
 ## How 24 hours in Al Ain might look
@@ -64,6 +66,8 @@ At the mountain's base, Green Mubazzarah has [natural hot springs, grass and pic
 
 The same itinerary says a paved road winds [about 20 minutes to the summit](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage), and that on a clear winter day you can see deep into Oman. Go up a little before sunset to find a place to stop, and take a layer: it can feel noticeably cooler at the top than in town.
 
+<photo-set layout="pair" keys="staying-overnight-in-al-ain-2,staying-overnight-in-al-ain-3" alts="The city of Al Ain spread across the plain below, seen from high on Jebel Hafit|Weathered layered rock formations on the slopes of Jebel Hafit" caption="From the road up Jebel Hafit you look down over Al Ain, and the rock itself is worth a closer look on the way."></photo-set>
+
 Our [Jebel Hafit guide](/stories/jebel-hafit-guide/) covers the mountain in more detail.
 
 ## Morning: the hours day-trippers miss
@@ -72,7 +76,7 @@ This is where an overnight stay really pays off.
 
 ### The camel market at dawn
 
-Visit Abu Dhabi says the serious trading at Al Ain Camel Market [happens before 9 AM](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage), and suggests arriving around 7 to see camels being assessed and traded. It is a working market, not a show, so ask before photographing people. Unless you leave Dubai or Abu Dhabi very early, this is hard to reach on a day trip.
+Visit Abu Dhabi says the serious trading at Al Ain Camel Market [happens before 9 AM](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage), and suggests arriving around 7 to see camels being assessed and traded. It is a working market, not a show, so ask before photographing people. Unless you leave Dubai or Abu Dhabi very early, this is hard to reach on a day trip. The same guide calls it the largest camel market in the UAE and says it wraps up by mid-morning, so make it your first stop. Wear closed shoes, keep a respectful distance from the animals and the trucks, and step aside for camels being walked between buyers.
 
 ### The oasis before the heat
 
@@ -82,9 +86,13 @@ Next, walk into Al Ain Oasis, part of the city's UNESCO World Heritage Site. Vis
 
 Then move on to Al Ain's mudbrick heritage. Al Jahili Fort was [built in the 1890s](https://www.visitabudhabi.ae/en/things-to-do/culture/heritage/al-jahili-fort) and is one of the largest forts in the UAE. Visit Abu Dhabi highlights its permanent exhibition of photographs by the explorer Wilfred Thesiger, and suggests pairing it with [Qasr Al Muwaiji](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage), a restored mudbrick palace whose exhibition covers the region and royal family life before oil.
 
+<photo-set layout="trio" keys="staying-overnight-in-al-ain-4,staying-overnight-in-al-ain-5,staying-overnight-in-al-ain-6" alts="Camels standing in pens at Al Ain Camel Market|Water running along a narrow falaj channel between date palms in Al Ain Oasis|The mudbrick walls and round tower of Al Jahili Fort in bright sunshine" caption="A morning in Al Ain: the camel market, the falaj in the oasis and Al Jahili Fort."></photo-set>
+
 ### Hili and the Bronze Age
 
 If you have the afternoon before driving home, add Hili Archaeological Park. Visit Abu Dhabi describes it as [a Bronze Age settlement centred on the Grand Tomb](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage), with carved figures still visible on the stone, and says entry is free and that it is rarely busy. It is part of the Cultural Sites of Al Ain, which UNESCO inscribed in 2011 together with Hafit, Bidaa Bint Saud and the oases.
+
+<photo-set layout="wide" keys="staying-overnight-in-al-ain-7" alts="The restored circular Grand Tomb of stone blocks at Hili Archaeological Park in Al Ain" caption="The Grand Tomb at Hili Archaeological Park dates from the Bronze Age."></photo-set>
 
 For the full story of the UNESCO sites, see our guide to [Al Ain Oasis and the UNESCO sites](/stories/al-ain-oasis-unesco-sites/).
 
@@ -129,7 +137,7 @@ If you drive, follow the local rules carefully. The UK Foreign Office says it is
 
 ## When to go
 
-Visit Abu Dhabi calls Al Ain a year-round destination, but says the cooler days [from October to March](https://www.visitabudhabi.ae/en/where-to-go/regions/al-ain) are best for outdoor adventures. In the warmer months, shade under the palms, early starts and museums help. Its itinerary adds that in summer you should drive up Jebel Hafit early.
+Visit Abu Dhabi calls Al Ain a year-round destination, but says the cooler days [from October to March](https://www.visitabudhabi.ae/en/where-to-go/regions/al-ain) are best for outdoor adventures. In the warmer months, shade under the palms, early starts and museums help. Its itinerary adds that in summer you should drive up Jebel Hafit early, and that summer visits work if you stick to early mornings and air-conditioned stops. That is another argument for staying the night: you can do the outdoor sights at dawn and dusk, and spend the hottest hours indoors or by the pool rather than on the highway.
 
 Planning more time in the emirate? See [where to stay in Abu Dhabi](/stories/where-to-stay-in-abu-dhabi/) and our [Abu Dhabi destination page](/destinations/abu-dhabi/).
 

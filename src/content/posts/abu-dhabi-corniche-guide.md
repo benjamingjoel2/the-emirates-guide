@@ -6,7 +6,7 @@ emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "abu-dhabi-corniche-guide-hero"
-heroAlt: "Calm water and a sandy shore at Corniche Beach in Abu Dhabi at sunset, with the sky turning orange over the Gulf"
+heroAlt: "The sun setting over calm water seen from Corniche Beach in Abu Dhabi, with a giant flagpole and the Breakwater in silhouette"
 featured: false
 startHere: false
 plan: "A verified local operator can plan a Corniche day around the heat and your interests, combining the beach, the heritage sites and an evening on the water, and arrange transfers from wherever you are staying."

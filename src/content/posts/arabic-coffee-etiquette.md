@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "arabic-coffee-etiquette-hero"
-heroAlt: "A brass dallah coffee pot with a long curved spout, standing beside small cups of Arabic coffee"
+heroAlt: "A group of engraved brass and silver dallah coffee pots of different sizes with long curved spouts, displayed together"
 featured: false
 startHere: false
 plan: "A verified local operator can arrange a majlis visit, cultural meal or home hospitality experience where coffee and dates are served, and can brief you on etiquette before you arrive."

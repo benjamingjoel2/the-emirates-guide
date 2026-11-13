@@ -149,6 +149,8 @@ Abu Dhabi Culture notes that during the Eid holidays [most majlises offer sweets
 
 ### Heritage houses and museums
 
+<photo-set layout="full" keys="majlis-emirati-hospitality-7" alts="F1" caption="CAPTION"></photo-set>
+
 Many restored heritage houses and forts across the emirates include a majlis room. Even empty, the layout of cushions, carpets and coffee pots shows you how gatherings worked. Our [food and culture section](/food-culture/) has more ideas for heritage visits.
 
 ## Families, access and comfort
@@ -158,8 +160,6 @@ A majlis is usually a family-friendly space, and children are often present in l
 Sitting on the floor for a long time is not easy for everyone. If you have back, hip or knee problems, ask in advance whether chairs or higher seating are available; hosted experiences are generally used to the request. Sit cross-legged or with your legs tucked to one side rather than stretched out towards other guests, and change position quietly when you need to.
 
 If you have dietary requirements, mention them when you book a hosted meal rather than at the table. In a private home, simply take a little of what you can eat and thank your host; nobody expects you to finish everything.
-
-<photo-set layout="full" keys="majlis-emirati-hospitality-7" alts="F1" caption="CAPTION"></photo-set>
 
 ## Quick answers
 

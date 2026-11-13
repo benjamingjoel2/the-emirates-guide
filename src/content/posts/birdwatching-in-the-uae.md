@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "birdwatching-in-the-uae-hero"
-heroAlt: "Shallow water and reed beds at Ras Al Khor Wildlife Sanctuary with the Dubai skyline rising behind"
+heroAlt: "Flamingos wading in still water at Ras Al Khor Wildlife Sanctuary with scrub and the Dubai skyline behind"
 featured: false
 startHere: false
 plan: "A verified local operator can check which hides and reserves are open on your dates, arrange a guided mangrove kayak or an early start at the wetlands, and advise on binoculars, photography and access rules."

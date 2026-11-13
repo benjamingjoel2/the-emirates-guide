@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "uae-dates-guide-hero"
-heroAlt: "Rows of date palms in the Liwa Oasis with orange sand dunes rising behind them"
+heroAlt: "Dense groves of date palms in the Liwa Oasis with rolling sand dunes behind them"
 featured: false
 startHere: false
 plan: "A verified local operator can add a date market visit or a farm and oasis day to your trip, explain the varieties you taste, and advise on timing around the summer harvest and Ramadan."
@@ -84,7 +84,7 @@ According to the Abu Dhabi Media Office, the 22nd edition, organised by the Abu 
 
 The scale gives a sense of how seriously the harvest is taken. The Media Office reports that the 22nd edition brought together [more than 465 Emirati farmers across 23 categories](https://www.mediaoffice.abudhabi/en/arts-culture/22nd-liwa-dates-festival-attracts-record-breaking-participation-and-visitor-numbers/) over 10 days, and attracted approximately 80,000 visitors from across the UAE and the Gulf. The Rutab Market had 97 retail outlets and the Heritage Souq 68 stalls, while the Handicrafts Pavilion had 14 sections.
 
-<photo-set layout="pair" keys="uae-dates-guide-4,uae-dates-guide-5" alts="Displays of dates at the Liwa dates festival|Date palms growing among the sand dunes of Liwa" caption="The Liwa Dates Festival celebrates the harvest from palms grown across the region."></photo-set>
+<photo-set layout="pair" keys="uae-dates-guide-4,uae-dates-guide-5" alts="Heavy bunches of fresh dates in shades of green, yellow and red on display at the Liwa dates festival|Date palms growing among the sand dunes of Liwa" caption="The Liwa Dates Festival celebrates the harvest from palms grown across the region."></photo-set>
 
 ### What happens at the festival
 
@@ -132,7 +132,7 @@ Look out, too, for dates on breakfast tables, where date syrup is drizzled over 
 
 Dates are one of the most popular edible souvenirs. Visit Abu Dhabi suggests looking for [gourmet dates stuffed with almonds or pistachios, or coated in camel milk chocolate](https://visitabudhabi.ae/en/plan-your-trip/what-to-buy-and-souvenirs), and the UAE portal mentions [dates stuffed with almonds or candied orange peel](https://u.ae/en/about-the-uae/culture/food) as luxury gifts.
 
-<photo-set layout="inset-right" keys="uae-dates-guide-7" alts="PLACEHOLDER" caption="PLACEHOLDER"></photo-set>
+<photo-set layout="inset-right" keys="uae-dates-guide-7" alts="A round tray of stuffed dates, some filled with almonds and others rolled in sesame seeds or coconut, each in a paper case" caption="Filled and coated dates make an easy gift for people new to them."></photo-set>
 
 Visit Abu Dhabi also describes camel milk chocolate, made by [blending camel milk with vanilla, honey and cocoa beans](https://visitabudhabi.ae/en/plan-your-trip/what-to-buy-and-souvenirs/dates-chocolates-and-sweets) and sold in bars, pralines and camel-shaped figurines, which makes a natural companion to a box of dates.
 

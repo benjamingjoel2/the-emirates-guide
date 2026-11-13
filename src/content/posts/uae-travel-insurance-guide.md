@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "uae-travel-insurance-guide-hero"
-heroAlt: "The palm-lined approach to the Sheikh Zayed Grand Mosque in Abu Dhabi, with its white minarets at the far end"
+heroAlt: "A line of cream and red Dubai taxis waiting at the kerb outside an airport terminal"
 featured: false
 startHere: false
 plan: "A verified local operator can tell you exactly which activities, vehicles and boats your trip involves, so you can check them against your policy before you travel, and can advise on what to do if someone falls ill during a tour."

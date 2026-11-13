@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "uae-honeymoon-guide-hero"
-heroAlt: "HEROALT"
+heroAlt: "A red sun sinking into haze over low sand dunes and desert shrubs outside Dubai"
 featured: false
 startHere: false
 plan: "A verified local operator can shape a honeymoon route around the pace you want, arrange private desert dinners, mountain days or island stays, and talk you through local customs before you arrive."
@@ -115,7 +115,7 @@ Check the calendar before you book. The same page says the Liwa International Fe
 
 On the east coast, Khorfakkan's [crescent-shaped beach](https://www.visitsharjah.com/activities/beaches/khorfakkan-beach/) faces the Gulf of Oman with mountains behind, and Visit Sharjah mentions snorkelling and diving near Shark Island, a short boat ride away. The same page says the beach runs for 3 kilometres and is lined with palm trees. Remember that Khorfakkan is part of Sharjah, where alcohol is banned.
 
-<photo-set layout="inset-left" keys="uae-honeymoon-guide-3" alts="ALT3" caption="CAP3"></photo-set>
+<photo-set layout="inset-left" keys="uae-honeymoon-guide-3" alts="A broad shade tree on the sand of Khorfakkan beach, with a couple walking at the water edge and the bay beyond" caption="Shade on the sand at Khorfakkan, on the Gulf of Oman coast."></photo-set>
 
 In the evening, walk along the bay to the amphitheatre, where a man-made waterfall carved out of natural rock is [often illuminated at night](https://www.visitsharjah.com/activities/culture/khorfakkan-amphitheater-and-waterfall/). Swim only where there are lifeguards, and stay out of the water when red flags are flying; the UK government says they [mean swimming is dangerous](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security).
 

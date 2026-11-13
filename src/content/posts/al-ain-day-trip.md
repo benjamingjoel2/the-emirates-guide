@@ -6,7 +6,7 @@ emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "al-ain-day-trip-hero"
-heroAlt: "HEROALT"
+heroAlt: "Camels and handlers on the open sandy ground in front of the covered pens at the Al Ain camel market"
 featured: false
 startHere: false
 plan: "A verified local operator can arrange a driver or guide for an Al Ain day trip, book a supervised visit to the camel market, order the stops around the oasis, forts and Jebel Hafit, and advise on timings for the month you travel."

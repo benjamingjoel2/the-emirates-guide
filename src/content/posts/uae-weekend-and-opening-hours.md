@@ -37,7 +37,7 @@ For a traveller, that has three practical effects:
 - **Weekday mornings are usually the calmest time** for museums, heritage sites and popular viewpoints.
 - **Anything official** (an embassy, a government office, a licensing desk) should be planned for Monday to Thursday if you can, with Friday as a backup.
 
-<photo-set layout="pair" keys="uae-weekend-and-opening-hours-1,uae-weekend-and-opening-hours-2" alts="Sunbathers and swimmers on a wide sandy public beach in Jumeirah with the sea beyond|The arched entrance to the covered Gold Souk in Deira, Dubai" caption="Beaches fill up on Saturdays and Sundays, while souks tend to be liveliest in the late afternoon and evening."></photo-set>
+<photo-set layout="pair" keys="uae-weekend-and-opening-hours-1,uae-weekend-and-opening-hours-2" alts="Sunbathers and swimmers on a wide sandy public beach in Jumeirah with the sea beyond|The carved wooden entrance to the covered Gold Souk in Deira at night, with shoppers walking beneath it" caption="Beaches fill up on Saturdays and Sundays, while souks tend to be liveliest in the late afternoon and evening."></photo-set>
 
 ## How a normal week feels on the ground
 

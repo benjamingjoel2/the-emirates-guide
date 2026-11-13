@@ -85,7 +85,7 @@ If you want to see inside a mosque, the government portal's guidance for non-Mus
 
 Visit Sharjah describes [Al Noor Mosque](https://www.visitsharjah.com/en/activities/culture/al-noor-mosque/) as an Ottoman-style landmark on the corniche, with cascading domes, two minarets and Quranic calligraphy inside. It says the mosque offers Emirati traditional dress for visitors in the entrance area, that guides talk about Islamic culture, Emirati history and the building's architecture, and that there is time for questions at the end. Photography is allowed inside, according to the same page, and the mosque is lit up after sunset.
 
-<photo-set layout="full" keys="sharjah-rules-for-visitors-3" alts="A calm canal lined with palms and walkways near Al Noor Mosque in Sharjah, with the mosque's domes and minarets in the distance" caption="The water around Al Noor Mosque is a pleasant place to walk before or after a guided tour."></photo-set>
+<photo-set layout="full" keys="sharjah-rules-for-visitors-3" alts="A palm-lined promenade and railing beside the calm lagoon near Al Noor Mosque in Sharjah, with towers on the far shore" caption="The water around Al Noor Mosque is a pleasant place to walk before or after a guided tour."></photo-set>
 
 A few habits make a mosque visit easy. Arrive in clothes that already meet the dress code rather than relying on what is provided at the door. Take off your shoes where others do, keep your voice low, and avoid walking in front of anyone who is praying. If a prayer is about to begin, wait or come back later.
 

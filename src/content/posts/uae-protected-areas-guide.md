@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "uae-protected-areas-guide-hero"
-heroAlt: "Bare rocky ridges of the Hajar Mountains rising above the water at Hatta Dam"
+heroAlt: "Steep rocky ridges of the Hajar Mountains rising from the turquoise water of the Hatta Dam lake, with a small rocky islet"
 featured: false
 startHere: false
 plan: "A verified local operator can tell you which reserves are open on your dates, which need advance booking or an approved guide, and how to combine a desert, mountain and mangrove reserve in one trip without long drives."

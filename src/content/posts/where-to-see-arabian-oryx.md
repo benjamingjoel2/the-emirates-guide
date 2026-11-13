@@ -97,7 +97,7 @@ Al Marmoom is better known for its lakes and birds, so treat an oryx here as a b
 
 This is the surprise entry. Wasit sits inside Sharjah city, a reserve of coastal dunes, salt flats and a lake, and Visit Sharjah says visitors come especially to [spot the endangered Arabian oryx](https://www.visitsharjah.com/en/activities/nature-and-wildlife/wasit-nature-reserve/) moving across the flats between the dunes. The same page notes the reserve is closed on Sundays, and that golf carts are available for groups and families.
 
-<photo-set layout="inset-left" keys="where-to-see-arabian-oryx-6" alts="Part of the Wasit Wetland Centre building in Sharjah beside the reserve" caption="Wasit sits inside Sharjah city, so an oryx sighting can fit into a short afternoon."></photo-set>
+<photo-set layout="inset-left" keys="where-to-see-arabian-oryx-6" alts="A sandy track running between tall reed beds at Wasit in Sharjah, with a bird of prey overhead" caption="Wasit sits inside Sharjah city, so an oryx sighting can fit into a short afternoon."></photo-set>
 
 Visit Sharjah describes Wasit as the only reserve within the city's boundaries, in the Ramtha area in the north east of the city, with more than 200 bird species and eight hides fitted with binoculars. It also notes the reserve stays open later than many wildlife centres, until 6:30 pm, which means a late afternoon visit can catch the softer light when animals are more active. It suits anyone without a car or a full day, and it pairs well with birdwatching from the hides. Our guide to [birdwatching in the UAE](/stories/birdwatching-in-the-uae/) covers the wetland side.
 

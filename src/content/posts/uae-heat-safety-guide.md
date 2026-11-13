@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "uae-heat-safety-guide-hero"
-heroAlt: "HEROALT"
+heroAlt: "A hazy sun glaring over rolling orange sand dunes in the Liwa desert of Abu Dhabi"
 featured: false
 startHere: false
 plan: "A verified local operator can shape tours around the cooler parts of the day, advise on shade, water and rest stops for your group, and suggest indoor alternatives when the heat makes outdoor plans unwise."

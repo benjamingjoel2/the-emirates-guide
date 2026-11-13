@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "how-visitors-can-join-iftar-hero"
-heroAlt: "An iftar table with dates, fruit, sweets and lanterns"
+heroAlt: "Rows of men seated along the pavement outside a mosque in Dubai, with dates, laban and water laid out to break the fast"
 featured: false
 startHere: false
 plan: "A verified local operator can help you book a hosted cultural iftar or a private group iftar, plan transfers around the sunset rush, and brief you on dress and etiquette for the evening."

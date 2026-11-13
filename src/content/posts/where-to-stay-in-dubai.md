@@ -124,7 +124,7 @@ It is the most self-contained option. The Palm Monorail connects to the tram, wh
 **Best for:** honeymooners, families who want everything on site, relaxation.
 **Think twice if:** you want to explore every day.
 
-<photo-set layout="trio" keys="where-to-stay-in-dubai-3,where-to-stay-in-dubai-4,where-to-stay-in-dubai-5" alts="People strolling on the JBR beach at sunset with the towers of Dubai Marina and JBR behind|A quiet stretch of Jumeirah public beach with calm water and a low skyline|Palm Jumeirah and a yacht marina seen from a high tower at dusk" caption="The coastal bases: JBR beside the Marina, the public beaches of Jumeirah and the Palm offshore."></photo-set>
+<photo-set layout="trio" keys="where-to-stay-in-dubai-3,where-to-stay-in-dubai-4,where-to-stay-in-dubai-5" alts="People strolling on the JBR beach at sunset with the towers of Dubai Marina and JBR behind|A lifeguard tower and flag on the sand of Jumeirah public beach, with low villas and distant towers behind|Palm Jumeirah and a yacht marina seen from a high tower at dusk" caption="The coastal bases: JBR beside the Marina, the public beaches of Jumeirah and the Palm offshore."></photo-set>
 
 ## Around Zabeel and the city centre
 

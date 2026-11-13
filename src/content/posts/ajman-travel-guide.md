@@ -93,7 +93,7 @@ Late afternoon is corniche time. The heat eases, families arrive with picnic rug
 
 Visit Ajman describes the [Corniche](https://visit-ajman.ae/en/destinations/ajman-city/corniche/) as a four-kilometre esplanade overlooking the Gulf and lined with cafés and casual restaurants, and says much of the emirate's social life is centred here. It mentions a sheltered tidal pool for swimming and notes that the area really comes to life in the evening and at weekends.
 
-<photo-set layout="wide" keys="ajman-travel-guide-2" alts="A wide sandy beach on the Ajman coast with calm water and buildings along the shore" caption="Ajman's long beach and corniche are where the city comes out in the evening."></photo-set>
+<photo-set layout="wide" keys="ajman-travel-guide-2" alts="Small waves breaking on a sandy beach on the Ajman coast in soft late light" caption="Ajman's long beach and corniche are where the city comes out in the evening."></photo-set>
 
 Halfway along stands the sandy-coloured [Al Murabbaa Watchtower](https://visit-ajman.ae/en/destinations/ajman-city/al-murabbaa-watchtower/), which the tourism board says has guarded the city since the 1930s and was restored in 2000. It is a good place to pause and picture the town when it faced the sea rather than the highway.
 

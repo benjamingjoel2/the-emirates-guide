@@ -160,7 +160,7 @@ Even after a careful booking, take a minute to check things when the vehicle or 
 
 For transfers you arrange yourself, the Foreign Office advises using [only licensed taxis or recognised public transport](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), including ride-hailing apps. It also notes that in Dubai, authorised taxis are painted cream with different coloured roofs.
 
-<photo-set layout="inset-left" keys="booking-a-uae-tour-operator-safely-7" alts="PH7" caption="Licensed taxis are a safe way to reach a pickup point you have arranged yourself."></photo-set>
+<photo-set layout="inset-left" keys="booking-a-uae-tour-operator-safely-7" alts="Cream Dubai taxis with red roofs lined up at a covered taxi rank outside Dubai International Airport" caption="Licensed taxis are a safe way to reach a pickup point you have arranged yourself."></photo-set>
 
 At evening events such as desert camps, the usual common sense applies. The Foreign Office advises [not accepting drinks from strangers](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security) or leaving your drink unattended, and says not to photograph people without their permission. If a performer or a camel handler is part of the show, ask before you take close-up photos.
 

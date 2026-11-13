@@ -33,7 +33,7 @@ Early on the first morning of Eid, the streets are strangely still. Then the pra
 
 Eid is the UAE at its most joyful, and visiting during it is a pleasure as long as you know what to expect. There are two Eids each year, Eid Al Fitr at the end of Ramadan and Eid Al Adha a couple of months later, and both are public holidays. For visitors, Eid in the UAE means a festive mood, busier attractions and roads, some changed opening hours, and dates that are only confirmed shortly beforehand. Plan with a little flexibility and you will enjoy it.
 
-<photo-set layout="pair" keys="eid-in-the-uae-for-visitors-1,eid-in-the-uae-for-visitors-2" alts="P1|P2" caption="CAPTION"></photo-set>
+<photo-set layout="pair" keys="eid-in-the-uae-for-visitors-1,eid-in-the-uae-for-visitors-8" alts="P1|P2" caption="CAPTION"></photo-set>
 
 ## Two Eids, two meanings
 
@@ -69,7 +69,7 @@ Henna is part of the celebration for many women and girls. Visit Abu Dhabi descr
 
 You may also see traditional dance at heritage sites and public events. Visit Abu Dhabi describes Al Ayyala as a dance [performed by men and boys at weddings, festivals and national celebrations](https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/ayala-dancing), with two rows of performers holding thin bamboo canes and moving to the beat of drums, and notes that UNESCO recognised it in 2014. Watch respectfully and ask before filming performers up close.
 
-<photo-set layout="full" keys="eid-in-the-uae-for-visitors-3" alts="F1" caption="CAPTION"></photo-set>
+<photo-set layout="full" keys="eid-in-the-uae-for-visitors-3" alts="Men in white kandooras performing Al Ayyala in a circle, raising thin canes while a drummer plays in the centre, seen from below against a blue sky" caption="Al Ayyala performed at Al Jazirat Al Hamra Heritage Village in Ras Al Khaimah."></photo-set>
 
 ## How Eid dates are set
 

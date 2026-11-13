@@ -97,6 +97,8 @@ Buses reach the neighbourhoods the rail lines miss. RTA's bus pages include [tim
 
 Buses are most useful for short links between a metro station and a beach, a park or a residential area, and for trips to other emirates. They are slower than the metro, so for long distances inside the city the train usually wins.
 
+<photo-set layout="pair" keys="getting-around-dubai-3,getting-around-dubai-4" alts="An RTA public bus on a Dubai street in the evening|A glass-walled, air-conditioned RTA bus shelter beside a Dubai road" caption="RTA buses fill the gaps in the rail network, and some bus stops are enclosed and air-conditioned."></photo-set>
+
 ## Taxis and ride-hailing: door to door
 
 A taxi is often the easiest way home after dinner, or from the metro to a beach hotel. The UK Foreign Office advises using [only licensed taxis or other recognised forms of public transport](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), including recognised ride-hailing apps. It says authorised Dubai taxis are painted cream with different coloured roofs, and that taxis with pink roofs have female drivers. There are also special taxis for women and children.
@@ -105,7 +107,6 @@ The UAE government portal says taxis [can be hailed from the roadside or booked 
 
 Have your destination ready on a map or with a nearby landmark, as addresses can be hard to describe. If you need a child seat, book ahead rather than hailing on the street.
 
-<photo-set layout="pair" keys="getting-around-dubai-3,getting-around-dubai-4" alts="A cream Dubai taxi with a coloured roof driving along a city street|A glass-walled, air-conditioned RTA bus shelter beside a Dubai road" caption="Licensed Dubai taxis are cream with coloured roofs, and some bus stops are enclosed and air-conditioned."></photo-set>
 
 ## Abras, ferries and water taxis
 

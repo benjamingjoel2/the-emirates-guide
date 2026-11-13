@@ -60,7 +60,7 @@ One fixed point to plan around is Friday. The Jumeirah Mosque visit on day three
 
 The most common mistake is trying to fit too much into each day. Distances between Old Dubai, Downtown and the Marina are longer than they look on a map, and every journey adds a little waiting, walking and queuing. Two or three main stops a day, with a proper break in between, is a pace most people enjoy. The second mistake is underestimating the sun on the walking parts of the day, even outside high summer. The third is forgetting that some sights have their own rules on dress, bags and food, so read each stop's notes below before you set out, and carry a light layer and a refillable water bottle every day.
 
-<photo-set layout="pair" keys="three-days-in-dubai-1,three-days-in-dubai-2" alts="Sand-coloured houses and a wind tower along a quiet lane in the Al Fahidi Historical Neighbourhood|Open sacks of dried spices and herbs on display at a stall in the Deira spice souk" caption="Day one covers both banks of the Creek: the lanes of Al Fahidi and the spice souk in Deira."></photo-set>
+<photo-set layout="pair" keys="three-days-in-dubai-1,three-days-in-dubai-2" alts="Sand-coloured houses with wind towers and a minaret around a paved square in the Al Fahidi Historical Neighbourhood|Open sacks of dried spices and herbs on display at a stall in the Deira spice souk" caption="Day one covers both banks of the Creek: the lanes of Al Fahidi and the spice souk in Deira."></photo-set>
 
 ## Day one: Old Dubai, the Creek and the souks
 
@@ -117,7 +117,7 @@ Begin with one of the most rewarding hours in the city. The Centre for Cultural 
 
 Dress modestly: the UK Foreign Office advises that in public areas [women should cover shoulders and knees](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), and that some venues and buildings have their own dress codes. Bringing a light scarf is sensible for women.
 
-<photo-set layout="wide" keys="three-days-in-dubai-6" alts="The pale stone facade, dome and twin minarets of Jumeirah Mosque" caption="Jumeirah Mosque hosts guided visits for visitors every day except Friday."></photo-set>
+<photo-set layout="wide" keys="three-days-in-dubai-6" alts="The pale stone domes and twin minarets of Jumeirah Mosque rising above palm trees in the late afternoon light" caption="Jumeirah Mosque hosts guided visits for visitors every day except Friday."></photo-set>
 
 ### Afternoon: the beach
 

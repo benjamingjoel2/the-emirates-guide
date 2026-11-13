@@ -148,7 +148,7 @@ A typical Dubai day for a first-timer might begin with an early walk through the
 
 A typical Abu Dhabi day is built around fewer, bigger stops: a morning at Qasr Al Hosn or a Saadiyat museum, a long lunch, a quiet afternoon by the pool, and the Grand Mosque in the late light. There is less to choose from on the doorstep, but less rushing between places too. Neither is better. They simply suit different holidays.
 
-<photo-set layout="mosaic" keys="dubai-or-abu-dhabi-where-to-stay-5,dubai-or-abu-dhabi-where-to-stay-6,dubai-or-abu-dhabi-where-to-stay-7" alts="The white marble domes and minaret of the Sheikh Zayed Grand Mosque|Shaded date palms and a path through Al Ain Oasis|The Abu Dhabi Corniche waterfront with the city skyline behind" caption="The Grand Mosque, Al Ain Oasis and the Corniche shape a typical Abu Dhabi stay."></photo-set>
+<photo-set layout="mosaic" keys="dubai-or-abu-dhabi-where-to-stay-5,dubai-or-abu-dhabi-where-to-stay-6,dubai-or-abu-dhabi-where-to-stay-7" alts="The white marble domes and minaret of the Sheikh Zayed Grand Mosque|Shaded date palms and a path through Al Ain Oasis|A wide paved promenade lined with palms and lawns on the Abu Dhabi Corniche" caption="The Grand Mosque, Al Ain Oasis and the Corniche shape a typical Abu Dhabi stay."></photo-set>
 
 ## How we would decide
 

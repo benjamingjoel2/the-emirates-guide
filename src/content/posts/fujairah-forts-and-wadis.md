@@ -115,7 +115,7 @@ The authority also describes Wadi Siji, in a mountainous farming area, as having
 
 Two smaller valleys round out the list. The authority describes Wadi Tawian as 5 km long, about 45 km from Fujairah and reached only by a rough mountain road, with its own dam; this is one to do with a 4x4 and a guide. Al Hail wadi, by contrast, runs for about 15 km and is very close to the city, which makes it the easiest to pair with a fort visit.
 
-<photo-set layout="mosaic" keys="fujairah-forts-and-wadis-4,fujairah-forts-and-wadis-5,fujairah-forts-and-wadis-6" alts="Tall plastered wall of Awhala fort with crenellations, a small doorway and benches at its foot|ALT5|View over a wide valley of villages and farms ringed by bare mountain ridges near Wadi Ham" caption="Thick fort walls and the valleys they watched over, where dams now hold back floodwater."></photo-set>
+<photo-set layout="mosaic" keys="fujairah-forts-and-wadis-4,fujairah-forts-and-wadis-5,fujairah-forts-and-wadis-6" alts="Tall plastered wall of Awhala fort with crenellations, a small doorway and benches at its foot|The long gravel embankment of the Wadi Wurayah dam across a dry valley floor below rocky peaks|View over a wide valley of villages and farms ringed by bare mountain ridges near Wadi Ham" caption="Thick fort walls and the valleys they watched over, where dams now hold back floodwater."></photo-set>
 
 ## Staying safe in the wadis
 

@@ -102,7 +102,7 @@ Visit Abu Dhabi says the park stretches along nine kilometres at the base of the
 
 Fujairah's tourism authority describes [Wadi Ham as the largest and longest wadi in the UAE](https://www.fujairahtourism.ae/index_action-NaturalSites.html), dry for most of the year but transformed into a rushing stream after rain. It also warns that [climbs in the Hajar Mountains can be treacherous](https://www.fujairahtourism.ae/index_action-SportsAndCruises.html) and that climbers should be well prepared. Off the marked trails, this is guide territory.
 
-<photo-set layout="wide" keys="hiking-in-the-uae-7" alts="A stony track along the bed of Wadi Shawka in Ras Al Khaimah, between rocky Hajar mountain slopes" caption="Wadi beds like this one in Ras Al Khaimah are dry most of the year, but can carry fast water after rain."></photo-set>
+<photo-set layout="wide" keys="hiking-in-the-uae-7" alts="A gravel track winding into Wadi Shawka in Ras Al Khaimah between jagged brown Hajar mountains" caption="Wadis like this one in Ras Al Khaimah are dry most of the year, but can carry fast water after rain."></photo-set>
 
 ## How a hiking day usually unfolds
 

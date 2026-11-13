@@ -45,7 +45,7 @@ Temperatures below come from official sources linked inline. Treat them as avera
 
 The UAE government describes the country as having [a desert climate](https://u.ae/en/about-the-uae/fact-sheet): warm and sunny in winter, hot and humid in summer, and generally cooler in the eastern mountains. That matters if you are heading for Ras Al Khaimah's peaks or the Hajar range around Fujairah and Hatta, where the air can feel noticeably fresher than on the coast.
 
-<photo-set layout="full" keys="best-time-to-visit-uae-month-by-month-1" alts="Rocky ridges and scattered trees on the slopes of Jebel Jais in Ras Al Khaimah" caption="The mountains of Ras Al Khaimah are generally cooler than the coast."></photo-set>
+<photo-set layout="full" keys="best-time-to-visit-uae-month-by-month-1" alts="A rocky ridge with a single tree on top under a blue sky on Jebel Jais in Ras Al Khaimah" caption="The mountains of Ras Al Khaimah are generally cooler than the coast."></photo-set>
 
 Visit Abu Dhabi, the emirate's official tourism board, says the [cooler months, November to April, are the most pleasant time to visit](https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear), with temperatures around 24°C during the day and 13°C at night. The same page says rainfall is sporadic and falls mainly between November and March, and that rain is more common around the oasis city of Al Ain because it sits close to the Hajar mountains.
 
@@ -59,7 +59,7 @@ These figures are for Abu Dhabi. Dubai and the northern coastal emirates follow 
 
 The heart of the cool season: bright, clean light, shade that actually feels cool, and days that are warm rather than hot. It is the easiest month to say yes to everything outdoors: a long wander through the old creek-side districts of Dubai, a full day at Al Ain Oasis, a hike in the mountains. Visit Abu Dhabi notes that [beaches, desert trips and mountain adventures are best experienced in winter](https://visitabudhabi.ae/en/plan-your-trip/essential-info/weather-in-abu-dhabi).
 
-<photo-set layout="pair" keys="best-time-to-visit-uae-month-by-month-2,best-time-to-visit-uae-month-by-month-3" alts="Sand-coloured houses and a wind tower in the Al Fahidi historic district of Dubai|Date palms and a shaded path in Al Ain Oasis" caption="The cool months suit long walks in old Dubai and full days in Al Ain Oasis."></photo-set>
+<photo-set layout="pair" keys="best-time-to-visit-uae-month-by-month-2,best-time-to-visit-uae-month-by-month-3" alts="Sand-coloured houses and a wind tower in the Al Fahidi historic district of Dubai|A paved path between low stone walls and date palms in Al Ain Oasis" caption="The cool months suit long walks in old Dubai and full days in Al Ain Oasis."></photo-set>
 
 The catch comes after dark. Evenings can be cool enough for a jacket, particularly in the desert and the mountains, where the drop after sunset catches people out. Keep that layer in your day bag.
 

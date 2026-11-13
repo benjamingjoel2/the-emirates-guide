@@ -77,6 +77,8 @@ Sharjah's museums are the reason many visitors come at all. The [UAE government 
 
 That choice can feel overwhelming. Here is the short answer: if you see only one, make it the Sharjah Museum of Islamic Civilization. If you have a whole day, pair it with the heritage houses of the old quarter. Then pick a third by interest: archaeology, calligraphy, aviation or the sea.
 
+<photo-set layout="wide" keys="sharjah-museums-guide-1" alts="A gallery at the Sharjah Museum of Islamic Civilization with a gold necklace, embroidered robes, daggers and armour in lit glass cases" caption="Arts and crafts galleries at the Sharjah Museum of Islamic Civilization, which holds more than 5,000 artefacts."></photo-set>
+
 ## If you only see one Sharjah museum
 
 ### The Sharjah Museum of Islamic Civilization
@@ -86,6 +88,8 @@ The building alone is worth the trip, a pale landmark on the Corniche just north
 The building has a history of its own. The Sharjah Museums Authority says it [opened as Souq Al Majarrah in 1987](https://www.sharjahmuseums.ae/en-us/museums/sharjah-museum-of-islamic-civilization) and reopened as the Museum of Islamic Civilization in 2008, with a collection spanning the first century AH (the 7th century AD) to the 14th century AH (the 20th century AD). Early Islamic coins, including Umayyad and Abbasid dinars and dirhams, are shown in the atrium, and a separate gallery hosts temporary exhibitions twice a year.
 
 The ground floor deals with the Islamic faith and the work of Arab scientists and astronomers: astrolabes, manuscripts and instruments that show how far ahead the scholars of the time were. Upstairs, the galleries move through Islamic arts and crafts in order, from ceramics and coins to textiles and jewellery.
+
+<photo-set layout="pair" keys="sharjah-museums-guide-2,sharjah-museums-guide-3" alts="A black curtain densely embroidered with gold and silver Arabic calligraphy, displayed flat in a museum case|Historic surgical instruments including scissors, blades, hooks and forceps mounted in a glass case" caption="The Ka'ba door curtain and early medical instruments, two highlights of the Museum of Islamic Civilization."></photo-set>
 
 Two things not to miss: the gold-embroidered curtain made for the door of the Holy Ka'ba, and that zodiac mosaic inside the central dome. The authority describes the curtain as black silk satin embroidered with gold and silver thread, and the most prominent piece in the gallery of Islamic faith. Allow a long morning or afternoon. It is the most rewarding place in the city to sit out the midday heat.
 
@@ -107,11 +111,15 @@ Set in a restored pearl merchant's house, the [Sharjah Heritage Museum](https://
 
 ### Bait Al Naboodah
 
+<photo-set layout="inset-right" keys="sharjah-museums-guide-4" alts="The pale plastered outer walls of Bait Al Naboodah and a neighbouring coral-stone building on a wide paved square with a palm tree" caption="Bait Al Naboodah, a pearl merchant's house built in 1845."></photo-set>
+
 A few steps away, [Bait Al Naboodah](https://www.visitsharjah.com/en/activities/heritage/bait-al-naboodah-museum/) was built in 1845 around a sunlit courtyard, with coral walls, carved decoration and wind catchers. Walking its rooms, you follow the daily routines of the pearling family who lived here. It is a short visit, but it makes the rest of the district make sense. The museums authority adds that the house uses [teak columns and wind scoops built into the walls](https://www.sharjahmuseums.ae/en-us/museums/bait-al-naboodah) rather than the more familiar wind towers, and runs drop-in workshops for children and their families.
 
 ### Sharjah Fort (Al Hisn)
 
 At the centre of the quarter stands the building that once ran it. The Sharjah Museums Authority says [Al Hisn was built in 1823](https://www.sharjahmuseums.ae/en-us/museums/sharjah-fort-%28al-hisn%29) as the seat of government and home of the ruling Al Qasimi family, from coral stones collected from the sea, with teak doors and ceilings of mangrove trunks. Its rooms cover the ruling family, old defence strategies and an early jail, and show how date syrup was once made. It sits behind Souq Al Shanasiyah.
+
+<photo-set layout="mosaic" keys="sharjah-museums-guide-5,sharjah-museums-guide-6,sharjah-museums-guide-7" alts="An old iron cannon on wooden wheels outside the lit entrance of Sharjah Fort at night|Looking up at the fort wall with wooden shuttered windows and projecting roof beams against a dark blue sky|A crenellated round tower of exposed coral stone beside the plastered fort wall at night" caption="Sharjah Fort (Al Hisn), built in 1823 from coral stone and once the seat of government."></photo-set>
 
 ### Al Qasimia School
 

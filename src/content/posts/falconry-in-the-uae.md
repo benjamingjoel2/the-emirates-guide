@@ -105,7 +105,7 @@ Seeing the medical side of falconry, and how carefully the birds are looked afte
 
 If your trip takes you deep into the dunes, perhaps on a drive out to Liwa, ask whether your camp or guide can arrange a falconry display. Our [Liwa and Empty Quarter guide](/stories/liwa-empty-quarter-guide/) helps you plan the journey.
 
-<photo-set layout="full" keys="falconry-in-the-uae-15" alts="FULL1" caption="CAPTION"></photo-set>
+<photo-set layout="full" keys="falconry-in-the-uae-16" alts="FULL1" caption="CAPTION"></photo-set>
 
 ## What a falcon hospital tour involves
 

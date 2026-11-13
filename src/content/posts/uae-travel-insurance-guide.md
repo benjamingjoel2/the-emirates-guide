@@ -35,7 +35,7 @@ That is the moment travel insurance stops being paperwork. The UAE has good hosp
 
 So what should travel insurance for the UAE cover? At a minimum: medical treatment and emergency evacuation, every activity you plan to do, any pre-existing conditions, and the full length of your trip, including any side trip to Oman. Then check the gaps that catch people out: quad bikes, hire cars, alcohol and regional disruption. Here is what to look for, how to choose the right type of policy, and what to do if you need to claim.
 
-<photo-set layout="pair" keys="uae-travel-insurance-guide-1,uae-travel-insurance-guide-2" alts="PH1|A white ambulance marked with a red crescent, parked on a paved forecourt in Abu Dhabi" caption="Emergency medical care and driving are two of the areas where the right cover matters most."></photo-set>
+<photo-set layout="pair" keys="uae-travel-insurance-guide-1,uae-travel-insurance-guide-2" alts="Cars and lorries on the Ghweifat International Highway in Abu Dhabi under a clear blue sky|A white ambulance marked with a red crescent, parked on a paved forecourt in Abu Dhabi" caption="Emergency medical care and driving are two of the areas where the right cover matters most."></photo-set>
 
 ## Why travel insurance for the UAE starts with medical cover
 

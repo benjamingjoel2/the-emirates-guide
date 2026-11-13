@@ -94,7 +94,6 @@ Take the metro to Al Jafiliya and walk into Zabeel Park, where the Dubai Frame s
 
 Inside, the story unfolds in stages. An Old Dubai gallery tells of the city's [transformation from a fishing village to a thriving modern metropolis](https://www.dubaiframe.ae/en), then the sky deck shows "Old Dubai" to the north and "New Dubai" to the south. It is the best primer for the rest of your trip: you will look out and recognise yesterday's Creek. Going in the morning has another advantage, as the park around it is pleasant for a short walk before the heat builds.
 
-<photo-set layout="mosaic" keys="three-days-in-dubai-3,three-days-in-dubai-4,three-days-in-dubai-5" alts="The view north from the Dubai Frame over the low rooftops of Old Dubai|The fountain lake and surrounding buildings of Downtown seen from high on the Burj Khalifa|Towers and roads of Downtown Dubai stretching to the horizon from the Burj Khalifa" caption="Day two looks at the city from above: Old Dubai from the Frame, then Downtown from the Burj Khalifa."></photo-set>
 
 ### Afternoon: Downtown and the tallest tower
 
@@ -107,6 +106,8 @@ If you are not going up the tower, the afternoon is a good time to rest indoors,
 ### Evening: the fountain and the lake
 
 Stay for the evening, when the lake below the tower comes alive with the fountain shows and the crowds gather along the waterfront. RTA also runs an electric traditional abra serving [Dubai Mall, Burj Plaza and The Palace](https://www.rta.ae/wps/portal/rta/ae/public-transport/marine/about-marine), a gentle way to see the lake from the water. Eat nearby and take the metro or a taxi back.
+
+<photo-set layout="mosaic" keys="three-days-in-dubai-3,three-days-in-dubai-4,three-days-in-dubai-5" alts="Lit fountain jets rising from the lake at night, seen from high on the Burj Khalifa|The turquoise fountain lake and low-rise Downtown districts seen from the Burj Khalifa by day|Sand-coloured low-rise buildings and pools around the Downtown lake seen from above" caption="Day two ends in Downtown, where the lake below the Burj Khalifa hosts the evening fountain shows."></photo-set>
 
 ## Day three: a mosque, the beach and the Marina
 

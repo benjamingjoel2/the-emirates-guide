@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "uae-packing-list-hero"
-heroAlt: "The Burj Khalifa and the Dubai skyline seen across the water from a ferry"
+heroAlt: "A rocky viewpoint high on Jebel Jais in Ras Al Khaimah, looking out over layered mountain ridges under a clear blue sky"
 featured: false
 startHere: false
 plan: "A verified local operator can tell you what to wear and bring for specific tours, from mosque visits and desert evenings to boat days and mountain walks, so your bag matches what you will actually do."

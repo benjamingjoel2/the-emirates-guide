@@ -65,7 +65,7 @@ Each emirate manages its own reserves, under federal and local laws. Dubai Munic
 
 The other thing to grasp is scale versus access. The Environment Agency Abu Dhabi says its Sheikh Zayed Protected Areas Network has [19 protected areas, four of them open to the public](https://www.ead.gov.ae/en/Experience-Green-Abu-Dhabi). The rest are closed because of their fragility and are open only to researchers with permits. Nationally, the UAE government portal says the country has [ten Ramsar sites](https://u.ae/en/information-and-services/environment-and-energy/Nature-and-wildlife/topography-and-ecosystems), wetlands designated as being of international importance.
 
-<photo-set layout="trio" keys="uae-protected-areas-guide-1,uae-protected-areas-guide-2,uae-protected-areas-guide-3" alts="A flock of greater flamingos feeding in shallow water in front of mangroves at Ras Al Khor Wildlife Sanctuary|Layered ridges of the Hajar Mountains around Wadi Shawka in Ras Al Khaimah at sunrise|Green mangroves along a water channel in the Abu Dhabi mangrove reserve, seen from a bridge" caption="Wetlands, mountains and mangroves are all represented in the UAE's protected areas."></photo-set>
+<photo-set layout="trio" keys="uae-protected-areas-guide-1,uae-protected-areas-guide-2,uae-protected-areas-guide-3" alts="A flock of greater flamingos feeding in shallow water in front of mangroves at Ras Al Khor Wildlife Sanctuary|A bare rocky mountain slope south of Jabal Rahabah in Ras Al Khaimah, with the coast and sea far below|Green mangroves along a water channel in the Abu Dhabi mangrove reserve, seen from a bridge" caption="Wetlands, mountains and mangroves are all represented in the UAE's protected areas."></photo-set>
 
 ### Why the rules are stricter than they look
 

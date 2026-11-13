@@ -140,7 +140,7 @@ The souks are working markets, and a little awareness goes a long way.
 - **Go in the cooler hours.** Mornings and evenings are more comfortable for walking between the souks.
 - **Respect Ramadan.** During the holy month the Foreign Office notes that eating, drinking, smoking or chewing gum in public in the daytime may cause offence, and suggests checking opening hours. Expect the souks to come alive after sunset.
 
-<photo-set layout="wide" keys="dubai-gold-and-spice-souks-3" alts="The covered entrance to the Gold Souk in Deira, Dubai, with shopfronts on either side of the lane" caption="The Gold Souk's covered lanes are a short walk from the Deira Old Souq abra station."></photo-set>
+<photo-set layout="wide" keys="dubai-gold-and-spice-souks-3" alts="The carved wooden entrance gate of the Gold Souk on Old Baladiya Road in Deira, with signs reading Dubai City of Gold" caption="The Gold Souk's covered lanes are a short walk from the Deira Old Souq abra station."></photo-set>
 
 ## Families and accessibility
 

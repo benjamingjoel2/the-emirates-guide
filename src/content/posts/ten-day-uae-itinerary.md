@@ -177,7 +177,7 @@ Want more time here? Our [east coast road trip](/stories/uae-east-coast-road-tri
 - **Watch the season.** Ras Al Khaimah's tourism board recommends [October to April](https://visitrasalkhaimah.com/faqs/) for outdoor activities. Our [month-by-month guide](/stories/best-time-to-visit-uae-month-by-month/) covers the rest of the year.
 - **Pack for every stop.** The UK government advises [dressing modestly in public areas](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), with women covering shoulders and knees, and wearing swimwear only at beaches and pools. Sharjah, the mosques and the east coast villages all reward a conservative wardrobe.
 
-<photo-set layout="trio" keys="ten-day-uae-itinerary-5,ten-day-uae-itinerary-6,ten-day-uae-itinerary-7" alts="Fujairah Fort on its rise, with round and square sandstone towers, crenellated walls and a UAE flag flying above|ALT6|ALT7" caption="CAP5"></photo-set>
+<photo-set layout="trio" keys="ten-day-uae-itinerary-5,ten-day-uae-itinerary-6,ten-day-uae-itinerary-7" alts="Fujairah Fort on its rise, with round and square sandstone towers, crenellated walls and a UAE flag flying above|The rounded white pavilions of the Khor Kalba Mangrove Centre beside mangroves and a creek, with mountains in the distance|ALT7" caption="CAP5"></photo-set>
 
 For more on the smaller emirates, see our guide to [the quieter emirates](/stories/beyond-dubai-quieter-emirates/), or browse every emirate on our [destinations](/destinations/) page.
 

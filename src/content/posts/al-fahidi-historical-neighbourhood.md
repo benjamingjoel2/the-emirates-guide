@@ -47,7 +47,7 @@ Turn off the main road into Al Fahidi and the traffic noise drops away within a 
 
 Al Fahidi Historical Neighbourhood is the most complete picture of old Dubai you can walk through. It is compact, easy to wander, and quietest early in the morning. It suits anyone curious about how people lived beside the Creek before the towers went up, and it rewards slow walking more than box-ticking. This guide covers what you will see, how a visit tends to unfold, how to get more from it, and the practical details that make it comfortable for everyone in your group.
 
-<photo-set layout="mosaic" keys="al-fahidi-historical-neighbourhood-1,al-fahidi-historical-neighbourhood-2,al-fahidi-historical-neighbourhood-3" alts="A tall square wind tower with open sides rising above a sand-coloured house in old Dubai|A quiet lane between restored sand-coloured buildings in Bastakiya, Old Dubai|A small shop front with wooden doors and goods on display in a lane of Bastakiya" caption="Wind towers, narrow lanes and small shops tucked into restored houses set the tone in Al Fahidi."></photo-set>
+<photo-set layout="mosaic" keys="al-fahidi-historical-neighbourhood-1,al-fahidi-historical-neighbourhood-2,al-fahidi-historical-neighbourhood-3" alts="A tall square wind tower with open sides rising above a sand-coloured house in old Dubai|A paved lane in Bastakiya between sand-coloured houses and a wind tower, beside a cream-coloured mosque with a minaret|A small shop front with wooden doors and goods on display in a lane of Bastakiya" caption="Wind towers, narrow lanes and small shops tucked into restored houses set the tone in Al Fahidi."></photo-set>
 
 ## What Al Fahidi Historical Neighbourhood is
 

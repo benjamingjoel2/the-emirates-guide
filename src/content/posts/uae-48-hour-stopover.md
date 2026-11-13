@@ -6,7 +6,7 @@ emirates: ["dubai", "abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "uae-48-hour-stopover-hero"
-heroAlt: "HEROALT"
+heroAlt: "A wooden abra ferry crossing Dubai Creek, with the low buildings of the old creekside and distant towers in the haze"
 featured: false
 startHere: false
 plan: "A verified local operator can meet you at the airport, plan two days around your flight times and jet lag, and book the time-sensitive parts such as a Grand Mosque access pass or a desert evening."

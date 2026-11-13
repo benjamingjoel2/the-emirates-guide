@@ -41,7 +41,7 @@ Sir Bani Yas Island is the emirate's wildlife island, a nature reserve off the A
 
 The short answer to "is it worth it?": yes, if you want wildlife, space and quiet, and you are willing to plan ahead. The island is a long drive and a boat ride from the city, day visits to the wildlife park must be booked well in advance, and most visitors stay at least one night.
 
-<photo-set layout="full" keys="sir-bani-yas-island-guide-1" alts="A wide panorama of Sir Bani Yas Island showing open sandy ground, scattered trees and low hills under a pale sky" caption="Sir Bani Yas is mostly open ground, with more than half the island given over to wildlife."></photo-set>
+<photo-set layout="full" keys="sir-bani-yas-island-guide-1" alts="Several long-horned oryx sheltering under a wide, flat-topped tree on the open ground of Sir Bani Yas Island, with gazelles in the background" caption="Oryx and gazelles sharing the shade on Sir Bani Yas, where more than half the island is given over to wildlife."></photo-set>
 
 ## What makes Sir Bani Yas Island different
 
@@ -59,7 +59,7 @@ Visit Abu Dhabi says the park is home to [more than 17,000 free-roaming animals]
 
 One of the more memorable moments is face to face. The park has purpose-built viewing platforms, made from recycled materials, where you stand at eye level with the resident giraffes.
 
-<photo-set layout="pair" keys="sir-bani-yas-island-guide-2,sir-bani-yas-island-guide-3" alts="Giraffes standing among trees and scrub on Sir Bani Yas Island|A group of horned wild sheep resting in the shade of a tree on the dry ground of Sir Bani Yas Island" caption="Giraffes in the open and wild sheep sheltering under a tree, the kind of scenes a drive in the wildlife park turns up."></photo-set>
+<photo-set layout="pair" keys="sir-bani-yas-island-guide-2,sir-bani-yas-island-guide-3" alts="A group of giraffes standing beneath acacia trees on the sandy ground of Sir Bani Yas Island|A group of horned wild sheep resting in the shade of a tree on the dry ground of Sir Bani Yas Island" caption="Giraffes in the open and wild sheep sheltering under a tree, the kind of scenes a drive in the wildlife park turns up."></photo-set>
 
 ### What to look for on a drive
 
@@ -138,7 +138,7 @@ Whenever you go, check the latest [UK government travel advice for the UAE](http
 - **Families with older children** who will enjoy the drives and the giraffe platforms.
 - **History buffs** curious about the region's early Christian past.
 
-<photo-set layout="mosaic" keys="sir-bani-yas-island-guide-5,sir-bani-yas-island-guide-6,sir-bani-yas-island-guide-7" alts="Arabian oryx with long straight horns standing on open ground on Sir Bani Yas Island|An Arabian gazelle standing alert on sandy ground in the UAE|A giraffe standing among trees on Sir Bani Yas Island" caption="Arabian oryx, gazelles and giraffes are among the animals guided drives set out to find."></photo-set>
+<photo-set layout="mosaic" keys="sir-bani-yas-island-guide-5,sir-bani-yas-island-guide-6,sir-bani-yas-island-guide-7" alts="An Arabian oryx with long straight horns and a white coat resting in the sand among dry grasses|An Arabian gazelle standing alert on sandy ground in the UAE|A giraffe bending its long neck to feed from a low acacia on Sir Bani Yas Island" caption="Arabian oryx, gazelles and giraffes are among the animals guided drives set out to find."></photo-set>
 
 If you want a desert experience closer to the city, read [is a desert safari worth it?](/stories/is-a-desert-safari-worth-it/), and for more of the less-visited UAE see [Beyond Dubai: the quieter emirates](/stories/beyond-dubai-quieter-emirates/). More trips like this live under [desert and adventure](/desert-adventure/).
 

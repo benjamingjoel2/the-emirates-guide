@@ -6,7 +6,7 @@ emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "dubai-frame-guide-hero"
-heroAlt: "HERO_ALT"
+heroAlt: "The view south from the Dubai Frame over Zabeel Park, a busy highway interchange and the towers along Sheikh Zayed Road, with the Burj Khalifa on the hazy horizon"
 featured: false
 startHere: false
 plan: "A verified local operator can time your Dubai Frame visit for the light you want, arrange transport to the right park gate and pair it with old Dubai or Downtown so the day flows without backtracking."

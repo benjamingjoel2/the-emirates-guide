@@ -39,7 +39,7 @@ This is the moment that confuses most visitors. Do you take it? With which hand?
 
 The short answer: accept it with your right hand, drink it in a few sips, take a cup or two more if you like, and gently shake the empty cup from side to side when you have had enough. That small gesture is the whole of Arabic coffee etiquette that most visitors need. The rest of this guide explains why, how the coffee is made, how dates fit into the ritual, the mistakes visitors most often make, and where you are likely to be offered a cup.
 
-<photo-set layout="full" keys="arabic-coffee-etiquette-1" alts="A row of copper dallah coffee pots of different sizes lined up side by side" caption="Dallah pots come in many sizes, from small pots for a family to large ones for a gathering."></photo-set>
+<photo-set layout="full" keys="arabic-coffee-etiquette-1" alts="Three old engraved brass dallah coffee pots with curved spouts, lined up on a shelf against a blue wall" caption="The dallah, the traditional Arabic coffee pot, is at the centre of the ritual."></photo-set>
 
 ## Why the cup arrives before the question
 

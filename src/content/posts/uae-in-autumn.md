@@ -111,7 +111,7 @@ Desert camps and evening safaris tend to come back into their own as the evening
 
 Whoever you go with, the Foreign Office says desert excursions [can be dangerous unless you are in a properly equipped four-wheel-drive vehicle](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), and advises travelling with other cars, taking water and a mobile phone, and leaving a copy of your plans with someone. For dune drives and quad biking, it recommends a reputable company with adequate health and safety procedures and checking that the activity is covered by your insurance. In early autumn, ask what time the trip starts and how much shade and water there is at camp.
 
-<photo-set layout="pair" keys="uae-in-autumn-5,uae-in-autumn-6" alts="ALT5|ALT6" caption="CAP5"></photo-set>
+<photo-set layout="pair" keys="uae-in-autumn-5,uae-in-autumn-6" alts="Two people silhouetted with arms outstretched on the rippled crest of a sand dune at Al Qudra in the Dubai desert|ALT6" caption="CAP5"></photo-set>
 
 ## When rain arrives in late autumn
 

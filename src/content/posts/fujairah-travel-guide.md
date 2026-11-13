@@ -173,7 +173,7 @@ In practice, that means a cover-up for the walk from beach to café, a scarf in 
 
 Fujairah suits families well: short drives, beaches, forts to scramble around (with a hand held on the steeper paths) and early nights. Bring hats, plenty of water and reef-friendly habits for the snorkelling. For emergencies, the Foreign Office lists the numbers as [999 for police, 998 for an ambulance and 997 for fire](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/getting-help). See more on our [Fujairah destination page](/destinations/fujairah/).
 
-<photo-set layout="pair" keys="fujairah-travel-guide-4,fujairah-travel-guide-5" alts="Small motor boats moored in a harbour with bare mountains behind|Entrance to the Fujairah Museum in Fujairah city" caption="Boats in harbour and the museum in Fujairah city, two ways into the life of this coast."></photo-set>
+<photo-set layout="pair" keys="fujairah-travel-guide-4,fujairah-travel-guide-5" alts="Small motor boats moored in a harbour with bare mountains behind|Arched facade and entrance of the Fujairah Museum, with old cannons on wheels outside" caption="Boats in harbour and the museum in Fujairah city, two ways into the life of this coast."></photo-set>
 
 ## Quick answers
 

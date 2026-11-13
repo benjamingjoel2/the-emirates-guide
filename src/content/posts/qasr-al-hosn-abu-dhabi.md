@@ -132,7 +132,7 @@ The fort works well for families if you turn it into a story: a watchtower, a we
 
 Qasr Al Hosn is compact enough for a half day, which makes it easy to pair with other sights. Since Sheikh Zayed was born here, it makes a thoughtful pairing with the [Sheikh Zayed Grand Mosque](/stories/sheikh-zayed-grand-mosque-visitor-guide/), which bears his name. It also sits well alongside a visit to [Qasr Al Watan, the presidential palace](/stories/qasr-al-watan-visit/), which tells the story of the modern state, and our [three days in Abu Dhabi](/stories/three-days-in-abu-dhabi/) itinerary shows one way to combine them. Dress modestly, as you would for any heritage site; our guide to [what to wear in the UAE](/stories/what-to-wear-uae-etiquette/) has the details. For more of the capital's history and culture, browse our [food and culture stories](/food-culture/).
 
-<photo-set layout="pair" keys="qasr-al-hosn-abu-dhabi-6,qasr-al-hosn-abu-dhabi-7" alts="A pair of heavy old studded wooden doors displayed open inside the fort|The round stone watchtower of Qasr Al Hosn lit up at night, with visitors gathered at its base" caption="The fort's old gates are on display inside, and the walls are floodlit after dark."></photo-set>
+<photo-set layout="pair" keys="qasr-al-hosn-abu-dhabi-6,qasr-al-hosn-abu-dhabi-7" alts="A pair of heavy old studded wooden doors displayed open inside the fort|A round coral-stone watchtower with small openings and a crenellated top, standing inside whitewashed walls" caption="The fort's old gates are on display inside, and the round watchtowers still stand within the walls."></photo-set>
 
 ## Quick answers
 

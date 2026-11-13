@@ -168,7 +168,7 @@ Calm water and short tours make the mangroves one of the better first paddles fo
 - **Forgetting the hands.** Sunscreen on the backs of hands and tops of feet is easy to miss, and paddling keeps them in the sun throughout.
 - **Paddling too fast.** The wildlife is in the quiet moments. Slow down.
 
-<photo-set layout="full" keys="abu-dhabi-mangrove-kayaking-7" alts="A7" caption="Mangrove National Park sits on the edge of the city, close to Reem Island."></photo-set>
+<photo-set layout="full" keys="abu-dhabi-mangrove-kayaking-7" alts="A mangrove tree spreading pale branches over shallow tidal water, with rows of small breathing roots poking up through the mud" caption="In Mangrove National Park the trees stand in shallow tidal water on the edge of the city."></photo-set>
 
 A morning paddle pairs neatly with an afternoon at the museums, or with an evening on the Corniche. For everything else in the capital, start at our [Abu Dhabi destination page](/destinations/abu-dhabi/).
 

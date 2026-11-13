@@ -81,7 +81,7 @@ For many visitors the evenings are the highlight. The government's Ramadan page 
 
 Eid Al Fitr marks the end of Ramadan. After a month of fasting, the mood lifts: families visit each other, people dress up, and malls, parks and attractions fill with visitors. If you are in the country for it, expect a festive, busy few days.
 
-<photo-set layout="mosaic" keys="uae-public-holidays-guide-8,uae-public-holidays-guide-3,uae-public-holidays-guide-4" alts="ALT8|ALT3|ALT4" caption="CAP8"></photo-set>
+<photo-set layout="mosaic" keys="uae-public-holidays-guide-8,uae-public-holidays-guide-3,uae-public-holidays-guide-4" alts="ALT8|ALT3|Visitors climbing a rocky path towards the summit of Jebel Hafeet near Al Ain behind an ornate black and gold fence" caption="CAP8"></photo-set>
 
 ### Arafah Day and Eid Al Adha
 

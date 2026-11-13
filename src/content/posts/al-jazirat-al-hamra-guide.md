@@ -139,7 +139,7 @@ The tourism board describes the village as family-friendly, with the clear condi
 - **Picking things up.** Shells, coral and pottery fragments are part of a protected site. Leave them.
 - **Staying past dusk.** Lighting is limited and no staff are on site.
 
-<photo-set layout="mosaic" keys="al-jazirat-al-hamra-guide-5,al-jazirat-al-hamra-guide-6,al-jazirat-al-hamra-guide-7" alts="A narrow, sandy lane between tall, weathered coral-stone walls in Al Jazirat Al Hamra|Close view of a weathered wall in Al Jazirat Al Hamra with exposed stone and fallen plaster|A weathered house in Al Jazirat Al Hamra with red door frames, patterned plaster screens and a tall wind tower on the roof" caption="Lanes, walls and the wind tower house, the details that reward a slow walk."></photo-set>
+<photo-set layout="mosaic" keys="al-jazirat-al-hamra-guide-5,al-jazirat-al-hamra-guide-6,al-jazirat-al-hamra-guide-7" alts="A narrow, sandy lane between tall, weathered coral-stone walls in Al Jazirat Al Hamra|Close view of a crumbling wall in Al Jazirat Al Hamra built from rounded coral heads and rough beach rock, propped with wooden beams|A weathered house in Al Jazirat Al Hamra with red door frames, patterned plaster screens and a tall wind tower on the roof" caption="Lanes, walls and the wind tower house, the details that reward a slow walk."></photo-set>
 
 ## Before or after: the shore, the museum and a pearl farm
 

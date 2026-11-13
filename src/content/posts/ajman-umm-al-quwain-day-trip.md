@@ -129,7 +129,7 @@ Finish where the locals do. As the heat fades, the [Corniche](https://visit-ajma
 
 Stop at the [Al Murabbaa Watchtower](https://visit-ajman.ae/en/destinations/ajman-city/al-murabbaa-watchtower/), which the tourism board says has guarded the city since the 1930s. Then find a spot on the sand and watch the sun go down.
 
-<photo-set layout="pair" keys="ajman-umm-al-quwain-day-trip-6,ajman-umm-al-quwain-day-trip-7" alts="A sandy beach on the Ajman coast with calm water in the late afternoon|The waterfront at Marsa Ajman with a promenade beside the water" caption="Ajman's beaches and waterfront are at their best as the heat fades in the late afternoon."></photo-set>
+<photo-set layout="pair" keys="ajman-umm-al-quwain-day-trip-6,ajman-umm-al-quwain-day-trip-7" alts="A sandy beach in Ajman looking across calm water to moored dhows and the city skyline|The waterfront at Marsa Ajman with a promenade beside the water" caption="Ajman's beaches and waterfront are at their best as the heat fades in the late afternoon."></photo-set>
 
 If you prefer something livelier, the [Fish Market](https://visit-ajman.ae/en/destinations/ajman-city/fish-market/) holds an auction each evening, according to Visit Ajman, and you can have fish grilled at simple stalls nearby.
 

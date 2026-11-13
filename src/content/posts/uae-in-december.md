@@ -89,7 +89,7 @@ The Visit Dubai events calendar lists the [Dubai Shopping Festival](https://www.
 
 Visit Abu Dhabi says that [each December the Liwa International Festival](https://www.visitabudhabi.ae/en/where-to-go/regions/al-dhafra) brings three weeks of desert motorsports, cultural experiences, concerts and fireworks to the edge of the Empty Quarter. Its events page lists the festival from 11 December to 2 January. If you want the big dunes in peace, go before or after; if you want atmosphere, go during. Our [Liwa and Empty Quarter guide](/stories/liwa-empty-quarter-guide/) has more.
 
-<photo-set layout="full" keys="uae-in-december-4" alts="ALT4" caption="CAP4"></photo-set>
+<photo-set layout="full" keys="uae-in-december-4" alts="A pickup truck kicking up sand as it climbs a floodlit dune at night during a sand race at the Liwa International Festival" caption="Desert motorsport on the big Liwa dunes is part of the festival programme at the edge of the Empty Quarter."></photo-set>
 
 Getting there takes planning. Visit Abu Dhabi says driving from Abu Dhabi city to Al Dhafra typically takes around two to three hours, and that a car is the most convenient way to explore because attractions are spread across a wide area. During the festival, book a room well ahead and allow extra time on the road.
 

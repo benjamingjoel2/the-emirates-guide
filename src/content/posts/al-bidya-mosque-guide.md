@@ -6,7 +6,7 @@ emirates: ["fujairah"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "al-bidya-mosque-guide-hero"
-heroAlt: "HEROALT"
+heroAlt: "Al Bidya Mosque, a small clay mosque with stepped domes and buttressed walls, below a rocky hillside, with prayer rugs laid on the courtyard"
 featured: false
 startHere: false
 plan: "A verified local operator can build a visit to Al Bidya Mosque into a day on the east coast, advise on timing around prayers and suitable clothing, and arrange a guide to explain the building and its setting."
@@ -41,7 +41,7 @@ The [UAE government portal](https://u.ae/en/about-the-uae/the-seven-emirates/fuj
 
 Al Bidya, often spelled Bidiyah or Badiyah, is a village in its own right. The tourism authority's [overview page](https://fujairahtourism.ae/index_action-Overview.html) lists Al Bidiyah among the main towns and villages of the emirate, alongside Dibba, Masafi and Al Bithna, so you will see the name on road signs well before you reach the mosque.
 
-PHOTOSET1
+<photo-set layout="wide" keys="al-bidya-mosque-guide-1" alts="Al Bidya Mosque, a low clay building with stepped domes inside a walled courtyard, below a rocky hill topped by a watchtower" caption="The mosque sits at the foot of the hill, with the watchtowers on the ridge above."></photo-set>
 
 ## How the UAE's oldest mosque was built
 
@@ -71,7 +71,7 @@ The authority lists a few features that reward a closer look:
 
 Nothing here is grand. Its appeal is the opposite: plain materials, careful proportions and a sense of how people built for faith and for heat at the same time.
 
-PHOTOSET2
+<photo-set layout="mosaic" keys="al-bidya-mosque-guide-2,al-bidya-mosque-guide-3,al-bidya-mosque-guide-4" alts="Dim interior of Al Bidya Mosque with a plain arched niche, two Quran stands and prayer rugs on the floor|Front of Al Bidya Mosque with two stepped domes, a narrow arched doorway and prayer rugs laid outside|ALT4" caption="Plain walls, small openings and stepped domes: the details the tourism authority picks out."></photo-set>
 
 ### Another name, and a restoration
 
@@ -116,7 +116,7 @@ Most visits are short and simple, which is part of the pleasure. You park near t
 
 Take a slow walk around the outside before you go in. This is where you see the stepped domes best, and where you can photograph the whole building without anyone in the frame. Then leave your shoes by the door, step inside and give your eyes a moment to adjust to the dim light.
 
-PHOTOSET3
+<photo-set layout="inset-right" keys="al-bidya-mosque-guide-5" alts="Round stone watchtower with a crenellated top on a rocky hill, reached by stone steps" caption="One of the watchtowers on the ridge above the mosque."></photo-set>
 
 Inside, there is not much floor space, so let one group look around before the next goes in. Find the mihrab and minbar, look up at the domes, and notice how cool the room feels compared with outside. Afterwards, if the season and your fitness allow, climb the path to the watchtowers for the view over the mosque, the palms and the sea.
 
@@ -160,7 +160,7 @@ North of the mosque, the coast road reaches Dibba, where a town is shared betwee
 
 The beaches near Al Bidya are the starting point for many snorkelling trips. Our guide to [snorkelling and diving on the east coast](/stories/snorkelling-diving-uae-east-coast/) explains how the boat trips work and what to check first.
 
-PHOTOSET4
+<photo-set layout="full" keys="al-bidya-mosque-guide-6" alts="Colourful kayaks on a sandy beach lined with palm-thatched shades on the Fujairah coast, with mountains behind" caption="A beach on the northern Fujairah coast, a short drive from the mosque."></photo-set>
 
 For a fuller plan, our [east coast road trip](/stories/uae-east-coast-road-trip/) links Fujairah, Khorfakkan and Dibba, and the [Fujairah travel guide](/stories/fujairah-travel-guide/) covers the rest of the emirate. If you are also visiting the capital, the contrast with the [Sheikh Zayed Grand Mosque](/stories/sheikh-zayed-grand-mosque-visitor-guide/) could hardly be greater, and is part of the fun. Find more on our [Fujairah page](/destinations/fujairah/).
 

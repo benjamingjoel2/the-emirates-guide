@@ -51,7 +51,7 @@ The [UAE government portal](https://u.ae/en/about-the-uae/the-seven-emirates/ras
 
 Distances are short. Visit Ras Al Khaimah says the emirate is [about 45 minutes by car](https://visitrasalkhaimah.com/faqs/) from Dubai International Airport, and that getting around is easiest by car, with metered taxis, ride-hailing apps and a more limited bus network. It adds that several hotels offer airport transfers and that major resorts often run shuttles and excursions to the main sights and malls. Wherever you stay, expect to drive or take taxis to most sights.
 
-<photo-set layout="inset-right" keys="where-to-stay-in-ras-al-khaimah-1" alts="Steep rocky slopes of Jebel Jais rising above a valley, seen in portrait view" caption="Jebel Jais is close enough for a day trip from any coastal base."></photo-set>
+<photo-set layout="inset-right" keys="where-to-stay-in-ras-al-khaimah-1" alts="The Jebel Jais road seen from road level, its white centre line running towards a steep rocky mountainside" caption="Jebel Jais is close enough for a day trip from any coastal base."></photo-set>
 
 A useful way to think about it: the coast runs roughly north to south, with Al Rams and the heritage sites of Dhayah at the northern end, the city and its corniche in the middle, and Mina Al Arab, Al Hamra and Al Marjan stretching away to the south towards Dubai. The mountains rise inland behind all of them. The further south you stay, the shorter your drive from Dubai, and the longer your drive to the northern sights.
 
@@ -81,7 +81,7 @@ Its big advantage is history on the doorstep. The abandoned pearling village of 
 
 **Suits:** travellers who want a resort but also some culture, and anyone driving up from Dubai who wants a shorter journey.
 
-<photo-set layout="mosaic" keys="where-to-stay-in-ras-al-khaimah-2,where-to-stay-in-ras-al-khaimah-3,where-to-stay-in-ras-al-khaimah-4" alts="Small desert shrubs growing on red sand in Ras Al Khaimah|Low red dunes with scattered desert plants inland in Ras Al Khaimah|A lone desert tree on orange sand dunes in Ras Al Khaimah, with hazy mountains on the horizon" caption="The red-sand desert inland is the setting for the emirate's desert camps."></photo-set>
+<photo-set layout="mosaic" keys="where-to-stay-in-ras-al-khaimah-2,where-to-stay-in-ras-al-khaimah-3,where-to-stay-in-ras-al-khaimah-4" alts="Close view of a small green desert shrub growing on sandy ground in soft evening light in Ras Al Khaimah|Low red dunes with scattered desert plants inland in Ras Al Khaimah|A lone desert tree on orange sand dunes in Ras Al Khaimah, with hazy mountains on the horizon" caption="The red-sand desert inland is the setting for the emirate's desert camps."></photo-set>
 
 ## Staying in town
 

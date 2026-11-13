@@ -6,7 +6,7 @@ emirates: ["fujairah"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "fujairah-forts-and-wadis-hero"
-heroAlt: "HEROALT"
+heroAlt: "Al Bithna fort with its round towers on a rise above the stony bed of Wadi Ham, palms and mountains behind"
 featured: false
 startHere: false
 plan: "A verified local operator can plan a route through Fujairah's forts and wadis that suits your fitness and the season, arrange a 4x4 and guide where roads are rough, and check rain forecasts before you set out."
@@ -45,7 +45,7 @@ The landscape explains the rest. The authority's [facts page](https://fujairahto
 
 ### A fort shaped by its rock
 
-PHOTOSET1
+<photo-set layout="inset-left" keys="fujairah-forts-and-wadis-1" alts="Fujairah Fort with a tall square tower between round crenellated towers, on a bare hill under a deep blue sky" caption="Fujairah Fort, with its square tower set between round ones."></photo-set>
 
 Fujairah Fort, one of the largest in the emirate, stands on a high hill in the old Fujairah area, overlooking the city. The authority puts it at [about 20 metres above sea level and three kilometres from the coast](https://fujairahtourism.ae/index_action-MuseumAndForts.html). According to the [tourism authority](https://fujairahtourism.ae/index_action-MuseumAndForts.html), its design differs completely from the usual layout of forts elsewhere in the country. It has three round towers and a fourth square tower, plus a tall building with a tower-like section, all linked by walls around a central hall. The authority puts the irregular layout down to the irregular rocks it was built on.
 
@@ -67,7 +67,7 @@ Al Bithna fort stands near the village of the same name, overlooking Wadi Ham. T
 
 Stand by the walls and look along the valley, and you see at once why someone wanted a fort here. The authority places Al Bithna [only 13 kilometres from Fujairah city](https://fujairahtourism.ae/index_action-MuseumAndForts.html), overlooking Wadi Ham where it runs across the mountains towards Wadi Siji.
 
-PHOTOSET2
+<photo-set layout="pair" keys="fujairah-forts-and-wadis-2,fujairah-forts-and-wadis-3" alts="Round crenellated tower of Al Bithna fort with small openings and a UAE flag, date palms in front|The top of Al Bithna fort rising above palm groves, with mountains behind" caption="Al Bithna fort among the palm groves above Wadi Ham."></photo-set>
 
 ### Al Hail: a hill above the wadi
 
@@ -115,7 +115,7 @@ The authority also describes Wadi Siji, in a mountainous farming area, as having
 
 Two smaller valleys round out the list. The authority describes Wadi Tawian as 5 km long, about 45 km from Fujairah and reached only by a rough mountain road, with its own dam; this is one to do with a 4x4 and a guide. Al Hail wadi, by contrast, runs for about 15 km and is very close to the city, which makes it the easiest to pair with a fort visit.
 
-PHOTOSET3
+<photo-set layout="mosaic" keys="fujairah-forts-and-wadis-4,fujairah-forts-and-wadis-5,fujairah-forts-and-wadis-6" alts="Tall plastered wall of Awhala fort with crenellations, a small doorway and benches at its foot|ALT5|View over a wide valley of villages and farms ringed by bare mountain ridges near Wadi Ham" caption="Thick fort walls and the valleys they watched over, where dams now hold back floodwater."></photo-set>
 
 ## Staying safe in the wadis
 
@@ -162,7 +162,7 @@ The tourism authority's [sports and cruises page](https://fujairahtourism.ae/ind
 - **Rough roads.** Some valleys, such as Wadi Tawian, are reached only by rough mountain tracks. A normal hire car is not the right tool.
 - **Rubbish and graffiti.** Protected valleys and old buildings are fragile. Take everything home with you and leave walls untouched.
 
-PHOTOSET4
+<photo-set layout="wide" keys="fujairah-forts-and-wadis-7" alts="Rocky slope above a winding road through a valley in the Hajar Mountains at sunset" caption="A road through the Hajar, the kind of route these forts were built to guard."></photo-set>
 
 For more ideas, read our [Fujairah travel guide](/stories/fujairah-travel-guide/), our guide to [hiking in the UAE](/stories/hiking-in-the-uae/), and what to do if [rain and flooding](/stories/uae-rain-and-flooding-advice/) hit while you are travelling. See also our [Fujairah destination page](/destinations/fujairah/).
 

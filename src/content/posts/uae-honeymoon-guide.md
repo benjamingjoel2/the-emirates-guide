@@ -85,7 +85,7 @@ The reserve describes itself as the UAE's first national park, and its approved 
 
 In Ras Al Khaimah, Jais Viewing Deck Park runs along a ridge with [seven viewing decks](https://visitrasalkhaimah.com/discover/attractions/jais-viewing-deck-park/), looking over the mountains on one side and the Arabian Gulf on the other. The tourism board says the sun tends to set between 17.30 and 18.00 through the year, and on Fridays and Saturdays the park stays open until 11:00pm. Up on Jebel Jais, it is usually [10°C cooler than other parts of the emirate](https://visitrasalkhaimah.com/location/place/jebel-jais/), which makes a welcome change from the coast.
 
-<photo-set layout="full" keys="uae-honeymoon-guide-2" alts="ALT2" caption="CAP2"></photo-set>
+<photo-set layout="full" keys="uae-honeymoon-guide-4" alts="The road up Jebel Jais winding through layered brown mountains under a clear blue sky, with ridges fading into haze beyond" caption="The mountains around Jebel Jais, where the viewing decks catch the sunset."></photo-set>
 
 Pack a warm layer for the evening. Ras Al Khaimah's tourism board describes winters, from November to March, as [mild at about 15°C to 28°C](https://visitrasalkhaimah.com/faqs/), with occasional brief showers mainly in the mountains, and it is cooler again on the ridge after dark.
 
@@ -161,7 +161,7 @@ A Ramadan honeymoon can be lovely, with evening iftar meals and a calmer mood in
 
 Check that your insurance covers every activity you plan, from balloon flights to snorkelling. The UK government says having [insurance for local treatment or medical evacuation](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health) is particularly important if you are pregnant or have a health condition. It also advises travellers to be [prepared for flight disruptions](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/warnings-and-insurance) given the current regional situation, so flexible bookings are worth the effort. For an ambulance in the UAE, dial 998.
 
-<photo-set layout="trio" keys="uae-honeymoon-guide-4,uae-honeymoon-guide-5,uae-honeymoon-guide-6" alts="ALT4|ALT5|ALT6" caption="CAP4"></photo-set>
+<photo-set layout="trio" keys="uae-honeymoon-guide-2,uae-honeymoon-guide-5,uae-honeymoon-guide-6" alts="ALT4|ALT5|ALT6" caption="CAP4"></photo-set>
 
 ## Quick answers
 

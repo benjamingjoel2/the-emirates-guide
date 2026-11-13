@@ -39,7 +39,7 @@ On 2 December 1971, a group of rulers gathered in a modest guest palace in Dubai
 
 Etihad Museum is the place to understand the UAE's founding. "Etihad" means union, and the museum sits next to Union House, where the declaration was made. It is not the flashiest attraction in Dubai, and that is part of its appeal: it is calm, thoughtful and full of the human detail behind a nation that is still young. If you want to know why there are seven emirates, how they came together and who brought them together, this is where to start. Here is the story, what to look for in the building and the galleries, and how to plan a visit that suits your group.
 
-<photo-set layout="wide" keys="etihad-museum-dubai-1" alts="The curved white pavilion of Etihad Museum with its slanting columns, seen across the open plaza in Jumeirah, Dubai" caption="The museum pavilion stands on the site where the UAE was founded in 1971."></photo-set>
+<photo-set layout="wide" keys="etihad-museum-dubai-1" alts="A sunken courtyard at Etihad Museum seen through tall glass, with slender trees, stone benches, lattice screens and an Arabic inscription on a grey stone wall" caption="Planted courtyards bring daylight into the museum, which sits on the site where the UAE was founded in 1971."></photo-set>
 
 ## Union House: a small building with a large story
 
@@ -100,7 +100,7 @@ The museum also runs temporary exhibitions, so the experience can change from on
 
 ## How a visit unfolds
 
-Most visits follow the shape of the building. You arrive on the plaza, take in the pavilion, the flag and the low white Union House, then head down into the galleries. The first part sets the scene with the founders and the period before the Union. The story then moves through the negotiations of 1968 to 1971 and on to the early years of the new country.
+Most visits follow the shape of the building. You arrive on the plaza, take in the pavilion, the flag and the low white Union House, then head into the galleries. The first part sets the scene with the founders and the period before the Union. The story then moves through the negotiations of 1968 to 1971 and on to the early years of the new country.
 
 Allow plenty of time for a thoughtful visit, and more if you want to watch every film or join a guided tour. Finish outside at Union House, which feels very different once you know what happened inside. If the weather is kind, linger on the plaza before you leave.
 
@@ -120,9 +120,9 @@ A few practical points:
 
 For children, the museum works best with a little preparation. Before you go, explain that the UAE is made of seven emirates that agreed to join together, and ask them to find each emirate's ruler in the photographs or each emirate's name on the maps. Interactive screens help hold attention, but younger children may tire of a museum built around documents and film, so plan a short visit with a break on the plaza.
 
-<photo-set layout="inset-left" keys="etihad-museum-dubai-5" alts="A quotation displayed in large lettering on a wall inside Etihad Museum" caption="Words of the founders appear on the gallery walls throughout the museum."></photo-set>
+<photo-set layout="inset-left" keys="etihad-museum-dubai-5" alts="Large black Arabic calligraphy set into a white marble floor inside Etihad Museum, beside tall curved windows" caption="Quotations in Arabic calligraphy appear in the museum spaces as well as on the gallery walls."></photo-set>
 
-Because so much of the museum is below ground, ask about lifts and step-free routes when you check opening times if anyone in your group uses a wheelchair or has limited mobility. The plaza is open to the sun, so bring hats and water in the warmer months.
+Because the museum is spread across several buildings and levels, ask about lifts and step-free routes when you check opening times if anyone in your group uses a wheelchair or has limited mobility. The plaza is open to the sun, so bring hats and water in the warmer months.
 
 ## Visiting around National Day
 
@@ -153,4 +153,4 @@ Check Dubai Culture's official website before you go, as hours and tour times ca
 - How long should we allow inside, and is the visit suitable for the ages of the children in our group?
 - What else would you pair with the museum on the same day, and in which order?
 - How will National Day celebrations affect access, traffic and timings if we visit in early December?
-- Is the museum fully accessible for anyone using a wheelchair or with limited mobility, including the underground galleries?
+- Is the museum fully accessible for anyone using a wheelchair or with limited mobility, including all of its galleries and historic buildings?

@@ -45,7 +45,8 @@ function build(node, credits, man, file) {
     const h640 = Math.round((Math.min(640, d.w) / d.w) * d.h);
     return el('img', { src: `/img/${k}-1280.webp`, srcSet: `/img/${k}-640.webp 640w, /img/${k}-1280.webp ${Math.min(1280, d.w)}w`, sizes: SIZES[layout], width: Math.min(640, d.w), height: h640, alt: alts[i], loading: 'lazy', decoding: 'async' });
   });
-  const people = [...new Set(keys.map((k) => credits[k]))];
+  const seen = new Set();
+  const people = keys.map((k) => credits[k]).filter((c) => { const id = `${c.author}|${c.license}`; if (seen.has(id)) return false; seen.add(id); return true; });
   const creditNodes = [txt(people.length > 1 ? 'Photos: ' : 'Photo: ')];
   people.forEach((c, i) => {
     if (i) creditNodes.push(txt('; '));

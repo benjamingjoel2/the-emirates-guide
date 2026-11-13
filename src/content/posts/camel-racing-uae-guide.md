@@ -136,6 +136,8 @@ The racing community is generally welcoming, but this is their sport and their s
 
 If someone offers to explain what is going on, accept. A few minutes with a knowledgeable local can transform the experience.
 
+<photo-set layout="wide" keys="camel-racing-uae-guide-6" alts="Black and white photo of a long string of racing camels in patterned coats led by riders along the training track at Al Marmoom in Dubai" caption="Camels in training at the Al Marmoom track in Dubai."></photo-set>
+
 ## Families and accessibility
 
 Children tend to love camel racing, because the action is fast, loud and easy to follow. Keep them close, especially near vehicles and animals, and give them a job such as spotting a particular camel or counting the support cars. A morning visit also leaves the afternoon free for a rest or a pool.

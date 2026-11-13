@@ -5,8 +5,8 @@ category: "desert-adventure"
 emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
-hero: "liwa-dune"
-heroAlt: "A road running between tall red-gold sand dunes in the Liwa desert"
+hero: "sir-bani-yas-island-guide-hero"
+heroAlt: "A view across the low, sandy landscape of Sir Bani Yas Island with scattered trees and the sea beyond"
 featured: false
 startHere: false
 plan: "A verified local operator can advise on whether a day trip or an overnight stay suits you, help you book wildlife drives and island transfers well ahead, and plan the long drive west to Jebel Dhanna."

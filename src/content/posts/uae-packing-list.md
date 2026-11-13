@@ -141,6 +141,8 @@ The same page notes that malls, health clubs and resorts are generally more acce
 
 Autumn begins hot and ends gloriously mild. Early in the season, pack as for summer. By November and December, add a light layer for evenings and think about the water: Visit Abu Dhabi says the milder autumn weather calls for [more beach outings and watersports](https://visitabudhabi.ae/en/plan-your-trip/essential-info/weather-in-abu-dhabi).
 
+<photo-set layout="wide" keys="uae-packing-list-4" alts="PH4" caption="Heavy rain is rare, but it can flood roads, as here in Dubai."></photo-set>
+
 ## Rain: rare, but worth a thought
 
 Rain is not the first thing most people pack for, but it does happen. Visit Abu Dhabi says rain is [more common in Al Ain](https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear) than elsewhere in the emirate, because of its closeness to the Hajar Mountains. The Foreign Office says heavy rain in the UAE [can cause flooding](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), and advises checking forecasts from the National Centre of Meteorology. A compact umbrella or light waterproof takes up little room in the winter months. Our guide to [rain and flooding in the UAE](/stories/uae-rain-and-flooding-advice/) explains what to do if the weather turns.

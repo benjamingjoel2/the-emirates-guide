@@ -6,7 +6,7 @@ emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "louvre-abu-dhabi"
-heroAlt: "Sunlight falling in patterned beams through the latticed dome of Louvre Abu Dhabi onto the walkways below"
+heroAlt: "The latticed underside of the Louvre Abu Dhabi dome framing a view across shaded water to the sea and the city skyline"
 featured: false
 startHere: false
 plan: "A verified local operator can build a Louvre Abu Dhabi visit into a wider Saadiyat or Abu Dhabi day, arrange transport from Dubai, and advise on guided tours, kayaking around the museum and the best time of day to go."
@@ -40,6 +40,8 @@ That approach changes how you look. In a traditional museum you might walk throu
 ### Why the building matters
 
 The building is by the architect Jean Nouvel, whom Visit Abu Dhabi notes is a [winner of the Pritzker Prize](https://visitabudhabi.ae/en/things-to-do/culture/museums-and-art/louvre-abu-dhabi). Its centrepiece is a vast silvery dome which, according to the same page, is 180 metres wide and weighs 7,500 tons, roughly the same as the Eiffel Tower, and is made up of 7,850 stars arranged in eight layers. It was inspired by the interlocking geometry of Arabic cupolas. As sunlight passes through, it casts shifting patterns on the spaces below, an effect Nouvel called the "rain of light".
+
+<photo-set layout="full" keys="louvre-abu-dhabi-guide-1" alts="A tall stone wall carved with ancient script stands beneath the latticed dome, with spots of sunlight on the floor around it" caption="Under the dome, sunlight falls in shifting spots across the walls and walkways."></photo-set>
 
 Abu Dhabi's culture department adds that the museum is [made up of dozens of buildings linked by waterfront promenades](https://abudhabiculture.ae/en/Abu-Dhabi-Museums/Louvre-Abu-Dhabi), with the dome appearing to float above the complex. Walking those promenades between galleries is part of the experience, so build in time for it.
 

@@ -53,6 +53,8 @@ Early morning in the Al Fahidi Historical Neighbourhood is the city at its gentl
 
 Take your time. Look up at the wind towers, peer into the small galleries and courtyards that are open, and follow the lanes down towards the water. Dubai Municipality runs a heritage architecture preservation project that aims to [safeguard areas, sites and buildings which hold significant historical relevance](https://www.dm.gov.ae/discover-dubai/) and tell the story of Dubai's past, and walking these lanes is the easiest way to see why that matters.
 
+<photo-set layout="pair" keys="free-things-to-do-in-dubai-1,free-things-to-do-in-dubai-2" alts="A narrow lane between sand-coloured walls and a wind tower in Al Bastakiya|An open sack of dried green herbs for sale on a paved lane in the Deira spice souk" caption="Wandering Al Fahidi and window shopping in the Deira souks costs nothing."></photo-set>
+
 The neighbourhood is also home to the Sheikh Mohammed bin Rashid Al Maktoum Centre for Cultural Understanding, at House 26 on Al Musallah Street, which runs [cultural meals, heritage tours and mosque visits](https://cultures.ae/) under the motto "Open Doors. Open Minds." Its programmes are paid, but if you have one paid experience on an otherwise free trip, a cultural meal here is a good candidate, because it answers the questions that a free wander raises.
 
 ### Browsing the souks

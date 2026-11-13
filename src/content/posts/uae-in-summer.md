@@ -5,8 +5,8 @@ category: "travel-tips"
 emirates: []
 published: 2026-11-12
 updated: 2026-11-13
-hero: "louvre-abu-dhabi"
-heroAlt: "Dappled sunlight falling through the latticed dome of Louvre Abu Dhabi onto the shaded plaza below"
+hero: "uae-in-summer-hero"
+heroAlt: "HEROALT"
 featured: false
 startHere: false
 plan: "A verified local operator can build a summer itinerary around early mornings, indoor sights and evening outings, move desert or boat trips to the coolest hours, and advise on heat precautions for children, older travellers and anyone with a health condition."
@@ -143,7 +143,7 @@ Islamic holidays move earlier each year, and in 2027 the Islamic New Year lands 
 - **Think twice if:** you want hiking, long walking tours, or a full day of desert and beach. Pick a cooler month instead, using our [month-by-month guide](/stories/best-time-to-visit-uae-month-by-month/).
 - **Take extra care if:** you are travelling with babies, older relatives or anyone with a heart or breathing condition. Speak to a doctor before you book.
 
-<photo-set layout="pair" keys="uae-in-summer-6,uae-in-summer-7" alts="ALT6|ALT7" caption="CAP6"></photo-set>
+<photo-set layout="pair" keys="uae-in-summer-6,uae-in-summer-7" alts="Kite surfers and beachgoers on a wide sandy beach in Dubai with the sail-shaped Burj Al Arab tower on the horizon|Gulls on the sand and in the air over Jumeirah Beach at sunset, with the Burj Al Arab silhouetted against orange clouds" caption="Dubai beaches are at their best early and late in summer, when the sun is low and the sand has cooled."></photo-set>
 
 For more planning help, browse our [travel tips](/travel-tips/).
 

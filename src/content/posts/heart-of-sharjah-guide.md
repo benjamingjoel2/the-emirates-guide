@@ -6,7 +6,7 @@ emirates: ["sharjah"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "sharjah-heritage"
-heroAlt: "Restored coral-stone buildings with wooden doors and shuttered windows in the Heart of Sharjah heritage district"
+heroAlt: "placeholder"
 featured: false
 startHere: false
 plan: "A verified local operator can arrange a guided walk through the Heart of Sharjah, help you time it around the heat and prayer times, and point you to the souks and house museums that match your interests."

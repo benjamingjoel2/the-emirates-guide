@@ -47,7 +47,7 @@ Getting from Dubai to Muscat is one of the most rewarding moves you can make on 
 
 The short version: flying is the simplest and quickest; driving gives you the mountains and the freedom to stop, but only works if your hire car is allowed into Oman; and a bus or guided overland trip sits in between. Whichever you choose, check Oman's entry rules for your passport first. Here is how each option works, how the day on the road actually unfolds, and what to do once you arrive.
 
-<photo-set layout="trio" keys="dubai-to-muscat-guide-1,dubai-to-muscat-guide-2,dubai-to-muscat-guide-3" alts="A road curving past the green water of Hatta Dam, with layered brown mountains behind|A winding track below high limestone peaks in the Hajar Mountains of Oman|Mutrah Corniche in Muscat at night, with a domed pavilion on the promenade, the lit entrance to Mutrah Souq and a floodlit fort on the hill" caption="From the Hatta mountains to the Muscat seafront: the overland route crosses some of the region's most varied scenery."></photo-set>
+<photo-set layout="trio" keys="dubai-to-muscat-guide-1,dubai-to-muscat-guide-2,dubai-to-muscat-guide-3" alts="A road curving below the stone face of Hatta Dam, with jagged brown mountains behind|A winding track below high limestone peaks in the Hajar Mountains of Oman|Mutrah Corniche in Muscat at night, with a domed pavilion on the promenade, the lit entrance to Mutrah Souq and a floodlit fort on the hill" caption="From the Hatta mountains to the Muscat seafront: the overland route crosses some of the region's most varied scenery."></photo-set>
 
 ## Which option suits you?
 

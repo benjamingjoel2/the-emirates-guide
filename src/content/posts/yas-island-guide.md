@@ -91,6 +91,8 @@ Bring proper swimwear and keep it for the sand and pool. The UK government advic
 
 Yas also appeals to golfers. Visit Abu Dhabi describes Yas Links as [the Middle East's only true links course](https://visitabudhabi.ae/en/things-to-do/sports-and-recreation/golf/yas-links-abu-dhabi), in the tradition of the coastal links of Scotland and Ireland, set on the western shores of the island among rolling hills and mangrove plantings, with eight holes running right along the coastline. There is also a nine-hole academy course and floodlit practice facilities, which suit beginners and anyone who wants a short session in the cooler evening air.
 
+<photo-set layout="pair" keys="yas-island-guide-5,yas-island-guide-6" alts="The white clubhouse at Yas Links with arched terraces, parasols and a lawn in front|Golfers on a green fairway at Yas Links with the waters of the Gulf beyond" caption="Yas Links runs along the island's western shore, with several holes beside the water."></photo-set>
+
 Even if you do not play, the course is a reminder that the western side of the island is a calmer place than the theme park district. Non-golfers in the group can spend the time at the beach or the marina instead.
 
 ## Getting around the island
@@ -133,6 +135,8 @@ For families with mixed interests, the same shape works with one parent at a par
 ## Combining Yas with nearby places
 
 Yas sits close to several quieter neighbourhoods that make an easy half day.
+
+<photo-set layout="inset-left" keys="yas-island-guide-7" alts="An aerial view of Al Raha Bay with a curving beach, a marina full of small boats and low-rise buildings on Al Muneera" caption="Al Raha Bay lies just across the water from Yas."></photo-set>
 
 Al Raha, on the mainland opposite, is described by Visit Abu Dhabi as a mostly residential district with [boardwalks, marinas and relaxed waterfront dining](https://visitabudhabi.ae/en/where-to-go/marinas-waterfronts/al-raha), about 10 minutes from the airport. The board notes that many visitors stay on Yas and drop into Al Raha for a slower day of waterfront walks, and that kayaking, paddleboarding and other water sports are available there.
 

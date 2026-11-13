@@ -65,6 +65,8 @@ You will rarely see the whole process, but knowing it helps you appreciate the c
 
 The spices go in during brewing, which is why the cardamom is so present. The result is poured from the dallah through its long spout into the waiting cup. If you are at a cultural centre or a heritage demonstration, this is the moment to watch: the pot, the pour and the way the server handles the cups are all part of the craft.
 
+<photo-set layout="trio" keys="arabic-coffee-etiquette-2,arabic-coffee-etiquette-3,arabic-coffee-etiquette-4" alts="A small handleless cup of pale Arabic coffee, decorated with a painted pattern|A steaming metal cup of hot coffee against a dark background|A pile of roasted coffee beans" caption="The handleless cup, the pale cardamom-scented coffee and the roasted beans it starts from."></photo-set>
+
 ## The rules of the cup
 
 UNESCO sets out the core etiquette clearly: [older people and guests are served first](https://ich.unesco.org/en/RL/arabic-coffee-a-symbol-of-generosity-02111), the coffee is poured with the right hand, and the person drinking shakes their cup to signal they are done. Here is what that looks like from your side of the cup.

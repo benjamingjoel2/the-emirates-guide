@@ -5,8 +5,8 @@ category: "desert-adventure"
 emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
-hero: "liwa-dune"
-heroAlt: "A road running between tall red-gold sand dunes in the Liwa desert"
+hero: "liwa-empty-quarter-guide-hero"
+heroAlt: "HEROALT"
 featured: false
 startHere: false
 plan: "A verified local operator can plan a Liwa trip around your dates, arrange an experienced desert driver and guide for the dunes, and advise on festival weeks, camping and what to carry."
@@ -133,7 +133,7 @@ This is serious desert, and it deserves serious preparation.
 
 The UK Foreign Office warns that desert excursions [can be dangerous unless you are in a properly equipped 4-wheel-drive vehicle](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security). It advises always travelling with other cars, taking water and a mobile phone, and leaving a copy of your plans with someone. If you join a tour for desert driving or quad biking, go with a reputable company with proper health and safety procedures, and check your insurance covers it.
 
-<photo-set layout="inset-left" keys="liwa-empty-quarter-guide-7" alts="A7" caption="Beyond the paved roads the Empty Quarter is soft, open sand with few landmarks."></photo-set>
+<photo-set layout="inset-left" keys="liwa-empty-quarter-guide-7" alts="Late sun on rolling orange dunes stretching to a hazy horizon in the Empty Quarter near Liwa" caption="Beyond the paved roads the Empty Quarter is soft, open sand with few landmarks."></photo-set>
 
 If you are in an ordinary hire car, stay on the paved roads. Soft sand catches even confident drivers. Visit Abu Dhabi's off-road guide grades its Liwa Crossing route, [109km long](https://visitabudhabi.ae/en/things-to-do/adventure/desert/off-road-desert-driving), as one for advanced drivers with camping skills, and suggests planning one and a half to two days for it. The same guide advises checking tyres and the engine, carrying a first-aid kit, spare tyre, tool kit, navigation and plenty of water, and keeping Abu Dhabi Police (999) and the ambulance service (998) to hand.
 

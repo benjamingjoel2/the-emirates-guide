@@ -49,6 +49,8 @@ You will see the name Eid Al Etihad on banners and in the media. Gulf News expla
 
 ### Where the union was signed
 
+<photo-set layout="inset-right" keys="uae-national-day-for-visitors-8" alts="The first UAE Constitution, a handwritten Arabic document with the rulers' signatures, displayed open in a red binder inside a glass case at the Etihad Museum" caption="The UAE Constitution on display at the Etihad Museum in Dubai."></photo-set>
+
 If you want to stand where the story began, head to Dubai. The National describes the Etihad Museum as sitting beside Union House, [where the Constitution was signed in 1971](https://www.thenationalnews.com/arts-culture/2025/08/29/dubai-visit-etihad-museum-highlights), and notes that the museum's entrance has seven pen-like columns symbolising the signing of the agreement by the seven leaders. Most of the galleries sit underground, with curving white ceilings, light wells and sunken courtyards. The same article suggests allowing time to see Union House as well as the museum. A visit in the days before National Day gives the celebrations around you much more meaning; our [Etihad Museum guide](/stories/etihad-museum-dubai/) has the practical details.
 
 ## National Day holiday dates and what they mean for you

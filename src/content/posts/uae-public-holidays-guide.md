@@ -5,8 +5,8 @@ category: "travel-tips"
 emirates: []
 published: 2026-11-12
 updated: 2026-11-13
-hero: "abu-dhabi-mosque"
-heroAlt: "The palm-lined approach to the Sheikh Zayed Grand Mosque in Abu Dhabi, with its white minarets at the far end"
+hero: "uae-public-holidays-guide-hero"
+heroAlt: "HEROALT"
 featured: false
 startHere: false
 plan: "A verified local operator can tell you which public holidays fall during your dates, how they are likely to affect crowds, tours and opening hours, and help you plan bookings and travel days around them."

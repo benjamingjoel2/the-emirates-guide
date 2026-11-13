@@ -6,7 +6,7 @@ emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "abu-dhabi-mosque"
-heroAlt: "The palm-lined approach to the Sheikh Zayed Grand Mosque in Abu Dhabi, with its white minarets at the far end"
+heroAlt: "The long pale stone walls of Qasr Al Hosn behind a planted garden, with glass towers of central Abu Dhabi rising beyond"
 featured: false
 startHere: false
 plan: "A verified local operator can pair Qasr Al Hosn with other heritage sites in the capital, arrange a guide who brings the fort's history to life, and help you time a visit around craft workshops or performances."

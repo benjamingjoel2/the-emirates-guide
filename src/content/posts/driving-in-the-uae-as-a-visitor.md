@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "jebel-jais-sunset"
-heroAlt: "The Jebel Jais mountains in Ras Al Khaimah in warm late afternoon light"
+heroAlt: "HEROALT"
 featured: false
 startHere: false
 plan: "A verified local operator can advise whether self-driving or a driver suits your itinerary, arrange a private driver for long or mountain routes, and run desert trips in properly equipped vehicles with experienced guides."

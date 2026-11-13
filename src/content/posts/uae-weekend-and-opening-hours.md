@@ -61,6 +61,8 @@ Some mosques that welcome sightseeing visitors adjust their visiting arrangement
 
 Around the middle of the day, you may also notice small shops in older neighbourhoods closing for a while, especially in traditional souks. Malls, large attractions and hotels generally carry on as normal.
 
+<photo-set layout="full" keys="uae-weekend-and-opening-hours-3" alts="Jumeirah Mosque in Dubai, with its sandstone domes and tall minaret behind palm trees beside a quiet road" caption="Friday is the day of the main weekly congregational prayer, and much of the country plans the day around it."></photo-set>
+
 ### Being a considerate visitor on a Friday
 
 You do not need to change much, but a few small courtesies help. Around midday, avoid parking across mosque entrances or blocking side streets near them, and expect some roads near large mosques to be busy as people arrive and leave. If you are walking in an older neighbourhood, keep your voice down near a mosque during prayer time and do not take photos of people at prayer. Modest clothing, which suits the climate anyway, is always appreciated.

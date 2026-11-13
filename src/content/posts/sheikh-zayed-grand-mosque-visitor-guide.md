@@ -6,7 +6,7 @@ emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "abu-dhabi-mosque"
-heroAlt: "A palm-lined approach leading to the white domes and minarets of Sheikh Zayed Grand Mosque in Abu Dhabi"
+heroAlt: "The domes and minarets of Sheikh Zayed Grand Mosque in silhouette against an orange sunset sky, seen across the water"
 featured: false
 startHere: false
 plan: "A verified local operator can time your mosque visit around prayer times and the light you want, arrange transport from Dubai or Abu Dhabi, and brief your group on dress and etiquette before you arrive."
@@ -166,6 +166,8 @@ Remember that Friday is the main day of congregational prayer. Visit Abu Dhabi n
 ## How a visit unfolds
 
 A typical unhurried visit runs something like this. You arrive at the southern car parks, where the [FAQ](https://www.szgmc.gov.ae/en/worshippers/en-v-faqs) says signs near the entrances show where to park, and buggies can carry you towards the tour starting point. After the security checks you come up into the arcades and the courtyard, and then into the foyers and main prayer hall. Allow time to stop at the photo points, and plan to finish in the courtyard or beside the pools as the light changes.
+
+<photo-set layout="inset-right" keys="sheikh-zayed-grand-mosque-visitor-guide-7" alts="A white marble pillar inlaid with flowers in coloured stone, with white domes behind" caption="Inlaid flowers climb the pillars of the arcades around the courtyard."></photo-set>
 
 Do not try to rush it. The distances on foot are longer than they look, the marble reflects a lot of heat in the warmer months, and the details reward a slow pace. If you are short of time, prioritise the courtyard and the main prayer hall over everything else.
 

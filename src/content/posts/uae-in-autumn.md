@@ -5,8 +5,8 @@ category: "travel-tips"
 emirates: []
 published: 2026-11-12
 updated: 2026-11-13
-hero: "ajman-corniche"
-heroAlt: "Waves breaking on the rocks along the Ajman corniche in soft dusk light"
+hero: "uae-in-autumn-hero"
+heroAlt: "HEROALT"
 featured: false
 startHere: false
 plan: "A verified local operator can advise on which outdoor trips are realistic in early autumn, time beach, desert and mountain outings for cooler hours, and flag events or busy weekends that may affect your dates."
@@ -65,6 +65,8 @@ October is the month the year changes direction. The middle of the day is still 
 
 It is also a good month to test the outdoors before committing to it. Try a short sunrise walk or an evening on the water early in your trip, see how the heat feels, and then decide whether a longer hike or a full desert afternoon makes sense. Families with young children, in particular, tend to find the cooler edges of the day far easier.
 
+<photo-set layout="full" keys="uae-in-autumn-1" alts="The restored mud-brick tower of Dhayah Fort with a UAE flag flying beside it and bare Hajar mountains behind in evening light" caption="Dhayah Fort in Ras Al Khaimah is one of the viewpoints the tourism board suggests for autumn mornings and evenings."></photo-set>
+
 ### November: the outdoor season opens
 
 By November the day is comfortable enough for most outdoor plans, from desert evenings to long walks in the old quarters. Visit Abu Dhabi notes that rainfall, while sporadic, falls mainly [between November and March](https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear), averaging 12cm a year in most of the emirate, so this is also when the occasional shower returns. Nights are still mild, but carry a light layer for the desert.
@@ -86,6 +88,8 @@ The sea is at its warmest after the summer, which makes autumn swimming a pleasu
 - **The first desert evenings.** By November, dune drives and camp dinners feel inviting again. See our guide to whether [a desert safari is worth it](/stories/is-a-desert-safari-worth-it/).
 - **The northern emirates.** Ras Al Khaimah's coast and mountains suit autumn well, with sunsets the tourism board singles out for this season.
 - **Islands and mangroves.** Kayaking and boat trips around Abu Dhabi's islands become comfortable again once the worst of the heat has gone.
+
+<photo-set layout="trio" keys="uae-in-autumn-2,uae-in-autumn-3,uae-in-autumn-4" alts="ALT2|ALT3|ALT4" caption="CAP2"></photo-set>
 
 ### How an autumn day unfolds
 

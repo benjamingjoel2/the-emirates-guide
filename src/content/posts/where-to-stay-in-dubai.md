@@ -84,8 +84,6 @@ Al Fahidi is also home to the Sheikh Mohammed bin Rashid Al Maktoum Centre for C
 
 Mornings here are made for walking. You can be in the lanes of Al Fahidi before the day warms up, cross the water by abra and browse the souks in Deira, then be back in your room by the middle of the day. Evenings are lively along the waterfront at Al Seef, and the abras keep crossing after dark. The trade off comes when you want the beach or the Marina, which are a longer journey from here, so plan those as dedicated outings rather than quick hops.
 
-Streets in the older districts are busier and noisier than the resort areas, and the hotels are generally smaller. If you like a bit of bustle outside your door, that is part of the appeal.
-
 **Best for:** culture lovers, photographers, travellers who like to walk, repeat visitors.
 **Think twice if:** you want a resort pool and beach, or very quiet streets after dark.
 
@@ -152,7 +150,7 @@ For door-to-door trips, the government portal notes that there are [special taxi
 
 Most visitors take a taxi from the airport to their first hotel, especially with luggage. The UK Foreign Office advises using [only licensed taxis or other recognised forms of public transport](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), including recognised ride-hailing apps, and says authorised Dubai taxis are painted cream with different coloured roofs. The government portal says you can book a Dubai taxi [through RTA or apps](https://u.ae/en/information-and-services/transportation/Modes-of-transport/public-transport), and that booking charges differ by type of taxi and time of day.
 
-If you would rather use the metro, check the luggage rule first. RTA allows [two suitcases per passenger](https://www.rta.ae/wps/portal/rta/ae/public-transport/metro/about-metro), one large and one small, with maximum sizes listed on its page, and asks that they are kept in the luggage area of each cabin. Travellers with large cases are usually happier in a taxi.
+If you would rather use the metro, check the luggage rule first. RTA allows [two suitcases per passenger](https://www.rta.ae/wps/portal/rta/ae/public-transport/metro/about-metro), one large and one small, with maximum sizes listed on its page, and asks that they are kept in the luggage area of each cabin.
 
 ## Before you book: checks that save surprises
 

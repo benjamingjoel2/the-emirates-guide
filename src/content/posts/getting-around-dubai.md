@@ -97,6 +97,8 @@ Buses reach the neighbourhoods the rail lines miss. RTA's bus pages include [tim
 
 Buses are most useful for short links between a metro station and a beach, a park or a residential area, and for trips to other emirates. They are slower than the metro, so for long distances inside the city the train usually wins.
 
+<photo-set layout="pair" keys="getting-around-dubai-3,getting-around-dubai-4" alts="Inside an RTA bus in the evening, with yellow handrails, blue seats and a red nol card reader|A red and white RTA double-decker bus on route X25 to Al Karama Bus Station" caption="RTA buses fill the gaps in the rail network, and you pay by tapping a nol card on board."></photo-set>
+
 ## Taxis and ride-hailing: door to door
 
 A taxi is often the easiest way home after dinner, or from the metro to a beach hotel. The UK Foreign Office advises using [only licensed taxis or other recognised forms of public transport](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), including recognised ride-hailing apps. It says authorised Dubai taxis are painted cream with different coloured roofs, and that taxis with pink roofs have female drivers. There are also special taxis for women and children.
@@ -147,6 +149,8 @@ That pattern, rail for distance, boats for the Creek, feet for neighbourhoods an
 Transport timetables and taxi availability can shift during Ramadan, when evenings get busy around iftar. The Foreign Office notes that [driving may be erratic, particularly when people are trying to get home at dusk](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), and that eating and drinking in public in the daytime can cause offence during the holy month, so keep snacks out of sight on public transport. Our guide to [visiting the UAE during Ramadan](/stories/visiting-uae-during-ramadan/) explains what changes.
 
 Where you stay makes a big difference too: see [where to stay in Dubai](/stories/where-to-stay-in-dubai/) for which neighbourhoods sit closest to the metro and tram.
+
+<photo-set layout="trio" keys="getting-around-dubai-5,getting-around-dubai-6,getting-around-dubai-7" alts="A blue Dubai tram arriving at a stop beside a sign pointing to the Palm Monorail|A wooden abra with two passengers crossing Dubai Creek, with the Burj Khalifa on the skyline|A red and white RTA water bus moored on Dubai Creek, with dhows along the far bank" caption="Tram, abra and water bus: three ways to travel that suit different parts of the city."></photo-set>
 
 ### Emergencies on the move
 

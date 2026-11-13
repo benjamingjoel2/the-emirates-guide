@@ -99,8 +99,6 @@ The RTA also offers private charters on the traditional abras for a set time, wh
 5. **Pay when asked.** Have your cash ready so you can hand it over to the boatman without fuss.
 6. **Step off the same way.** Wait until the boat is steady against the quay before you stand.
 
-<photo-set layout="inset-right" keys="dubai-creek-abra-guide-2" alts="A traditional wooden abra with a canopy moored on Dubai Creek in Old Dubai" caption="The traditional boats sit low in the water, so take your time stepping on and off."></photo-set>
-
 The crossing itself is short. Use it: look upstream and downstream, watch the dhows being loaded, and see how the two banks face each other across the water. On the Deira side you will see the long wharf where cargo dhows tie up; Dubai Municipality finished redeveloping the [two-kilometre Deira wharf](https://www.mediaoffice.ae/en/news/2025/may/18-05/dubai-municipality-completes-development-of-dubai-creek) in 2025, adding a public promenade as well as berths for working vessels.
 
 ## What a crossing feels like

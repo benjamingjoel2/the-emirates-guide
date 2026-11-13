@@ -75,6 +75,8 @@ Dubai Municipality describes Children's City as an educational city [devoted to 
 
 Children usually love a glass lift and a view, and the Dubai Frame delivers both. Its visitor rules are worth knowing before you go: [children under 12 must be accompanied by an adult](https://www.dubaiframe.ae/en/plan-your-visit) at all times, infants under 3 enter free, and large bags and strollers must be left at the Gate 4 counter. Food and drink are not allowed inside, toys are not allowed either, and you should not sit children on the railing. It stands in Zabeel Park, reached through Al Jafiliya Metro Station, so you can follow the visit with a run around on the grass.
 
+<photo-set layout="pair" keys="dubai-with-kids-3,dubai-with-kids-5" alts="Hedges, young trees and a fenced paved area in Zabeel Park, with towers rising beyond|A palm-lined footpath beside the lawns of Zabeel Park, with the Burj Khalifa on the skyline" caption="The Dubai Frame stands in Zabeel Park, so a visit can end with a run around on the grass."></photo-set>
+
 ## Parks, flamingos and open space
 
 ### Public parks
@@ -86,6 +88,8 @@ When everyone needs to run around, head to a park. Dubai Municipality says there
 For a quieter outing, Ras Al Khor Wildlife Sanctuary is close to the city centre. Dubai Municipality's flamingo hide promises [the pink of thousands of flamingoes all year round](https://www.dm.gov.ae/ras-al-khor/book-a-visit/), and says families and individuals can walk in at any time during opening hours, with walk-in registration required. The hides are quiet zones with [no phones, food or drinks](https://www.dm.gov.ae/ras-al-khor/plan-your-visit/), and only 15 people are allowed inside a hide at a time. The municipality also asks visitors not to sit on the window plank, not to rush or push, and to give priority to people of determination.
 
 This suits children who can whisper. Bring binoculars and talk through what to look for before you go in, so the visit feels like a spotting game rather than a test of patience. The municipality's motto for the site is a good one to share with children: take nothing but memories and leave nothing but footprints.
+
+<photo-set layout="mosaic" keys="dubai-with-kids-4,dubai-with-kids-2,dubai-with-kids-6" alts="Flamingos resting with their heads tucked in, standing in shallow water at Ras Al Khor|Lawns, flower beds and a paved path in a Dubai public park at sunset|Shady trees and open grass in Mushrif Park" caption="Flamingos at Ras Al Khor and green space in the city public parks make easy outings."></photo-set>
 
 ## Beach days with little ones
 

@@ -6,7 +6,7 @@ emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "spice-souk"
-heroAlt: "Open sacks and baskets of colourful spices and dried goods for sale in Dubai's Spice Souk"
+heroAlt: "Baskets and open sacks of brightly coloured spices and dried goods on display in the spice souk in Deira, Dubai"
 featured: false
 startHere: false
 plan: "A verified local operator can guide you through the Deira souks, explain what to look for in spices and gold, and help you bargain with confidence while staying polite. They can also combine the souks with an abra crossing and Al Fahidi."
@@ -83,6 +83,8 @@ Saffron deserves extra care, because quality varies widely. Look at the threads 
 ## Inside the Gold Souk
 
 Walk a few minutes from the spices and the atmosphere shifts from earthy to dazzling. The Gold Souk is lane after lane of shop windows filled with necklaces, bangles, rings and elaborate bridal sets. Visit Dubai's shopping guide points to the storied souks of Deira and Bur Dubai for [lavish gold jewellery, handwoven fabrics, traditional perfumes and special souvenirs](https://www.visitdubai.com/en/-/media/Files/guides/dubai-mini-guide-04-shopping-lover.pdf).
+
+<photo-set layout="full" keys="dubai-gold-and-spice-souks-2" alts="An elevated view over the dense streets of Al Ras in old Deira, with Dubai Creek curving past on the right" caption="Old Deira's tightly packed streets sit right beside the Creek, with the souks a short walk from the water."></photo-set>
 
 You can enjoy the Gold Souk without spending anything. Window-shopping here is a pastime in its own right, especially in the evening when the lights come on.
 

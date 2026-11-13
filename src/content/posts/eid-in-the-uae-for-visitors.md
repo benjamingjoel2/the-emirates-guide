@@ -165,6 +165,8 @@ For most visitors, yes. You get a festive atmosphere, generous hospitality and a
 
 Eid suits travellers who enjoy a lively atmosphere and are happy to book ahead. If you want quiet attractions and empty roads, aim for the weeks either side. Our guide to [UAE public holidays](/stories/uae-public-holidays-guide/) helps you see how Eid fits into the year, and our [travel tips section](/travel-tips/) has more planning advice. If food is one of the reasons you travel, our guide to [Emirati food and where to eat it](/stories/emirati-food-what-to-eat-where/) helps you find the dishes that families share over the holiday.
 
+<photo-set layout="mosaic" keys="eid-in-the-uae-for-visitors-5,eid-in-the-uae-for-visitors-6,eid-in-the-uae-for-visitors-7" alts="M1|M2|M3" caption="CAPTION"></photo-set>
+
 ## Quick answers
 
 **When is Eid in the UAE?**

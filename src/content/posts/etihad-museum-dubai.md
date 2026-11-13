@@ -6,7 +6,7 @@ emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "al-fahidi"
-heroAlt: "Wind towers on the rooftops of the Al Fahidi Historical Neighbourhood in Dubai"
+heroAlt: "A large UAE flag flying on a tall pole in front of the curved white pavilion of Etihad Museum in Dubai"
 featured: false
 startHere: false
 plan: "A verified local operator can fit Etihad Museum into a Dubai heritage day, advise on combining it with Old Dubai or the Jumeirah coast, and help you plan around National Day if your trip falls in early December."

@@ -5,7 +5,7 @@ category: "destinations"
 emirates: ["abu-dhabi", "dubai", "sharjah", "ajman", "umm-al-quwain", "ras-al-khaimah", "fujairah"]
 published: 2026-11-11
 updated: 2026-11-13
-hero: "dubai-burj-ferry"
+hero: "uae-first-timers-guide-seven-emirates-hero"
 heroAlt: "The Burj Khalifa and the Dubai skyline seen across the water from the deck of a ferry"
 featured: true
 startHere: true

@@ -6,7 +6,7 @@ emirates: ["ras-al-khaimah"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "dhayah-fort"
-heroAlt: "Dhayah Fort, a square mud-brick fort, among rocks and acacia trees below the mountains of Ras Al Khaimah"
+heroAlt: "Dhayah Fort's mud-brick walls on top of a rocky hill, with palm gardens below and mountains behind"
 featured: false
 startHere: false
 plan: "A verified local operator can time your visit to Dhayah Fort for the cooler, softer light of morning or late afternoon, arrange a guide who knows the site's history and pair it with nearby heritage stops or the Jebel Jais road."

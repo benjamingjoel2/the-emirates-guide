@@ -139,6 +139,8 @@ The Corniche is a family place, and a little awareness goes a long way.
 
 If you only have a morning or an evening, link the three main heritage stops: Qasr Al Hosn inland, Heritage Village on the Breakwater and the Founder's Memorial. Each tells part of the same story, from the fort that anchored the early town, to the crafts and pearling life of the pre-oil coast, to the man who led the country into its modern age. A taxi between them is short, and you can finish on the promenade at sunset.
 
+<photo-set layout="mosaic" keys="abu-dhabi-corniche-guide-4,abu-dhabi-corniche-guide-5,abu-dhabi-corniche-guide-6" alts="The long white walls and round watchtower of Qasr Al Hosn with modern office towers behind|Low traditional buildings and a palm-frond shelter at Heritage Village in Abu Dhabi|The Constellation at the Founder's Memorial in Abu Dhabi lit up at night" caption="Qasr Al Hosn, Heritage Village and the Founder's Memorial make a natural half-day loop from the Corniche."></photo-set>
+
 ## Quick answers
 
 **Can you swim at the Abu Dhabi Corniche?**

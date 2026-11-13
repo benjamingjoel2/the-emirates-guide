@@ -123,6 +123,8 @@ The same regulation sets operating limits: daylight only, within visual line of 
 
 That last point is worth reading twice. Even for residents who qualify, the recreational category is not about aerial photography.
 
+<photo-set layout="full" keys="photography-and-drone-rules-uae-5" alts="Tall wind-rippled orange sand dunes in the Rub al Khali, the Empty Quarter, with a road winding through the desert in the distance" caption="Dune views like this are what many drone owners hope to capture, but the recreational rules prohibit fitting a drone with a camera."></photo-set>
+
 ### The platform
 
 The [UAE Drones platform](https://drones.gov.ae/) is where pilots sign up, request flight approvals and get live airspace updates. Operators log in with UAE Pass, the national digital identity.

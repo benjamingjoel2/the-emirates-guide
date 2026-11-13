@@ -60,6 +60,8 @@ One fixed point to plan around is Friday. The Jumeirah Mosque visit on day three
 
 The most common mistake is trying to fit too much into each day. Distances between Old Dubai, Downtown and the Marina are longer than they look on a map, and every journey adds a little waiting, walking and queuing. Two or three main stops a day, with a proper break in between, is a pace most people enjoy. The second mistake is underestimating the sun on the walking parts of the day, even outside high summer. The third is forgetting that some sights have their own rules on dress, bags and food, so read each stop's notes below before you set out, and carry a light layer and a refillable water bottle every day.
 
+<photo-set layout="pair" keys="three-days-in-dubai-1,three-days-in-dubai-2" alts="Sand-coloured houses with wind towers and a minaret around a paved square in the Al Fahidi Historical Neighbourhood|A covered lane of the old Deira souk under a timber roof, hung with UAE flags" caption="Day one covers both banks of the Creek: the lanes of Al Fahidi and the covered souks of Deira."></photo-set>
+
 ## Day one: Old Dubai, the Creek and the souks
 
 ### Morning: the lanes of Al Fahidi

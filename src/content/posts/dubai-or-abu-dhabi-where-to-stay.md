@@ -5,7 +5,7 @@ category: "where-to-stay"
 emirates: ["dubai", "abu-dhabi"]
 published: 2026-11-11
 updated: 2026-11-13
-hero: "louvre-abu-dhabi"
+hero: "dubai-or-abu-dhabi-where-to-stay-hero"
 heroAlt: "Daylight falling through the latticed dome onto the plaza and water at Louvre Abu Dhabi"
 featured: false
 startHere: true

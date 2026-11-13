@@ -147,6 +147,8 @@ Dhow dinner cruises, creek trips and boat days to the islands are popular and us
 - Check how you get on and off the boat, especially with a buggy, a wheelchair or older relatives.
 - For trips that cross into Oman, such as a [Musandam dhow cruise](/stories/musandam-dhow-cruise-guide/), check who handles the border and what each passport needs.
 
+<photo-set layout="mosaic" keys="booking-a-uae-tour-operator-safely-4,booking-a-uae-tour-operator-safely-5,booking-a-uae-tour-operator-safely-6" alts="A wooden two-deck dhow cruising on Dubai Creek in front of restored sand-coloured buildings with wind towers|PH5|A wooden abra full of passengers crossing Dubai Creek, with a two-deck dhow and office towers behind" caption="Dhow cruises in Dubai are usually calm, but it is still worth asking about life jackets and boarding."></photo-set>
+
 ## On the day: last checks before you set off
 
 Even after a careful booking, take a minute to check things when the vehicle or boat arrives.

@@ -5,8 +5,8 @@ category: "itineraries"
 emirates: ["fujairah", "sharjah"]
 published: 2026-11-12
 updated: 2026-11-13
-hero: "al-bidya-mosque"
-heroAlt: "Al Bidya Mosque, a small domed mosque of stone and clay, below the hills of Fujairah"
+hero: "uae-east-coast-road-trip-hero"
+heroAlt: "A mountain road curving through the Hajar in Fujairah, with two minibuses and a car pulled over beside a rock face"
 featured: false
 startHere: false
 plan: "A verified local operator can turn this east coast loop into a trip that fits your dates, arranging a driver or self-drive route, guides at forts and the mosque, and snorkelling or boat trips on calm days."

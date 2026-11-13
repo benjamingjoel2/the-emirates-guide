@@ -84,6 +84,8 @@ A few extra details help with planning. Visit Sharjah puts the Al Rabi Tower at 
 
 Visit Sharjah also notes that hiking in the emirate is rarely dangerous, with information boards along most walks and help and phone signal usually close at hand. That makes Sharjah's trails a good first step before anything more remote.
 
+<photo-set layout="trio" keys="hiking-in-the-uae-2,hiking-in-the-uae-3,hiking-in-the-uae-4" alts="The stone Al Rabi Tower on its hilltop above Khorfakkan, with a rope fence and hazy mountains behind|The rocky mass of Fossil Rock rising above the sand near Mleiha|Date palms, a small bridge and stepped paths below rocky mountains in Wadi Shees" caption="Al Rabi Tower, Fossil Rock and the palm groves of Wadi Shees are the goals of three of Sharjah's marked trails."></photo-set>
+
 ### Hatta: Dubai's mountain corner
 
 Dubai Municipality says the Hatta Mountain Reserve has [some of the best hiking routes in the UAE](https://www.dm.gov.ae/dubai-protected-areas/wildlife/), and Visit Dubai lists [hiking, kayaking, mountain biking and camping](https://www.visitdubai.com/en/beyond-dubai/nature-adventures-in-hatta) there. The landscape is greener than most, with dams, farms and wadis, and the reserve's flagship animal is the Arabian tahr. Our [Hatta guide](/stories/hatta-guide/) covers how to plan a day.

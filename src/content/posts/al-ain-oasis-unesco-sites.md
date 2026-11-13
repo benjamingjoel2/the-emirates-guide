@@ -6,7 +6,7 @@ emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "dhayah-fort"
-heroAlt: "Dhayah Fort, a square mud-brick fort, among rocks and acacia trees below the mountains of Ras Al Khaimah"
+heroAlt: "HEROALT"
 featured: false
 startHere: false
 plan: "A verified local operator can arrange a guide who knows the oases and archaeological sites of Al Ain, help you choose which components to see in the time you have, and advise on cool times of day to walk."

@@ -6,7 +6,7 @@ emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "al-fahidi"
-heroAlt: "Two traditional wind towers on sand-coloured buildings in Al Fahidi, with a passenger jet climbing in a hazy sky above"
+heroAlt: "Restored sand-coloured houses with square wind towers in Al Fahidi Historical Neighbourhood, Dubai"
 featured: false
 startHere: false
 plan: "A verified local operator can arrange a guided heritage walk through Al Fahidi, book a cultural meal or coffee session in the neighbourhood, and advise on the coolest times of day to visit in the month you travel."
@@ -90,8 +90,6 @@ Coffee and dates are not a tourist flourish. The UAE government notes that [gues
 Al Fahidi has a second life as an arts venue. Dubai Culture's Sikka Art and Design Festival takes its name from the lanes themselves. The Dubai Media Office says the festival was launched in 2011 and has spread creativity through [Al Fahidi Historical Neighbourhood's alleyways, with mini art galleries in the traditional barajeel](https://mediaoffice.ae/en/news/2022/march/14-03/sikka-art-and-design-festival), or wind tower houses, showing work by artists from the UAE and the region. The 2023 edition, it reported, drew [more than 120,000 visitors](https://mediaoffice.ae/en/news/2023/March/18-03/Sikka-Art-and-Design-reflects-on-another-great-year), with works spread across six arenas and fourteen houses.
 
 The festival does move. Its 2026 edition was held at [Al Shindagha Historic Neighbourhood from 23 January to 1 February 2026](https://mediaoffice.ae/en/news/2026/january/19-01/dubai-culture-launches-dubai-art-season-2026), a short walk along the Creek. If you are visiting in the cooler months, check Dubai Culture's announcements for where and when the next edition takes place. Festival time is lively and colourful, and much busier than a normal morning.
-
-<photo-set layout="full" keys="al-fahidi-historical-neighbourhood-5" alts="A wide view across restored low houses and wind towers in Al Fahidi Historical Neighbourhood under a pale sky" caption="Seen together, the rooftops and wind towers show how tightly the old houses were built."></photo-set>
 
 ## How a visit to Al Fahidi unfolds
 

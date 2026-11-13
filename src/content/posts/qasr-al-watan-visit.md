@@ -5,8 +5,8 @@ category: "destinations"
 emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
-hero: "abu-dhabi-mosque"
-heroAlt: "The palm-lined approach to the Sheikh Zayed Grand Mosque in Abu Dhabi, with its white minarets at the far end"
+hero: "qasr-al-watan-visit-hero"
+heroAlt: "Qasr Al Watan at sunset, with its white domes and a patterned forecourt lit up below a cloudy pink sky"
 featured: false
 startHere: false
 plan: "A verified local operator can book your Qasr Al Watan tickets and timing, combine the palace with nearby sights such as the Sheikh Zayed Grand Mosque, and brief you on the dress code and security rules in advance."

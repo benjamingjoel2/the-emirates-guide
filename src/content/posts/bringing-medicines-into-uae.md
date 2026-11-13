@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "abu-dhabi-mosque"
-heroAlt: "The palm-lined approach to the Sheikh Zayed Grand Mosque in Abu Dhabi, with its white minarets at the far end"
+heroAlt: "Two airliners parked at the gates of the curved glass Terminal 3 building at Dubai International Airport on a hazy day"
 featured: false
 startHere: false
 plan: "A verified local operator can flag long days, desert trips or remote areas where you will be far from a pharmacy, and help you plan medication timings around your itinerary. Approval for controlled medicines must come from the UAE health authorities."

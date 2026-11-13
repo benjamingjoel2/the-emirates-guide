@@ -5,8 +5,8 @@ category: "travel-tips"
 emirates: []
 published: 2026-11-12
 updated: 2026-11-13
-hero: "dubai-burj-ferry"
-heroAlt: "The Dubai skyline and Burj Khalifa seen across the water from a boat"
+hero: "uae-in-december-hero"
+heroAlt: "New Year fireworks bursting over the sea along the Ras Al Khaimah beach, reflected in the calm water"
 featured: false
 startHere: false
 plan: "A verified local operator can plan around National Day, the Grand Prix and New Year crowds, book desert camps and day trips early in peak season, and advise on traffic and timings on the busiest days."
@@ -70,6 +70,8 @@ A few rules matter more than usual when the streets are full. The Foreign Office
 December is packed. Visit Abu Dhabi says that [November through March](https://www.visitabudhabi.ae/en/events) is when the emirate's events calendar is fullest. A few dates that stand out for December 2026:
 
 ### Formula 1 in Abu Dhabi
+
+<photo-set layout="inset-left" keys="uae-in-december-3" alts="Satellite view of the Yas Marina Circuit on Yas Island in Abu Dhabi, with the track looping around the marina and grandstands" caption="The Abu Dhabi Grand Prix at Yas Marina Circuit runs from 3 to 6 December in 2026."></photo-set>
 
 The Visit Abu Dhabi events listing shows the [Formula 1 Abu Dhabi Grand Prix](https://www.visitabudhabi.ae/en/events) from 3 to 6 December. Yas Island and the capital's hotels are very busy that week, so if you are not going to the race, consider staying elsewhere or visiting Abu Dhabi on different dates. Race week also overlaps with the National Day holiday, which makes the first week of December one of the busiest of the year on the roads between Dubai and Abu Dhabi.
 

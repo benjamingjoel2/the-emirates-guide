@@ -45,6 +45,8 @@ Near the top, cars pull in at the viewpoints and people step out into a breeze t
 
 So is it worth the trip? If you are in Al Ain, yes. Go late in the afternoon for the light, and give the desert park at the bottom a few hours of its own.
 
+<photo-set layout="wide" keys="jebel-hafit-guide-1" alts="Stony, scrub-dotted ground in Jebel Hafit Desert Park below the bare rock cliffs of the mountain" caption="Jebel Hafit rises steeply above the stony plain of the desert park at its foot."></photo-set>
+
 ## Jebel Hafit at a glance
 
 Visit Abu Dhabi describes Jebel Hafit as [Abu Dhabi's highest peak and the UAE's second tallest](https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/natural-wonders/jebel-hafit), rising to 1,249 metres and standing on the border with Oman. It says the name translates as "empty mountain", and that you can reach the summit by car, motorbike or, if you have the stamina, bicycle.

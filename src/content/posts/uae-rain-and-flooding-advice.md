@@ -74,6 +74,8 @@ When the forecast looks unsettled, a bit of flexibility goes a long way.
 
 Wadis are dry valleys that channel water off the mountains, and they can fill quickly when rain falls upstream, even if the sky above you is clear. On a day with heavy rain forecast, skip wadi walks, mountain hikes and the drive up to high viewpoints. Our guides to [hiking in the UAE](/stories/hiking-in-the-uae/) and [Fujairah's forts and wadis](/stories/fujairah-forts-and-wadis/) have more on the terrain.
 
+<photo-set layout="inset-left" keys="uae-rain-and-flooding-advice-5" alts="A narrow rocky wadi in the Fujairah mountains, with pools of water lying in the channel between steep brown slopes" caption="Wadis channel water off the mountains, and steep sides like these leave little room to escape a sudden flow."></photo-set>
+
 If you are already in a wadi and the weather turns, do not wait to see what happens. Head for higher ground, away from the channel, and do not try to cross water that is already flowing. Rising water, a sudden change in colour or debris coming down the channel are signs to move straight away.
 
 ### Desert trips

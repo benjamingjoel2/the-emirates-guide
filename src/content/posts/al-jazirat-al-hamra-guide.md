@@ -6,7 +6,7 @@ emirates: ["ras-al-khaimah"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "dhayah-fort"
-heroAlt: "Dhayah Fort, a square mud-brick fort, among rocks and acacia trees below the mountains of Ras Al Khaimah"
+heroAlt: "Roofless coral-stone houses and sandy lanes in the abandoned village of Al Jazirat Al Hamra in Ras Al Khaimah"
 featured: false
 startHere: false
 plan: "A verified local operator can arrange a guide who brings the village's pearling history to life, time your walk for softer morning or late afternoon light, and link it with the National Museum, a pearl farm visit or Dhayah Fort."

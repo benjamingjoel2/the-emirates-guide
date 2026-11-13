@@ -6,7 +6,7 @@ emirates: ["ajman", "umm-al-quwain"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "ajman-corniche"
-heroAlt: "Waves breaking over dark rocks along the Ajman corniche at dusk, with the sky fading to soft colour"
+heroAlt: "Mangrove trees standing in the calm, shallow water of the Umm Al Quwain lagoon"
 featured: false
 startHere: false
 plan: "A verified local operator can run this route with a driver so nobody has to navigate, book guided kayaking at the right tide, and check museum hours on the day. They can also advise on swapping the order if the heat or a Friday changes things."
@@ -104,6 +104,8 @@ Head south to Ajman as the day heats up, and move indoors or into the shade.
 ### The dhow yard
 
 On the north side of Ajman Creek, the [Dhow Yard](https://visit-ajman.ae/en/destinations/ajman-city/dhow-yard/) is a working boatyard where, Visit Ajman says, master craftsmen build wooden dhows using tools and techniques passed down through generations. The tourism board calls it one of the world's largest dhow-building centres. Watch quietly, keep away from tools and ask before photographing anyone.
+
+<photo-set layout="full" keys="ajman-umm-al-quwain-day-trip-5" alts="The courtyard of Ajman Fort with a round watchtower, outside staircases, a palm tree and a model horse and rider" caption="Ajman Fort, now Ajman Museum, is the coolest place to spend the hottest part of the afternoon."></photo-set>
 
 ### Ajman Museum
 

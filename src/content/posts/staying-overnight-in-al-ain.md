@@ -5,8 +5,8 @@ category: "where-to-stay"
 emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-12
-hero: "jebel-hafit"
-heroAlt: "The road winding up the rocky slopes of Jebel Hafit above Al Ain"
+hero: "jebel-jais-sunset"
+heroAlt: "Late-afternoon light on the ridges of the Jebel Jais mountains in Ras Al Khaimah"
 featured: false
 startHere: false
 plan: "A verified local operator can help you plan a night in Al Ain, from transfers out of Abu Dhabi or Dubai to a guided morning at the heritage sites or a night camping near Jebel Hafit."

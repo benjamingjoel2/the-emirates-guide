@@ -5,8 +5,8 @@ category: "destinations"
 emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-12
-hero: "qasr-al-watan"
-heroAlt: "The white facade and central dome of Qasr Al Watan presidential palace in Abu Dhabi"
+hero: "abu-dhabi-mosque"
+heroAlt: "The palm-lined approach to the Sheikh Zayed Grand Mosque in Abu Dhabi, with its white minarets at the far end"
 featured: false
 startHere: false
 plan: "A verified local operator can book your Qasr Al Watan tickets and timing, combine the palace with nearby sights such as the Sheikh Zayed Grand Mosque, and brief you on the dress code and security rules in advance."

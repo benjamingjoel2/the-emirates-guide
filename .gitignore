@@ -3,3 +3,6 @@ dist/
 .astro/
 .vercel/
 .DS_Store
+public/img/
+src/data/img-manifest.json
+src/data/photos.json.lock

@@ -5,8 +5,8 @@ category: "food-culture"
 emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-12
-hero: "qasr-al-hosn"
-heroAlt: "The whitewashed coral-stone walls and towers of Qasr Al Hosn fort in central Abu Dhabi"
+hero: "abu-dhabi-mosque"
+heroAlt: "The palm-lined approach to the Sheikh Zayed Grand Mosque in Abu Dhabi, with its white minarets at the far end"
 featured: false
 startHere: false
 plan: "A verified local operator can pair Qasr Al Hosn with other heritage sites in the capital, arrange a guide who brings the fort's history to life, and help you time a visit around craft workshops or performances."

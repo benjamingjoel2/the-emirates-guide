@@ -3,7 +3,6 @@ import { Image, getImage } from 'astro:assets';
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
-import Lines from '../../components/Lines.astro';
 import Newsletter from '../../components/Newsletter.astro';
 import Magazine from '../../components/Magazine.astro';
 import { emirateByKey } from '../../data/site';
@@ -69,7 +68,6 @@ const blogPosting = {
     <header class="header header--article">
       <Image class="header__media" src={hero.src} alt={d.heroAlt} widths={[640, 1024, 1600, 2000]} sizes="100vw" loading="eager" fetchpriority="high" format="webp" />
       <div class="header__shade"></div>
-      <Lines />
       <div class="header__content">
         <div>
           <p class="header__countries">

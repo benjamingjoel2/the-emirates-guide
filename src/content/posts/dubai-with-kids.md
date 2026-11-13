@@ -5,8 +5,8 @@ category: "itineraries"
 emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-12
-hero: "jumeirah-beach"
-heroAlt: "Sand and calm sea along Jumeirah Beach in Dubai"
+hero: "dubai-burj-ferry"
+heroAlt: "The Burj Khalifa and the Dubai skyline seen across the water from a ferry"
 featured: false
 startHere: false
 plan: "A verified local operator can build a family itinerary paced around naps and the heat, arrange transfers with child seats, and suggest gentler alternatives to activities that do not suit young children."
@@ -39,7 +39,7 @@ sources:
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health"
 ---
 
-A giraffe leans down over the rail, a small hand holds out a leaf, and for a second nobody in the family is thinking about the flight home. Dubai has a reputation as a city of malls and skyscrapers, but travel with children here and you find animals, fountains, abras, sand and long evenings outdoors.
+A giraffe leans down over the rail, a small hand holds out a leaf, and for a second nobody in the family is thinking about the flight home. Dubai has a reputation as a city of malls and skyscrapers, but explore Dubai with children and you find animals, fountains, abras, sand and long evenings outdoors.
 
 Dubai with children works well, as long as you plan around two things: the heat and the distances. The short answer is to base yourselves somewhere easy, keep outdoor time to mornings and evenings, and mix big days out with pool or beach time. This guide covers the places families enjoy most, how to get around with young ones, and the safety and health checks parents should make before they fly.
 

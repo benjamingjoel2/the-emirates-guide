@@ -5,8 +5,8 @@ category: "destinations"
 emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-12
-hero: "louvre-exterior"
-heroAlt: "The flat, latticed dome of Louvre Abu Dhabi floating above white museum buildings at the water's edge on Saadiyat Island"
+hero: "louvre-abu-dhabi"
+heroAlt: "Daylight falling through the latticed dome onto the plaza and water at Louvre Abu Dhabi"
 featured: false
 startHere: false
 plan: "A verified local operator can plan a Saadiyat Cultural District day around your interests and pace, arrange transport from Abu Dhabi or Dubai, and advise on combined museum passes and time slots."

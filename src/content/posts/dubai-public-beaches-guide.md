@@ -5,8 +5,8 @@ category: "travel-tips"
 emirates: ["dubai"]
 published: 2026-11-12
 updated: 2026-11-12
-hero: "jumeirah-beach"
-heroAlt: "A wide stretch of pale sand and calm turquoise water on a public beach in Jumeirah, Dubai, with the city skyline behind"
+hero: "dubai-burj-ferry"
+heroAlt: "The Burj Khalifa and the Dubai skyline seen across the water from a ferry"
 featured: false
 startHere: false
 plan: "A verified local operator can point you to the public beach that suits your group, plan beach time around the heat and the tides of the crowd, and advise on water sports with proper safety equipment and supervision."

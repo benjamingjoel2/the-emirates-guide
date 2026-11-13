@@ -63,19 +63,24 @@ def search(q):
 def get(title, key):
     if not re.fullmatch(r'[a-z0-9][a-z0-9-]{2,60}', key): raise SystemExit('Key must be lowercase letters, digits and hyphens')
     title = title if title.startswith('File:') else 'File:' + title
+    db, taken = used()
+    if key in db: raise SystemExit(f'Key "{key}" already exists. Choose another key.')
+    if title.replace(' ', '_') in taken: raise SystemExit('This photo is already used on the site. Choose a different photo.')
+    # Network work happens outside the lock so several downloads can run at once.
+    i = info(title)
+    if not free(i['license']): raise SystemExit(f'Not an open licence: {i["license"]}')
+    if i['width'] < 2000: raise SystemExit(f'Too small ({i["width"]}px wide). Pick a photo at least 2000px wide for quality.')
+    name = title[5:].replace(' ', '_'); h = hashlib.md5(name.encode()).hexdigest(); q = urllib.parse.quote(name)
+    url = f'https://upload.wikimedia.org/wikipedia/commons/thumb/{h[0]}/{h[:2]}/{q}/1280px-{q}' if i['width'] > 1280 else f'https://upload.wikimedia.org/wikipedia/commons/{h[0]}/{h[:2]}/{q}'
+    data = fetch(url, binary=True)
+    if len(data) < 20000: raise SystemExit('Download failed')
+    if len(data) < 120000: raise SystemExit('Photo looks low in detail or heavily compressed. Pick another.')
+    # Short critical section: re-check and record.
     with open(DATA + '.lock', 'w') as lk:
         fcntl.flock(lk, fcntl.LOCK_EX)
         db, taken = used()
         if key in db: raise SystemExit(f'Key "{key}" already exists. Choose another key.')
-        if title.replace(' ', '_') in taken: raise SystemExit('This photo is already used on the site. Choose a different photo.')
-        i = info(title)
-        if not free(i['license']): raise SystemExit(f'Not an open licence: {i["license"]}')
-        if i['width'] < 2000: raise SystemExit(f'Too small ({i["width"]}px wide). Pick a photo at least 2000px wide for quality.')
-        name = title[5:].replace(' ', '_'); h = hashlib.md5(name.encode()).hexdigest(); q = urllib.parse.quote(name)
-        url = f'https://upload.wikimedia.org/wikipedia/commons/thumb/{h[0]}/{h[:2]}/{q}/1280px-{q}' if i['width'] > 1280 else f'https://upload.wikimedia.org/wikipedia/commons/{h[0]}/{h[:2]}/{q}'
-        data = fetch(url, binary=True)
-        if len(data) < 20000: raise SystemExit('Download failed')
-        if len(data) < 120000: raise SystemExit('Photo looks low in detail or heavily compressed. Pick another.')
+        if title.replace(' ', '_') in taken: raise SystemExit('This photo was just taken by another post. Choose a different photo.')
         open(os.path.join(OUT, key + '.jpg'), 'wb').write(data)
         db[key] = {k: i[k] for k in ('file', 'author', 'license', 'licenseUrl', 'source', 'description')}
         json.dump(db, open(DATA, 'w'), indent=1, ensure_ascii=False)

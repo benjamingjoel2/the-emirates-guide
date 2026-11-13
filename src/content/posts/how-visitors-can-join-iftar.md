@@ -95,7 +95,7 @@ If you want to contribute, do it through the proper channels. The portal explain
 4. **A pause for prayer.** Many guests step away to pray before the main meal. Wait patiently; this is normal.
 5. **Then the feast.** Dishes vary, but Visit Ras Al Khaimah notes that thareed is [a staple during Ramadan](https://visitrasalkhaimah.com/blog/emirati-flavors-traditional-food-uae/) and that madrooba is frequently served for iftar. The government portal also mentions harees and alqurs, a sweet crumble of bread with dates and cardamom.
 
-<photo-set layout="pair" keys="how-visitors-can-join-iftar-2,how-visitors-can-join-iftar-3" alts="PAIR1|PAIR2" caption="PAIR"></photo-set>
+<photo-set layout="pair" keys="how-visitors-can-join-iftar-2,how-visitors-can-join-iftar-3" alts="A plate of thareed: pieces of meat and chickpeas in a spiced sauce over thin bread, with a lime half and a green chilli|PAIR2" caption="PAIR"></photo-set>
 
 Our guide to [Emirati food: what to eat and where](/stories/emirati-food-what-to-eat-where/) explains these dishes, and our guide to [dates in the UAE](/stories/uae-dates-guide/) covers the fruit that opens every iftar.
 
@@ -109,7 +109,7 @@ The exact spread depends on the setting, but some things are near-certain. Dates
 
 The day matters as much as the meal. The FCDO advises that during Ramadan it may cause offence to [eat, drink, smoke or chew gum in public in the daytime](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), including in your car. Do not snack on the way to iftar, even if you are hungry. If you need to eat during the day, the FCDO notes that hotels and restaurants providing food or drink in fasting hours [may separate you from Islamic guests](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), for example with screens, and the government portal says malls offer designated dining areas away from those who are fasting.
 
-<photo-set layout="full" keys="how-visitors-can-join-iftar-4" alts="FULL" caption="FULL"></photo-set>
+<photo-set layout="full" keys="how-visitors-can-join-iftar-4" alts="Hundreds of people seated in long rows on the marble courtyard of a large mosque in Sharjah at dusk, with boxed iftar meals and water laid out before them" caption="A communal iftar in a mosque courtyard in Sharjah, with meals set out before sunset."></photo-set>
 
 ### What to wear
 

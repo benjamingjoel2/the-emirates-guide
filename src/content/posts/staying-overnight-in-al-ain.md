@@ -6,7 +6,7 @@ emirates: ["abu-dhabi"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "staying-overnight-in-al-ain-hero"
-heroAlt: "The long rocky ridge of Jebel Hafit rising behind low sand dunes near Al Ain"
+heroAlt: "The pale rocky ridge of Jebel Hafit rising beyond red sand dunes and a desert road near Al Ain"
 featured: false
 startHere: false
 plan: "A verified local operator can help you plan a night in Al Ain, from transfers out of Abu Dhabi or Dubai to a guided morning at the heritage sites or a night camping near Jebel Hafit."
@@ -86,7 +86,7 @@ Next, walk into Al Ain Oasis, part of the city's UNESCO World Heritage Site. Vis
 
 Then move on to Al Ain's mudbrick heritage. Al Jahili Fort was [built in the 1890s](https://www.visitabudhabi.ae/en/things-to-do/culture/heritage/al-jahili-fort) and is one of the largest forts in the UAE. Visit Abu Dhabi highlights its permanent exhibition of photographs by the explorer Wilfred Thesiger, and suggests pairing it with [Qasr Al Muwaiji](https://www.visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage), a restored mudbrick palace whose exhibition covers the region and royal family life before oil.
 
-<photo-set layout="trio" keys="staying-overnight-in-al-ain-4,staying-overnight-in-al-ain-5,staying-overnight-in-al-ain-6" alts="Rows of fenced pens and low buildings at Al Ain Camel Market, with camels and traders in the distance|A stone-lined falaj channel running between date palm trunks in Al Ain Oasis|The mudbrick walls and towers of Al Jahili Fort lit up at night" caption="A morning in Al Ain: the camel market, the falaj in the oasis and Al Jahili Fort."></photo-set>
+<photo-set layout="trio" keys="staying-overnight-in-al-ain-4,staying-overnight-in-al-ain-5,staying-overnight-in-al-ain-6" alts="Rows of fenced pens and low buildings at Al Ain Camel Market, with camels and traders in the distance|A stone-lined falaj channel running between date palm trunks in Al Ain Oasis|The round tiered tower of Al Jahili Fort lit in orange at night, with date palms in front" caption="A morning in Al Ain: the camel market, the falaj in the oasis and Al Jahili Fort."></photo-set>
 
 ### Hili and the Bronze Age
 

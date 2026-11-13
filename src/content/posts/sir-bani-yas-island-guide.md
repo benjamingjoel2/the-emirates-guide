@@ -59,7 +59,7 @@ Visit Abu Dhabi says the park is home to [more than 17,000 free-roaming animals]
 
 One of the more memorable moments is face to face. The park has purpose-built viewing platforms, made from recycled materials, where you stand at eye level with the resident giraffes.
 
-<photo-set layout="pair" keys="sir-bani-yas-island-guide-2,sir-bani-yas-island-guide-3" alts="Giraffes standing among trees and scrub on Sir Bani Yas Island|Open sandy ground and trees in the wildlife park on Sir Bani Yas Island" caption="Giraffes and open scrubland in the Arabian Wildlife Park, where animals roam free rather than in enclosures."></photo-set>
+<photo-set layout="pair" keys="sir-bani-yas-island-guide-2,sir-bani-yas-island-guide-3" alts="Giraffes standing among trees and scrub on Sir Bani Yas Island|A group of horned wild sheep resting in the shade of a tree on the dry ground of Sir Bani Yas Island" caption="Giraffes in the open and wild sheep sheltering under a tree, the kind of scenes a drive in the wildlife park turns up."></photo-set>
 
 ### What to look for on a drive
 

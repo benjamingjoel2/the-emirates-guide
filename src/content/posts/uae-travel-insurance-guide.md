@@ -35,7 +35,7 @@ That is the moment travel insurance stops being paperwork. The UAE has good hosp
 
 So what should travel insurance for the UAE cover? At a minimum: medical treatment and emergency evacuation, every activity you plan to do, any pre-existing conditions, and the full length of your trip, including any side trip to Oman. Then check the gaps that catch people out: quad bikes, hire cars, alcohol and regional disruption. Here is what to look for, how to choose the right type of policy, and what to do if you need to claim.
 
-<photo-set layout="pair" keys="uae-travel-insurance-guide-1,uae-travel-insurance-guide-2" alts="PH1|PH2" caption="PAIRCAP"></photo-set>
+<photo-set layout="pair" keys="uae-travel-insurance-guide-1,uae-travel-insurance-guide-2" alts="PH1|A white ambulance marked with a red crescent, parked on a paved forecourt in Abu Dhabi" caption="Emergency medical care and driving are two of the areas where the right cover matters most."></photo-set>
 
 ## Why travel insurance for the UAE starts with medical cover
 
@@ -87,7 +87,7 @@ Cruises are their own case. Abu Dhabi and Dubai are common cruise stops, and the
 
 UK travellers sometimes assume their health card will help. The UK guidance explains that a GHIC or EHIC gives access to state healthcare in the EU, Switzerland and some other countries, and is clear that the cards are [not alternatives to travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance), because they do not cover private healthcare, repatriation or other extra costs.
 
-<photo-set layout="wide" keys="uae-travel-insurance-guide-3" alts="PH3" caption="WIDECAP"></photo-set>
+<photo-set layout="wide" keys="uae-travel-insurance-guide-3" alts="PH3" caption="Desert drives are among the activities to check against your policy before you book."></photo-set>
 
 ### Declare everything
 
@@ -141,7 +141,7 @@ Our guide to [Dubai with kids](/stories/dubai-with-kids/) covers the practical s
 
 Insurance does not replace the paperwork for medicines. The Foreign Office says you must get [approval in advance from the UAE Ministry of Health](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/entry-requirements) to bring medication, and that if you arrive without evidence of approval, the medication will not be allowed in and you may be prosecuted. Sort the approval out first, then make sure the condition the medicine treats is declared on your policy. Our guide to [bringing medicines into the UAE](/stories/bringing-medicines-into-uae/) walks through the process.
 
-<photo-set layout="mosaic" keys="uae-travel-insurance-guide-4,uae-travel-insurance-guide-5,uae-travel-insurance-guide-6" alts="PH4|PH5|PH6" caption="MOSCAP"></photo-set>
+<photo-set layout="mosaic" keys="uae-travel-insurance-guide-4,uae-travel-insurance-guide-5,uae-travel-insurance-guide-6" alts="PH4|A deep blue inlet in Musandam seen from a mountain road, with bare rocky slopes on both sides|PH6" caption="Side trips into Oman, from Muscat to the Musandam peninsula, need to be covered by your policy too."></photo-set>
 
 ## Adding Oman? Check your policy covers it
 
@@ -180,7 +180,7 @@ For refunds or changes when travel is disrupted, the Foreign Office says to [con
 - **The wrong countries.** A side trip to Oman, or a stopover elsewhere, needs to be on the policy.
 - **No access to money.** Even with good insurance, you may need a card with enough available funds while the insurer arranges payment.
 
-<photo-set layout="full" keys="uae-travel-insurance-guide-7" alts="PH7" caption="FULLCAP"></photo-set>
+<photo-set layout="full" keys="uae-travel-insurance-guide-7" alts="The wing of an aircraft over the low-rise suburbs and highways of Dubai shortly after take-off" caption="If flights are disrupted, contact your travel provider first, as insurers usually expect you to."></photo-set>
 
 More planning advice is on our [travel tips page](/travel-tips/).
 

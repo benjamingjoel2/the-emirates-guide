@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "photography-and-drone-rules-uae-hero"
-heroAlt: "HEROALT"
+heroAlt: "The sun setting over rolling sand dunes in the Liwa desert of Abu Dhabi, under grey and pink clouds"
 featured: false
 startHere: false
 plan: "A verified local operator can suggest photogenic spots and the best light for your itinerary, tell you where cameras are restricted, and advise whether any aerial or professional filming you have in mind needs a licensed provider."
@@ -41,7 +41,7 @@ Here is how both work, based on official UAE and UK government sources. Rules ch
 
 Skylines, souks, desert dunes, museum courtyards, plates of food: point your camera at all of them. Visit Abu Dhabi says [normal tourist photography is acceptable](https://visitabudhabi.ae/en/faqs). The rules that matter are about who and what is in the frame.
 
-TRIO
+<photo-set layout="trio" keys="photography-and-drone-rules-uae-1,photography-and-drone-rules-uae-2,photography-and-drone-rules-uae-3" alts="The Abu Dhabi skyline seen across turquoise water on a sunny day, with sailing dinghies in the foreground|Open sacks of dried flowers, spices and rock salt on display along a covered lane in the Dubai spice souk|Wide stone steps leading down to the water beneath the latticed dome of the Louvre Abu Dhabi, with a few visitors sitting on them" caption="Skylines, souks and museum courtyards are all fine to photograph; the rules that matter are about people and sensitive sites."></photo-set>
 
 Bringing the kit itself is straightforward. The UAE government's customs page lists [video and digital cameras for personal use](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Tourist-services-and-information/Customs-clearance), along with portable computers and mobile phones, among the items travellers can bring in without paying duty. The same page lists transmission and wireless devices among restricted goods that need prior approval, which is worth bearing in mind if you travel with specialist radio equipment.
 
@@ -59,7 +59,7 @@ In practice:
 - Never photograph children who are not with you.
 - Delete a photo if someone asks you to.
 
-INSETRIGHT
+<photo-set layout="inset-right" keys="photography-and-drone-rules-uae-4" alts="Palm trees and a beachside path at Jumeirah Public Beach in Dubai, with a lone rollerskater and the Burj Khalifa rising behind in the haze" caption="On public beaches, check who is in the background before you take a family photo."></photo-set>
 
 Families have an extra thing to watch. Photographing your own children on a public beach or in a mall is part of any holiday, but check the background before you press the shutter. If other families, and especially other people's children or women in swimwear, are clearly in the frame, move, wait or reframe. It takes a few seconds and avoids an uncomfortable conversation.
 
@@ -123,7 +123,7 @@ The same regulation sets operating limits: daylight only, within visual line of 
 
 That last point is worth reading twice. Even for residents who qualify, the recreational category is not about aerial photography.
 
-FULL
+<photo-set layout="full" keys="photography-and-drone-rules-uae-5" alts="Wide view of tall, wind-rippled sand dunes in the Liwa desert of Abu Dhabi under a clear sky" caption="Dune views like this are what many drone owners hope to capture, but the recreational rules prohibit fitting a drone with a camera."></photo-set>
 
 ### The platform
 
@@ -154,7 +154,7 @@ None of this should put you off bringing a camera. The UAE is wonderfully photog
 
 Heat and dust are harder on cameras than rules are. Visit Abu Dhabi describes summer highs of [around 42C](https://visitabudhabi.ae/en/faqs), and its advice that air conditioning indoors can be chilly hints at the other problem: stepping from a cold car or mall into humid outdoor air can fog a lens instantly. Give cameras a few minutes to adjust before shooting, keep spare batteries out of direct sun, and use a bag or a lens cloth to keep sand off sensors on desert trips.
 
-WIDE
+<photo-set layout="wide" keys="photography-and-drone-rules-uae-6" alts="A road curving between towering layered limestone cliffs in Wadi Shiha on the route up Jebel Jais in Ras Al Khaimah" caption="Mountain roads and viewpoints give plenty of dramatic angles from the ground, no drone required."></photo-set>
 
 For more planning help, browse our [travel tips](/travel-tips/), and read [UAE laws every tourist should know](/stories/uae-laws-for-tourists/) for the wider picture.
 

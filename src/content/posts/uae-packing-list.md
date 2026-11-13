@@ -33,7 +33,7 @@ Get it right and you will spend your trip comfortable, respectful and ready for 
 
 The short answer to what to pack for the UAE: light, loose, breathable clothes for daytime; at least one outfit that covers shoulders and knees; a warm layer for air conditioning and winter evenings; serious sun protection; and any medicines checked against UAE rules before you fly. What changes by season is how much of each. Here is the full UAE packing list, season by season and activity by activity.
 
-<photo-set layout="pair" keys="uae-packing-list-1,uae-packing-list-2" alts="PH1|PH2" caption="PAIRCAP"></photo-set>
+<photo-set layout="pair" keys="uae-packing-list-1,uae-packing-list-2" alts="PH1|PH2" caption="Beach days in the cooler months still call for sun protection and a layer for the evening."></photo-set>
 
 ## How the seasons shape your suitcase
 
@@ -135,7 +135,7 @@ The Foreign Office warns that rip currents [can occur at any beach](https://www.
 - Smart casual outfits that cover shoulders and knees
 - A light layer for cold air conditioning; Visit Abu Dhabi advises women to take [a pashmina or jacket because of cold air](https://visitabudhabi.ae/en/plan-your-trip/essential-info/climate-and-what-to-wear) in the evenings
 
-<photo-set layout="inset-left" keys="uae-packing-list-3" alts="PH3" caption="INSETCAP"></photo-set>
+<photo-set layout="inset-left" keys="uae-packing-list-3" alts="PH3" caption="The textile souk in Bur Dubai is one place to pick up a scarf, though it is easier to pack one."></photo-set>
 
 The same page notes that malls, health clubs and resorts are generally more accepting of fashionable clothing, but that it is best to cover your shoulders and legs when visiting government offices. It also says short or tight clothing may be worn but will attract attention, most of it unwelcome. Packing a couple of longer, looser outfits saves you from having to think about it each morning.
 
@@ -143,7 +143,7 @@ The same page notes that malls, health clubs and resorts are generally more acce
 
 Autumn begins hot and ends gloriously mild. Early in the season, pack as for summer. By November and December, add a light layer for evenings and think about the water: Visit Abu Dhabi says the milder autumn weather calls for [more beach outings and watersports](https://visitabudhabi.ae/en/plan-your-trip/essential-info/weather-in-abu-dhabi).
 
-<photo-set layout="wide" keys="uae-packing-list-4" alts="PH4" caption="WIDECAP"></photo-set>
+<photo-set layout="wide" keys="uae-packing-list-4" alts="PH4" caption="Heavy rain is rare, but it can flood roads, as here in Dubai."></photo-set>
 
 ## Rain: rare, but worth a thought
 
@@ -198,7 +198,7 @@ Not everything that matters fits in a suitcase. Before you zip it shut, check:
 - **Unchecked toiletries.** Read the labels on skincare and vape refills before they go in your bag.
 - **Leaving medicines until the last minute.** Approval takes time, so start early.
 
-<photo-set layout="trio" keys="uae-packing-list-5,uae-packing-list-6,uae-packing-list-7" alts="PH5|PH6|PH7" caption="TRIOCAP"></photo-set>
+<photo-set layout="trio" keys="uae-packing-list-5,uae-packing-list-6,uae-packing-list-7" alts="Layered blue mountain ridges seen from high on Jebel Jais, with a winding road in the valley below|PH6|PH7" caption="Mountain and desert days call for layers, closed shoes and plenty of water."></photo-set>
 
 For more practical advice, see our [travel tips](/travel-tips/).
 

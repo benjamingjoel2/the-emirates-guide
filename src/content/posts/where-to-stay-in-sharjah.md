@@ -51,7 +51,7 @@ So, where to stay in Sharjah? For most visitors, the best base is near the corni
 
 Sharjah describes itself as [the UAE's UNESCO Cultural Capital](https://www.visitsharjah.com/en/regions/sharjah-city/), and the city's heritage museums, souks and waterfronts reflect that. Staying here, rather than visiting on a day trip, lets you see the evenings, when the lagoon and corniche are at their liveliest and the heat has eased.
 
-<photo-set layout="inset-right" keys="where-to-stay-in-sharjah-1" alts="A restored wall of coral stone and plaster with a carved wooden door in the Heart of Sharjah heritage area" caption="Coral-stone walls like this one line the restored lanes of the Heart of Sharjah."></photo-set>
+<photo-set layout="inset-right" keys="where-to-stay-in-sharjah-1" alts="A wind tower and arcaded upper gallery around the courtyard of Bait Al Naboodah, seen through a doorway in the Heart of Sharjah" caption="Bait Al Naboodah, a restored merchant house with a wind tower, is one of the coral-walled houses of the Heart of Sharjah."></photo-set>
 
 It is also a quieter, more conservative place. Most of all, the UK Foreign Office notes that [drinking or possessing alcohol is illegal in the Emirate of Sharjah](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security). That applies to hotels too. If a drink with dinner is part of your holiday, stay elsewhere or plan accordingly; if it is not, Sharjah's calm can be a real plus. Our guide to [Sharjah's rules for visitors](/stories/sharjah-rules-for-visitors/) covers the details.
 

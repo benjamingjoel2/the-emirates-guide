@@ -103,7 +103,7 @@ The same agency page notes that the trees are there to see in daylight on any da
 
 At Jubail Mangrove Park, Visit Abu Dhabi describes [boardwalks through the mangroves](https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/parks/jubail-mangrove-park) where you can see herons, turtles and gazelles, and advises booking ahead through the park's website. It is the easiest option for families.
 
-<photo-set layout="inset-left" keys="birdwatching-in-the-uae-2" alts="A wooden boardwalk running through green mangroves at Jubail Mangrove Park at sunset" caption="Jubail's boardwalks let you watch mangrove birds on foot, without getting on the water."></photo-set>
+<photo-set layout="inset-left" keys="birdwatching-in-the-uae-2" alts="A raised boardwalk crossing clear shallow water and mangrove roots at Jubail Mangrove Park" caption="Jubail's boardwalks let you watch mangrove birds on foot, without getting on the water."></photo-set>
 
 Visit Abu Dhabi places Jubail Island between Yas Island and Saadiyat Island, says the journey from downtown Abu Dhabi by taxi takes [around 30 minutes](https://www.visitabudhabi.ae/en/things-to-do/nature-and-wildlife/parks/jubail-mangrove-park), and gives the boardwalk's length as 2km. The walkways float just above the water, so you look straight into the roots where herons hunt. The page also mentions kayaking from the park, including tours after dark, though for birds the early light is the better choice.
 
@@ -123,7 +123,7 @@ On the Gulf of Oman, the mangroves at Kalba are the real prize for birders. Visi
 
 The UAE government portal lists ten Ramsar wetlands of international importance, including [Al Zorah in Ajman and the Kalba mangroves](https://u.ae/en/information-and-services/environment-and-energy/Nature-and-wildlife/topography-and-ecosystems), which is a useful checklist if you want to go further.
 
-<photo-set layout="full" keys="birdwatching-in-the-uae-5" alts="Mangrove trees lining a calm tidal creek at Khor Kalba on the east coast" caption="The mangroves at Kalba, on the Gulf of Oman, are the oldest in the Emirates according to Visit Sharjah."></photo-set>
+<photo-set layout="full" keys="birdwatching-in-the-uae-5" alts="A wide panorama from a footbridge over the tidal creek at Khor Kalba under a cloudy evening sky, with low mangroves along the far bank" caption="The mangroves at Kalba, on the Gulf of Oman, are the oldest in the Emirates according to Visit Sharjah."></photo-set>
 
 ## When to go, and what to pack
 

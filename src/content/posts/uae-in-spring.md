@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "uae-in-spring-hero"
-heroAlt: "HEROALT"
+heroAlt: "The Jebel Hafeet mountain road winding through bare rocky foothills above the spread of Al Ain"
 featured: false
 startHere: false
 plan: "A verified local operator can shift outdoor activities earlier or later as spring warms up, suggest mountain and coastal options for May, and advise on how Ramadan or Eid will change opening hours and crowds on your dates."
@@ -143,7 +143,7 @@ As temperatures climb through April and May, heat sense becomes important. The N
 - **April:** outdoors early and late, with a long break in the middle.
 - **May:** swim and sightsee at the edges of the day, museums at midday.
 
-<photo-set layout="pair" keys="uae-in-spring-4,uae-in-spring-5" alts="ALT4|ALT5" caption="CAP4"></photo-set>
+<photo-set layout="pair" keys="uae-in-spring-4,uae-in-spring-5" alts="A heavy bunch of ripening orange and yellow dates hanging from a palm in the Al Ain Oasis|The Jebel Hafeet road curving beneath pale limestone cliffs under a blue sky" caption="Al Ain, with its oasis and the road up Jebel Hafeet, makes an easy inland day trip in the cooler weeks of early spring."></photo-set>
 
 For a season-by-season overview, see our [month-by-month guide](/stories/best-time-to-visit-uae-month-by-month/), and find more advice in [travel tips](/travel-tips/).
 

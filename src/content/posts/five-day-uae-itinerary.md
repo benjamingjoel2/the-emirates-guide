@@ -4,8 +4,8 @@ description: "Five days across Dubai, the desert, Abu Dhabi and Al Ain, paced ar
 category: "itineraries"
 emirates: ["dubai", "abu-dhabi"]
 published: 2026-11-11
-updated: 2026-11-11
-hero: "dubai-creek-abras"
+updated: 2026-11-13
+hero: "five-day-uae-itinerary-hero"
 heroAlt: "Wooden abra boats moored along Dubai Creek with the waterfront behind"
 featured: false
 startHere: true
@@ -17,6 +17,8 @@ sources:
     url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/entry-requirements"
   - title: "u.ae: Working hours in the public sector"
     url: "https://u.ae/en/information-and-services/jobs/Sector-of-employment/working-in-uae-government-sector/working-hours-in-the-public-sector"
+  - title: "GOV.UK: United Arab Emirates travel advice, health"
+    url: "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health"
   - title: "National Centre of Meteorology: Home"
     url: "https://www.ncm.gov.ae/"
   - title: "Visit Dubai: Deira"
@@ -56,6 +58,7 @@ What works is a simple rhythm: an early start, a long, unhurried middle of the d
 - **Read the travel advice.** Look at the current [UK government travel advice for the UAE](https://www.gov.uk/foreign-travel-advice/united-arab-emirates) before you book and again before you fly. It is being updated as the regional situation changes.
 - **Check your entry rules.** For British citizens, the UK government says a visitor visa is [issued free on arrival and your passport must be valid for at least 6 months after you arrive](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/entry-requirements). Other nationalities have different rules, and rules change, so check official sources for your passport.
 - **Know the shape of the week.** The UAE federal government works a [four and a half day week, with a half day on Friday and Saturday and Sunday as the official weekend](https://u.ae/en/information-and-services/jobs/Sector-of-employment/working-in-uae-government-sector/working-hours-in-the-public-sector). Friday is also the main prayer day, so expect some sights to pause around midday.
+- **Check your medicines.** Some medicines that are routine at home are controlled in the UAE. The UK government says you must get approval in advance from the UAE Ministry of Health to bring them, and that applications are processed within 5 working days ([FCDO health](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health)), so do this well before you fly.
 - **Watch the weather.** Follow forecasts from the [National Centre of Meteorology](https://www.ncm.gov.ae/) in the days before and during your trip, especially on days you plan to be outdoors.
 
 ## The rhythm of a good day here
@@ -76,6 +79,8 @@ The lanes of Al Fahidi are at their best before the city is fully awake. Sand-co
 
 Down at the water, step onto one of the wooden abras. The crossing is short and noisy, engine thrumming, water slapping at the hull, and it is one of the best ways to see the old trading city at work, with dhows loading and unloading along the banks. On the far side is Deira, which Visit Dubai describes as [a neighbourhood with centuries-old history and spectacular souks](https://www.visitdubai.com/en/explore-dubai/dubai-neighbourhoods/deira). Follow your nose into the spice souk, where open sacks of dried limes, saffron and frankincense crowd the alleys, then drift into the gold souk next door.
 
+<photo-set layout="mosaic" keys="five-day-uae-itinerary-1,five-day-uae-itinerary-2,five-day-uae-itinerary-3" alts="A narrow sand-coloured lane with a wind tower in the Al Fahidi historic district|Dubai Creek seen from an abra, with boats and the waterfront|Sacks of spices on display in a Deira souk" caption="Day 1 links the lanes of Al Fahidi, an abra across the creek and the Deira souks."></photo-set>
+
 By late morning, retreat indoors for lunch and a long rest. In the evening, head to Downtown to see the Burj Khalifa lit up and the fountain shows.
 
 A note on getting about: the UK government advice recommends [using only licensed taxis or recognised ride-hailing apps](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), and reminds pedestrians that crossing outside designated crossings is illegal.
@@ -85,6 +90,8 @@ A note on getting about: the UK government advice recommends [using only license
 Keep the morning easy. Swim, sleep in, or visit a museum. You will be out late tonight, and the desert is far more enjoyable when you arrive with energy to spare.
 
 In the mid-afternoon, head out of the city. Most trips leave as the heat begins to ease, so you reach the dunes for the golden light, watch the sand turn from honey to rust as the sun drops, and stay on for dinner under the stars. If wildlife and conservation matter to you, look at trips run in and around the [Dubai Desert Conservation Reserve](https://www.ddcr.org/), which describes itself as the UAE's first national park and offers activities such as falconry, camel rides and desert walks. Our guide to [whether a desert safari is worth it](/stories/is-a-desert-safari-worth-it/) explains what really happens on one and how to choose.
+
+<photo-set layout="full" keys="five-day-uae-itinerary-4" alts="Red sand dunes and low shrubs in the Dubai Desert Conservation Reserve" caption="The Dubai Desert Conservation Reserve describes itself as the UAE's first national park."></photo-set>
 
 The UK government advice notes that desert excursions [can be dangerous unless you are in a properly equipped 4-wheel-drive vehicle](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security) and suggests going with a reputable company with proper safety procedures. Do not try dune driving yourself.
 
@@ -114,18 +121,61 @@ Leave early for Al Ain, which Visit Abu Dhabi puts at [a 90-minute drive from Ab
 
 Al Ain Oasis is the gentlest way to end a trip. Visit Abu Dhabi describes [shaded pathways and ancient falaj channels](https://visitabudhabi.ae/en/things-to-do/nature-and-wildlife/natural-wonders/al-ain-oasis) that still carry water to the palms, and notes that entry to the oasis is free. Walk under the canopy, listen to the water moving through the channels, and notice how much cooler it feels in the shade. After days of traffic and towers, the quiet is the point.
 
+<photo-set layout="inset-left" keys="five-day-uae-itinerary-5" alts="The entrance gate of Al Jahili Fort in Al Ain" caption="Al Jahili Fort is an easy addition to a morning in Al Ain."></photo-set>
+
 If you have time, add Al Jahili Fort or the drive up Jebel Hafit before heading back. If you are flying out today, keep Al Ain to a morning and allow plenty of time to reach the airport.
 
 **Swap option:** If you would rather end with a quieter day, stay in Abu Dhabi, go back to Saadiyat's beach in the morning and save Al Ain for another trip.
+
+## Getting between the stops
+
+The route is built around two bases so that you only make one long transfer, but every day still involves some time on the road.
+
+- **In Dubai,** taxis and ride-hailing apps cover most of Day 1 and the evening plans. The UK government notes that authorised Dubai taxis are cream with different coloured roofs, and that pink roofs mean a female driver ([FCDO safety and security](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security)). Desert trips usually include a pick-up from your hotel.
+- **The transfer** between the two cities is the one journey worth arranging in advance, with luggage space and a fixed pick-up time.
+- **In Abu Dhabi,** the same advice says licensed taxis are silver or grey. Saadiyat, the Corniche and the Grand Mosque sit in different parts of the city, so allow time between them.
+- **To Al Ain,** a car and driver for the day gives you the most flexibility to add Jebel Hafit or a fort on the way back.
+
+If you plan to drive yourself, the FCDO says a UK photocard licence can be used in the UAE, but warns that driving standards are not always as disciplined as at home and that speeding is common. On a five-day trip, most visitors find that being driven is the more relaxing choice.
+
+## Adapting the plan for families and slower travellers
+
+The pattern of early starts and long middays suits children and older travellers well, because the rest is already built in. A few tweaks help:
+
+- **With young children,** keep Day 1 to the abra crossing and one souk, and swap the long evening desert trip for a shorter sunset outing if bedtime matters.
+- **With teenagers,** the desert, the abra and the Louvre's architecture tend to land best. Leave room for a pool afternoon.
+- **For travellers who walk less,** Al Fahidi's lanes are short and level, and the Louvre and the Grand Mosque are large but well laid out. Al Ain Oasis has shaded paths, though the full network is extensive, so pick a short loop.
+
+<photo-set layout="wide" keys="five-day-uae-itinerary-6" alts="Tall date palms shading a walled path in Al Ain Oasis" caption="Al Ain Oasis has shaded paths, so pick a short loop if you walk less."></photo-set>
+
+Whoever you travel with, do not be tempted to fill the gaps. The afternoons off are what keep the evenings enjoyable.
+
+## What tends to catch people out
+
+- **Underestimating the transfer day.** Day 3 always takes longer than it looks on paper.
+- **Booking the mosque too late.** The access pass is easy to arrange, but only if you remember before the day.
+- **Packing for the outside only.** Air conditioning indoors can be fierce. A light layer is as useful as sunscreen.
+- **Photographing people.** The UK government advises not to photograph people without their permission. In the souks especially, ask first.
+- **Doing too much on the last day.** Al Ain and a flight on the same day is fine, but only if you leave a generous margin for the airport.
 
 ## When the calendar does not cooperate
 
 - **A Friday:** Put Qasr Al Hosn and the Grand Mosque in the afternoon, and use the morning for the Louvre, the oasis or the beach.
 - **A Monday:** Keep the Louvre off that day.
-- **Ramadan:** Hours change and the evenings take on a very different feel. Read [visiting the UAE during Ramadan](/stories/visiting-uae-during-ramadan/) before you finalise anything.
+- **Ramadan:** Hours change and the evenings take on a very different feel. Read our Ramadan guide before you finalise anything.
 - **The hotter months:** The plan still works, but start earlier, rest longer and swap the desert evening for something indoors if the forecast is extreme. Our [month-by-month guide](/stories/best-time-to-visit-uae-month-by-month/) will help you choose your dates.
 
 Got extra days? Add one of the northern emirates. Our guide to [the quieter emirates](/stories/beyond-dubai-quieter-emirates/) suggests where to go, our [guide to Emirati food](/stories/emirati-food-what-to-eat-where/) will help you eat well along the way, and you can find more plans under [itineraries](/itineraries/).
+
+## Quick answers
+
+**Is five days enough for the UAE?** Enough for Dubai, a desert evening, Abu Dhabi and Al Ain, if you keep to one big outdoor activity a day.
+
+**Where should I sleep?** Two nights in Dubai and the rest in Abu Dhabi, so you only make one transfer.
+
+**Do I need to book the Grand Mosque?** Yes. The mosque asks visitors to pre-book and obtain an online access pass.
+
+**Which days need care?** Fridays, when the mosque closes at midday, and Mondays, when Louvre Abu Dhabi is closed.
 
 ## Questions to ask your operator
 

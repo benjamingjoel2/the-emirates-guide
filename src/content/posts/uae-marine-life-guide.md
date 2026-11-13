@@ -106,7 +106,7 @@ The same page names sites including Martini Rock, Hole in the Wall, Anemone Gard
 
 The government portal says Fujairah has [around 130 coral species recorded](https://u.ae/en/information-and-services/environment-and-energy/Nature-and-wildlife/topography-and-ecosystems), and marine protected areas along the coast of Dibba. The local tourism authority lists [snorkelling, diving and kayaking](https://www.fujairahtourism.ae/index_action-SportsAndCruises.html) among Fujairah's water sports. For spots and logistics, read our guide to [snorkelling and diving on the east coast](/stories/snorkelling-diving-uae-east-coast/).
 
-<photo-set layout="trio" keys="uae-marine-life-guide-3,uae-marine-life-guide-4,uae-marine-life-guide-5" alts="Rocky islets and reef off the shore at Khorfakkan with clear water around them|The curve of Khorfakkan beach with mountains behind the town|Snoopy Island, a brown rocky islet off Al Aqah in Fujairah, with a small boat moored in calm water in front" caption="Khorfakkan and the Fujairah coast are the main bases for snorkelling and diving in the Gulf of Oman."></photo-set>
+<photo-set layout="trio" keys="uae-marine-life-guide-3,uae-marine-life-guide-4,uae-marine-life-guide-5" alts="Sunrise over Khorfakkan bay from the beach, with small boats on calm water and port cranes in the distance|The curve of Khorfakkan beach with mountains behind the town|Snoopy Island, a brown rocky islet off Al Aqah in Fujairah, with a small boat moored in calm water in front" caption="Khorfakkan and the Fujairah coast are the main bases for snorkelling and diving in the Gulf of Oman."></photo-set>
 
 ### How a snorkel trip usually unfolds
 

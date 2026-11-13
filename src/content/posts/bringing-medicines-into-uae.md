@@ -37,7 +37,7 @@ This guide explains how the system works, what to check, and where to find the o
 
 The UK Foreign Office puts it directly: there are [strict rules about what medications you can bring into the UAE](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/entry-requirements). Its health advice adds that in the UAE, [some UK prescribed and over-the-counter medicines are considered controlled substances](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health).
 
-INSETLEFT
+<photo-set layout="inset-left" keys="bringing-medicines-into-uae-1" alts="A clear plastic weekly pill organiser with tablets and capsules in its compartments and more loose beside it" caption="Everyday tablets can fall into controlled categories in the UAE, so check each one by its generic name."></photo-set>
 
 That is the key idea. A medicine you buy freely at home, or one your doctor prescribes routinely, may sit in a controlled category in the UAE.
 
@@ -71,7 +71,7 @@ Even with approval, there are limits. According to the Foreign Office, you can b
 
 For other prescribed medicines, the government portal says you may bring them in [for personal use in normal quantity](https://u.ae/en/information-and-services/health-and-fitness/Health-and-wellbeing/drugs-and-controlled-medicines). Customs rules list medication for personal use, [in compliance with the applicable regulations](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Tourist-services-and-information/Customs-clearance), among items exempt from duty. The same customs page lists medicines, drugs, and medical equipment, devices and tools as restricted goods that fall under the Ministry of Health and Prevention, alongside cosmetics and personal care products and e-cigarettes under other authorities.
 
-FULL
+<photo-set layout="full" keys="bringing-medicines-into-uae-2" alts="ALT2" caption="Approval for controlled medicines needs to be in hand before you land, because medication arriving without it will not be allowed in."></photo-set>
 
 ## A planning timeline that works
 
@@ -126,7 +126,7 @@ TravelHealthPro's general advice for carrying medicines abroad is a good checkli
 
 It also notes that medicines bought abroad may look similar to those at home but contain different amounts or types of active ingredient, so take care if you need to replace something while away.
 
-TRIO
+<photo-set layout="trio" keys="bringing-medicines-into-uae-3,bringing-medicines-into-uae-4,bringing-medicines-into-uae-5" alts="ALT3|ALT4|ALT5" caption="Keep medicines in their original packaging, carry the paperwork, and split supplies between hand luggage and hold."></photo-set>
 
 ### Family and group notes
 
@@ -146,11 +146,11 @@ In Abu Dhabi, Visit Abu Dhabi says the government portal keeps an [updated list 
 
 Healthcare in the UAE is good, but it is not free for visitors. The Foreign Office advises checking that [you have appropriate travel insurance](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health) for local treatment and medical evacuation, which matters even more if you have a health condition or are pregnant. It says you may be prevented from leaving the UAE if you cannot pay a medical bill. In an emergency, dial 998 and ask for an ambulance.
 
-Visit Abu Dhabi says that under UAE federal law and Abu Dhabi law, [all visitors must have medical insurance cover](https://visitabudhabi.ae/en/faqs). It adds that emergency treatment to stabilise a patient is free, and that other treatment must be covered by a cash payment or an insurance card.
+Visit Abu Dhabi says that under UAE federal law and Abu Dhabi law, [all visitors must have medical insurance cover](https://visitabudhabi.ae/en/faqs). It adds that emergency treatment to stabilise a patient is free, and that other treatment must be covered by a cash payment or an insurance card. It names Sheikh Khalifa Medical City among the Abu Dhabi hospitals with accident and emergency units.
 
 When you get home, TravelHealthPro suggests seeing your regular doctor if you needed extra supplies or started a new medicine while abroad.
 
-PAIR
+<photo-set layout="pair" keys="bringing-medicines-into-uae-6,bringing-medicines-into-uae-7" alts="A view across a busy road junction in Abu Dhabi towards the low sand-coloured buildings of Sheikh Khalifa Medical City|A quiet road running towards tall orange sand dunes in the Liwa area of Abu Dhabi, lined with palms and a cable barrier" caption="Abu Dhabi has hospitals with emergency departments, but desert days can take you a long way from medical help, so carry your doses with you."></photo-set>
 
 Our [travel insurance guide](/stories/uae-travel-insurance-guide/) explains what to look for in a policy. For wider planning, our [packing list](/stories/uae-packing-list/), [visa guide](/stories/uae-tourist-visa-guide/) and [laws every tourist should know](/stories/uae-laws-for-tourists/) are useful companions, and there is more practical advice in [travel tips](/travel-tips/).
 

@@ -47,7 +47,7 @@ Climbing to Dhayah Fort is one of the most rewarding short outings in Ras Al Kha
 
 It sits at the heart of an oasis. The tourism board says the fort stands on a hill about 70 metres high, rising between the date palm gardens and the Jebel Jais mountains, and that the oasis's original watering system, which collected run-off from the mountains after the infrequent rains, has stayed unchanged for centuries.
 
-<photo-set layout="wide" keys="dhayah-fort-guide-1" alts="Dhayah Fort on its hilltop and the larger fort at the base of the hill, with date palms and mountains around them" caption="The hilltop fort and the larger fort at its foot, set among the palm gardens."></photo-set>
+<photo-set layout="wide" keys="dhayah-fort-guide-1" alts="The mud-brick tower and stone walls of Dhayah Fort on a boulder-strewn hilltop, with a UAE flag against a clear blue sky" caption="The restored hilltop fort, reached by a stepped path up the rocky slope."></photo-set>
 
 ## A hill with a very long memory
 
@@ -89,7 +89,7 @@ The reward is the view. The tourism board describes it running from the mountain
 
 Look at the walls themselves, too. The mud brick has been patched and smoothed by restoration, but the shapes are old: thick walls, narrow openings and a layout built for watching the plain. Treat the fort with care. It is a restored historic monument, so stay off the walls and leave everything as you found it.
 
-<photo-set layout="trio" keys="dhayah-fort-guide-3,dhayah-fort-guide-4,dhayah-fort-guide-5" alts="The mud-brick towers of Dhayah Fort against a blue sky|Inside Dhayah Fort, looking across its small courtyard between the mud-brick walls|The rocky ground and lower walls around the base of Dhayah Fort" caption="Towers, the small interior and the rocky ground around the fort."></photo-set>
+<photo-set layout="trio" keys="dhayah-fort-guide-3,dhayah-fort-guide-4,dhayah-fort-guide-5" alts="The mud-brick towers of Dhayah Fort against a blue sky|A small plastered room inside Dhayah Fort with wooden pegs set into the wall as a ladder and a roof of dark timber poles|The rocky ground and lower walls around the base of Dhayah Fort" caption="The fort from outside and within, where a peg ladder leads up through a timber roof."></photo-set>
 
 ## How a visit unfolds
 
@@ -134,7 +134,7 @@ Older children usually enjoy the climb, because it is short, has a clear goal an
 - **Footwear.** Sandals and smooth soles slip on worn steps.
 - **Missing the lower fort.** It is easy to rush past on the way up. Look at it first.
 
-<photo-set layout="pair" keys="dhayah-fort-guide-6,dhayah-fort-guide-7" alts="Dhayah Fort on its rocky hilltop seen from below, showing the steep slope and the path area|A wide view of Dhayah Fort area with the hill, date palms and the Hajar mountains on the skyline" caption="The hilltop position that made the fort worth building, with the mountains close behind."></photo-set>
+<photo-set layout="pair" keys="dhayah-fort-guide-6,dhayah-fort-guide-7" alts="Dhayah Fort on its rocky hilltop seen from below, showing the steep slope and the path area|The hilltop enclosure of Dhayah Fort at sunset, with its mud-brick tower, low walls, scattered boulders and a flag" caption="The fort sits high above the plain, and late light warms the mud brick at the top."></photo-set>
 
 ## Putting Dhayah Fort into a day
 

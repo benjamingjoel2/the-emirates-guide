@@ -43,7 +43,7 @@ The tourism board says the temperature on the mountain is usually around 10°C c
 
 The same [Jebel Jais page](https://visitrasalkhaimah.com/location/place/jebel-jais/) says the name Al Hajar means "the stone", and describes a range about 100 km wide and 700 km long, formed by a continental collision more than 70 million years ago. It mentions rare fossils and marine sedimentary rocks among the layers. You do not need to be a geologist to notice it: the cliffs are banded and folded, and the colours shift from grey to ochre to rust as the light moves across them.
 
-<photo-set layout="inset-left" keys="jebel-jais-guide-1" alts="Steep, bare rock faces of Jebel Jais rising above a dry valley under a clear sky" caption="Bare, layered rock is the main feature on the way up."></photo-set>
+<photo-set layout="inset-left" keys="jebel-jais-guide-1" alts="Goats walking along a stone wall beside the Jebel Jais road, above a deep canyon with layered rock cliffs" caption="Goats beside the road, above canyon walls built up in layers of rock."></photo-set>
 
 Look closely at the road cuttings as you climb and you will see those layers exposed in neat bands. It is one of the few places in the country where the geology is on display right beside the tarmac, and it is worth pausing at a pull-in just to look at the rock.
 
@@ -63,7 +63,7 @@ The road up to the viewing deck park is, according to [Visit Ras Al Khaimah](htt
 
 You do need patience. The UK Foreign Office notes that [driving standards are not always as disciplined](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security) as in the UK and that speeding is common. On a mountain road, that means expecting fast cars behind you and cyclists on the climbs. Keep to your lane on the bends, use lower gears on the way down, and let faster traffic pass at the pull-ins. Our guide to [driving in the UAE as a visitor](/stories/driving-in-the-uae-as-a-visitor/) covers the wider rules.
 
-<photo-set layout="pair" keys="jebel-jais-guide-2,jebel-jais-guide-3" alts="The Jebel Jais road curving around a rocky mountainside with a crash barrier on the outer edge|A section of the Jebel Jais road climbing in switchbacks across a barren slope" caption="The road is well built, with regular pull-ins where you can stop for the view."></photo-set>
+<photo-set layout="pair" keys="jebel-jais-guide-2,jebel-jais-guide-3" alts="The Jebel Jais road curving around a rocky mountainside with a crash barrier on the outer edge|The Jebel Jais road curving past a tall cliff of layered tan rock, with concrete barriers along the roadside" caption="The road is well built, with regular pull-ins where you can stop for the view."></photo-set>
 
 ## The viewing deck park
 
@@ -96,7 +96,7 @@ The same page says groups of ten or more must inform the Ras Al Khaimah tourism 
 
 Expect loose stone underfoot, little shade and steep drops in places. Distances that look short on a map take longer than you think, because you will be picking your footing on rock rather than striding along a path. Start early, turn back at a set time whatever the distance covered, and keep an eye on the slowest walker rather than the fastest. The quiet is striking: once you are a few minutes from the road, the loudest thing you will hear is often your own boots.
 
-<photo-set layout="trio" keys="jebel-jais-guide-4,jebel-jais-guide-5,jebel-jais-guide-6" alts="A wild mountain goat standing on rocky ground on Jebel Jais|The rounded summit area of Jebel Jais and its long southern slope seen from a distance|A sheer rock wall on Jebel Jais with folded layers of stone" caption="Goats, bare slopes and banded cliffs: what you see on the upper mountain."></photo-set>
+<photo-set layout="trio" keys="jebel-jais-guide-4,jebel-jais-guide-5,jebel-jais-guide-6" alts="A wild mountain goat standing on rocky ground on Jebel Jais|The flat-topped summit of Jebel Jais with sheer layered cliffs and stony, scrubby ground in front|A sheer rock wall on Jebel Jais with folded layers of stone" caption="Goats, bare slopes and banded cliffs: what you see on the upper mountain."></photo-set>
 
 ### Thrills higher up
 

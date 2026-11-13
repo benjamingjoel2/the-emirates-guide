@@ -111,7 +111,7 @@ Crossing to the east coast is one of the most rewarding drives in the country, w
 
 Along the coast, Al Bidya Mosque, which the Fujairah tourism authority calls [the oldest mosque in the UAE](https://fujairahtourism.ae/index_action-PlacesOfWorship.html), sits on the road to Dibba north of Fujairah city. To the south, Khorfakkan's beach lies [about halfway between Dibba and Fujairah](https://www.visitsharjah.com/activities/beaches/khorfakkan-beach/). Our [east coast road trip](/stories/uae-east-coast-road-trip/) plans the route stop by stop.
 
-Wadis here can change fast. The Fujairah tourism authority notes that Wadi Ham [remains dry for most of the year](https://fujairahtourism.ae/index_action-NaturalSites.html), but when it rains the dry riverbed turns into a rushing wadi. The same page describes it as the largest and longest wadi in the UAE, with much of it running alongside a main road, so you will see it from the car even if you do not stop.
+Wadis here can change fast. The Fujairah tourism authority notes that Wadi Ham [remains dry for most of the year](https://fujairahtourism.ae/index_action-NaturalSites.html), but when it rains the dry riverbed turns into a rushing wadi. The same page describes it as the largest and longest wadi in the UAE, with much of it running alongside a main road, so you will see it from the car even if you do not stop. Near the wadi, the authority describes Al Bithnah Fort as [very close to the main road](https://fujairahtourism.ae/index_action-MuseumAndForts.html) linking Fujairah with the rest of the country, so it makes an easy stop on the way to the coast.
 
 ## Mixing the car with other transport
 

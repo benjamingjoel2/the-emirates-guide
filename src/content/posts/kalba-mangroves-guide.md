@@ -41,7 +41,7 @@ The paddle dips, the kayak slides forward, and the noise of the coast road simpl
 
 That is Kalba at its best. This small town on Sharjah's east coast sits beside what Visit Sharjah calls [the oldest mangrove forest in the UAE](https://www.visitsharjah.com/en/activities/nature-and-wildlife/khor-kalba-mangrove-centre/), and the Kalba mangroves are the main reason to make the long drive across the mountains. If you want quiet water, birdlife and a slower slice of the country, it repays the effort. If you want a beach resort buzz, look elsewhere.
 
-<photo-set layout="trio" keys="kalba-mangroves-guide-1,kalba-mangroves-guide-2,kalba-mangroves-guide-3" alts="A tidal creek at Khor Kalba with mangrove trees and their upright breathing roots on the mud bank|Grey mangrove branches and leaves above the water in the Khor Kalba Conservation Reserve|A small hermit crab sheltering in a mud creeper shell on the mangrove mud at Khor Kalba" caption="Creeks, trees and the small creatures of the mud are what a morning in the Kalba mangroves is all about."></photo-set>
+<photo-set layout="trio" keys="kalba-mangroves-guide-1,kalba-mangroves-guide-2,kalba-mangroves-guide-3" alts="A tidal creek at Khor Kalba with mangrove trees and their upright breathing roots on the mud bank|Mangrove trees along the water in the Kalba mangrove reserve|A crested lark standing on open ground near the Kalba Mangrove Centre" caption="Creeks, trees and birdlife are what a morning in the Kalba mangroves is all about."></photo-set>
 
 ## Where Kalba is, and why it feels far away
 
@@ -83,8 +83,6 @@ If you would rather stay on dry feet, or want to understand what you have just p
 
 Inside, the same page says, you can watch shore birds including the rare Arabian collared kingfisher, along with crabs, green turtles, fish and smaller marine life. It is a good stop for children, and for anyone who likes to put names to what they have seen.
 
-<photo-set layout="pair" keys="kalba-mangroves-guide-5,kalba-mangroves-guide-6" alts="Turtles swimming in a pool at the Khor Kalba reserve centre|The low modern building of the Kalba Mangrove Centre set among mangroves and water" caption="The visitor centre is the easiest way to see the turtles and learn about the mangroves without getting into a kayak."></photo-set>
-
 The centre is also the gentlest option for anyone who cannot easily climb in and out of a kayak, including older travellers and people with limited mobility. Ask in advance about paths and access on the outdoor tour, since conditions underfoot in a wetland can change.
 
 ## Birdwatching around Kalba
@@ -122,6 +120,8 @@ For the bigger picture, Visit Sharjah says the [Kalba Clock Tower](https://www.v
 ## Kalba with children
 
 Families have more to do here than the mangroves alone. Visit Sharjah describes the [Hanging Gardens in Kalba](https://www.visitsharjah.com/en/activities/family/hanging-gardens-in-kalba/) as terraced green spaces with an artificial waterfall, children's play areas divided by age group, climbing routes at different difficulty levels and a skateboard area. Combine a short guided paddle or the visitor centre in the morning with the gardens or the beach later, and keep the middle of the day for shade and lunch.
+
+<photo-set layout="pair" keys="kalba-mangroves-guide-5,kalba-mangroves-guide-6" alts="Green terraces and gardens of the Hanging Gardens in Kalba against rocky hills|A lake surrounded by mountains in the Al Hefaiyah area near Kalba" caption="The Hanging Gardens and the Al Hefaiyah area add green space and mountain views to a family day in Kalba."></photo-set>
 
 ## Beaches and the wider east coast
 

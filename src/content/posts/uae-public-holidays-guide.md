@@ -93,7 +93,7 @@ National Day is the one holiday most visitors will notice, because it is so visi
 
 Expect flags on buildings and cars, decorated streets, and celebrations and events across the country. It also lands in the cooler months, which are already a popular time to visit, so book hotels and popular experiences early if your dates include it. The UAE fact sheet adds that the country's founding father, the late Sheikh Zayed bin Sultan Al Nahyan, led the nation from its [establishment on 2 December 1971](https://u.ae/en/about-the-uae/fact-sheet) until 2004, which is why the date carries so much meaning. The government's holidays page says the official theme draws on his vision and leadership, and that its logo shows the silhouette of the first gathering of the Founding Fathers on that day.
 
-<photo-set layout="pair" keys="uae-public-holidays-guide-2,uae-public-holidays-guide-5" alts="ALT2|ALT5" caption="CAP2"></photo-set>
+<photo-set layout="pair" keys="uae-public-holidays-guide-2,uae-public-holidays-guide-6" alts="ALT2|ALT6" caption="CAP2"></photo-set>
 
 Our guide to [National Day for visitors](/stories/uae-national-day-for-visitors/) looks at the celebrations in more detail.
 
@@ -143,7 +143,7 @@ For long breaks such as Eid Al Adha, avoid tight connections and plan buffer tim
 
 ### Expect the getaway spots to be busy
 
-<photo-set layout="inset-right" keys="uae-public-holidays-guide-7" alts="ALT7" caption="CAP7"></photo-set>
+<photo-set layout="inset-right" keys="uae-public-holidays-guide-7" alts="The Jebel Hafeet mountain road near Al Ain winding down through bare rock towards the desert plain and the city below" caption="Mountain roads such as the one up Jebel Hafeet are popular drives when residents have a long holiday break."></photo-set>
 
 On a long holiday break, residents head for the mountains, the east coast and the desert. Roads up to viewpoints such as Jebel Hafeet near Al Ain, beach hotels on the east coast and desert camps can all be at their busiest. If you want to visit those places, go early in the day, book overnight stays well ahead, or save them for the days just after the holiday when the crowds have gone home.
 

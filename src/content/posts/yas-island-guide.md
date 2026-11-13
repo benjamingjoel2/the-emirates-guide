@@ -43,7 +43,7 @@ Most people know Yas for its parks, and they are the reason many families come. 
 
 The core answer: entry to the island itself is free, and Visit Abu Dhabi confirms you can explore [public areas like Yas Bay and Yas Marina without a ticket](https://visitabudhabi.ae/en/where-to-go/islands/yas-island). Only individual attractions, concerts and experiences need paid admission. The tourism board also makes the point that Yas offers as much for adults as for children, from golf and spas to high-speed driving on the circuit and concerts.
 
-<photo-set layout="mosaic" keys="yas-island-guide-1,yas-island-guide-2,yas-island-guide-3" alts="An aerial view of Yas Island with the red roof of a theme park building and the Yas Marina Circuit running beside the marina|A paved waterfront walkway with palm trees beside the large curved arena building at Yas Bay|The white canopy roof of the North Grandstand above the empty track at Yas Marina Circuit" caption="The circuit, the Yas Bay waterfront and the grandstands are all part of the island you can see without a park ticket."></photo-set>
+<photo-set layout="mosaic" keys="yas-island-guide-1,yas-island-guide-2,yas-island-guide-3" alts="An aerial view of Yas Island with the red roof of a theme park building and the Yas Marina Circuit running beside the marina|A paved waterfront walkway with palm trees beside the large curved arena building at Yas Bay|Floodlight masts and the white canopy roofs of the grandstands beside the empty track at Yas Marina Circuit" caption="The circuit, the Yas Bay waterfront and the grandstands are all part of the island you can see without a park ticket."></photo-set>
 
 ## Where Yas Island is and how to reach it
 

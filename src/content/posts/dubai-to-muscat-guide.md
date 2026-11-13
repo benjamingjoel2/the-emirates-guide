@@ -155,7 +155,7 @@ If you only plan one visit on your first morning, make it the Grand Mosque, and 
 
 That narrow morning window is the reason to arrive the day before rather than on the morning itself. A late arrival after a long drive, followed by an early start, is far easier than trying to fit the mosque around a border crossing.
 
-<photo-set layout="pair" keys="dubai-to-muscat-guide-5,dubai-to-muscat-guide-6" alts="The Sultan Qaboos Grand Mosque in Muscat, with its golden dome and tall minaret behind landscaped gardens|Inside Mutrah Souq in Muscat, a covered lane lined with shops selling white embroidered kuma caps" caption="The Grand Mosque in the morning and Mutrah Souq later in the day make a classic first day in Muscat."></photo-set>
+<photo-set layout="pair" keys="dubai-to-muscat-guide-5,dubai-to-muscat-guide-6" alts="The Sultan Qaboos Grand Mosque in Muscat, with its tall minaret and patterned dome beyond flowerbeds and clipped trees in the gardens|Inside Mutrah Souq in Muscat, a covered lane lined with shops selling white embroidered kuma caps" caption="The Grand Mosque in the morning and Mutrah Souq later in the day make a classic first day in Muscat."></photo-set>
 
 ### Mutrah Souq and the Corniche
 
@@ -179,7 +179,7 @@ Ramadan changes the rhythm of the day too. The Foreign Office advises against [e
 
 Save the emergency numbers for both countries before you set off. In Oman, the Foreign Office lists [9999 for ambulance, fire and police](https://www.gov.uk/foreign-travel-advice/oman/getting-help). In the UAE, it lists [999 for police and 998 for an ambulance](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/getting-help). It also says British nationals must use private healthcare in Oman, and that visitors without insurance or the means to pay may be stopped from leaving until the bill is settled, so check that your policy covers both countries.
 
-<photo-set layout="full" keys="dubai-to-muscat-guide-7" alts="Mutrah Corniche in Muscat in the blue light before sunrise, with the curving seafront road, low white buildings and rocky hills behind" caption="Mutrah's seafront at first light, the reward at the end of the road from Dubai."></photo-set>
+<photo-set layout="full" keys="dubai-to-muscat-guide-7" alts="Mutrah Corniche in Muscat in the half light before sunrise, with lit street lamps along the seafront promenade, white buildings and dark mountains behind" caption="Mutrah's seafront at first light, the reward at the end of the road from Dubai."></photo-set>
 
 ## Quick answers
 

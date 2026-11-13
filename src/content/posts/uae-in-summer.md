@@ -43,7 +43,7 @@ That is summer in the UAE, and it is not for everyone. But visiting the UAE in s
 
 Below we look honestly at the heat, at the good reasons to come anyway, at how a summer day actually runs, and at the safety habits that matter most, with notes for families and anyone travelling with older relatives.
 
-<photo-set layout="wide" keys="uae-in-summer-1" alts="ALT1" caption="CAP1"></photo-set>
+<photo-set layout="wide" keys="uae-in-summer-1" alts="Lights of buildings and a minaret reflected in Dubai Creek at dusk under a deep blue sky" caption="Evenings by the water are when summer days come alive, once the sun is low."></photo-set>
 
 ## How hot is a UAE summer, honestly?
 

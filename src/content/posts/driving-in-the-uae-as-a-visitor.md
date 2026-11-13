@@ -68,7 +68,7 @@ The [fact sheet](https://u.ae/en/about-the-uae/fact-sheet) describes the key rou
 
 Both Abu Dhabi and Dubai have road tolls. According to the [fact sheet](https://u.ae/en/about-the-uae/fact-sheet), Abu Dhabi charges vehicles passing toll gates during morning and evening peak hours from Monday to Saturday, and Dubai charges a toll, called salik, at its toll gates. Ask your hire company how tolls on your rental are charged and passed on to you.
 
-<photo-set layout="wide" keys="driving-in-the-uae-as-a-visitor-4" alts="ALT4" caption="CAP4"></photo-set>
+<photo-set layout="wide" keys="driving-in-the-uae-as-a-visitor-4" alts="A lorry ahead on a quiet desert highway in western Abu Dhabi, with chevron and roadworks signs marking a bend" caption="Intercity highways cross long stretches of open desert, and limits and road conditions can change from one section to the next."></photo-set>
 
 ## The laws visitors most often underestimate
 

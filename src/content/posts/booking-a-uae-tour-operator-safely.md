@@ -76,7 +76,7 @@ A good operator answers safety questions calmly and specifically. A poor one cha
 
 Also ask how many vehicles travel together on desert trips, and whether drivers carry recovery equipment and water. The Foreign Office's general advice for desert travel is to [always travel with other cars](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security) and take a supply of water and a mobile phone.
 
-<photo-set layout="pair" keys="booking-a-uae-tour-operator-safely-2,booking-a-uae-tour-operator-safely-3" alts="A four-wheel-drive vehicle on a steep sand dune during a dune drive near Dubai|A line of quad bikes parked on the sand at a desert rental site near Dubai" caption="Dune driving and quad biking are the activities where the operator's safety standards matter most."></photo-set>
+<photo-set layout="pair" keys="booking-a-uae-tour-operator-safely-2,booking-a-uae-tour-operator-safely-3" alts="A white four-wheel-drive vehicle throwing up a spray of sand as it crosses a large rippled dune near Dubai|A line of quad bikes parked on the sand at a desert rental site near Dubai" caption="Dune driving and quad biking are the activities where the operator's safety standards matter most."></photo-set>
 
 For desert trips specifically, our guides to [whether a desert safari is worth it](/stories/is-a-desert-safari-worth-it/) and [dune sports safety](/stories/dune-sports-safety-uae/) go into more detail.
 
@@ -147,7 +147,7 @@ Dhow dinner cruises, creek trips and boat days to the islands are popular and us
 - Check how you get on and off the boat, especially with a buggy, a wheelchair or older relatives.
 - For trips that cross into Oman, such as a [Musandam dhow cruise](/stories/musandam-dhow-cruise-guide/), check who handles the border and what each passport needs.
 
-<photo-set layout="mosaic" keys="booking-a-uae-tour-operator-safely-4,booking-a-uae-tour-operator-safely-5,booking-a-uae-tour-operator-safely-6" alts="PH4|PH5|PH6" caption="Dhow cruises in Dubai are usually calm, but it is still worth asking about life jackets and boarding."></photo-set>
+<photo-set layout="mosaic" keys="booking-a-uae-tour-operator-safely-4,booking-a-uae-tour-operator-safely-5,booking-a-uae-tour-operator-safely-6" alts="A wooden two-deck dhow cruising on Dubai Creek in front of restored sand-coloured buildings with wind towers|PH5|PH6" caption="Dhow cruises in Dubai are usually calm, but it is still worth asking about life jackets and boarding."></photo-set>
 
 ## On the day: last checks before you set off
 

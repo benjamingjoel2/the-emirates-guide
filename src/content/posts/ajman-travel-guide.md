@@ -131,7 +131,7 @@ Most visitors never realise Ajman has mountains. Its two inland enclaves feel li
 
 [Masfout](https://visit-ajman.ae/en/destinations/masfout/) sits among the Hajar Mountains near Hatta. Visit Ajman says its higher altitude brings cooler temperatures and that the rocky countryside suits walking, mountain biking, picnics and wadi exploration. The same page carries an important routing note: it says non-GCC nationals should take the Sharjah to Kalba road, because the Dubai to Hatta road passes through an Oman border post that it describes as open to GCC nationals only. Check the current position before you travel.
 
-<photo-set layout="trio" keys="ajman-travel-guide-3,ajman-travel-guide-4,ajman-travel-guide-5" alts="The stone tower of Masfout Fort on a rocky hill above the town|A dry wadi bed with palms and rocky hills at Wadi Hadf in Masfout|An old stone watchtower on a ridge overlooking the pass between Masfout and Hatta" caption="Masfout's forts, towers and wadis are a world away from Ajman's coast."></photo-set>
+<photo-set layout="trio" keys="ajman-travel-guide-3,ajman-travel-guide-4,ajman-travel-guide-5" alts="The stone tower of Masfout Fort on a rocky hill above the town|A shallow pool in Wadi Hadf at Masfout, with green grasses, a shady tree and rocky hills behind|A small white watchtower flying a flag on a rocky outcrop above the mountains near Masfout" caption="Masfout's forts, towers and wadis are a world away from Ajman's coast."></photo-set>
 
 The town's best-known landmark is [Masfout Castle](https://visit-ajman.ae/en/destinations/masfout/masfout-castle/), which the tourism board describes as a 19th-century tower-shaped fort on a hilltop that once guarded the route to Oman. It says the castle was built from stone, mud and local timber and restored in the late 1940s, and that the drive from Ajman takes about 90 minutes.
 
@@ -145,7 +145,7 @@ Ajman is relaxed but traditional. The tourism board's [culture FAQ](https://visi
 
 The same FAQ explains that the Sheikh Zayed Mosque on Al Ittihad Street in Ajman is not open to non-Muslim visitors, though it is a fine building to photograph from outside, and points to Al Noor Mosque in neighbouring Sharjah for a guided visit. During Ramadan it says the town is quieter, most restaurants outside hotels close during the day, and not eating in public is a courtesy to people who are fasting.
 
-<photo-set layout="full" keys="ajman-travel-guide-6" alts="A white mosque with a dome and minaret beside the Ajman corniche" caption="Mosques line Ajman's seafront, so dress modestly when you leave the beach."></photo-set>
+<photo-set layout="full" keys="ajman-travel-guide-6" alts="A mosque with a white dome and two tall minarets beside the beach and sea on the Ajman corniche" caption="Mosques line Ajman's seafront, so dress modestly when you leave the beach."></photo-set>
 
 ## A day in Ajman, start to finish
 

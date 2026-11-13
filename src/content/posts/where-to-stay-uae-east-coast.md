@@ -6,7 +6,7 @@ emirates: ["fujairah", "sharjah"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "where-to-stay-uae-east-coast-hero"
-heroAlt: "Snoopy Island, a rocky islet, sitting in calm blue water off the Fujairah coast with the beach in the foreground"
+heroAlt: "Snoopy Island, a dark rocky islet, off the sandy beach at Al Aqah in Fujairah, with small waves breaking on the shore"
 featured: false
 startHere: false
 plan: "A verified local operator can recommend the east coast base that fits your plans, arrange transfers from Dubai or Sharjah, and organise boat trips, snorkelling or guided walks with sensible safety checks."

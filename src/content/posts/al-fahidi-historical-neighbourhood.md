@@ -75,7 +75,7 @@ There is no single right route. Wander, follow a lane because it looks interesti
 
 ### What to look for as you wander
 
-<photo-set layout="inset-right" keys="al-fahidi-historical-neighbourhood-4" alts="A simple wooden bench against a sand-coloured wall in a shaded lane of Al Fahidi Historical Neighbourhood" caption="Benches in shaded corners make it easy to slow down between houses."></photo-set>
+<photo-set layout="inset-right" keys="al-fahidi-historical-neighbourhood-4" alts="A wooden bench against a cracked sand-coloured wall under fabric shade sails in a courtyard of Al Fahidi Historical Neighbourhood" caption="Shade sails and benches in the courtyards make it easy to slow down between houses."></photo-set>
 
 Slow down and the details come out. Doors are often the most decorated part of a house, with carved panels and heavy metal studs. Look through open gateways into courtyards, where the rooms of a house turn inwards around a shared space. Notice the change in texture where old walls have been carefully restored, and the way narrow lanes suddenly open into a small square with a tree or a bench. Many restored houses now hold galleries, small museums or cafes, so an open door is often an invitation. Where a door is closed, treat it as a private space.
 

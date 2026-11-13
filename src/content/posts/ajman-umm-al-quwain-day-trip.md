@@ -79,7 +79,7 @@ Emirates Nature-WWF describes [Mangrove Beach, within Khor Al Yeefrah](https://w
 
 A guided paddle is the easy option. You will slip along calm channels between the trees, hear crabs clicking in the mud and watch the light change on the water. Keep a respectful distance from birds, do not stand on the roots, and wear a life jacket.
 
-<photo-set layout="inset-right" keys="ajman-umm-al-quwain-day-trip-1" alts="The sandy, sparsely vegetated shoreline of Al Sinniyah Island in the Umm Al Quwain lagoon" caption="Al Sinniyah, the largest of the lagoon's islands, is best enjoyed from the water."></photo-set>
+<photo-set layout="inset-right" keys="ajman-umm-al-quwain-day-trip-1" alts="Aerial view of mangroves, tidal channels and shallow water along the shoreline of Al Sinniyah Island" caption="Al Sinniyah, the largest of the lagoon's islands, is best enjoyed from the water."></photo-set>
 
 Out across the water lies Al Sinniyah, the largest of the lagoon's islands. In 2023 the emirate's tourism and archaeology department announced the discovery there of what Gulf News reported as [the oldest pearling town yet found in the Arabian Gulf](https://gulfnews.com/uae/arabian-gulfs-oldest-pearling-town-discovered-in-umm-al-quwain-1.94600893), dating from the late 6th to the mid-8th centuries AD and lying near an ancient Christian monastery. Excavation continues and the island is not a visitor site, so enjoy the view from your kayak and let the guide decide where you can go.
 
@@ -91,7 +91,7 @@ Dry off and drive the short distance to the old quarter on the peninsula. The st
 
 The government's emirate guide says [Umm Al Quwain Fort, once home to the Ruler](https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Discover-the-UAE/explore-the-uae-by-emirate-), guarded the entrance to the old town and later became a museum. The same guide describes Umm Al Quwain as the most ancient emirate, with archaeological traces of links to Mesopotamia in the 3rd millennium BC. The museum is the place to see what has been found at sites such as Ed Dur and Tell Abraq. The Ministry of Economy and Tourism describes the [Umm Al Quwain National Museum](https://www.moet.gov.ae/en/-/umm-al-quwain-national-museum) as housed in Al-Ali Fort, one of the emirate's oldest buildings, with artefacts spread through many rooms that show how people here once lived.
 
-<photo-set layout="trio" keys="ajman-umm-al-quwain-day-trip-2,ajman-umm-al-quwain-day-trip-3,ajman-umm-al-quwain-day-trip-4" alts="The restored walls and tower of Umm Al Quwain Fort today|A tower and plastered walls at Umm Al Quwain Fort under a blue sky|A quiet stretch of beach and shallow water in Umm Al Quwain" caption="The fort museum and the nearby shore make an easy late-morning loop in Umm Al Quwain."></photo-set>
+<photo-set layout="trio" keys="ajman-umm-al-quwain-day-trip-2,ajman-umm-al-quwain-day-trip-3,ajman-umm-al-quwain-day-trip-4" alts="The white walls and round tower of Umm Al Quwain Fort, with old cannons and palms in front|A tower and plastered walls at Umm Al Quwain Fort under a blue sky|A quiet stretch of beach and shallow water in Umm Al Quwain" caption="The fort museum and the nearby shore make an easy late-morning loop in Umm Al Quwain."></photo-set>
 
 Take a slow walk along the waterfront afterwards. Fishing has always mattered here; the [government portal](https://u.ae/en/about-the-uae/the-seven-emirates/umm-al-quwain) calls it a key contributor to the emirate's economy, and you will see boats and nets along the shore.
 

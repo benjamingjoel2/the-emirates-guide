@@ -85,6 +85,8 @@ Start where the city started. The restored old quarter, known as the Heart of Sh
 
 ### Souq Al Arsah
 
+<photo-set layout="inset-left" keys="sharjah-day-trip-from-dubai-1" alts="Looking up at a plastered coral-stone wall with projecting wooden beams and a barred wooden window against a deep blue sky" caption="Coral-stone walls and timber beams are the building blocks of the restored Heart of Sharjah."></photo-set>
+
 Begin in the covered souk. [Visit Sharjah](https://www.visitsharjah.com/en/activities/shopping/souq-al-arsah/) says Souq Al Arsah was once a marketplace for traders from Persia, India and the Bedouin tribes, and is now an air-conditioned market of wooden doors, coral brick and hanging lanterns. Stalls sell copper coffee pots, pearl chests, jewellery, perfume and incense. There is a café for Arabic coffee, and a halwa shop if you want something sweet.
 
 ### Two museums across the lane
@@ -109,6 +111,8 @@ The ground floor covers the Islamic faith and the achievements of Arab scientist
 
 Give it a good couple of hours if you can. It is the best single museum to choose if you only have time for one; our [guide to Sharjah's museums](/stories/sharjah-museums-guide/) helps if you want to swap in another.
 
+<photo-set layout="full" keys="sharjah-day-trip-from-dubai-7" alts="Sharjah's high-rise towers reflected in the calm water of Khalid Lagoon on a clear morning" caption="Khalid Lagoon by day; you come back to its shores at sunset for Al Noor Mosque."></photo-set>
+
 ### An alternative: the Rain Room
 
 If your group is more interested in contemporary art than artefacts, the [Rain Room](https://www.visitsharjah.com/en/activities/arts/rain-room/) is an unusual swap. Visit Sharjah describes an installation where water falls all around you but sensors pause it wherever they detect movement, so you walk through a downpour without getting wet. It is now permanently in Sharjah, supported by the Sharjah Art Foundation, and the same page suggests pairing it with the Museum of Islamic Civilization and the Corniche. Book ahead if you can, since visits are timed.
@@ -123,6 +127,8 @@ After lunch, cross to the Central Souk, which you may recognise before you arriv
 
 The ground floor mixes modern goods with souvenirs. Head upstairs for the more interesting stalls: handwoven textiles, carpets and kilims. On the lagoon side, a row of shops sells Bedouin-style jewellery, precious stones and gold. Take your time, compare, and bargain politely; nobody expects you to buy on the first visit.
 
+<photo-set layout="pair" keys="sharjah-day-trip-from-dubai-3,sharjah-day-trip-from-dubai-4" alts="Blue and white tiled roundels and Arabic calligraphy on the cream facade of the Central Souk under a blue sky|The long Central Souk building with its wind tower style turrets lit up at night, with tower blocks behind" caption="The Central Souk, whose blue-tiled facade appears on the five-dirham note, by day and after dark."></photo-set>
+
 A few habits make souk shopping easier. Greet the shopkeeper before you start looking, ask about origin and materials for anything expensive, and keep receipts for gold and carpets. If a price does not work, thank them and move on; walking away politely is part of the conversation, not an insult.
 
 ## Evening: Al Noor Mosque and the lagoon
@@ -134,6 +140,8 @@ Visit Sharjah says the mosque is open to non-Muslims for guided tours, which cov
 ### Al Noor Island before sunset
 
 If you arrive with daylight to spare, cross the water first. Visit Sharjah says a pedestrian bridge behind Al Noor Mosque leads to [Al Noor Island](https://www.visitsharjah.com/en/activities/nature-and-wildlife/al-noor-island-butterfly-house/), a car-free island with contemporary art and sculpture, a boardwalk through a botanical garden and a Butterfly House. Inside, it says, more than 500 butterflies of over 20 species live in a temperature and humidity controlled space. Children tend to love trying to spot the camouflaged ones.
+
+<photo-set layout="trio" keys="sharjah-day-trip-from-dubai-2,sharjah-day-trip-from-dubai-5,sharjah-day-trip-from-dubai-6" alts="Aerial view of Al Noor Island with the lattice-roofed Butterfly House among trees and a curving footbridge over the lagoon|A wooden boardwalk winding between palms and dense green shrubs on Al Noor Island|A sandy shore lined with mangrove trees on Al Noor Island with city towers across the water" caption="Al Noor Island, reached on foot from beside Al Noor Mosque, has a boardwalk garden and the Butterfly House."></photo-set>
 
 Stay on after the tour. The mosque is lit up after sunset, and the walk along the lagoon is when the city comes out: families on benches, runners, the call to prayer across the water.
 

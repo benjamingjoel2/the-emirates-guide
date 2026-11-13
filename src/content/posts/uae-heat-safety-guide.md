@@ -39,7 +39,7 @@ You step out of an air-conditioned taxi and the heat lands on you like a weight.
 
 That moment is the best argument for planning around the sun in the UAE. The heat is part of the place, and with a few habits most visitors cope well. Ignore it, and it can turn a good day into a medical emergency. This guide covers UAE heat safety for travellers: when to be careful, how to shape your day and what the warning signs look like.
 
-<photo-set layout="full" keys="uae-heat-safety-guide-1" alts="ALT1" caption="CAP1"></photo-set>
+<photo-set layout="full" keys="uae-heat-safety-guide-1" alts="Wind-rippled sand dunes stretching to the horizon in the Empty Quarter near Liwa, with no shade anywhere in view" caption="In open desert there is no shade at all, so the time of day you go matters as much as where you go."></photo-set>
 
 ## UAE heat safety: the short version
 

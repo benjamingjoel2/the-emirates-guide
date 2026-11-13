@@ -164,7 +164,7 @@ Add a warm top for Jebel Jais, closed shoes for Dhayah Fort and Al Jazeera Al Ha
 - **Ramadan:** The UK government says eating, drinking or smoking in public in the daytime [may cause offence during Ramadan](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), and that driving can be erratic around dusk. Check opening hours and keep the transfers to the morning.
 - **Travelling with children:** Dhayah Fort is not suitable for prams, and Al Jazeera Al Hamra is unlit, so plan both for daylight. The Louvre and the Al Ain oasis are easier, with free entry for children at the museum and shaded paths in the oasis.
 
-<photo-set layout="wide" keys="seven-day-uae-itinerary-5" alts="A narrow stone-lined falaj channel running between date palms and green undergrowth in Al Ain Oasis" caption="A falaj channel in Al Ain Oasis, part of the irrigation system that still waters the palms."></photo-set>
+<photo-set layout="wide" keys="seven-day-uae-itinerary-5" alts="Tall date palms with bunches of dates, some wrapped in green netting, crowding a shaded grove in Al Ain Oasis" caption="Date palms in Al Ain Oasis, watered by the falaj channels described on Day 7."></photo-set>
 
 ## Quick answers
 

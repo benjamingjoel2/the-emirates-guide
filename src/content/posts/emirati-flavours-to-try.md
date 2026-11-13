@@ -63,7 +63,7 @@ At breakfast, Visit Ras Al Khaimah describes balaleet as [vermicelli cooked with
 
 If one smell defines Emirati hospitality, it is cardamom. Visit Abu Dhabi says Arabic coffee comes [blended with cardamom and saffron](https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/coffee-and-dates), served in tiny handleless cups. The UAE government's Ramadan page describes alqurs, a popular Ramadan sweet, as [a bread-like crumble with dates and cardamom](https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/ramadan).
 
-<photo-set layout="inset-left" keys="emirati-flavours-to-try-2" alts="INSET" caption="INSET"></photo-set>
+<photo-set layout="inset-left" keys="emirati-flavours-to-try-2" alts="Green cardamom pods in a stone mortar seen from above" caption="Whole green cardamom pods, the spice behind Arabic coffee."></photo-set>
 
 **What it tastes like:** warm, resinous and slightly citrus. In coffee, it is often stronger than the coffee itself. Our guide to [Arabic coffee and dates](/stories/arabic-coffee-etiquette/) explains how to accept a cup like a local.
 
@@ -157,7 +157,7 @@ Children often enjoy this kind of food more than parents expect. Date syrup, luq
 - **Date syrup and dates:** sealed jars and boxes travel best.
 - **Camel milk chocolate:** widely sold in supermarkets and souvenir shops.
 
-<photo-set layout="wide" keys="emirati-flavours-to-try-5" alts="WIDE" caption="WIDE"></photo-set>
+<photo-set layout="wide" keys="emirati-flavours-to-try-5" alts="Clear sacks of spices in a Dubai souk, including dried black limes, turmeric roots, cinnamon sticks, dried chillies and rosebuds" caption="Dried limes, turmeric and cinnamon side by side in a spice souk, all easy to pack and take home."></photo-set>
 
 Check your home country's rules on bringing food back before you buy. For more on local customs and cooking, browse our [food and culture](/food-culture/) stories.
 

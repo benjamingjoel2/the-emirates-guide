@@ -6,7 +6,7 @@ emirates: ["fujairah"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "fujairah-travel-guide-hero"
-heroAlt: "HEROALT"
+heroAlt: "The towers of Fujairah city along the shore, seen across calm sea with the bare Hajar Mountains behind"
 featured: false
 startHere: false
 plan: "A verified local operator can plan a Fujairah stay around your interests, from forts and the old mosque to wadi walks and boat trips, and check sea and wadi conditions on the days you travel."
@@ -83,7 +83,7 @@ Nearby, the museum helps you make sense of what you will see on the road. Accord
 
 The authority's [recreation places page](https://fujairahtourism.ae/index_action-RecreationPlaces.html) describes the Heritage Village in the Madhab district, established in 1996, with models of traditional homes and tools used by Fujairah's people in the past, all inside a high wall topped by watchtowers. Ain Al Madhab Park sits nearby, close to the mountains. Down by the water, the Corniche is where residents walk, exercise and socialise, and the page notes it is usually busy during the cooler months.
 
-PHOTOSET1
+<photo-set layout="inset-right" keys="fujairah-travel-guide-1" alts="Clay gatehouse of the Fujairah Heritage Village with wooden doors, UAE flags and two old cannons in front, mountains behind" caption="The gateway to the Heritage Village in the Madhab district, close to the mountains."></photo-set>
 
 The same page mentions bull butting, a local family event held on Fridays in an open field. If you go, keep a respectful distance and ask before photographing people.
 
@@ -113,7 +113,7 @@ Turn inland and the mountains close in fast. The natural sites page describes th
 
 Wadis, the dry valleys that cut through them, are the reason many people come. The page describes Wadi Al Wurayah as a boulder-strewn valley protected for its unique flora and fauna, and Wadi Ham as a riverbed that stays dry for most of the year but turns into a rushing stream when it rains. It gives [Wadi Ham a length of 30 km](https://fujairahtourism.ae/index_action-NaturalSites.html), from Masafi to the dam, with much of it alongside a main road. The u.ae portal names the Wadi Al Wurayah waterfalls among the emirate's major attractions.
 
-PHOTOSET2
+<photo-set layout="full" keys="fujairah-travel-guide-2" alts="A road running across a wide stony valley towards ranges of the Hajar Mountains in Fujairah" caption="Roads follow the valleys through the Hajar, which cover almost all of the emirate."></photo-set>
 
 ### Respect the rain
 
@@ -129,7 +129,7 @@ Fujairah's sea is a big part of its appeal. The authority's [sports and cruises 
 
 For swimming, the Foreign Office advises that [rip currents can occur at any beach](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), that red flags mean swimming is dangerous, and that you should only swim from approved beaches with lifeguards. On boats, make sure life jackets are available for everyone. Our guide to [snorkelling and diving on the east coast](/stories/snorkelling-diving-uae-east-coast/) covers the underwater side.
 
-PHOTOSET3
+<photo-set layout="wide" keys="fujairah-travel-guide-3" alts="A snorkeller in a life jacket wading into the waves on a sandy beach with a rocky island offshore" caption="A rocky island off the northern Fujairah coast, where many visitors snorkel for the first time."></photo-set>
 
 ## How a day in Fujairah actually unfolds
 
@@ -173,7 +173,7 @@ In practice, that means a cover-up for the walk from beach to café, a scarf in 
 
 Fujairah suits families well: short drives, beaches, forts to scramble around (with a hand held on the steeper paths) and early nights. Bring hats, plenty of water and reef-friendly habits for the snorkelling. For emergencies, the Foreign Office lists the numbers as [999 for police, 998 for an ambulance and 997 for fire](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/getting-help). See more on our [Fujairah destination page](/destinations/fujairah/).
 
-PHOTOSET4
+<photo-set layout="pair" keys="fujairah-travel-guide-4,fujairah-travel-guide-5" alts="Small motor boats moored in a harbour with bare mountains behind|Entrance to the Fujairah Museum in Fujairah city" caption="Boats in harbour and the museum in Fujairah city, two ways into the life of this coast."></photo-set>
 
 ## Quick answers
 

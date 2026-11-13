@@ -45,7 +45,7 @@ The date palm made life possible in the oases. The UAE government portal describ
 
 The tree itself was just as useful. UNESCO, in its listing of date palm knowledge and traditions, which the UAE coordinated, describes how communities use [its leaves, fronds and fibres for traditional crafts and social rituals](https://ich.unesco.org/en/RL/date-palm-knowledge-skills-traditions-and-practices-01902), and how the palm appears in poetry and songs. Look up in a heritage village or old fort and you will often see palm-frond roofing and screens, the same material put to work.
 
-<photo-set layout="mosaic" keys="uae-dates-guide-1,uae-dates-guide-2,uae-dates-guide-3" alts="Tall date palms seen from below, their fronds forming a canopy against the sky|Date palms shading a path in the Al Ain Oasis|A narrow stone falaj water channel running between date palms in the Al Ain Oasis" caption="Date palms and the falaj channels that water them in the Al Ain Oasis."></photo-set>
+<photo-set layout="mosaic" keys="uae-dates-guide-1,uae-dates-guide-2,uae-dates-guide-3" alts="Tall date palms seen from below, their fronds forming a canopy against a blue sky|Date palms shading a path in the Al Ain Oasis|Date palms standing in shallow flooded irrigation basins in a shaded palm garden" caption="Date palms and the water that feeds them, the basis of oasis life in the UAE."></photo-set>
 
 You can see this oasis life for yourself in Al Ain, where shaded paths run between palm gardens fed by the old falaj irrigation channels. Our guide to [Al Ain Oasis and the UNESCO sites](/stories/al-ain-oasis-unesco-sites/) explains how to visit, and it pairs naturally with a date tasting in the city afterwards.
 
@@ -102,11 +102,11 @@ If you go, start early, drink plenty of water, wear a hat and loose clothing tha
 
 In the Mina Zayed area of Abu Dhabi, a cluster of shops forms the city's date market. Visit Abu Dhabi lists the [Abu Dhabi Dates Market](https://visitabudhabi.ae/en/plan-your-trip/what-to-buy-and-souvenirs) alongside souks and supermarkets as places offering a range of high-quality options. The National reported that on the first day of Ramadan, the market at Mina Zayed was [busier than usual](https://www.thenationalnews.com/uae/heritage/abu-dhabi-s-date-market-bustles-as-traders-enjoy-ramadan-boost-1.1203105), as the holy month is peak season for date sales.
 
-<photo-set layout="wide" keys="uae-dates-guide-6" alts="A date shop at the Abu Dhabi vegetable market with trays and boxes of different dates stacked on shelves and counters" caption="A date shop in Abu Dhabi's market area, with varieties laid out for tasting."></photo-set>
-
 Go in the cooler part of the day, take your time, and taste before you buy. Visit Abu Dhabi also points food lovers to the nearby [Mina Market and Mina Fruit and Vegetable Souk](https://visitabudhabi.ae/en/plan-your-trip/culture-and-traditions/local-cuisine), so you can make a morning of it.
 
 ### Souks and supermarkets
+
+<photo-set layout="wide" keys="uae-dates-guide-6" alts="A date shop at the Abu Dhabi vegetable market with trays and boxes of different dates stacked on shelves and counters" caption="A date shop in Abu Dhabi's market area, with varieties laid out for tasting."></photo-set>
 
 You do not need a specialist market. Souks across the country sell dates loose and boxed, and Visit Abu Dhabi notes that [supermarkets also offer a range](https://visitabudhabi.ae/en/plan-your-trip/what-to-buy-and-souvenirs). Supermarkets are a good place to compare packaged varieties and check labels.
 

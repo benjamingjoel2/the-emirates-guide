@@ -97,7 +97,7 @@ Tips if you try:
 - Come down slowly. The descent is quick, and fun, but easy to tumble on.
 - Leave something at the bottom for later: water, a hat, and a bag to keep sand out of your phone.
 
-<photo-set layout="pair" keys="liwa-empty-quarter-guide-4,liwa-empty-quarter-guide-5" alts="A4|A5" caption="Tel Moreeb rises more than 300 metres from the sand."></photo-set>
+<photo-set layout="pair" keys="liwa-empty-quarter-guide-4,liwa-empty-quarter-guide-5" alts="The steep face of Tel Moreeb with fenced climbing tracks, seen across the flat plain at its base|A5" caption="Tel Moreeb rises more than 300 metres from the sand."></photo-set>
 
 ### Other ways up
 

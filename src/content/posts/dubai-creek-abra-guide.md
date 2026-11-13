@@ -147,7 +147,7 @@ The crossing works best as part of a walk. Start in [Al Fahidi Historical Neighb
 
 On the Deira side, Dubai Municipality's [heritage tourist trails](https://mediaoffice.ae/en/news/2025/august/24-08/dubai-municipality-completes-landmark-project) now link the Gold Souq, the Spice Souq and other traditional markets with signs and floor markings, so it is easy to find your way from the station into the lanes and back again.
 
-<photo-set layout="pair" keys="dubai-creek-abra-guide-6,dubai-creek-abra-guide-7" alts="Dubai Creek seen from an abra, with other boats on the water and buildings along the bank|The opposite bank of Dubai Creek viewed from a moving abra, with moored boats along the waterfront" caption="Views from the bench: both banks of the Creek in a crossing that takes only minutes."></photo-set>
+<photo-set layout="pair" keys="dubai-creek-abra-guide-6,dubai-creek-abra-guide-7" alts="Dubai Creek seen from an abra, with other boats on the water and buildings along the bank|The Bur Dubai waterfront seen from an abra, with a row of moored abras, a tall minaret and wind towers behind" caption="Views from the bench: both banks of the Creek in a crossing that takes only minutes."></photo-set>
 
 If the abra is part of a bigger day on public transport, our guide to [getting around Dubai](/stories/getting-around-dubai/) explains how it fits with the metro, buses and taxis. For more ideas around the city, see our [travel tips](/travel-tips/).
 

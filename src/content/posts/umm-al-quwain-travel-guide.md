@@ -6,7 +6,7 @@ emirates: ["umm-al-quwain"]
 published: 2026-11-12
 updated: 2026-11-13
 hero: "umm-al-quwain-travel-guide-hero"
-heroAlt: "Grey mangrove trees growing along the shallow water of the lagoon at Umm Al Quwain Mangrove Park"
+heroAlt: "Dense grey mangroves and their upright breathing roots around a shallow pool at Umm Al Quwain Mangrove Park"
 featured: false
 startHere: false
 plan: "A verified local operator can arrange guided kayaking in the Umm Al Quwain lagoon at the best tide and light, pair it with the fort museum and old town, and advise on whether an overnight stay suits your route north."

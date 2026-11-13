@@ -41,7 +41,7 @@ It helps to understand where the rules come from. The Foreign Office describes t
 
 Most of what follows flows from that idea of respect in shared, public spaces. Behaviour that stays private and considerate is rarely an issue. Behaviour that is public, loud, or aimed at someone else is where problems start.
 
-PAIR
+<photo-set layout="pair" keys="uae-laws-for-tourists-1,uae-laws-for-tourists-2" alts="ALT1|Wooden dhows moored and loading cargo beside the balustraded promenade of the Sharjah Corniche, with city towers behind" caption="Corniches and waterfronts are shared public spaces, where the rules on dress and behaviour matter most."></photo-set>
 
 ## Drugs: the rule with no wiggle room
 
@@ -87,7 +87,7 @@ A camera is welcome almost everywhere, with two clear exceptions. The Foreign Of
 
 Visit Abu Dhabi adds that it is polite to [ask permission before taking photos of people](https://visitabudhabi.ae/en/faqs), particularly women, and that cameras may be banned in public areas set aside for women and children. Drones have their own strict regime. See our guide to [photography and drone rules](/stories/photography-and-drone-rules-uae/).
 
-TRIO
+<photo-set layout="trio" keys="uae-laws-for-tourists-3,uae-laws-for-tourists-4,uae-laws-for-tourists-5" alts="A marked pedestrian crossing with black and white bollards across a dual carriageway in Dubai|View from the back seat of a taxi travelling along a multi-lane road in Dubai|A white and green Dubai Police car in traffic at a junction" caption="Use marked crossings, take licensed taxis and stay polite with officials: everyday habits that keep visitors out of trouble."></photo-set>
 
 ## On the road, on foot and in taxis
 
@@ -137,7 +137,7 @@ The UAE government says people found carrying a tool capable of [cutting, pierci
 
 Swimming rules are about safety rather than law, but they are worth following. The Foreign Office says rip currents can occur at any beach, advises checking for warning signs, especially red flags, and suggests swimming only from approved beaches with lifeguards.
 
-WIDE
+<photo-set layout="wide" keys="uae-laws-for-tourists-6" alts="The wide sandy expanse of Jumeirah Public Beach in Dubai, with palm trees, shade umbrellas and a lifeguard area along the back" caption="Swimwear belongs on the beach or at the pool, and beaches with lifeguards are the safest places to swim."></photo-set>
 
 ## What not to pack
 
@@ -153,7 +153,7 @@ Most problems on holiday are small, and they are best handled calmly and early. 
 
 In the capital, Visit Abu Dhabi says Abu Dhabi Police runs a dedicated Tourism Police section that can advise visitors, reachable on [+971 2 699 9999](https://visitabudhabi.ae/en/faqs).
 
-FULL
+<photo-set layout="full" keys="uae-laws-for-tourists-7" alts="Traffic on the multi-lane Sheikh Zayed Road in Dubai under large blue overhead signs pointing to Sharjah, the airport and Exit 47" caption="On the road, penalties for offensive gestures, drink-driving and leaving the scene of a crash are heavier than many visitors expect."></photo-set>
 
 For more practical planning advice before you arrive, browse our [travel tips](/travel-tips/).
 

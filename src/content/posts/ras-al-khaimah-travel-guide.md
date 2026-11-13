@@ -97,7 +97,7 @@ Close by, the [Mohammed Bin Salem Mosque](https://visitrasalkhaimah.com/discover
 
 Afterwards, walk part of [Corniche Al Qawasim](https://visitrasalkhaimah.com/discover/attractions/al-qawasim-corniche/), a three-kilometre waterfront promenade along the mangroves that, the tourism board says, comes alive at night. It suggests arriving before sunset.
 
-<photo-set layout="pair" keys="ras-al-khaimah-travel-guide-2,ras-al-khaimah-travel-guide-3" alts="The pale walls and square tower of the National Museum of Ras Al Khaimah, housed in a historic fort|A wide promenade and palm trees along the waterfront corniche in Ras Al Khaimah" caption="The fort that houses the National Museum, and the corniche a short walk away."></photo-set>
+<photo-set layout="pair" keys="ras-al-khaimah-travel-guide-2,ras-al-khaimah-travel-guide-3" alts="The National Museum of Ras Al Khaimah, a pale fort with a tall square tower, old cannons and a sign over the entrance|Fishing boats moored along the creek waterfront in Ras Al Khaimah city, beside the corniche road" caption="The fort that houses the National Museum, and boats moored along the city waterfront."></photo-set>
 
 ### 5. The beaches
 
@@ -121,7 +121,7 @@ Inland in the Hajar mountains, [Wadi Shawka](https://visitrasalkhaimah.com/locat
 
 In Al Rams, the emirate's northernmost neighbourhood, the tourism board lists a [working pearl farm](https://visitrasalkhaimah.com/discover/activities/suwaidi-pearls/) where tours begin on a traditional boat through the mangroves and end at a floating farmhouse, with a chance to open an oyster. It says tours usually last about 2.5 hours, run on a fixed schedule and should be booked ahead. It asks visitors to dress modestly, covering shoulders, chest and knees, and to wear closed shoes that will not fall into the water. It pairs well with the pearling village, which tells the older half of the same story.
 
-<photo-set layout="full" keys="ras-al-khaimah-travel-guide-4" alts="Calm turquoise water and a pale sandy shore on Al Marjan Island in Ras Al Khaimah" caption="Shallow, calm water off Al Marjan Island, the emirate's main resort strip."></photo-set>
+<photo-set layout="full" keys="ras-al-khaimah-travel-guide-4" alts="A palm-lined waterfront promenade beside open blue sea on Al Marjan Island in Ras Al Khaimah" caption="The palm-lined waterfront on Al Marjan Island, the emirate's main resort strip."></photo-set>
 
 ## How a first day unfolds
 
@@ -143,7 +143,7 @@ This is one of the better emirates for casual wildlife watching. The tourism boa
 
 Bring binoculars in the cooler months. The [UAE government portal](https://u.ae/en/about-the-uae/the-seven-emirates/ras-al-khaimah) notes hundreds of bird species, as well as foxes and jerboas, and sulphur springs near the mountains.
 
-<photo-set layout="wide" keys="ras-al-khaimah-travel-guide-5" alts="Low green mangrove trees growing along a shallow tidal channel on the Ras Al Khaimah coast" caption="Mangroves along the Ras Al Khaimah coast, where the tourism board says flamingos and herons feed."></photo-set>
+<photo-set layout="wide" keys="ras-al-khaimah-travel-guide-5" alts="Dense green mangroves on both banks of a shallow, rocky tidal channel in Ras Al Khaimah" caption="Mangroves along the Ras Al Khaimah coast, where the tourism board says flamingos and herons feed."></photo-set>
 
 ## Families and accessibility
 

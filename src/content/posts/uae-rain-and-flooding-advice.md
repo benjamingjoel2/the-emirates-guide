@@ -31,7 +31,7 @@ The sky over the mountains turns the colour of slate. A few fat drops hit the wi
 
 It does not happen often in the UAE, which is exactly why it catches visitors out. A country built for sun can struggle when a heavy storm arrives: roads pool, underpasses fill and wadis that were dry an hour ago start to flow. This guide covers UAE rain and flooding advice for travellers, from when storms are likely to what to do if one hits.
 
-<photo-set layout="mosaic" keys="uae-rain-and-flooding-advice-1,uae-rain-and-flooding-advice-2,uae-rain-and-flooding-advice-3" alts="ALT1|ALT2|ALT3" caption="CAP1"></photo-set>
+<photo-set layout="mosaic" keys="uae-rain-and-flooding-advice-1,uae-rain-and-flooding-advice-2,uae-rain-and-flooding-advice-3" alts="ALT1|Rain streaking a car windscreen at night on a wet Dubai road, with brake lights reflected on the tarmac|Pale blue water lying in a rocky channel in Wadi Al Dahir near Dibba in Fujairah" caption="CAP1"></photo-set>
 
 ## UAE rain and flooding: what you need to know first
 

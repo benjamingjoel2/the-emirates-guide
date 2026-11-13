@@ -102,7 +102,7 @@ Official attraction websites are the only reliable place for current hours, last
 
 Malls in the big cities keep long hours and are busiest in the evenings and at weekends. Traditional souks often feel liveliest in the late afternoon and evening, when the heat eases. If you want unhurried browsing, a weekday morning is often your best chance.
 
-<photo-set layout="trio" keys="uae-weekend-and-opening-hours-4,uae-weekend-and-opening-hours-5,uae-weekend-and-opening-hours-6" alts="A carved wooden museum door set in a sand-coloured wall in the Heart of Sharjah heritage area|Wind towers rising above the restored lanes of the Al Fahidi historical neighbourhood in Dubai|Shoppers walking beneath the timber-roofed walkway of the Deira Gold Souk in the evening" caption="Heritage areas and museums set their own hours, while souks keep a rhythm that follows the heat of the day."></photo-set>
+<photo-set layout="trio" keys="uae-weekend-and-opening-hours-4,uae-weekend-and-opening-hours-5,uae-weekend-and-opening-hours-6" alts="The sand-coloured walls and corner tower of Al Fahidi Fort in old Dubai|A traditional wooden abra boat displayed on sand in the walled courtyard of Al Fahidi Fort|Shoppers walking beneath the timber-roofed walkway of the Deira Gold Souk in the evening" caption="Heritage sites and museums set their own hours, while souks keep a rhythm that follows the heat of the day."></photo-set>
 
 ### Government offices and dress
 
@@ -149,7 +149,7 @@ Travelling with children changes the calculation a little. Parks, beaches and fa
 
 Weekends are also when residents' children are out of school, so play areas and soft-play centres are busiest. School holidays shift the pattern again, making weekdays busier than usual at family attractions, so check whether your dates overlap with them before you plan around quiet mornings.
 
-<photo-set layout="wide" keys="uae-weekend-and-opening-hours-7" alts="A Dubai Metro train standing at an elevated Red Line station platform" caption="On busy weekend days, public transport is often an easier way to reach crowded parts of the city."></photo-set>
+<photo-set layout="wide" keys="uae-weekend-and-opening-hours-7" alts="A Dubai Metro train approaching along elevated tracks into a covered station" caption="On busy weekend days, public transport is often an easier way to reach crowded parts of the city."></photo-set>
 
 ## A simple way to plan your week
 

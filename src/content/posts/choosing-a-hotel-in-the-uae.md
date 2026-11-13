@@ -6,7 +6,7 @@ emirates: []
 published: 2026-11-12
 updated: 2026-11-13
 hero: "choosing-a-hotel-in-the-uae-hero"
-heroAlt: "Hotel and apartment towers lining the water at Dubai Marina"
+heroAlt: "Lit hotel and apartment towers behind a palm-lined lawn and walkway at Jumeirah Beach Residence in Dubai at night"
 featured: false
 startHere: false
 plan: "A verified local operator can advise on which area and type of hotel suits your itinerary, explain what a quoted rate includes, and help you plan transfers and tours around where you stay."
@@ -53,7 +53,7 @@ If you are not driving, check how close the hotel is to public transport and how
 
 In the cities, the Foreign Office advises using [only licensed taxis or other recognised public transport](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security), including ride-hailing apps, and notes that Dubai's authorised taxis are cream with coloured roofs while Abu Dhabi's are silver. A hotel with a taxi rank outside, or a short walk to a metro station in Dubai, makes daily life much easier, especially late in the evening.
 
-<photo-set layout="pair" keys="choosing-a-hotel-in-the-uae-1,choosing-a-hotel-in-the-uae-2" alts="A Dubai Metro train behind the glass platform doors at Oud Metha station, with in and out markings on the floor|A Dubai taxi on a street in Bur Dubai" caption="Being close to a metro station or a taxi rank can matter more than any hotel facility."></photo-set>
+<photo-set layout="pair" keys="choosing-a-hotel-in-the-uae-1,choosing-a-hotel-in-the-uae-2" alts="A Dubai Metro train behind the glass platform doors at Oud Metha station, with in and out markings on the floor|A silver Abu Dhabi taxi with a yellow roof sign parked at a kerbside taxi bay" caption="Being close to a metro station or a taxi rank can matter more than any hotel facility."></photo-set>
 
 ## Choose the right kind of stay
 
